@@ -1,0 +1,2462 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628925648489328640,
+      "id_str": "628925648489328640",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 0,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 0,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 628925007717113856,
+        "id_str": "628925007717113856",
+        "entities": {
+          "symbols": [],
+          "hashtags": [],
+          "media": [
+            {
+              "url": "http://t.co/V2pqcYNr7Y",
+              "media_url": "http://pbs.twimg.com/media/CLpj7ewWIAIvgbf.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLpj7ewWIAIvgbf.jpg",
+              "expanded_url": "http://twitter.com/mkreber/status/628925007717113856/photo/1",
+              "id_str": "628924971490877442",
+              "indices": [
+                70,
+                92
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 768
+                }
+              },
+              "display_url": "pic.twitter.com/V2pqcYNr7Y",
+              "id": 628924971490877442
+            }
+          ],
+          "urls": [],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "169912388",
+          "id": 169912388
+        },
+        "favorited": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "extended_entities": {
+          "media": [
+            {
+              "url": "http://t.co/V2pqcYNr7Y",
+              "media_url": "http://pbs.twimg.com/media/CLpj7ewWIAIvgbf.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLpj7ewWIAIvgbf.jpg",
+              "expanded_url": "http://twitter.com/mkreber/status/628925007717113856/photo/1",
+              "id_str": "628924971490877442",
+              "indices": [
+                70,
+                92
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 768
+                }
+              },
+              "display_url": "pic.twitter.com/V2pqcYNr7Y",
+              "id": 628924971490877442
+            }
+          ]
+        },
+        "text": "At coastal coffee roasters, mark Sanford is chatting with some locals http://t.co/V2pqcYNr7Y",
+        "lang": "en",
+        "created_at": "Wed Aug 05 13:46:21 +0000 2015",
+        "retweeted": false
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/H2aWjT0Xu7",
+            "indices": [
+              101,
+              124
+            ],
+            "display_url": "twitter.com/mkreber/status\u2026",
+            "expanded_url": "https://twitter.com/mkreber/status/628925007717113856"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "sville",
+            "indices": [
+              93,
+              100
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Mark Sanford",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "1499993378",
+            "id": 1499993378,
+            "screen_name": "RepSanfordSC"
+          },
+          {
+            "name": "Coastal Coffee",
+            "indices": [
+              47,
+              61
+            ],
+            "id_str": "207553732",
+            "id": 207553732,
+            "screen_name": "coastalcoffee"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628925007717113856",
+      "user": {
+        "id_str": "27031183",
+        "id": 27031183
+      },
+      "favorited": false,
+      "created_at": "Wed Aug 05 13:48:54 +0000 2015",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepSanfordSC on a 'listening tour' today. At @coastalcoffee now, at Ladson Bi-Lo at 10:20. #sville https://t.co/H2aWjT0Xu7",
+      "lang": "en",
+      "quoted_status_id": 628925007717113856
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628928372765294592,
+    "id_str": "628928372765294592",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/H2aWjT0Xu7",
+          "indices": [
+            119,
+            140
+          ],
+          "display_url": "twitter.com/mkreber/status\u2026",
+          "expanded_url": "https://twitter.com/mkreber/status/628925007717113856"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sville",
+          "indices": [
+            111,
+            118
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Journal Scene",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "27031183",
+          "id": 27031183,
+          "screen_name": "JournalScene"
+        },
+        {
+          "name": "Mark Sanford",
+          "indices": [
+            19,
+            32
+          ],
+          "id_str": "1499993378",
+          "id": 1499993378,
+          "screen_name": "RepSanfordSC"
+        },
+        {
+          "name": "Coastal Coffee",
+          "indices": [
+            65,
+            79
+          ],
+          "id_str": "207553732",
+          "id": 207553732,
+          "screen_name": "coastalcoffee"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JournalScene: .@RepSanfordSC on a 'listening tour' today. At @coastalcoffee now, at Ladson Bi-Lo at 10:20. #sville https://t.co/H2aWjT0\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 13:59:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628647452460085248,
+    "id_str": "628647452460085248",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/jev8fKkZoS",
+          "media_url": "http://pbs.twimg.com/media/CLlnhnCUsAA3rRW.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlnhnCUsAA3rRW.png",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/628647452460085248/photo/1",
+          "id_str": "628647450106966016",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/jev8fKkZoS",
+          "id": 628647450106966016
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/jev8fKkZoS",
+          "media_url": "http://pbs.twimg.com/media/CLlnhnCUsAA3rRW.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlnhnCUsAA3rRW.png",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/628647452460085248/photo/1",
+          "id_str": "628647450106966016",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/jev8fKkZoS",
+          "id": 628647450106966016
+        }
+      ]
+    },
+    "text": "Kicking off my Lowcountry Listening Tour today in North Charleston and Goose Creek. If you're around, drop by! http://t.co/jev8fKkZoS",
+    "lang": "en",
+    "created_at": "2015-08-04 19:23:27+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628637993872572416,
+    "id_str": "628637993872572416",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/4LsZndooTC",
+          "media_url": "http://pbs.twimg.com/media/CLle7ESUEAAKlKw.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLle7ESUEAAKlKw.png",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/628637993872572416/photo/1",
+          "id_str": "628637991850741760",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/4LsZndooTC",
+          "id": 628637991850741760
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "USCG (Official)",
+          "indices": [
+            70,
+            75
+          ],
+          "id_str": "15113565",
+          "id": 15113565,
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/4LsZndooTC",
+          "media_url": "http://pbs.twimg.com/media/CLle7ESUEAAKlKw.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLle7ESUEAAKlKw.png",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/628637993872572416/photo/1",
+          "id_str": "628637991850741760",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/4LsZndooTC",
+          "id": 628637991850741760
+        }
+      ]
+    },
+    "text": "As today marks 225 years of service, I wanted to say thank you to the @USCG for keeping our coastlines safe! http://t.co/4LsZndooTC",
+    "lang": "en",
+    "created_at": "2015-08-04 18:45:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626800869766508544,
+    "id_str": "626800869766508544",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/mHKBQxLHvE",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "tws.io/1MxGUuZ",
+          "expanded_url": "http://tws.io/1MxGUuZ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            32,
+            41
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "SecDef Carter doesn't think the #IranDeal will change its behavior, adding to concerns regarding an already bad deal http://t.co/mHKBQxLHvE",
+    "lang": "en",
+    "created_at": "2015-07-30 17:05:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626518973388075008,
+    "id_str": "626518973388075008",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "HappyBirthdayChaplains",
+          "indices": [
+            115,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In 1775, Washington proposed the creation of a Chaplains Corp, underscoring the value of religion in times of war. #HappyBirthdayChaplains",
+    "lang": "en",
+    "created_at": "2015-07-29 22:25:38+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626365505826230273,
+      "id_str": "626365505826230273",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/F5v6dQzow8",
+            "indices": [
+              86,
+              108
+            ],
+            "display_url": "WTMA.com",
+            "expanded_url": "http://WTMA.com"
+          },
+          {
+            "url": "http://t.co/IflvfZxCF0",
+            "indices": [
+              110,
+              132
+            ],
+            "display_url": "fb.me/4knG0LVn0",
+            "expanded_url": "http://fb.me/4knG0LVn0"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "119071198",
+        "id": 119071198
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Charlie James talks to Congressman Mark Sanford this morning at 9:35 on 1250 WTMA and http://t.co/F5v6dQzow8. http://t.co/IflvfZxCF0",
+      "lang": "en",
+      "created_at": "Wed Jul 29 12:15:48 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626384260363124736,
+    "id_str": "626384260363124736",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/F5v6dQzow8",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "WTMA.com",
+          "expanded_url": "http://WTMA.com"
+        },
+        {
+          "url": "http://t.co/IflvfZxCF0",
+          "indices": [
+            124,
+            140
+          ],
+          "display_url": "fb.me/4knG0LVn0",
+          "expanded_url": "http://fb.me/4knG0LVn0"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "1250 WTMA",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "119071198",
+          "id": 119071198,
+          "screen_name": "1250WTMA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @1250WTMA: Charlie James talks to Congressman Mark Sanford this morning at 9:35 on 1250 WTMA and http://t.co/F5v6dQzow8. http://t.co/Ifl\u2026",
+    "lang": "en",
+    "created_at": "2015-07-29 13:30:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626136250169323520,
+    "id_str": "626136250169323520",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/qekJJPqitm",
+          "indices": [
+            109,
+            132
+          ],
+          "display_url": "youtu.be/H6kpXaxc87k",
+          "expanded_url": "https://youtu.be/H6kpXaxc87k"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IRSfail",
+          "indices": [
+            99,
+            107
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            47,
+            60
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The video below shows the scope of the problem @GOPOversight is dealing with, when it comes to the #IRSfail. https://t.co/qekJJPqitm",
+    "lang": "en",
+    "created_at": "2015-07-28 21:04:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626072656291438592,
+    "id_str": "626072656291438592",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/skJvQd74mN",
+          "media_url": "http://pbs.twimg.com/media/CLBBw1lWwAA4NfS.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBBw1lWwAA4NfS.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/626072656291438592/photo/1",
+          "id_str": "626072655477784576",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/skJvQd74mN",
+          "id": 626072655477784576
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/skJvQd74mN",
+          "media_url": "http://pbs.twimg.com/media/CLBBw1lWwAA4NfS.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBBw1lWwAA4NfS.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/626072656291438592/photo/1",
+          "id_str": "626072655477784576",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/skJvQd74mN",
+          "id": 626072655477784576
+        }
+      ]
+    },
+    "text": "I enjoyed being in the Lowcountry last weekend, stopping by Beaufort for the Annual Water Festival\u200b! http://t.co/skJvQd74mN",
+    "lang": "en",
+    "created_at": "2015-07-28 16:52:07+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624693760534908928,
+    "id_str": "624693760534908928",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rhUkRIXEN1",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "bit.ly/1g9cDpg",
+          "expanded_url": "http://bit.ly/1g9cDpg"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rare",
+          "indices": [
+            13,
+            18
+          ],
+          "id_str": "822039337",
+          "id": 822039337,
+          "screen_name": "Rare"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I spoke with @Rare this week and explained why normalizing relations with Cuba should be the conservative position http://t.co/rhUkRIXEN1",
+    "lang": "en",
+    "created_at": "2015-07-24 21:32:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624682898671710208,
+    "id_str": "624682898671710208",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 10,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624678145174700033,
+      "id_str": "624678145174700033",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/X4qd3QcPax",
+            "media_url": "http://pbs.twimg.com/media/CKtNdnLWgAA0Sjt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKtNdnLWgAA0Sjt.jpg",
+            "expanded_url": "http://twitter.com/FreedomWorks/status/624678145174700033/photo/1",
+            "id_str": "624678144449085440",
+            "indices": [
+              84,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/X4qd3QcPax",
+            "id": 624678144449085440
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Mark Sanford",
+            "indices": [
+              12,
+              25
+            ],
+            "id_str": "1499993378",
+            "id": 1499993378,
+            "screen_name": "RepSanfordSC"
+          },
+          {
+            "name": "FreedomWorks",
+            "indices": [
+              38,
+              51
+            ],
+            "id_str": "14730894",
+            "id": 14730894,
+            "screen_name": "FreedomWorks"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14730894",
+        "id": 14730894
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/X4qd3QcPax",
+            "media_url": "http://pbs.twimg.com/media/CKtNdnLWgAA0Sjt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKtNdnLWgAA0Sjt.jpg",
+            "expanded_url": "http://twitter.com/FreedomWorks/status/624678145174700033/photo/1",
+            "id_str": "624678144449085440",
+            "indices": [
+              84,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/X4qd3QcPax",
+            "id": 624678144449085440
+          }
+        ]
+      },
+      "text": "Congrats to @RepSanfordSC for winning @FreedomWorks' FreedomFighter Award for 2014! http://t.co/X4qd3QcPax",
+      "lang": "en",
+      "created_at": "Fri Jul 24 20:30:50 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/HtrrzU3zb4",
+          "indices": [
+            71,
+            94
+          ],
+          "display_url": "twitter.com/FreedomWorks/s\u2026",
+          "expanded_url": "https://twitter.com/FreedomWorks/status/624678145174700033"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "624678145174700033",
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "created_at": "2015-07-24 20:49:43+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Honored to receive the FreedomFighter Award with a 100% score in 2014! https://t.co/HtrrzU3zb4",
+    "lang": "en",
+    "quoted_status_id": 624678145174700033
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624369248081682432,
+    "id_str": "624369248081682432",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/ZUUzjbE85I",
+          "media_url": "http://pbs.twimg.com/media/CKo0hckUkAA-fSr.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKo0hckUkAA-fSr.png",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/624369248081682432/photo/1",
+          "id_str": "624369247553097728",
+          "indices": [
+            79,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 178
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 315
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "display_url": "pic.twitter.com/ZUUzjbE85I",
+          "id": 624369247553097728
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/ZFsq0mg6gB",
+          "indices": [
+            56,
+            78
+          ],
+          "display_url": "1.usa.gov/1CY6A0u",
+          "expanded_url": "http://1.usa.gov/1CY6A0u"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZUUzjbE85I",
+          "media_url": "http://pbs.twimg.com/media/CKo0hckUkAA-fSr.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKo0hckUkAA-fSr.png",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/624369248081682432/photo/1",
+          "id_str": "624369247553097728",
+          "indices": [
+            79,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 178
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 315
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "display_url": "pic.twitter.com/ZUUzjbE85I",
+          "id": 624369247553097728
+        }
+      ]
+    },
+    "text": "Sanford Announces Public Schedule for July 24th - 27th: http://t.co/ZFsq0mg6gB http://t.co/ZUUzjbE85I",
+    "lang": "en",
+    "created_at": "2015-07-24 00:03:23+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624262861775224833,
+      "id_str": "624262861775224833",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/PRFuj5sOlp",
+            "media_url": "http://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+            "expanded_url": "http://twitter.com/ConcordC/status/624262861775224833/photo/1",
+            "id_str": "624260947952144384",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/PRFuj5sOlp",
+            "id": 624260947952144384
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Mark Sanford",
+            "indices": [
+              7,
+              20
+            ],
+            "id_str": "1499993378",
+            "id": 1499993378,
+            "screen_name": "RepSanfordSC"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "35014834",
+        "id": 35014834
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/PRFuj5sOlp",
+            "media_url": "http://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+            "expanded_url": "http://twitter.com/ConcordC/status/624262861775224833/photo/1",
+            "id_str": "624260947952144384",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/PRFuj5sOlp",
+            "id": 624260947952144384
+          }
+        ]
+      },
+      "text": "Thanks @RepSanfordSC for the great discussion on how to resolve the long-term challenges facing the federal budget! http://t.co/PRFuj5sOlp",
+      "lang": "en",
+      "created_at": "Thu Jul 23 17:00:39 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 35014834,
+          "media_url": "http://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+          "source_user_id_str": "35014834",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/PRFuj5sOlp",
+          "expanded_url": "http://twitter.com/ConcordC/status/624262861775224833/photo/1",
+          "url": "http://t.co/PRFuj5sOlp",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+          "source_status_id_str": "624262861775224833",
+          "id_str": "624260947952144384",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 624260947952144384,
+          "source_status_id": 624262861775224833
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624345560636616704,
+    "id_str": "624345560636616704",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 35014834,
+          "media_url": "http://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+          "source_user_id_str": "35014834",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/PRFuj5sOlp",
+          "expanded_url": "http://twitter.com/ConcordC/status/624262861775224833/photo/1",
+          "url": "http://t.co/PRFuj5sOlp",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnSBlHWEAAcHkp.jpg",
+          "source_status_id_str": "624262861775224833",
+          "id_str": "624260947952144384",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 624260947952144384,
+          "source_status_id": 624262861775224833
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "TheConcord Coalition",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "35014834",
+          "id": 35014834,
+          "screen_name": "ConcordC"
+        },
+        {
+          "name": "Mark Sanford",
+          "indices": [
+            21,
+            34
+          ],
+          "id_str": "1499993378",
+          "id": 1499993378,
+          "screen_name": "RepSanfordSC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ConcordC: Thanks @RepSanfordSC for the great discussion on how to resolve the long-term challenges facing the federal budget! http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 22:29:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624329991233208320,
+    "id_str": "624329991233208320",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/EjOCWVHJoO",
+          "media_url": "http://pbs.twimg.com/media/CKoQz3gUYAATBGo.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKoQz3gUYAATBGo.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/624329991233208320/photo/1",
+          "id_str": "624329981603110912",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 178
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 315
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "display_url": "pic.twitter.com/EjOCWVHJoO",
+          "id": 624329981603110912
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/LeNsTDNw8R",
+          "indices": [
+            73,
+            95
+          ],
+          "display_url": "1.usa.gov/1eknZ7T",
+          "expanded_url": "http://1.usa.gov/1eknZ7T"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/EjOCWVHJoO",
+          "media_url": "http://pbs.twimg.com/media/CKoQz3gUYAATBGo.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKoQz3gUYAATBGo.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/624329991233208320/photo/1",
+          "id_str": "624329981603110912",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 178
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 315
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "display_url": "pic.twitter.com/EjOCWVHJoO",
+          "id": 624329981603110912
+        }
+      ]
+    },
+    "text": "Sanford Releases Statement on Senate Panel Vote to Lift Cuba Travel Ban: http://t.co/LeNsTDNw8R http://t.co/EjOCWVHJoO",
+    "lang": "en",
+    "created_at": "2015-07-23 21:27:24+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624273430653849600,
+    "id_str": "624273430653849600",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/7mLI3bL0aS",
+          "media_url": "http://pbs.twimg.com/media/CKndYIsWsAAesyu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKndYIsWsAAesyu.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/624273430653849600/photo/1",
+          "id_str": "624273430087643136",
+          "indices": [
+            58,
+            80
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/7mLI3bL0aS",
+          "id": 624273430087643136
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "315 Airlift Wing",
+          "indices": [
+            22,
+            28
+          ],
+          "id_str": "42658124",
+          "id": 42658124,
+          "screen_name": "315AW"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/7mLI3bL0aS",
+          "media_url": "http://pbs.twimg.com/media/CKndYIsWsAAesyu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKndYIsWsAAesyu.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/624273430653849600/photo/1",
+          "id_str": "624273430087643136",
+          "indices": [
+            58,
+            80
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/7mLI3bL0aS",
+          "id": 624273430087643136
+        }
+      ]
+    },
+    "text": "Enjoyed visiting with @315AW today. Thanks for coming by! http://t.co/7mLI3bL0aS",
+    "lang": "en",
+    "created_at": "2015-07-23 17:42:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624247162906497024,
+    "id_str": "624247162906497024",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            110,
+            121
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Our armed forces should be armed. To help keep our service members at recruiting centers safe, I signed on to @Rep_Hunter's SEMPER FI Act.",
+    "lang": "en",
+    "created_at": "2015-07-23 15:58:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 11,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624065027918663680,
+      "id_str": "624065027918663680",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "OutsidewithInsiders",
+            "indices": [
+              43,
+              63
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/FXn9ivR5V2",
+            "media_url": "http://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+            "expanded_url": "http://twitter.com/secupp/status/624065027918663680/photo/1",
+            "id_str": "624065027784462336",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 574,
+                "resize": "fit",
+                "h": 431
+              },
+              "large": {
+                "w": 574,
+                "resize": "fit",
+                "h": 431
+              }
+            },
+            "display_url": "pic.twitter.com/FXn9ivR5V2",
+            "id": 624065027784462336
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Mark Sanford",
+            "indices": [
+              5,
+              18
+            ],
+            "id_str": "1499993378",
+            "id": 1499993378,
+            "screen_name": "RepSanfordSC"
+          },
+          {
+            "name": "CNN Politics",
+            "indices": [
+              67,
+              79
+            ],
+            "id_str": "13850422",
+            "id": 13850422,
+            "screen_name": "CNNPolitics"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19268706",
+        "id": 19268706
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FXn9ivR5V2",
+            "media_url": "http://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+            "expanded_url": "http://twitter.com/secupp/status/624065027918663680/photo/1",
+            "id_str": "624065027784462336",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 574,
+                "resize": "fit",
+                "h": 431
+              },
+              "large": {
+                "w": 574,
+                "resize": "fit",
+                "h": 431
+              }
+            },
+            "display_url": "pic.twitter.com/FXn9ivR5V2",
+            "id": 624065027784462336
+          }
+        ]
+      },
+      "text": "With @RepSanfordSC at the launch party for #OutsidewithInsiders on @CNNPolitics. Catch his episode soon! http://t.co/FXn9ivR5V2",
+      "lang": "en",
+      "created_at": "Thu Jul 23 03:54:31 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 19268706,
+          "media_url": "http://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+          "source_user_id_str": "19268706",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "pic.twitter.com/FXn9ivR5V2",
+          "expanded_url": "http://twitter.com/secupp/status/624065027918663680/photo/1",
+          "url": "http://t.co/FXn9ivR5V2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+          "source_status_id_str": "624065027918663680",
+          "id_str": "624065027784462336",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 574,
+              "resize": "fit",
+              "h": 431
+            },
+            "large": {
+              "w": 574,
+              "resize": "fit",
+              "h": 431
+            }
+          },
+          "id": 624065027784462336,
+          "source_status_id": 624065027918663680
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624208637012148224,
+    "id_str": "624208637012148224",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "OutsidewithInsiders",
+          "indices": [
+            55,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 19268706,
+          "media_url": "http://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+          "source_user_id_str": "19268706",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "pic.twitter.com/FXn9ivR5V2",
+          "expanded_url": "http://twitter.com/secupp/status/624065027918663680/photo/1",
+          "url": "http://t.co/FXn9ivR5V2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKkf1hnWUAAOSKc.jpg",
+          "source_status_id_str": "624065027918663680",
+          "id_str": "624065027784462336",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 574,
+              "resize": "fit",
+              "h": 431
+            },
+            "large": {
+              "w": 574,
+              "resize": "fit",
+              "h": 431
+            }
+          },
+          "id": 624065027784462336,
+          "source_status_id": 624065027918663680
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "S.E. Cupp",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "19268706",
+          "id": 19268706,
+          "screen_name": "secupp"
+        },
+        {
+          "name": "Mark Sanford",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "1499993378",
+          "id": 1499993378,
+          "screen_name": "RepSanfordSC"
+        },
+        {
+          "name": "CNN Politics",
+          "indices": [
+            79,
+            91
+          ],
+          "id_str": "13850422",
+          "id": 13850422,
+          "screen_name": "CNNPolitics"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @secupp: With @RepSanfordSC at the launch party for #OutsidewithInsiders on @CNNPolitics. Catch his episode soon! http://t.co/FXn9ivR5V2",
+    "lang": "en",
+    "created_at": "2015-07-23 13:25:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "28652194",
+    "id": 623922464746246144,
+    "id_str": "623922464746246144",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/5VPJtyBhYm",
+          "media_url": "http://pbs.twimg.com/media/CKieLOJWsAAXolq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKieLOJWsAAXolq.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/623922464746246144/photo/1",
+          "id_str": "623922464003895296",
+          "indices": [
+            16,
+            38
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/5VPJtyBhYm",
+          "id": 623922464003895296
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Heard on the Hill",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "28652194",
+          "id": 28652194,
+          "screen_name": "HeardontheHill"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 28652194,
+    "in_reply_to_screen_name": "HeardontheHill",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/5VPJtyBhYm",
+          "media_url": "http://pbs.twimg.com/media/CKieLOJWsAAXolq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKieLOJWsAAXolq.jpg",
+          "expanded_url": "http://twitter.com/RepSanfordSC/status/623922464746246144/photo/1",
+          "id_str": "623922464003895296",
+          "indices": [
+            16,
+            38
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/5VPJtyBhYm",
+          "id": 623922464003895296
+        }
+      ]
+    },
+    "text": "@HeardontheHill http://t.co/5VPJtyBhYm",
+    "lang": "und",
+    "created_at": "2015-07-22 18:28:02+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623870853659389952,
+    "id_str": "623870853659389952",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HknFPjI27J",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "on.wsj.com/1VpmeZ4",
+          "expanded_url": "http://on.wsj.com/1VpmeZ4"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            19,
+            28
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Before handing the #IranDeal over to the UN, the President should have waited for Congress to review the agreement. http://t.co/HknFPjI27J",
+    "lang": "en",
+    "created_at": "2015-07-22 15:02:57+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623855302119657472,
+      "id_str": "623855302119657472",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "SECDEF",
+            "indices": [
+              43,
+              50
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Mark Sanford",
+            "indices": [
+              4,
+              17
+            ],
+            "id_str": "1499993378",
+            "id": 1499993378,
+            "screen_name": "RepSanfordSC"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "221793778",
+        "id": 221793778
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thx @RepSanfordSC for joining our call for #SECDEF Carter to make the immediate changes needed to protect our service members.",
+      "lang": "en",
+      "created_at": "Wed Jul 22 14:01:09 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623859834815954944,
+    "id_str": "623859834815954944",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SECDEF",
+          "indices": [
+            63,
+            70
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep. Scott Rigell",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "221793778",
+          "id": 221793778,
+          "screen_name": "RepScottRigell"
+        },
+        {
+          "name": "Mark Sanford",
+          "indices": [
+            24,
+            37
+          ],
+          "id_str": "1499993378",
+          "id": 1499993378,
+          "screen_name": "RepSanfordSC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepScottRigell: Thx @RepSanfordSC for joining our call for #SECDEF Carter to make the immediate changes needed to protect our service m\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 14:19:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623641797017911296,
+    "id_str": "623641797017911296",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "DoddFrank",
+          "indices": [
+            1,
+            11
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Jeb Hensarling",
+          "indices": [
+            81,
+            95
+          ],
+          "id_str": "18566912",
+          "id": 18566912,
+          "screen_name": "RepHensarling"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1499993378",
+      "screen_name": "repsanfordsc",
+      "id": 1499993378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"#DoddFrank was supposedly aimed at Wall Street, but it hit Main Street hard.\" - @RepHensarling",
+    "lang": "en",
+    "created_at": "2015-07-21 23:52:45+00:00"
+  }
+]

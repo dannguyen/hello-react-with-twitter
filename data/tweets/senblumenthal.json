@@ -1,0 +1,2082 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630440628380401664,
+    "id_str": "630440628380401664",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E60gvcYh1N",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "nytimes.com/2015/08/09/opi\u2026",
+          "expanded_url": "http://www.nytimes.com/2015/08/09/opinion/sunday/regulators-should-develop-rules-to-protect-cars-from-hackers.html?smid=nytcore-ipad-share&smprod=nytcore-ipad&_r=0"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ed Markey",
+          "indices": [
+            19,
+            29
+          ],
+          "id_str": "21406834",
+          "id": 21406834,
+          "screen_name": "SenMarkey"
+        },
+        {
+          "name": "NYT Opinion",
+          "indices": [
+            93,
+            104
+          ],
+          "id_str": "16686144",
+          "id": 16686144,
+          "screen_name": "nytopinion"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to join with @SenMarkey on important legislation to keep drivers safe from hackers via @nytopinion http://t.co/E60gvcYh1N",
+    "lang": "en",
+    "created_at": "2015-08-09 18:08:53+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630408535856254976,
+      "id_str": "630408535856254976",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/fblNBynlw9",
+            "indices": [
+              122,
+              144
+            ],
+            "display_url": "nytimes.com/2015/08/09/opi\u2026",
+            "expanded_url": "http://www.nytimes.com/2015/08/09/opinion/sunday/regulators-should-develop-rules-to-protect-cars-from-hackers.html?_r=0"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Richard Blumenthal",
+            "indices": [
+              10,
+              24
+            ],
+            "id_str": "278124059",
+            "id": 278124059,
+            "screen_name": "SenBlumenthal"
+          },
+          {
+            "name": "NYT Opinion",
+            "indices": [
+              110,
+              121
+            ],
+            "id_str": "16686144",
+            "id": 16686144,
+            "screen_name": "nytopinion"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "21406834",
+        "id": 21406834
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "My bill w @SenBlumenthal wld help create rules to protect security &amp; privacy of drivers from hackers. Via @nytopinion http://t.co/fblNBynlw9",
+      "lang": "en",
+      "created_at": "Sun Aug 09 16:01:22 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630434223816638464,
+    "id_str": "630434223816638464",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fblNBynlw9",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "nytimes.com/2015/08/09/opi\u2026",
+          "expanded_url": "http://www.nytimes.com/2015/08/09/opinion/sunday/regulators-should-develop-rules-to-protect-cars-from-hackers.html?_r=0"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ed Markey",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "21406834",
+          "id": 21406834,
+          "screen_name": "SenMarkey"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "indices": [
+            25,
+            39
+          ],
+          "id_str": "278124059",
+          "id": 278124059,
+          "screen_name": "SenBlumenthal"
+        },
+        {
+          "name": "NYT Opinion",
+          "indices": [
+            125,
+            136
+          ],
+          "id_str": "16686144",
+          "id": 16686144,
+          "screen_name": "nytopinion"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenMarkey: My bill w @SenBlumenthal wld help create rules to protect security &amp; privacy of drivers from hackers. Via @nytopinion http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-09 17:43:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629738366360227840,
+    "id_str": "629738366360227840",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WMCLT0rwc1",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "bit.ly/1Ir6YE3",
+          "expanded_url": "http://bit.ly/1Ir6YE3"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Boston Globe",
+          "indices": [
+            6,
+            18
+          ],
+          "id_str": "95431448",
+          "id": 95431448,
+          "screen_name": "BostonGlobe"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great @BostonGlobe editorial on moral obligation to provide Puerto Rico with bankruptcy relief. http://t.co/WMCLT0rwc1",
+    "lang": "en",
+    "created_at": "2015-08-07 19:38:21+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629718624052346880,
+      "id_str": "629718624052346880",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/Ln1ycuvCSZ",
+            "media_url": "http://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+            "expanded_url": "http://twitter.com/VeteransHealth/status/629718624052346880/photo/1",
+            "id_str": "629718623532281857",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 386
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 682
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1164
+              }
+            },
+            "display_url": "pic.twitter.com/Ln1ycuvCSZ",
+            "id": 629718623532281857
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Richard Blumenthal",
+            "indices": [
+              49,
+              63
+            ],
+            "id_str": "278124059",
+            "id": 278124059,
+            "screen_name": "SenBlumenthal"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "17346287",
+        "id": 17346287
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Ln1ycuvCSZ",
+            "media_url": "http://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+            "expanded_url": "http://twitter.com/VeteransHealth/status/629718624052346880/photo/1",
+            "id_str": "629718623532281857",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 386
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 682
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1164
+              }
+            },
+            "display_url": "pic.twitter.com/Ln1ycuvCSZ",
+            "id": 629718623532281857
+          }
+        ]
+      },
+      "text": "The Under Secretary for Health, Dr. Shulkin, and @SenBlumenthal discuss Care for Connecticut's Women Vets at VA CT. http://t.co/Ln1ycuvCSZ",
+      "lang": "en",
+      "created_at": "Fri Aug 07 18:19:54 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 17346287,
+          "media_url": "http://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+          "source_user_id_str": "17346287",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Ln1ycuvCSZ",
+          "expanded_url": "http://twitter.com/VeteransHealth/status/629718624052346880/photo/1",
+          "url": "http://t.co/Ln1ycuvCSZ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+          "source_status_id_str": "629718624052346880",
+          "id_str": "629718623532281857",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 386
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 682
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1164
+            }
+          },
+          "id": 629718623532281857,
+          "source_status_id": 629718624052346880
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629718953728806912,
+    "id_str": "629718953728806912",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 17346287,
+          "media_url": "http://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+          "source_user_id_str": "17346287",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Ln1ycuvCSZ",
+          "expanded_url": "http://twitter.com/VeteransHealth/status/629718624052346880/photo/1",
+          "url": "http://t.co/Ln1ycuvCSZ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL01wHAW8AECvaO.jpg",
+          "source_status_id_str": "629718624052346880",
+          "id_str": "629718623532281857",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 386
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 682
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1164
+            }
+          },
+          "id": 629718623532281857,
+          "source_status_id": 629718624052346880
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Veterans Health",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "17346287",
+          "id": 17346287,
+          "screen_name": "VeteransHealth"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "indices": [
+            69,
+            83
+          ],
+          "id_str": "278124059",
+          "id": 278124059,
+          "screen_name": "SenBlumenthal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @VeteransHealth: The Under Secretary for Health, Dr. Shulkin, and @SenBlumenthal discuss Care for Connecticut's Women Vets at VA CT. htt\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 18:21:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629717582392725504,
+    "id_str": "629717582392725504",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Nwr1tusMVk",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "bit.ly/1Ir49mn",
+          "expanded_url": "http://bit.ly/1Ir49mn"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ed Markey",
+          "indices": [
+            75,
+            85
+          ],
+          "id_str": "21406834",
+          "id": 21406834,
+          "screen_name": "SenMarkey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As we become more connected, we need to ensure our private data is secure. @SenMarkey and I are working to do so. http://t.co/Nwr1tusMVk",
+    "lang": "en",
+    "created_at": "2015-08-07 18:15:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629687850896883712,
+    "id_str": "629687850896883712",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/3vOirEeTNa",
+          "media_url": "http://pbs.twimg.com/media/CL0Zw0pWgAAswgm.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0Zw0pWgAAswgm.jpg",
+          "expanded_url": "http://twitter.com/SenBlumenthal/status/629687850896883712/photo/1",
+          "id_str": "629687849458237440",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/3vOirEeTNa",
+          "id": 629687849458237440
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Veterans Affairs",
+          "indices": [
+            7,
+            22
+          ],
+          "id_str": "78408666",
+          "id": 78408666,
+          "screen_name": "DeptVetAffairs"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/3vOirEeTNa",
+          "media_url": "http://pbs.twimg.com/media/CL0Zw0pWgAAswgm.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0Zw0pWgAAswgm.jpg",
+          "expanded_url": "http://twitter.com/SenBlumenthal/status/629687850896883712/photo/1",
+          "id_str": "629687849458237440",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/3vOirEeTNa",
+          "id": 629687849458237440
+        }
+      ]
+    },
+    "text": "Thanks @DeptVetAffairs Undersecretary for Health Shulkin for coming to West Haven to discuss CT vet healthcare access http://t.co/3vOirEeTNa",
+    "lang": "en",
+    "created_at": "2015-08-07 16:17:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629667580316360704,
+    "id_str": "629667580316360704",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629663684411936768,
+      "id_str": "629663684411936768",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "PRDebtCrisis",
+            "indices": [
+              79,
+              92
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "ingrid alvarez",
+            "indices": [
+              14,
+              28
+            ],
+            "id_str": "2903097195",
+            "id": 2903097195,
+            "screen_name": "HispanicFedCT"
+          },
+          {
+            "name": "Richard Blumenthal",
+            "indices": [
+              39,
+              53
+            ],
+            "id_str": "278124059",
+            "id": 278124059,
+            "screen_name": "SenBlumenthal"
+          },
+          {
+            "name": "Chris Murphy",
+            "indices": [
+              58,
+              72
+            ],
+            "id_str": "150078976",
+            "id": 150078976,
+            "screen_name": "ChrisMurphyCT"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "600402500",
+        "id": 600402500
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Great to have @HispanicFedCT meet with @SenBlumenthal and @ChrisMurphyCT about #PRDebtCrisis.  We value your leadership &amp; support!",
+      "lang": "en",
+      "created_at": "Fri Aug 07 14:41:35 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/gTGnOOIbvG",
+          "indices": [
+            109,
+            132
+          ],
+          "display_url": "twitter.com/HispanicFed/st\u2026",
+          "expanded_url": "https://twitter.com/HispanicFed/status/629663684411936768"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629663684411936768",
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 14:57:04+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank you! Great to speak with everyone this morning about the need to pass critical bankruptcy legislation. https://t.co/gTGnOOIbvG",
+    "lang": "en",
+    "quoted_status_id": 629663684411936768
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629659179255472128,
+    "id_str": "629659179255472128",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/8C8UHVrl3M",
+          "media_url": "http://pbs.twimg.com/media/CLz_r7-UsAAR8lf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz_r7-UsAAR8lf.jpg",
+          "expanded_url": "http://twitter.com/SenBlumenthal/status/629659179255472128/photo/1",
+          "id_str": "629659178223579136",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/8C8UHVrl3M",
+          "id": 629659178223579136
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "HispanicHealthCounci",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "2719871243",
+          "id": 2719871243,
+          "screen_name": "hisphealth_ct"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8C8UHVrl3M",
+          "media_url": "http://pbs.twimg.com/media/CLz_r7-UsAAR8lf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz_r7-UsAAR8lf.jpg",
+          "expanded_url": "http://twitter.com/SenBlumenthal/status/629659179255472128/photo/1",
+          "id_str": "629659178223579136",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/8C8UHVrl3M",
+          "id": 629659178223579136
+        }
+      ]
+    },
+    "text": "At @hisphealth_ct this morning.We owe it to our fellow American citizens on Puerto Rico to address the fiscal crisis. http://t.co/8C8UHVrl3M",
+    "lang": "en",
+    "created_at": "2015-08-07 14:23:41+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629355172175695872,
+    "id_str": "629355172175695872",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/4ZmGXTDb3k",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "nyti.ms/1EaO9B1",
+          "expanded_url": "http://nyti.ms/1EaO9B1"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "StandwithPP",
+          "indices": [
+            104,
+            116
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#TBT GOP \u201ctrue pro-life position\" is supporting fetal tissue research. Attacks today ab women's rights. #StandwithPP http://t.co/4ZmGXTDb3k",
+    "lang": "en",
+    "created_at": "2015-08-06 18:15:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629341031981576192,
+    "id_str": "629341031981576192",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            98,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/aB9A3eXWpw",
+          "media_url": "http://pbs.twimg.com/media/CLveVXRWwAAgD-n.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLveVXRWwAAgD-n.png",
+          "expanded_url": "http://twitter.com/SenBlumenthal/status/629341031981576192/photo/1",
+          "id_str": "629341031553744896",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/aB9A3eXWpw",
+          "id": 629341031553744896
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/aB9A3eXWpw",
+          "media_url": "http://pbs.twimg.com/media/CLveVXRWwAAgD-n.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLveVXRWwAAgD-n.png",
+          "expanded_url": "http://twitter.com/SenBlumenthal/status/629341031981576192/photo/1",
+          "id_str": "629341031553744896",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/aB9A3eXWpw",
+          "id": 629341031553744896
+        }
+      ]
+    },
+    "text": "The right to vote \u201cis one which no American, true to our principles, can deny\u201d President Johnson. #RestoretheVRA http://t.co/aB9A3eXWpw",
+    "lang": "en",
+    "created_at": "2015-08-06 17:19:29+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629334053485944832,
+    "id_str": "629334053485944832",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1doxHIhpQR",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "nyti.ms/1KMsUNN",
+          "expanded_url": "http://nyti.ms/1KMsUNN"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA",
+          "indices": [
+            28,
+            32
+          ]
+        },
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            93,
+            107
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            108,
+            114
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The 50th anniversary of the #VRA reminds us that the fight for full voting rights isn\u2019t over #RestoretheVRA #VRA50 http://t.co/1doxHIhpQR",
+    "lang": "en",
+    "created_at": "2015-08-06 16:51:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1803,
+      "favorite_count": 1466,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629265088214638592,
+      "id_str": "629265088214638592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1803,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629300433060790272,
+    "id_str": "629300433060790272",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 14:38:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629019944957648896,
+      "id_str": "629019944957648896",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              134,
+              149
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Richard Blumenthal",
+            "indices": [
+              119,
+              133
+            ],
+            "id_str": "278124059",
+            "id": 278124059,
+            "screen_name": "SenBlumenthal"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20517132",
+        "id": 20517132
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"Clean energy investment improves public health &amp; environment \u2013 &amp; drives job creation &amp; economic growth\" - @SenBlumenthal #CleanPowerPlan",
+      "lang": "en",
+      "created_at": "Wed Aug 05 20:03:36 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629021540500287488,
+    "id_str": "629021540500287488",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            148,
+            152
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "LCV",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "20517132",
+          "id": 20517132,
+          "screen_name": "LCVoters"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "indices": [
+            133,
+            147
+          ],
+          "id_str": "278124059",
+          "id": 278124059,
+          "screen_name": "SenBlumenthal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LCVoters: \"Clean energy investment improves public health &amp; environment \u2013 &amp; drives job creation &amp; economic growth\" - @SenBlumenthal #Cl\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 20:09:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628995450889183233,
+    "id_str": "628995450889183233",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628983766380318720,
+      "id_str": "628983766380318720",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/oTrejbjav9",
+            "media_url": "http://pbs.twimg.com/media/CLqZZxiWEAE6Wqr.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqZZxiWEAE6Wqr.jpg",
+            "expanded_url": "http://twitter.com/jzembik/status/628983766380318720/photo/1",
+            "id_str": "628983766044774401",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/oTrejbjav9",
+            "id": 628983766044774401
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Gwyneth Paltrow",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "285282053",
+            "id": 285282053,
+            "screen_name": "GwynethPaltrow"
+          },
+          {
+            "name": "Richard Blumenthal",
+            "indices": [
+              42,
+              56
+            ],
+            "id_str": "278124059",
+            "id": 278124059,
+            "screen_name": "SenBlumenthal"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19980950",
+        "id": 19980950
+      },
+      "favorited": false,
+      "source": "<a href=\"http://tapbots.com/tweetbot\" rel=\"nofollow\">Tweetbot for i\u039fS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/oTrejbjav9",
+            "media_url": "http://pbs.twimg.com/media/CLqZZxiWEAE6Wqr.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqZZxiWEAE6Wqr.jpg",
+            "expanded_url": "http://twitter.com/jzembik/status/628983766380318720/photo/1",
+            "id_str": "628983766044774401",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/oTrejbjav9",
+            "id": 628983766044774401
+          }
+        ]
+      },
+      "text": ".@GwynethPaltrow took a quick selfie with @SenBlumenthal ahead of their press conference supporting GMO labeling. http://t.co/oTrejbjav9",
+      "lang": "en",
+      "created_at": "Wed Aug 05 17:39:50 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Mcy4ik7cfY",
+          "indices": [
+            123,
+            146
+          ],
+          "display_url": "twitter.com/jzembik/status\u2026",
+          "expanded_url": "https://twitter.com/jzembik/status/628983766380318720"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Gwyneth Paltrow",
+          "indices": [
+            14,
+            29
+          ],
+          "id_str": "285282053",
+          "id": 285282053,
+          "screen_name": "GwynethPaltrow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628983766380318720",
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 18:26:16+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great to have @GwynethPaltrow &amp; Blythe Danner lend their voices &amp; support for requiring GMO labeling on our foods. https://t.co/Mcy4ik7cfY",
+    "lang": "en",
+    "quoted_status_id": 628983766380318720
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628977942106894336,
+    "id_str": "628977942106894336",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RightToKnow",
+          "indices": [
+            19,
+            31
+          ]
+        },
+        {
+          "text": "StoptheDarkAct",
+          "indices": [
+            125,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Consumers have the #RightToKnow what genetically modified ingredients are in the food they eat &amp; feed to their families. #StoptheDarkAct",
+    "lang": "en",
+    "created_at": "2015-08-05 17:16:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628961607364775936,
+    "id_str": "628961607364775936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WrALeQFhPH",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "1.usa.gov/1NacMTG",
+          "expanded_url": "http://1.usa.gov/1NacMTG"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Thom Tillis",
+          "indices": [
+            13,
+            24
+          ],
+          "id_str": "22195441",
+          "id": 22195441,
+          "screen_name": "ThomTillis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My bill with @ThomTillis would make sure our veterans use GI bill benefits on the best education &amp; training possible. http://t.co/WrALeQFhPH",
+    "lang": "en",
+    "created_at": "2015-08-05 16:11:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628954667335200768,
+    "id_str": "628954667335200768",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/PAz270s2h7",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "on.freep.com/1JK7cbA",
+          "expanded_url": "http://on.freep.com/1JK7cbA"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "More must be done to hold automakers accountable for failing to disclose deadly defects-too many lives have been lost.http://t.co/PAz270s2h7",
+    "lang": "en",
+    "created_at": "2015-08-05 15:44:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628943946039824384,
+      "id_str": "628943946039824384",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/YsmmEFM4Vq",
+            "indices": [
+              106,
+              128
+            ],
+            "display_url": "ow.ly/QqRtz",
+            "expanded_url": "http://ow.ly/QqRtz"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "gunsense",
+            "indices": [
+              85,
+              94
+            ]
+          },
+          {
+            "text": "NoCheckNoSale",
+            "indices": [
+              129,
+              143
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Richard Blumenthal",
+            "indices": [
+              9,
+              23
+            ],
+            "id_str": "278124059",
+            "id": 278124059,
+            "screen_name": "SenBlumenthal"
+          },
+          {
+            "name": "Chris Murphy",
+            "indices": [
+              25,
+              39
+            ],
+            "id_str": "150078976",
+            "id": 150078976,
+            "screen_name": "ChrisMurphyCT"
+          },
+          {
+            "name": "Elizabeth Esty",
+            "indices": [
+              46,
+              54
+            ],
+            "id_str": "1060984272",
+            "id": 1060984272,
+            "screen_name": "RepEsty"
+          },
+          {
+            "name": "Everytown",
+            "indices": [
+              74,
+              84
+            ],
+            "id_str": "250386727",
+            "id": 250386727,
+            "screen_name": "Everytown"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "277805390",
+        "id": 277805390
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "On Mon., @SenBlumenthal, @ChrisMurphyCT &amp; @RepEsty held a briefing w/ @everytown #gunsense advocates: http://t.co/YsmmEFM4Vq #NoCheckNoSale",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:01:36 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628946807586955264,
+    "id_str": "628946807586955264",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/YsmmEFM4Vq",
+          "indices": [
+            125,
+            144
+          ],
+          "display_url": "ow.ly/QqRtz",
+          "expanded_url": "http://ow.ly/QqRtz"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "gunsense",
+          "indices": [
+            104,
+            113
+          ]
+        },
+        {
+          "text": "NoCheckNoSale",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "College Dems of CT",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "277805390",
+          "id": 277805390,
+          "screen_name": "CollegeDemsCT"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "indices": [
+            28,
+            42
+          ],
+          "id_str": "278124059",
+          "id": 278124059,
+          "screen_name": "SenBlumenthal"
+        },
+        {
+          "name": "Chris Murphy",
+          "indices": [
+            44,
+            58
+          ],
+          "id_str": "150078976",
+          "id": 150078976,
+          "screen_name": "ChrisMurphyCT"
+        },
+        {
+          "name": "Elizabeth Esty",
+          "indices": [
+            65,
+            73
+          ],
+          "id_str": "1060984272",
+          "id": 1060984272,
+          "screen_name": "RepEsty"
+        },
+        {
+          "name": "Everytown",
+          "indices": [
+            93,
+            103
+          ],
+          "id_str": "250386727",
+          "id": 250386727,
+          "screen_name": "Everytown"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CollegeDemsCT: On Mon., @SenBlumenthal, @ChrisMurphyCT &amp; @RepEsty held a briefing w/ @everytown #gunsense advocates: http://t.co/YsmmEF\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:12:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628674531272601600,
+    "id_str": "628674531272601600",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "actonclimate",
+          "indices": [
+            71,
+            84
+          ]
+        },
+        {
+          "text": "whatstheGOPclimateplan",
+          "indices": [
+            86,
+            109
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            18,
+            24
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks to help of @POTUS, major American companies recently pledged to #actonclimate. #whatstheGOPclimateplan",
+    "lang": "en",
+    "created_at": "2015-08-04 21:11:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628657722003714050,
+    "id_str": "628657722003714050",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            8,
+            23
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            64,
+            77
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            1,
+            7
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "278124059",
+      "screen_name": "senblumenthal",
+      "id": 278124059
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@POTUS #CleanPowerPlan is biggest step government has taken to #ActOnClimate. CT and U.S. will be healthier &amp; safer bc of it.",
+    "lang": "en",
+    "created_at": "2015-08-04 20:04:15+00:00"
+  }
+]

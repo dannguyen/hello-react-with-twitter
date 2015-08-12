@@ -1,0 +1,2115 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629316111952150528,
+    "id_str": "629316111952150528",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/VQ3fFpfrnT",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "bit.ly/1ge2rLs",
+          "expanded_url": "http://bit.ly/1ge2rLs"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WOTUS",
+          "indices": [
+            31,
+            37
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Leslie Rutledge",
+          "indices": [
+            41,
+            52
+          ],
+          "id_str": "2969971876",
+          "id": 2969971876,
+          "screen_name": "AGRutledge"
+        },
+        {
+          "name": "Arkansas Online",
+          "indices": [
+            56,
+            71
+          ],
+          "id_str": "25354366",
+          "id": 25354366,
+          "screen_name": "ArkansasOnline"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great read about problems with #WOTUS by @AGRutledge in @ArkansasOnline http://t.co/VQ3fFpfrnT",
+    "lang": "en",
+    "created_at": "2015-08-06 15:40:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629281384910200834,
+    "id_str": "629281384910200834",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Little Rock, AR",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -92.5215951,
+                34.6259499
+              ],
+              [
+                -92.1630491,
+                34.6259499
+              ],
+              [
+                -92.1630491,
+                34.8178224
+              ],
+              [
+                -92.5215951,
+                34.8178224
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/45a45eb8e30e7b14.json",
+        "name": "Little Rock",
+        "country": "United States",
+        "place_type": "city",
+        "id": "45a45eb8e30e7b14"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": "5558312",
+      "id": 629040486708174848,
+      "id_str": "629040486708174848",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NoKidHungry",
+            "indices": [
+              112,
+              124
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator John Boozman",
+            "indices": [
+              0,
+              12
+            ],
+            "id_str": "5558312",
+            "id": 5558312,
+            "screen_name": "JohnBoozman"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "394520215",
+        "id": 394520215
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 5558312,
+      "in_reply_to_screen_name": "JohnBoozman",
+      "retweeted": false,
+      "text": "@JohnBoozman, Thank you for your leadership &amp; cosponsoring the new summer hunger bill! Together we can make #NoKidHungry a reality.",
+      "lang": "en",
+      "created_at": "Wed Aug 05 21:25:13 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/hGbx79TmGf",
+          "indices": [
+            73,
+            96
+          ],
+          "display_url": "twitter.com/chefmabellz/st\u2026",
+          "expanded_url": "https://twitter.com/chefmabellz/status/629040486708174848"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Amy Kelley Bell",
+          "indices": [
+            41,
+            55
+          ],
+          "id_str": "130241383",
+          "id": 130241383,
+          "screen_name": "AmyKelleyBell"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629040486708174848",
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 13:22:28+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank you Chef. Appreciate all you &amp; @AmyKelleyBell do on this issue https://t.co/hGbx79TmGf",
+    "lang": "en",
+    "quoted_status_id": 629040486708174848
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629280384497381376,
+    "id_str": "629280384497381376",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "5558312",
+      "id": 629051417261641728,
+      "id_str": "629051417261641728",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NoKidHungry",
+            "indices": [
+              112,
+              124
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator John Boozman",
+            "indices": [
+              0,
+              12
+            ],
+            "id_str": "5558312",
+            "id": 5558312,
+            "screen_name": "JohnBoozman"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14463848",
+        "id": 14463848
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 5558312,
+      "in_reply_to_screen_name": "JohnBoozman",
+      "retweeted": false,
+      "text": "@JohnBoozman, Thank you for your leadership &amp; cosponsoring the new summer hunger bill! Together we can make #NoKidHungry a reality.",
+      "lang": "en",
+      "created_at": "Wed Aug 05 22:08:39 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/tZkApZLd9z",
+          "indices": [
+            39,
+            62
+          ],
+          "display_url": "twitter.com/nokidhungry/st\u2026",
+          "expanded_url": "https://twitter.com/nokidhungry/status/629051417261641728"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629051417261641728",
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 13:18:29+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank you for all you do on this issue https://t.co/tZkApZLd9z",
+    "lang": "en",
+    "quoted_status_id": 629051417261641728
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629082789841903616,
+      "id_str": "629082789841903616",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/8VJxxJYI7J",
+            "indices": [
+              56,
+              78
+            ],
+            "display_url": "ow.ly/Qy4jI",
+            "expanded_url": "http://ow.ly/Qy4jI"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22654469",
+        "id": 22654469
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Boozman seeks more flexibility for summer meal programs http://t.co/8VJxxJYI7J",
+      "lang": "en",
+      "created_at": "Thu Aug 06 00:13:19 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629280187444797440,
+    "id_str": "629280187444797440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/8VJxxJYI7J",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "ow.ly/Qy4jI",
+          "expanded_url": "http://ow.ly/Qy4jI"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Arkansas News Bureau",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "22654469",
+          "id": 22654469,
+          "screen_name": "arkansasnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @arkansasnews: Boozman seeks more flexibility for summer meal programs http://t.co/8VJxxJYI7J",
+    "lang": "en",
+    "created_at": "2015-08-06 13:17:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "629100412596056064",
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "73206956",
+    "id": 629279930631757824,
+    "id_str": "629279930631757824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/GEiKFfDOnZ",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "1.usa.gov/1IJXAIN",
+          "expanded_url": "http://1.usa.gov/1IJXAIN"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jos\u00e9 Andr\u00e9s",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "73206956",
+          "id": 73206956,
+          "screen_name": "chefjoseandres"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629100412596056064,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 73206956,
+    "in_reply_to_screen_name": "chefjoseandres",
+    "retweeted": false,
+    "text": "@chefjoseandres Thx Chef for your support of my bill. It's very important issue and your voice on it is appreciated http://t.co/GEiKFfDOnZ",
+    "lang": "en",
+    "created_at": "2015-08-06 13:16:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628978981820350464,
+    "id_str": "628978981820350464",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/5zKtniBT5u",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "1.usa.gov/1MMT8Qk",
+          "expanded_url": "http://1.usa.gov/1MMT8Qk"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Senate",
+          "indices": [
+            75,
+            82
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "UAPB News",
+          "indices": [
+            124,
+            133
+          ],
+          "id_str": "58833926",
+          "id": 58833926,
+          "screen_name": "uapbinfo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'm proud to recognize UAPB &amp; all 1890 Land-Grant Universities in this #Senate-passed resolution http://t.co/5zKtniBT5u @uapbinfo",
+    "lang": "en",
+    "created_at": "2015-08-05 17:20:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628639444019597312,
+    "id_str": "628639444019597312",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "birthday",
+          "indices": [
+            12,
+            21
+          ]
+        },
+        {
+          "text": "SemperParatus",
+          "indices": [
+            123,
+            137
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "USCG (Official)",
+          "indices": [
+            117,
+            122
+          ],
+          "id_str": "15113565",
+          "id": 15113565,
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy 225th #birthday to the U.S. Coast Guard. Thank you to the brave men and women for their service to our nation. @USCG #SemperParatus",
+    "lang": "en",
+    "created_at": "2015-08-04 18:51:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628302594574807040,
+    "id_str": "628302594574807040",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/BdlyJCWHeu",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "1.usa.gov/1DnTKcj",
+          "expanded_url": "http://1.usa.gov/1DnTKcj"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "With the new carbon rule, EPA has once again overstepped it bounds to enact policy that Congress would reject. http://t.co/BdlyJCWHeu",
+    "lang": "en",
+    "created_at": "2015-08-03 20:33:06+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628284744082427904,
+      "id_str": "628284744082427904",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/Omy2jPVp4s",
+            "media_url": "http://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+            "expanded_url": "http://twitter.com/agwatchnetwork/status/628284744082427904/photo/1",
+            "id_str": "628284743553921024",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "small": {
+                "w": 236,
+                "resize": "fit",
+                "h": 240
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 236,
+                "resize": "fit",
+                "h": 240
+              },
+              "large": {
+                "w": 236,
+                "resize": "fit",
+                "h": 240
+              }
+            },
+            "display_url": "pic.twitter.com/Omy2jPVp4s",
+            "id": 628284743553921024
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/oYHKLAYasE",
+            "indices": [
+              65,
+              87
+            ],
+            "display_url": "tinyurl.com/o9hyva5",
+            "expanded_url": "http://tinyurl.com/o9hyva5"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "54574249",
+        "id": 54574249
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Omy2jPVp4s",
+            "media_url": "http://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+            "expanded_url": "http://twitter.com/agwatchnetwork/status/628284744082427904/photo/1",
+            "id_str": "628284743553921024",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "small": {
+                "w": 236,
+                "resize": "fit",
+                "h": 240
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 236,
+                "resize": "fit",
+                "h": 240
+              },
+              "large": {
+                "w": 236,
+                "resize": "fit",
+                "h": 240
+              }
+            },
+            "display_url": "pic.twitter.com/Omy2jPVp4s",
+            "id": 628284743553921024
+          }
+        ]
+      },
+      "text": "New Post!: Boozman Aims to Improve Summer Food Service Programs: http://t.co/oYHKLAYasE http://t.co/Omy2jPVp4s",
+      "lang": "en",
+      "created_at": "Mon Aug 03 19:22:10 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 54574249,
+          "media_url": "http://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+          "source_user_id_str": "54574249",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "pic.twitter.com/Omy2jPVp4s",
+          "expanded_url": "http://twitter.com/agwatchnetwork/status/628284744082427904/photo/1",
+          "url": "http://t.co/Omy2jPVp4s",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+          "source_status_id_str": "628284744082427904",
+          "id_str": "628284743553921024",
+          "sizes": {
+            "small": {
+              "w": 236,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 236,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 236,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "id": 628284743553921024,
+          "source_status_id": 628284744082427904
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628289614571245576,
+    "id_str": "628289614571245576",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 54574249,
+          "media_url": "http://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+          "source_user_id_str": "54574249",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "pic.twitter.com/Omy2jPVp4s",
+          "expanded_url": "http://twitter.com/agwatchnetwork/status/628284744082427904/photo/1",
+          "url": "http://t.co/Omy2jPVp4s",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgdpT1UMAAActi.jpg",
+          "source_status_id_str": "628284744082427904",
+          "id_str": "628284743553921024",
+          "sizes": {
+            "small": {
+              "w": 236,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 236,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 236,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "id": 628284743553921024,
+          "source_status_id": 628284744082427904
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/oYHKLAYasE",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "tinyurl.com/o9hyva5",
+          "expanded_url": "http://tinyurl.com/o9hyva5"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "AgWatch Network",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "54574249",
+          "id": 54574249,
+          "screen_name": "agwatchnetwork"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @agwatchnetwork: New Post!: Boozman Aims to Improve Summer Food Service Programs: http://t.co/oYHKLAYasE http://t.co/Omy2jPVp4s",
+    "lang": "en",
+    "created_at": "2015-08-03 19:41:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628285748060549120,
+    "id_str": "628285748060549120",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ZozE11NPMD",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "1.usa.gov/1SWQd6p",
+          "expanded_url": "http://1.usa.gov/1SWQd6p"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            86,
+            110
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Neil Cavuto",
+          "indices": [
+            16,
+            27
+          ],
+          "id_str": "223970563",
+          "id": 223970563,
+          "screen_name": "TeamCavuto"
+        },
+        {
+          "name": "FOX Business",
+          "indices": [
+            31,
+            43
+          ],
+          "id_str": "56413858",
+          "id": 56413858,
+          "screen_name": "FoxBusiness"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: I joined @TeamCavuto on @FoxBusiness earlier today to discuss upcoming vote to #DefundPlannedParenthood http://t.co/ZozE11NPMD",
+    "lang": "en",
+    "created_at": "2015-08-03 19:26:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628204589465096192,
+    "id_str": "628204589465096192",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627683855193878528,
+      "id_str": "627683855193878528",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/gBIgS8wVpw",
+            "indices": [
+              93,
+              115
+            ],
+            "display_url": "bit.ly/1E0IWMd",
+            "expanded_url": "http://bit.ly/1E0IWMd"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Senator John Boozman",
+            "indices": [
+              8,
+              20
+            ],
+            "id_str": "5558312",
+            "id": 5558312,
+            "screen_name": "JohnBoozman"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "108352504",
+        "id": 108352504
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Senator @JohnBoozman Calls On Arkansans for 'Veterans History Project' - Story | NWAHOMEPAGE http://t.co/gBIgS8wVpw",
+      "lang": "en",
+      "created_at": "Sun Aug 02 03:34:27 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ZGMeWI7ikh",
+          "indices": [
+            105,
+            128
+          ],
+          "display_url": "twitter.com/KNWAnews/statu\u2026",
+          "expanded_url": "https://twitter.com/KNWAnews/status/627683855193878528"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Arkansas",
+          "indices": [
+            83,
+            92
+          ]
+        },
+        {
+          "text": "veterans",
+          "indices": [
+            93,
+            102
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "627683855193878528",
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "created_at": "2015-08-03 14:03:40+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks for highlighting this important project. Help us collect the experiences of #Arkansas #veterans.  https://t.co/ZGMeWI7ikh",
+    "lang": "en",
+    "quoted_status_id": 627683855193878528
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627217983451086848,
+    "id_str": "627217983451086848",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/paMDCvPXJ4",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "1.usa.gov/1IuC5LP",
+          "expanded_url": "http://1.usa.gov/1IuC5LP"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DRIVEAct",
+          "indices": [
+            18,
+            27
+          ]
+        },
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            51,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Senate passes the #DRIVEAct, we introduced bill to #DefundPlannedParenthood &amp; more in The Week in Review: http://t.co/paMDCvPXJ4",
+    "lang": "en",
+    "created_at": "2015-07-31 20:43:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626862757221171200,
+    "id_str": "626862757221171200",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/P8aPpHh5Cm",
+          "indices": [
+            125,
+            147
+          ],
+          "display_url": "1.usa.gov/1MwEaNv",
+          "expanded_url": "http://1.usa.gov/1MwEaNv"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Senator Dick Durbin",
+          "indices": [
+            1,
+            15
+          ],
+          "id_str": "247334603",
+          "id": 247334603,
+          "screen_name": "SenatorDurbin"
+        },
+        {
+          "name": "Rep. Jim McGovern",
+          "indices": [
+            18,
+            30
+          ],
+          "id_str": "242426145",
+          "id": 242426145,
+          "screen_name": "RepMcGovern"
+        },
+        {
+          "name": "CongressmanJoePitts",
+          "indices": [
+            38,
+            50
+          ],
+          "id_str": "198526130",
+          "id": 198526130,
+          "screen_name": "RepJoePitts"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@SenatorDurbin, .@RepMcGovern &amp; .@RepJoePitts join me to lead bipartisan, bicameral effort to keep after Kony &amp; LRA http://t.co/P8aPpHh5Cm",
+    "lang": "en",
+    "created_at": "2015-07-30 21:11:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626829951136870400,
+    "id_str": "626829951136870400",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/sPFkBclali",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "965fmtheanswer.com",
+          "expanded_url": "http://965fmtheanswer.com/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            71,
+            89
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Dave Elswick Show",
+          "indices": [
+            8,
+            24
+          ],
+          "id_str": "482320409",
+          "id": 482320409,
+          "screen_name": "DaveElswickShow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joining @DaveElswickShow in 5 minutes to discuss legislation to defund #PlannedParenthood. Listen here http://t.co/sPFkBclali",
+    "lang": "en",
+    "created_at": "2015-07-30 19:01:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2852998461",
+    "id": 626822831309897728,
+    "id_str": "626822831309897728",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 60,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 42,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626804209590136832,
+      "id_str": "626804209590136832",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/mKuJapUJf9",
+            "indices": [
+              105,
+              127
+            ],
+            "display_url": "wapo.st/1LTfG0i",
+            "expanded_url": "http://wapo.st/1LTfG0i"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2467791",
+        "id": 2467791
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Defense secretary will allow more troops to be armed while stateside following the attack in Chattanooga http://t.co/mKuJapUJf9",
+      "lang": "en",
+      "created_at": "Thu Jul 30 17:19:03 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zp8PLH3dbt",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "1.usa.gov/1KBJkbz",
+          "expanded_url": "http://1.usa.gov/1KBJkbz"
+        },
+        {
+          "url": "https://t.co/Xs39TravQE",
+          "indices": [
+            120,
+            143
+          ],
+          "display_url": "twitter.com/washingtonpost\u2026",
+          "expanded_url": "https://twitter.com/washingtonpost/status/626804209590136832"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Bruce Westerman",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "2852998461",
+          "id": 2852998461,
+          "screen_name": "RepWesterman"
+        },
+        {
+          "name": "French Hill",
+          "indices": [
+            14,
+            28
+          ],
+          "id_str": "2953974395",
+          "id": 2953974395,
+          "screen_name": "RepFrenchHill"
+        },
+        {
+          "name": "U.S. Dept of Defense",
+          "indices": [
+            43,
+            57
+          ],
+          "id_str": "66369181",
+          "id": 66369181,
+          "screen_name": "DeptofDefense"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626804209590136832",
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "created_at": "2015-07-30 18:33:03+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 2852998461,
+    "in_reply_to_screen_name": "RepWesterman",
+    "retweeted": false,
+    "text": "@RepWesterman @RepFrenchHill &amp; I urged @DeptofDefense to revise this policy. Read the letter http://t.co/zp8PLH3dbt https://t.co/Xs39TravQE",
+    "lang": "en",
+    "quoted_status_id": 626804209590136832
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626820122959814656,
+    "id_str": "626820122959814656",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "DRIVEAct",
+          "indices": [
+            57,
+            66
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/of1ndIu6yK",
+          "media_url": "http://pbs.twimg.com/media/CLLplI3WEAAUFfY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLplI3WEAAUFfY.jpg",
+          "expanded_url": "http://twitter.com/JohnBoozman/status/626820122959814656/photo/1",
+          "id_str": "626820122401968128",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 260
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 460
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 785
+            }
+          },
+          "display_url": "pic.twitter.com/of1ndIu6yK",
+          "id": 626820122401968128
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/of1ndIu6yK",
+          "media_url": "http://pbs.twimg.com/media/CLLplI3WEAAUFfY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLplI3WEAAUFfY.jpg",
+          "expanded_url": "http://twitter.com/JohnBoozman/status/626820122959814656/photo/1",
+          "id_str": "626820122401968128",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 260
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 460
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 785
+            }
+          },
+          "display_url": "pic.twitter.com/of1ndIu6yK",
+          "id": 626820122401968128
+        }
+      ]
+    },
+    "text": "Today we passed 1st longterm highway bill since '05. The #DRIVEAct would create jobs &amp; produce decades of econ growth http://t.co/of1ndIu6yK",
+    "lang": "en",
+    "created_at": "2015-07-30 18:22:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 57,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626410449173671937,
+    "id_str": "626410449173671937",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/q8cgxb1F2q",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "1.usa.gov/1LRnS0U",
+          "expanded_url": "http://1.usa.gov/1LRnS0U"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            69,
+            87
+          ]
+        },
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            112,
+            136
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Read about the bill I am cosponsoring to prohibit federal funding of #PlannedParenthood: http://t.co/q8cgxb1F2q #DefundPlannedParenthood",
+    "lang": "en",
+    "created_at": "2015-07-29 15:14:23+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626053562427146240,
+    "id_str": "626053562427146240",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626016533039333376,
+      "id_str": "626016533039333376",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "ArkDG",
+            "indices": [
+              105,
+              111
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/y95lDboGoq",
+            "media_url": "http://pbs.twimg.com/media/CLAOt2YUMAA4igg.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLAOt2YUMAA4igg.png",
+            "expanded_url": "http://twitter.com/ArkansasOnline/status/626016533039333376/photo/1",
+            "id_str": "626016529058902016",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 234
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 413
+              },
+              "large": {
+                "w": 619,
+                "resize": "fit",
+                "h": 427
+              }
+            },
+            "display_url": "pic.twitter.com/y95lDboGoq",
+            "id": 626016529058902016
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/FHqH32nXTV",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "arkansasonline.com/news/2015/jul/\u2026",
+            "expanded_url": "http://www.arkansasonline.com/news/2015/jul/28/workshop-keys-on-vets-stories-20150728/"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "25354366",
+        "id": 25354366
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/y95lDboGoq",
+            "media_url": "http://pbs.twimg.com/media/CLAOt2YUMAA4igg.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLAOt2YUMAA4igg.png",
+            "expanded_url": "http://twitter.com/ArkansasOnline/status/626016533039333376/photo/1",
+            "id_str": "626016529058902016",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 234
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 413
+              },
+              "large": {
+                "w": 619,
+                "resize": "fit",
+                "h": 427
+              }
+            },
+            "display_url": "pic.twitter.com/y95lDboGoq",
+            "id": 626016529058902016
+          }
+        ]
+      },
+      "text": "Workshop teaches how to collect, share and preserve stories of Arkansas veterans: http://t.co/FHqH32nXTV #ArkDG http://t.co/y95lDboGoq",
+      "lang": "en",
+      "created_at": "Tue Jul 28 13:09:06 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/vbG2fPxiwK",
+          "indices": [
+            86,
+            109
+          ],
+          "display_url": "twitter.com/ArkansasOnline\u2026",
+          "expanded_url": "https://twitter.com/ArkansasOnline/status/626016533039333376"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Arkansas",
+          "indices": [
+            32,
+            41
+          ]
+        },
+        {
+          "text": "veterans",
+          "indices": [
+            42,
+            51
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626016533039333376",
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "created_at": "2015-07-28 15:36:15+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Help include the experiences of #Arkansas #veterans in the Veterans History Project.  https://t.co/vbG2fPxiwK",
+    "lang": "en",
+    "quoted_status_id": 626016533039333376
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626049991077924864,
+    "id_str": "626049991077924864",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625783921171562496,
+      "id_str": "625783921171562496",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/sPV0YyGMhr",
+            "media_url": "http://pbs.twimg.com/media/CK87JwTUkAAkZLZ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK87JwTUkAAkZLZ.jpg",
+            "expanded_url": "http://twitter.com/AGRutledge/status/625783921171562496/photo/1",
+            "id_str": "625783911998590976",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/sPV0YyGMhr",
+            "id": 625783911998590976
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Senator John Boozman",
+            "indices": [
+              25,
+              37
+            ],
+            "id_str": "5558312",
+            "id": 5558312,
+            "screen_name": "JohnBoozman"
+          },
+          {
+            "name": "Library of Congress",
+            "indices": [
+              98,
+              114
+            ],
+            "id_str": "7152572",
+            "id": 7152572,
+            "screen_name": "librarycongress"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2969971876",
+        "id": 2969971876
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/sPV0YyGMhr",
+            "media_url": "http://pbs.twimg.com/media/CK87JwTUkAAkZLZ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK87JwTUkAAkZLZ.jpg",
+            "expanded_url": "http://twitter.com/AGRutledge/status/625783921171562496/photo/1",
+            "id_str": "625783911998590976",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/sPV0YyGMhr",
+            "id": 625783911998590976
+          },
+          {
+            "url": "http://t.co/sPV0YyGMhr",
+            "media_url": "http://pbs.twimg.com/media/CK87JwTVAAAuB3H.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK87JwTVAAAuB3H.jpg",
+            "expanded_url": "http://twitter.com/AGRutledge/status/625783921171562496/photo/1",
+            "id_str": "625783911998619648",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/sPV0YyGMhr",
+            "id": 625783911998619648
+          },
+          {
+            "url": "http://t.co/sPV0YyGMhr",
+            "media_url": "http://pbs.twimg.com/media/CK87JwZUYAAxzx4.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK87JwZUYAAxzx4.jpg",
+            "expanded_url": "http://twitter.com/AGRutledge/status/625783921171562496/photo/1",
+            "id_str": "625783912023744512",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/sPV0YyGMhr",
+            "id": 625783912023744512
+          }
+        ]
+      },
+      "text": "The AG's Office attended @JohnBoozman's Veterans History Project to help collect stories of vets. @librarycongress http://t.co/sPV0YyGMhr",
+      "lang": "en",
+      "created_at": "Mon Jul 27 21:44:47 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/9p3fQvt7IT",
+          "indices": [
+            78,
+            101
+          ],
+          "display_url": "twitter.com/AGRutledge/sta\u2026",
+          "expanded_url": "https://twitter.com/AGRutledge/status/625783921171562496"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Arkansas",
+          "indices": [
+            58,
+            67
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "625783921171562496",
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "created_at": "2015-07-28 15:22:03+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks for coming to learn about this program and support #Arkansas veterans. https://t.co/9p3fQvt7IT",
+    "lang": "en",
+    "quoted_status_id": 625783921171562496
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624643411698696192,
+    "id_str": "624643411698696192",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Jo2gHqgaA9",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "1.usa.gov/1IjdauA",
+          "expanded_url": "http://1.usa.gov/1IjdauA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Chattanooga",
+          "indices": [
+            100,
+            112
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "5558312",
+      "screen_name": "johnboozman",
+      "id": 5558312
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In honor of service &amp; sacrifice of Russellville native Staff Sgt. David Wyatt who was killed in #Chattanooga attack: http://t.co/Jo2gHqgaA9",
+    "lang": "en",
+    "created_at": "2015-07-24 18:12:49+00:00"
+  }
+]

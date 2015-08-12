@@ -1,0 +1,1774 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621745889766436864,
+    "id_str": "621745889766436864",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3ZaneO4AVb",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "1.usa.gov/1CJJaff",
+          "expanded_url": "http://1.usa.gov/1CJJaff"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Univ. of Delaware",
+          "indices": [
+            30,
+            40
+          ],
+          "id_str": "29447487",
+          "id": 29447487,
+          "screen_name": "UDelaware"
+        },
+        {
+          "name": "WilmingtonUniversity",
+          "indices": [
+            41,
+            50
+          ],
+          "id_str": "430889283",
+          "id": 430889283,
+          "screen_name": "theWilmU"
+        },
+        {
+          "name": "Franklin & Marshall",
+          "indices": [
+            51,
+            64
+          ],
+          "id_str": "23479547",
+          "id": 23479547,
+          "screen_name": "FandMCollege"
+        },
+        {
+          "name": "Senator Chris Coons",
+          "indices": [
+            95,
+            106
+          ],
+          "id_str": "15324851",
+          "id": 15324851,
+          "screen_name": "ChrisCoons"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(2/2) Summer interns are from @UDelaware @theWilmU @FandMCollege. Interested in interning with @ChrisCoons? http://t.co/3ZaneO4AVb for info.",
+    "lang": "en",
+    "created_at": "2015-07-16 18:19:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Delaware, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.788758,
+              38.451038
+            ],
+            [
+              -74.984165,
+              38.451038
+            ],
+            [
+              -74.984165,
+              39.839007
+            ],
+            [
+              -75.788758,
+              39.839007
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/3f5897b87d2bf56c.json",
+      "name": "Delaware",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "3f5897b87d2bf56c"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621742733783396352,
+    "id_str": "621742733783396352",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Delaware",
+          "indices": [
+            15,
+            24
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/fjyyctRWKQ",
+          "media_url": "http://pbs.twimg.com/media/CKDftuJXAAAa8VK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKDftuJXAAAa8VK.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/621742733783396352/photo/1",
+          "id_str": "621742725151522816",
+          "indices": [
+            73,
+            95
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/fjyyctRWKQ",
+          "id": 621742725151522816
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Senator Chris Coons",
+          "indices": [
+            60,
+            71
+          ],
+          "id_str": "15324851",
+          "id": 15324851,
+          "screen_name": "ChrisCoons"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/fjyyctRWKQ",
+          "media_url": "http://pbs.twimg.com/media/CKDftuJXAAAa8VK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKDftuJXAAAa8VK.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/621742733783396352/photo/1",
+          "id_str": "621742725151522816",
+          "indices": [
+            73,
+            95
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/fjyyctRWKQ",
+          "id": 621742725151522816
+        }
+      ]
+    },
+    "text": "(1/2) Welcomed #Delaware interns to Capitol today to shadow @ChrisCoons. http://t.co/fjyyctRWKQ",
+    "lang": "en",
+    "created_at": "2015-07-16 18:06:33+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620577597517398016,
+    "id_str": "620577597517398016",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NetDE",
+          "indices": [
+            134,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep. John Carney",
+          "indices": [
+            16,
+            29
+          ],
+          "id_str": "237770636",
+          "id": 237770636,
+          "screen_name": "JohnCarneyDE"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Will be joining @JohnCarneyDE as he hosts his first Veterans Office Hours in New Castle, connecting vets w/ med and benes assistance. #NetDE",
+    "lang": "en",
+    "created_at": "2015-07-13 12:56:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Newark, DE",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.7886691,
+              39.6431
+            ],
+            [
+              -75.7235281,
+              39.6431
+            ],
+            [
+              -75.7235281,
+              39.715087
+            ],
+            [
+              -75.7886691,
+              39.715087
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/23aaa87ea90e76a4.json",
+      "name": "Newark",
+      "country": "United States",
+      "place_type": "city",
+      "id": "23aaa87ea90e76a4"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 618083694750863360,
+    "id_str": "618083694750863360",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "udmwf",
+          "indices": [
+            92,
+            98
+          ]
+        },
+        {
+          "text": "UDSUSIWL",
+          "indices": [
+            99,
+            108
+          ]
+        },
+        {
+          "text": "UDMEPI",
+          "indices": [
+            109,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/aRkstIzBJ9",
+          "media_url": "http://pbs.twimg.com/media/CJPf1nNVEAAiVL6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJPf1nNVEAAiVL6.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/618083694750863360/photo/1",
+          "id_str": "618083686030839808",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/aRkstIzBJ9",
+          "id": 618083686030839808
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Univ. of Delaware",
+          "indices": [
+            68,
+            78
+          ],
+          "id_str": "29447487",
+          "id": 29447487,
+          "screen_name": "UDelaware"
+        },
+        {
+          "name": "UDGlobal",
+          "indices": [
+            82,
+            91
+          ],
+          "id_str": "979075135",
+          "id": 979075135,
+          "screen_name": "UDGlobal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/aRkstIzBJ9",
+          "media_url": "http://pbs.twimg.com/media/CJPf1nNVEAAiVL6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJPf1nNVEAAiVL6.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/618083694750863360/photo/1",
+          "id_str": "618083686030839808",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/aRkstIzBJ9",
+          "id": 618083686030839808
+        }
+      ]
+    },
+    "text": "Sen. Coons spoke to dozens of young African leaders this morning at @UDelaware w/ @UDGlobal #udmwf #UDSUSIWL #UDMEPI http://t.co/aRkstIzBJ9",
+    "lang": "en",
+    "created_at": "2015-07-06 15:46:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 611579265117765632,
+    "id_str": "611579265117765632",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tsH4qzkZfk",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "youtube.com/watch?v=GUFpZ1\u2026",
+          "expanded_url": "http://youtube.com/watch?v=GUFpZ11HCfo&feature=youtu.be"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "USGLC",
+          "indices": [
+            70,
+            76
+          ],
+          "id_str": "15603311",
+          "id": 15603311,
+          "screen_name": "USGLC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Sen. Coons' colleagues honored him with a tribute video last night at @USGLC's tribute dinner, available here: http://t.co/tsH4qzkZfk",
+    "lang": "en",
+    "created_at": "2015-06-18 17:00:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 611201002189029376,
+    "id_str": "611201002189029376",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SmartPower",
+          "indices": [
+            104,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/wcmjvf8OsP",
+          "media_url": "http://pbs.twimg.com/media/CHtsEqTWsAAutUT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHtsEqTWsAAutUT.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/611201002189029376/photo/1",
+          "id_str": "611201001769578496",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/wcmjvf8OsP",
+          "id": 611201001769578496
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/DV2aINNQr9",
+          "indices": [
+            81,
+            103
+          ],
+          "display_url": "1.usa.gov/1R9hfXi",
+          "expanded_url": "http://1.usa.gov/1R9hfXi"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "USGLC",
+          "indices": [
+            1,
+            7
+          ],
+          "id_str": "15603311",
+          "id": 15603311,
+          "screen_name": "USGLC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/wcmjvf8OsP",
+          "media_url": "http://pbs.twimg.com/media/CHtsEqTWsAAutUT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHtsEqTWsAAutUT.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/611201002189029376/photo/1",
+          "id_str": "611201001769578496",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/wcmjvf8OsP",
+          "id": 611201001769578496
+        }
+      ]
+    },
+    "text": ".@USGLC honors Sen. Coons as Outstanding Champion of America\u2019s Global Leadership http://t.co/DV2aINNQr9 #SmartPower http://t.co/wcmjvf8OsP",
+    "lang": "en",
+    "created_at": "2015-06-17 15:57:29+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 610466095351377921,
+    "id_str": "610466095351377921",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WlVJC2i3Dd",
+          "indices": [
+            52,
+            74
+          ],
+          "display_url": "1.usa.gov/1GIa2xW",
+          "expanded_url": "http://1.usa.gov/1GIa2xW"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A look ahead at Sen. Coons schedule for June 15-19:\nhttp://t.co/WlVJC2i3Dd",
+    "lang": "en",
+    "created_at": "2015-06-15 15:17:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 609097122051424256,
+    "id_str": "609097122051424256",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/pzsrlXLdFt",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "1.usa.gov/1f5HKRA",
+          "expanded_url": "http://1.usa.gov/1f5HKRA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NetDE",
+          "indices": [
+            132,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Sen. Coons seeking applicants for fall 2015 Senate Page Program. For details &amp; how to apply, click here http://t.co/pzsrlXLdFt. #NetDE",
+    "lang": "en",
+    "created_at": "2015-06-11 20:37:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 607673261103693824,
+    "id_str": "607673261103693824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/dgCdDKZ7Xc",
+          "indices": [
+            52,
+            74
+          ],
+          "display_url": "1.usa.gov/1eWVzBX",
+          "expanded_url": "http://1.usa.gov/1eWVzBX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A look ahead at Sen. Coons' schedule for June 8-12: http://t.co/dgCdDKZ7Xc",
+    "lang": "en",
+    "created_at": "2015-06-07 22:19:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Delaware, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.788758,
+              38.451038
+            ],
+            [
+              -74.984165,
+              38.451038
+            ],
+            [
+              -74.984165,
+              39.839007
+            ],
+            [
+              -75.788758,
+              39.839007
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/3f5897b87d2bf56c.json",
+      "name": "Delaware",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "3f5897b87d2bf56c"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 603243984891289600,
+    "id_str": "603243984891289600",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/8QlRHMChoA",
+          "media_url": "http://pbs.twimg.com/media/CF8nNRYWYAAdjmg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CF8nNRYWYAAdjmg.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/603243984891289600/photo/1",
+          "id_str": "603243984048250880",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/8QlRHMChoA",
+          "id": 603243984048250880
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Maria ContrerasSweet",
+          "indices": [
+            27,
+            35
+          ],
+          "id_str": "2485930448",
+          "id": 2485930448,
+          "screen_name": "MCS4Biz"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8QlRHMChoA",
+          "media_url": "http://pbs.twimg.com/media/CF8nNRYWYAAdjmg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CF8nNRYWYAAdjmg.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/603243984891289600/photo/1",
+          "id_str": "603243984048250880",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/8QlRHMChoA",
+          "id": 603243984048250880
+        }
+      ]
+    },
+    "text": "Sen. Coons, Carper welcome @MCS4Biz to Wilmington to talk small biz opportunity and challenges in Delaware. http://t.co/8QlRHMChoA",
+    "lang": "en",
+    "created_at": "2015-05-26 16:59:08+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 603171364296597505,
+    "id_str": "603171364296597505",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E4b1F8jwpC",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "1.usa.gov/1FAZoWa",
+          "expanded_url": "http://1.usa.gov/1FAZoWa"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            90,
+            103
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Sen. Coons, Rep. Carney to host town hall discussion in Wilmington with civil rights icon @repjohnlewis next Friday. http://t.co/E4b1F8jwpC",
+    "lang": "en",
+    "created_at": "2015-05-26 12:10:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Broadkill Beach",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.21255254745483,
+              38.827898576926934
+            ],
+            [
+              -75.21255254745483,
+              38.827898576926934
+            ],
+            [
+              -75.21255254745483,
+              38.827898576926934
+            ],
+            [
+              -75.21255254745483,
+              38.827898576926934
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/07d9d2f6d0c83003.json",
+      "name": "Broadkill Beach",
+      "country": "United States",
+      "place_type": "poi",
+      "id": "07d9d2f6d0c83003"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 599208940073820160,
+    "id_str": "599208940073820160",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/AePDkkKox9",
+          "media_url": "http://pbs.twimg.com/media/CFDRWPvXIAAUR7k.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFDRWPvXIAAUR7k.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/599208940073820160/photo/1",
+          "id_str": "599208930552782848",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/AePDkkKox9",
+          "id": 599208930552782848
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/AePDkkKox9",
+          "media_url": "http://pbs.twimg.com/media/CFDRWPvXIAAUR7k.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFDRWPvXIAAUR7k.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/599208940073820160/photo/1",
+          "id_str": "599208930552782848",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/AePDkkKox9",
+          "id": 599208930552782848
+        }
+      ]
+    },
+    "text": "Sen. Coons speaks w/ Randall Gruden, the site mgr for Army Corps of Engineers at Broadkill Beach deepening project. http://t.co/AePDkkKox9",
+    "lang": "en",
+    "created_at": "2015-05-15 13:45:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 597581932554248192,
+    "id_str": "597581932554248192",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/brRN5ACkhR",
+          "indices": [
+            48,
+            70
+          ],
+          "display_url": "1.usa.gov/1Rt5bTX",
+          "expanded_url": "http://1.usa.gov/1Rt5bTX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A look ahead at Sen. Coons week ahead schedule: http://t.co/brRN5ACkhR",
+    "lang": "en",
+    "created_at": "2015-05-11 02:00:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "435500714",
+    "id": 595040560827781120,
+    "id_str": "595040560827781120",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Office of Sen. Coons",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "435500714",
+          "id": 435500714,
+          "screen_name": "SenCoonsOffice"
+        },
+        {
+          "name": "Senator Tom Carper",
+          "indices": [
+            16,
+            30
+          ],
+          "id_str": "249787913",
+          "id": 249787913,
+          "screen_name": "SenatorCarper"
+        },
+        {
+          "name": "Rep. John Carney",
+          "indices": [
+            31,
+            44
+          ],
+          "id_str": "237770636",
+          "id": 237770636,
+          "screen_name": "JohnCarneyDE"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 435500714,
+    "in_reply_to_screen_name": "SenCoonsOffice",
+    "retweeted": false,
+    "text": "@SenCoonsOffice @SenatorCarper @JohnCarneyDE host job fair tomorrow, May 4 10-2p at Rehoboth Beach Conv. Ctr. +65 companies looking to hire.",
+    "lang": "en",
+    "created_at": "2015-05-04 01:41:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 592555204643528704,
+    "id_str": "592555204643528704",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/0CZ4TBHIEO",
+          "indices": [
+            55,
+            77
+          ],
+          "display_url": "1.usa.gov/1EvyVKb",
+          "expanded_url": "http://1.usa.gov/1EvyVKb"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NetDE",
+          "indices": [
+            79,
+            85
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A look ahead at Sen. Coons schedule for April 27-May 1 http://t.co/0CZ4TBHIEO. #NetDE",
+    "lang": "en",
+    "created_at": "2015-04-27 05:05:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 590173331078406144,
+    "id_str": "590173331078406144",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/AHP0ysJmp0",
+          "indices": [
+            63,
+            85
+          ],
+          "display_url": "1.usa.gov/1Oywnwe",
+          "expanded_url": "http://1.usa.gov/1Oywnwe"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A look ahead at Sen. Coons' schedule for April 20 to April 27. http://t.co/AHP0ysJmp0",
+    "lang": "en",
+    "created_at": "2015-04-20 15:21:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 588416960968445952,
+    "id_str": "588416960968445952",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NetDE",
+          "indices": [
+            110,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ichAQDkWVC",
+          "media_url": "http://pbs.twimg.com/media/CCp6G6GWIAAd4jC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CCp6G6GWIAAd4jC.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/588416960968445952/photo/1",
+          "id_str": "588416960418947072",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ichAQDkWVC",
+          "id": 588416960418947072
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/NdEPpikHtH",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "1.usa.gov/1POnfHi",
+          "expanded_url": "http://1.usa.gov/1POnfHi"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "I Am Biotech",
+          "indices": [
+            63,
+            74
+          ],
+          "id_str": "19019298",
+          "id": 19019298,
+          "screen_name": "IAmBiotech"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ichAQDkWVC",
+          "media_url": "http://pbs.twimg.com/media/CCp6G6GWIAAd4jC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CCp6G6GWIAAd4jC.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/588416960968445952/photo/1",
+          "id_str": "588416960418947072",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ichAQDkWVC",
+          "id": 588416960418947072
+        }
+      ]
+    },
+    "text": "Senator Coons selected as Legislator of the Year by Delaware\u2019s @IAmBiotech delegation: http://t.co/NdEPpikHtH #NetDE http://t.co/ichAQDkWVC",
+    "lang": "en",
+    "created_at": "2015-04-15 19:01:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 587429077826547712,
+    "id_str": "587429077826547712",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rJw6Ov9zvH",
+          "indices": [
+            61,
+            83
+          ],
+          "display_url": "1.usa.gov/1CGMl0k",
+          "expanded_url": "http://1.usa.gov/1CGMl0k"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A look ahead at Sen. Coons' weekly schedule for April 13-19: http://t.co/rJw6Ov9zvH",
+    "lang": "en",
+    "created_at": "2015-04-13 01:36:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 586620176860323841,
+    "id_str": "586620176860323841",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/X2SBozDVGb",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "1.usa.gov/1FIEFiU",
+          "expanded_url": "http://1.usa.gov/1FIEFiU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "netde",
+          "indices": [
+            128,
+            134
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            135,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Carper, Coons, Carney wrap 25th job fair w/ 300+ job seekers. Last job fair of season May 4 in Rehoboth. http://t.co/X2SBozDVGb #netde #jobs",
+    "lang": "en",
+    "created_at": "2015-04-10 20:02:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 586571107693658112,
+    "id_str": "586571107693658112",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/c5HEQN81xO",
+          "media_url": "http://pbs.twimg.com/media/CCPrUFbVIAAJu1R.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CCPrUFbVIAAJu1R.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/586571107693658112/photo/1",
+          "id_str": "586571106775015424",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/c5HEQN81xO",
+          "id": 586571106775015424
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "delawaretech",
+          "indices": [
+            21,
+            34
+          ],
+          "id_str": "28144486",
+          "id": 28144486,
+          "screen_name": "delawaretech"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "435500714",
+      "screen_name": "sencoonsoffice",
+      "id": 435500714
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/c5HEQN81xO",
+          "media_url": "http://pbs.twimg.com/media/CCPrUFbVIAAJu1R.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CCPrUFbVIAAJu1R.jpg",
+          "expanded_url": "http://twitter.com/SenCoonsOffice/status/586571107693658112/photo/1",
+          "id_str": "586571106775015424",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/c5HEQN81xO",
+          "id": 586571106775015424
+        }
+      ]
+    },
+    "text": "Packed house here at @delawaretech Stanton for our New Castle County job fair. 50+ companies hiring f/part time jobs. http://t.co/c5HEQN81xO",
+    "lang": "en",
+    "created_at": "2015-04-10 16:47:04+00:00",
+    "retweeted": false
+  }
+]

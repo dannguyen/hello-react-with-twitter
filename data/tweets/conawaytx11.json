@@ -1,0 +1,2581 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 583773418115342336,
+    "id_str": "583773418115342336",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Carter",
+          "indices": [
+            64,
+            71
+          ]
+        },
+        {
+          "text": "CollegeSLAM",
+          "indices": [
+            97,
+            109
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Tarleton State Univ.",
+          "indices": [
+            75,
+            89
+          ],
+          "id_str": "18079569",
+          "id": 18079569,
+          "screen_name": "tarletonstate"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"https://ads.twitter.com\" rel=\"nofollow\">Twitter Ads</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Always happy to see 11th district athletes succeed. Send Davene #Carter of @tarletonstate to the #CollegeSLAM Championship!",
+    "lang": "en",
+    "created_at": "2015-04-02 23:30:03+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 63,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 31,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "name": "Washington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "01fbe706f872cb32"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 582616306689662977,
+      "id_str": "582616306689662977",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Ukraine",
+            "indices": [
+              91,
+              99
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/MP5wSO87we",
+            "media_url": "http://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+            "expanded_url": "http://twitter.com/GOPLeader/status/582616306689662977/photo/1",
+            "id_str": "582616305854861313",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 217
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 383
+              },
+              "large": {
+                "w": 897,
+                "resize": "fit",
+                "h": 573
+              }
+            },
+            "display_url": "pic.twitter.com/MP5wSO87we",
+            "id": 582616305854861313
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "\u041f\u0435\u0442\u0440\u043e \u041f\u043e\u0440\u043e\u0448\u0435\u043d\u043a\u043e",
+            "indices": [
+              29,
+              40
+            ],
+            "id_str": "2423747006",
+            "id": 2423747006,
+            "screen_name": "poroshenko"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19739126",
+        "id": 19739126
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/MP5wSO87we",
+            "media_url": "http://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+            "expanded_url": "http://twitter.com/GOPLeader/status/582616306689662977/photo/1",
+            "id_str": "582616305854861313",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 217
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 383
+              },
+              "large": {
+                "w": 897,
+                "resize": "fit",
+                "h": 573
+              }
+            },
+            "display_url": "pic.twitter.com/MP5wSO87we",
+            "id": 582616305854861313
+          }
+        ]
+      },
+      "text": "Met with Ukrainian President @poroshenko and expressed continued support for the people of #Ukraine. http://t.co/MP5wSO87we",
+      "lang": "en",
+      "created_at": "Mon Mar 30 18:52:06 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 63,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 19739126,
+          "media_url": "http://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+          "source_user_id_str": "19739126",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/MP5wSO87we",
+          "expanded_url": "http://twitter.com/GOPLeader/status/582616306689662977/photo/1",
+          "url": "http://t.co/MP5wSO87we",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+          "source_status_id_str": "582616306689662977",
+          "id_str": "582616305854861313",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 217
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 383
+            },
+            "large": {
+              "w": 897,
+              "resize": "fit",
+              "h": 573
+            }
+          },
+          "id": 582616305854861313,
+          "source_status_id": 582616306689662977
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 582623704322031618,
+    "id_str": "582623704322031618",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Ukraine",
+          "indices": [
+            106,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 19739126,
+          "media_url": "http://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+          "source_user_id_str": "19739126",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/MP5wSO87we",
+          "expanded_url": "http://twitter.com/GOPLeader/status/582616306689662977/photo/1",
+          "url": "http://t.co/MP5wSO87we",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CBXecX7UUAE5dd7.png",
+          "source_status_id_str": "582616306689662977",
+          "id_str": "582616305854861313",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 217
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 383
+            },
+            "large": {
+              "w": 897,
+              "resize": "fit",
+              "h": 573
+            }
+          },
+          "id": 582616305854861313,
+          "source_status_id": 582616306689662977
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Kevin McCarthy",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "19739126",
+          "id": 19739126,
+          "screen_name": "GOPLeader"
+        },
+        {
+          "name": "\u041f\u0435\u0442\u0440\u043e \u041f\u043e\u0440\u043e\u0448\u0435\u043d\u043a\u043e",
+          "indices": [
+            44,
+            55
+          ],
+          "id_str": "2423747006",
+          "id": 2423747006,
+          "screen_name": "poroshenko"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GOPLeader: Met with Ukrainian President @poroshenko and expressed continued support for the people of #Ukraine. http://t.co/MP5wSO87we",
+    "lang": "en",
+    "created_at": "2015-03-30 19:21:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 580408048797237248,
+    "id_str": "580408048797237248",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/AmJfIrOkQo",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "permianbasin360.com/news-article/d\u2026",
+          "expanded_url": "http://www.permianbasin360.com/news-article/d/story/single-mother-receives-opportunity-after-teen-preg/24757/LzFUEcQE4EuGfYZHc97Xfg"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Local Big 2 News",
+          "indices": [
+            74,
+            83
+          ],
+          "id_str": "66716229",
+          "id": 66716229,
+          "screen_name": "Big2News"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Kelsey, one of my interns in Midland, has a truly incredible story. Watch @Big2News's interview with her here: http://t.co/AmJfIrOkQo",
+    "lang": "en",
+    "created_at": "2015-03-24 16:37:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 570999372114223104,
+      "id_str": "570999372114223104",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "SNAP",
+            "indices": [
+              88,
+              93
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/v30HTYFM9B",
+            "media_url": "http://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+            "expanded_url": "http://twitter.com/HouseAgNews/status/570999372114223104/photo/1",
+            "id_str": "570999371732549632",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/v30HTYFM9B",
+            "id": 570999371732549632
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/SwN2UhHaAg",
+            "indices": [
+              94,
+              116
+            ],
+            "display_url": "bit.ly/1Lzis7u",
+            "expanded_url": "http://bit.ly/1Lzis7u"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Jackie Walorski",
+            "indices": [
+              56,
+              68
+            ],
+            "id_str": "1065995022",
+            "id": 1065995022,
+            "screen_name": "RepWalorski"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "234573331",
+        "id": 234573331
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/v30HTYFM9B",
+            "media_url": "http://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+            "expanded_url": "http://twitter.com/HouseAgNews/status/570999372114223104/photo/1",
+            "id_str": "570999371732549632",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/v30HTYFM9B",
+            "id": 570999371732549632
+          }
+        ]
+      },
+      "text": "Tune in LIVE at 1pm ET and watch Nutrition SubCmt Chair @RepWalorski lead the review of #SNAP http://t.co/SwN2UhHaAg http://t.co/v30HTYFM9B",
+      "lang": "en",
+      "created_at": "Thu Feb 26 17:30:33 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 234573331,
+          "media_url": "http://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+          "source_user_id_str": "234573331",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/v30HTYFM9B",
+          "expanded_url": "http://twitter.com/HouseAgNews/status/570999372114223104/photo/1",
+          "url": "http://t.co/v30HTYFM9B",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+          "source_status_id_str": "570999372114223104",
+          "id_str": "570999371732549632",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 570999371732549632,
+          "source_status_id": 570999372114223104
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 571010758965903361,
+    "id_str": "571010758965903361",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SNAP",
+          "indices": [
+            105,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 234573331,
+          "media_url": "http://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+          "source_user_id_str": "234573331",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/v30HTYFM9B",
+          "expanded_url": "http://twitter.com/HouseAgNews/status/570999372114223104/photo/1",
+          "url": "http://t.co/v30HTYFM9B",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-yY5z8XAAAvOGb.jpg",
+          "source_status_id_str": "570999372114223104",
+          "id_str": "570999371732549632",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 570999371732549632,
+          "source_status_id": 570999372114223104
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/SwN2UhHaAg",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "bit.ly/1Lzis7u",
+          "expanded_url": "http://bit.ly/1Lzis7u"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Ag Committee",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "234573331",
+          "id": 234573331,
+          "screen_name": "HouseAgNews"
+        },
+        {
+          "name": "Jackie Walorski",
+          "indices": [
+            73,
+            85
+          ],
+          "id_str": "1065995022",
+          "id": 1065995022,
+          "screen_name": "RepWalorski"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseAgNews: Tune in LIVE at 1pm ET and watch Nutrition SubCmt Chair @RepWalorski lead the review of #SNAP http://t.co/SwN2UhHaAg http:\u2026",
+    "lang": "en",
+    "created_at": "2015-02-26 18:15:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 568040613356003328,
+    "id_str": "568040613356003328",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/cNtGzJ3g6D",
+          "media_url": "http://pbs.twimg.com/media/B-IV7ZiCcAA2KRp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-IV7ZiCcAA2KRp.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/568040613356003328/photo/1",
+          "id_str": "568040613212221440",
+          "indices": [
+            83,
+            105
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/cNtGzJ3g6D",
+          "id": 568040613212221440
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/cNtGzJ3g6D",
+          "media_url": "http://pbs.twimg.com/media/B-IV7ZiCcAA2KRp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-IV7ZiCcAA2KRp.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/568040613356003328/photo/1",
+          "id_str": "568040613212221440",
+          "indices": [
+            83,
+            105
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/cNtGzJ3g6D",
+          "id": 568040613212221440
+        }
+      ]
+    },
+    "text": "Talking to Craig Anderson on KWEL this morning. Turn on your radio to listen live! http://t.co/cNtGzJ3g6D",
+    "lang": "en",
+    "created_at": "2015-02-18 13:33:30+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 567781883119824896,
+    "id_str": "567781883119824896",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/vYQH1RWNxr",
+          "media_url": "http://pbs.twimg.com/media/B-EqmRqCcAAfJkW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-EqmRqCcAAfJkW.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/567781883119824896/photo/1",
+          "id_str": "567781865088512000",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/vYQH1RWNxr",
+          "id": 567781865088512000
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "newswest9",
+          "indices": [
+            11,
+            21
+          ],
+          "id_str": "17588130",
+          "id": 17588130,
+          "screen_name": "newswest9"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/vYQH1RWNxr",
+          "media_url": "http://pbs.twimg.com/media/B-EqmRqCcAAfJkW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-EqmRqCcAAfJkW.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/567781883119824896/photo/1",
+          "id_str": "567781865088512000",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/vYQH1RWNxr",
+          "id": 567781865088512000
+        }
+      ]
+    },
+    "text": "Stopped by @newswest9 this afternoon to talk about immigration, obamacare, and the fight against ISIL http://t.co/vYQH1RWNxr",
+    "lang": "en",
+    "created_at": "2015-02-17 20:25:24+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 566218988879753218,
+      "id_str": "566218988879753218",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "AUMF",
+            "indices": [
+              61,
+              66
+            ]
+          },
+          {
+            "text": "ISIS",
+            "indices": [
+              85,
+              90
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/pVJ3wBltGm",
+            "media_url": "http://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+            "expanded_url": "http://twitter.com/cspanwj/status/566218988879753218/photo/1",
+            "id_str": "566218988317724675",
+            "indices": [
+              92,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/pVJ3wBltGm",
+            "id": 566218988317724675
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Mike Conaway",
+            "indices": [
+              10,
+              22
+            ],
+            "id_str": "295685416",
+            "id": 295685416,
+            "screen_name": "ConawayTX11"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15923226",
+        "id": 15923226
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/pVJ3wBltGm",
+            "media_url": "http://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+            "expanded_url": "http://twitter.com/cspanwj/status/566218988879753218/photo/1",
+            "id_str": "566218988317724675",
+            "indices": [
+              92,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/pVJ3wBltGm",
+            "id": 566218988317724675
+          }
+        ]
+      },
+      "text": "Rep. Mike @ConawayTX11 (R) talks with us about Pres. Obama's #AUMF proposal to fight #ISIS. http://t.co/pVJ3wBltGm",
+      "lang": "en",
+      "created_at": "Fri Feb 13 12:55:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 15923226,
+          "media_url": "http://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+          "source_user_id_str": "15923226",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "pic.twitter.com/pVJ3wBltGm",
+          "expanded_url": "http://twitter.com/cspanwj/status/566218988879753218/photo/1",
+          "url": "http://t.co/pVJ3wBltGm",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+          "source_status_id_str": "566218988879753218",
+          "id_str": "566218988317724675",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 566218988317724675,
+          "source_status_id": 566218988879753218
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 566219480884609024,
+    "id_str": "566219480884609024",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "AUMF",
+          "indices": [
+            74,
+            79
+          ]
+        },
+        {
+          "text": "ISIS",
+          "indices": [
+            98,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 15923226,
+          "media_url": "http://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+          "source_user_id_str": "15923226",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "pic.twitter.com/pVJ3wBltGm",
+          "expanded_url": "http://twitter.com/cspanwj/status/566218988879753218/photo/1",
+          "url": "http://t.co/pVJ3wBltGm",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B9udK3_CUAM2ZbU.jpg",
+          "source_status_id_str": "566218988879753218",
+          "id_str": "566218988317724675",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 566218988317724675,
+          "source_status_id": 566218988879753218
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Washington Journal",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "15923226",
+          "id": 15923226,
+          "screen_name": "cspanwj"
+        },
+        {
+          "name": "Mike Conaway",
+          "indices": [
+            23,
+            35
+          ],
+          "id_str": "295685416",
+          "id": 295685416,
+          "screen_name": "ConawayTX11"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @cspanwj: Rep. Mike @ConawayTX11 (R) talks with us about Pres. Obama's #AUMF proposal to fight #ISIS. http://t.co/pVJ3wBltGm",
+    "lang": "en",
+    "created_at": "2015-02-13 12:56:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 566217098654146561,
+    "id_str": "566217098654146561",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "CSPAN",
+          "indices": [
+            11,
+            17
+          ],
+          "id_str": "15675138",
+          "id": 15675138,
+          "screen_name": "cspan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'll be on @cspan in just a few min to talk about U.S. relations with Russia, Ukraine, &amp; the fight against ISIL. Tune in to watch live!",
+    "lang": "en",
+    "created_at": "2015-02-13 12:47:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 565533948680613888,
+    "id_str": "565533948680613888",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Fqj073vpuS",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "ustream.tv/channel/hclive\u2026",
+          "expanded_url": "http://www.ustream.tv/channel/hclive22"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Dept of Agriculture",
+          "indices": [
+            13,
+            24
+          ],
+          "id_str": "368797886",
+          "id": 368797886,
+          "screen_name": "DeptAgNews"
+        },
+        {
+          "name": "House Ag Committee",
+          "indices": [
+            61,
+            73
+          ],
+          "id_str": "234573331",
+          "id": 234573331,
+          "screen_name": "HouseAgNews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "TUNE IN NOW: @DeptAgNews Secretary Vilsack testifying before @HouseAgNews http://t.co/Fqj073vpuS",
+    "lang": "en",
+    "created_at": "2015-02-11 15:32:55+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 562334459941621763,
+    "id_str": "562334459941621763",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ChrisKyleDay",
+          "indices": [
+            41,
+            54
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Gov. Greg Abbott",
+          "indices": [
+            10,
+            20
+          ],
+          "id_str": "19291441",
+          "id": 19291441,
+          "screen_name": "GovAbbott"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank you @GovAbbott for declaring today #ChrisKyleDay to honor the memory of this American hero &amp; all his sacrifices for this country.",
+    "lang": "en",
+    "created_at": "2015-02-02 19:39:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 12,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 560910581754908674,
+    "id_str": "560910581754908674",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "KeystoneXL",
+          "indices": [
+            44,
+            55
+          ]
+        },
+        {
+          "text": "TimetoBuild",
+          "indices": [
+            110,
+            122
+          ]
+        },
+        {
+          "text": "KXLPipeline",
+          "indices": [
+            127,
+            139
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Senate voted to approve construction of #KeystoneXL. Mr. President, it's time to listen to Congress. It's #TimetoBuild the #KXLPipeline",
+    "lang": "en",
+    "created_at": "2015-01-29 21:21:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 557936491272228864,
+    "id_str": "557936491272228864",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/sM94tclgqZ",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "conaway.house.gov/news/documents\u2026",
+          "expanded_url": "http://conaway.house.gov/news/documentsingle.aspx?DocumentID=397913"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SOTU",
+          "indices": [
+            26,
+            31
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "What did you think of the #SOTU address last night? Read my full response to the President's speech here: http://t.co/sM94tclgqZ",
+    "lang": "en",
+    "created_at": "2015-01-21 16:23:20+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 242,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 212,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 552533963320082432,
+      "id_str": "552533963320082432",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "anniversary",
+            "indices": [
+              16,
+              28
+            ]
+          },
+          {
+            "text": "wedding",
+            "indices": [
+              98,
+              106
+            ]
+          },
+          {
+            "text": "TDiH",
+            "indices": [
+              107,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/27O453tgB6",
+            "media_url": "http://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+            "expanded_url": "http://twitter.com/USNatArchives/status/552533963320082432/photo/1",
+            "id_str": "552533961985912832",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 425
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 500
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/27O453tgB6",
+            "id": 552533961985912832
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "101802390",
+        "id": 101802390
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/27O453tgB6",
+            "media_url": "http://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+            "expanded_url": "http://twitter.com/USNatArchives/status/552533963320082432/photo/1",
+            "id_str": "552533961985912832",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 425
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 500
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/27O453tgB6",
+            "id": 552533961985912832
+          }
+        ]
+      },
+      "text": "70 years! Happy #anniversary to George and Barbara Bush, longest-married President and First Lady #wedding #TDiH http://t.co/27O453tgB6",
+      "lang": "en",
+      "created_at": "Tue Jan 06 18:35:37 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 242,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 101802390,
+          "media_url": "http://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+          "source_user_id_str": "101802390",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/27O453tgB6",
+          "expanded_url": "http://twitter.com/USNatArchives/status/552533963320082432/photo/1",
+          "url": "http://t.co/27O453tgB6",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+          "source_status_id_str": "552533963320082432",
+          "id_str": "552533961985912832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 425
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 500
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 552533961985912832,
+          "source_status_id": 552533963320082432
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 552591672622993409,
+    "id_str": "552591672622993409",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "anniversary",
+          "indices": [
+            35,
+            47
+          ]
+        },
+        {
+          "text": "wedding",
+          "indices": [
+            117,
+            125
+          ]
+        },
+        {
+          "text": "TDiH",
+          "indices": [
+            126,
+            131
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 101802390,
+          "media_url": "http://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+          "source_user_id_str": "101802390",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/27O453tgB6",
+          "expanded_url": "http://twitter.com/USNatArchives/status/552533963320082432/photo/1",
+          "url": "http://t.co/27O453tgB6",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B6r-tgKCcAAGk55.jpg",
+          "source_status_id_str": "552533963320082432",
+          "id_str": "552533961985912832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 425
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 500
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 552533961985912832,
+          "source_status_id": 552533963320082432
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "US National Archives",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "101802390",
+          "id": 101802390,
+          "screen_name": "USNatArchives"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @USNatArchives: 70 years! Happy #anniversary to George and Barbara Bush, longest-married President and First Lady #wedding #TDiH http://\u2026",
+    "lang": "en",
+    "created_at": "2015-01-06 22:24:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 545273436176941056,
+    "id_str": "545273436176941056",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Cuban",
+          "indices": [
+            82,
+            88
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The agreement announced today is a poorly negotiated deal for America and for the #Cuban people. The Committee will review this next year.",
+    "lang": "en",
+    "created_at": "2014-12-17 17:44:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 534413549658202112,
+    "id_str": "534413549658202112",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "KeystoneXL",
+          "indices": [
+            19,
+            30
+          ]
+        },
+        {
+          "text": "KeystonePipeline",
+          "indices": [
+            98,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ZekbyL1bDF",
+          "media_url": "http://pbs.twimg.com/media/B2qeSpbCIAAotQU.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B2qeSpbCIAAotQU.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/534413549658202112/photo/1",
+          "id_str": "534413548990898176",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 638
+            }
+          },
+          "display_url": "pic.twitter.com/ZekbyL1bDF",
+          "id": 534413548990898176
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZekbyL1bDF",
+          "media_url": "http://pbs.twimg.com/media/B2qeSpbCIAAotQU.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B2qeSpbCIAAotQU.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/534413549658202112/photo/1",
+          "id_str": "534413548990898176",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 638
+            }
+          },
+          "display_url": "pic.twitter.com/ZekbyL1bDF",
+          "id": 534413548990898176
+        }
+      ]
+    },
+    "text": "Time to act on the #KeystoneXL Pipeline. House has passed 9 bills authorizing construction of the #KeystonePipeline http://t.co/ZekbyL1bDF",
+    "lang": "en",
+    "created_at": "2014-11-17 18:31:33+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 530785575893479424,
+    "id_str": "530785575893479424",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Lamesa",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "Cotton",
+          "indices": [
+            8,
+            15
+          ]
+        },
+        {
+          "text": "Agriculture",
+          "indices": [
+            96,
+            108
+          ]
+        },
+        {
+          "text": "johndeere",
+          "indices": [
+            109,
+            119
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/U8I0hxaG9k",
+          "media_url": "http://pbs.twimg.com/media/B126qxQCUAAtqEP.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B126qxQCUAAtqEP.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/530785575893479424/photo/1",
+          "id_str": "530785575037456384",
+          "indices": [
+            120,
+            142
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 215
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 379
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 648
+            }
+          },
+          "display_url": "pic.twitter.com/U8I0hxaG9k",
+          "id": 530785575037456384
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/U8I0hxaG9k",
+          "media_url": "http://pbs.twimg.com/media/B126qxQCUAAtqEP.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B126qxQCUAAtqEP.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/530785575893479424/photo/1",
+          "id_str": "530785575037456384",
+          "indices": [
+            120,
+            142
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 215
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 379
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 648
+            }
+          },
+          "display_url": "pic.twitter.com/U8I0hxaG9k",
+          "id": 530785575037456384
+        }
+      ]
+    },
+    "text": "#Lamesa #Cotton Day. A great day with the farmers and the men &amp; women at the King Mesa Gin. #Agriculture #johndeere http://t.co/U8I0hxaG9k",
+    "lang": "en",
+    "created_at": "2014-11-07 18:15:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "273612978",
+    "id": 529386453277474817,
+    "id_str": "529386453277474817",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Cotton",
+          "indices": [
+            68,
+            75
+          ]
+        },
+        {
+          "text": "Lamesa",
+          "indices": [
+            89,
+            96
+          ]
+        },
+        {
+          "text": "Texas",
+          "indices": [
+            97,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/n1ry8Sm1bl",
+          "media_url": "http://pbs.twimg.com/media/B1jCLHNCUAAlce9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B1jCLHNCUAAlce9.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/529386453277474817/photo/1",
+          "id_str": "529386452384108544",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/n1ry8Sm1bl",
+          "id": 529386452384108544
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "PlainsCottonGrowers",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "273612978",
+          "id": 273612978,
+          "screen_name": "PCGNews"
+        },
+        {
+          "name": "Texas Farm Bureau",
+          "indices": [
+            9,
+            25
+          ],
+          "id_str": "19036725",
+          "id": 19036725,
+          "screen_name": "TexasFarmBureau"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 273612978,
+    "in_reply_to_screen_name": "PCGNews",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/n1ry8Sm1bl",
+          "media_url": "http://pbs.twimg.com/media/B1jCLHNCUAAlce9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B1jCLHNCUAAlce9.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/529386453277474817/photo/1",
+          "id_str": "529386452384108544",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/n1ry8Sm1bl",
+          "id": 529386452384108544
+        }
+      ]
+    },
+    "text": "@PCGNews @TexasFarmBureau &amp; Lames Cotton Growers put together a #Cotton Field Day in #Lamesa #Texas on Friday http://t.co/n1ry8Sm1bl",
+    "lang": "en",
+    "created_at": "2014-11-03 21:35:40+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 528258760301887488,
+    "id_str": "528258760301887488",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Chris Giancarlo",
+          "indices": [
+            18,
+            32
+          ],
+          "id_str": "2846750008",
+          "id": 2846750008,
+          "screen_name": "giancarloCFTC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I want to welcome @giancarloCFTC to Twitter. I also want to see a picture of his '73 Buick Convertible.",
+    "lang": "en",
+    "created_at": "2014-10-31 18:54:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 528252121658163201,
+    "id_str": "528252121658163201",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "JohnAdams",
+          "indices": [
+            67,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/oqIiYDcddz",
+          "media_url": "http://pbs.twimg.com/media/B1S6gV_IUAAUtbY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B1S6gV_IUAAUtbY.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/528252121658163201/photo/1",
+          "id_str": "528252121129701376",
+          "indices": [
+            78,
+            100
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 373
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 658
+            },
+            "large": {
+              "w": 875,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/oqIiYDcddz",
+          "id": 528252121129701376
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/oqIiYDcddz",
+          "media_url": "http://pbs.twimg.com/media/B1S6gV_IUAAUtbY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B1S6gV_IUAAUtbY.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/528252121658163201/photo/1",
+          "id_str": "528252121129701376",
+          "indices": [
+            78,
+            100
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 373
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 658
+            },
+            "large": {
+              "w": 875,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/oqIiYDcddz",
+          "id": 528252121129701376
+        }
+      ]
+    },
+    "text": "\"Our Constitution was made only for a moral and religious people.\" #JohnAdams http://t.co/oqIiYDcddz",
+    "lang": "en",
+    "created_at": "2014-10-31 18:28:14+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 528251590600577025,
+    "id_str": "528251590600577025",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "JohnAdams",
+          "indices": [
+            94,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/saAqLpfKz7",
+          "media_url": "http://pbs.twimg.com/media/B1S6BcHIYAAaWQ5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B1S6BcHIYAAaWQ5.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/528251590600577025/photo/1",
+          "id_str": "528251590197927936",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 373
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 658
+            },
+            "large": {
+              "w": 875,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/saAqLpfKz7",
+          "id": 528251590197927936
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "295685416",
+      "screen_name": "conawaytx11",
+      "id": 295685416
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/saAqLpfKz7",
+          "media_url": "http://pbs.twimg.com/media/B1S6BcHIYAAaWQ5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B1S6BcHIYAAaWQ5.jpg",
+          "expanded_url": "http://twitter.com/ConawayTX11/status/528251590600577025/photo/1",
+          "id_str": "528251590197927936",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 373
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 658
+            },
+            "large": {
+              "w": 875,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/saAqLpfKz7",
+          "id": 528251590197927936
+        }
+      ]
+    },
+    "text": "\"Swim or sink, live or die, survive or perish, I am with my country. You may depend upon it.\" #JohnAdams http://t.co/saAqLpfKz7",
+    "lang": "en",
+    "created_at": "2014-10-31 18:26:08+00:00",
+    "retweeted": false
+  }
+]

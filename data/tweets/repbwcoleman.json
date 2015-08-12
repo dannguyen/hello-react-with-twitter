@@ -1,0 +1,2292 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 41,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 38,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629677484334817281,
+      "id_str": "629677484334817281",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 321,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 171,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 628684544972095488,
+        "id_str": "628684544972095488",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/W1WHFwy6hD",
+              "indices": [
+                83,
+                105
+              ],
+              "display_url": "nyti.ms/1IKOW0V",
+              "expanded_url": "http://nyti.ms/1IKOW0V"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "807095",
+          "id": 807095
+        },
+        "favorited": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "retweeted": false,
+        "text": "Jeb Bush: \"I'm not sure we need half a billion dollars for women's health issues.\" http://t.co/W1WHFwy6hD",
+        "lang": "en",
+        "created_at": "Tue Aug 04 21:50:50 +0000 2015"
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/3Ss70c0tXD",
+            "indices": [
+              113,
+              136
+            ],
+            "display_url": "twitter.com/nytimes/status\u2026",
+            "expanded_url": "https://twitter.com/nytimes/status/628684544972095488"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "trustwomen",
+            "indices": [
+              87,
+              98
+            ]
+          },
+          {
+            "text": "reprohealth",
+            "indices": [
+              99,
+              111
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628684544972095488",
+      "user": {
+        "id_str": "3044993235",
+        "id": 3044993235
+      },
+      "favorited": false,
+      "created_at": "Fri Aug 07 15:36:25 +0000 2015",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "125 million Americans are women. I think $4 each for women's health is far too little. #trustwomen #reprohealth  https://t.co/3Ss70c0tXD",
+      "lang": "en",
+      "quoted_status_id": 628684544972095488
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 41,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629685898897137664,
+    "id_str": "629685898897137664",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/3Ss70c0tXD",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "twitter.com/nytimes/status\u2026",
+          "expanded_url": "https://twitter.com/nytimes/status/628684544972095488"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "trustwomen",
+          "indices": [
+            103,
+            114
+          ]
+        },
+        {
+          "text": "reprohealth",
+          "indices": [
+            115,
+            127
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep. Ted Lieu",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "3044993235",
+          "id": 3044993235,
+          "screen_name": "RepTedLieu"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepTedLieu: 125 million Americans are women. I think $4 each for women's health is far too little. #trustwomen #reprohealth  https://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 16:09:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "629324039518072832",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2968451607",
+    "id": 629324389230772225,
+    "id_str": "629324389230772225",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            132,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 629324039518072832,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 2968451607,
+    "in_reply_to_screen_name": "RepBWColeman",
+    "retweeted": false,
+    "text": "Voting is the most powerful tool in our Democracy. And we\u2019ll not give up fighting against attempts that make voting more difficult. #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 16:13:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "629322881663676416",
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2968451607",
+    "id": 629324039518072832,
+    "id_str": "629324039518072832",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "tbt",
+          "indices": [
+            25,
+            29
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            106,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Ft12K9RoAn",
+          "media_url": "http://pbs.twimg.com/media/CLvOZY0UMAA-gEn.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvOZY0UMAA-gEn.png",
+          "expanded_url": "http://twitter.com/RepBWColeman/status/629324039518072832/photo/1",
+          "id_str": "629323508502245376",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 425
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 479,
+              "resize": "fit",
+              "h": 599
+            },
+            "large": {
+              "w": 479,
+              "resize": "fit",
+              "h": 599
+            }
+          },
+          "display_url": "pic.twitter.com/Ft12K9RoAn",
+          "id": 629323508502245376
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            1,
+            10
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629322881663676416,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 2968451607,
+    "in_reply_to_screen_name": "RepBWColeman",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Ft12K9RoAn",
+          "media_url": "http://pbs.twimg.com/media/CLvOZY0UMAA-gEn.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvOZY0UMAA-gEn.png",
+          "expanded_url": "http://twitter.com/RepBWColeman/status/629324039518072832/photo/1",
+          "id_str": "629323508502245376",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 425
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 479,
+              "resize": "fit",
+              "h": 599
+            },
+            "large": {
+              "w": 479,
+              "resize": "fit",
+              "h": 599
+            }
+          },
+          "display_url": "pic.twitter.com/Ft12K9RoAn",
+          "id": 629323508502245376
+        }
+      ]
+    },
+    "text": ".@HouseGOP, here's anthr #tbt to when Pres. Reagan said Voting Rights Act \u2018should &amp; must be extended\u2019 #RestoreTheVRA http://t.co/Ft12K9RoAn",
+    "lang": "en",
+    "created_at": "2015-08-06 16:11:57+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "629322881663676416",
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2968451607",
+    "id": 629323119874973696,
+    "id_str": "629323119874973696",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Z9UmYCIovD",
+          "indices": [
+            77,
+            99
+          ],
+          "display_url": "goo.gl/PU1bGv",
+          "expanded_url": "http://goo.gl/PU1bGv"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA",
+          "indices": [
+            47,
+            51
+          ]
+        },
+        {
+          "text": "tbt",
+          "indices": [
+            100,
+            104
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            105,
+            119
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            1,
+            10
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629322881663676416,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 2968451607,
+    "in_reply_to_screen_name": "RepBWColeman",
+    "retweeted": false,
+    "text": ".@HouseGOP remember when Pres. Bush signed the #VRA Reauthorization of 2006? http://t.co/Z9UmYCIovD #tbt #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-06 16:08:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "629322262966075392",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2968451607",
+    "id": 629322881663676416,
+    "id_str": "629322881663676416",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            111,
+            125
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            65,
+            74
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        },
+        {
+          "name": "House Democrats",
+          "indices": [
+            91,
+            106
+          ],
+          "id_str": "43963249",
+          "id": 43963249,
+          "screen_name": "HouseDemocrats"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629322262966075392,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 2968451607,
+    "in_reply_to_screen_name": "RepBWColeman",
+    "retweeted": false,
+    "text": "Voter suppression tactics are alive and well across our country. @HouseGOP must unite with @HouseDemocrats and #RestoreTheVRA.",
+    "lang": "en",
+    "created_at": "2015-08-06 16:07:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629322262966075392,
+    "id_str": "629322262966075392",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            44,
+            50
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            85,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/uH5lfg6pz5",
+          "media_url": "http://pbs.twimg.com/media/CLvNPLYUkAA8kTB.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvNPLYUkAA8kTB.png",
+          "expanded_url": "http://twitter.com/RepBWColeman/status/629322262966075392/photo/1",
+          "id_str": "629322233584848896",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 214
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 377
+            },
+            "large": {
+              "w": 689,
+              "resize": "fit",
+              "h": 434
+            }
+          },
+          "display_url": "pic.twitter.com/uH5lfg6pz5",
+          "id": 629322233584848896
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/uH5lfg6pz5",
+          "media_url": "http://pbs.twimg.com/media/CLvNPLYUkAA8kTB.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvNPLYUkAA8kTB.png",
+          "expanded_url": "http://twitter.com/RepBWColeman/status/629322262966075392/photo/1",
+          "id_str": "629322233584848896",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 214
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 377
+            },
+            "large": {
+              "w": 689,
+              "resize": "fit",
+              "h": 434
+            }
+          },
+          "display_url": "pic.twitter.com/uH5lfg6pz5",
+          "id": 629322233584848896
+        }
+      ]
+    },
+    "text": "As we celebrate the significant progress of #VRA50, we call on our GOP colleagues to #RestoreTheVRA! http://t.co/uH5lfg6pz5",
+    "lang": "en",
+    "created_at": "2015-08-06 16:04:54+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1806,
+      "favorite_count": 1471,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629265088214638592,
+      "id_str": "629265088214638592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1806,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629284830098915328,
+    "id_str": "629284830098915328",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:36:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628967187634651136,
+    "id_str": "628967187634651136",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/sDi4cGPfps",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "on.cc.com/1Ip3gc2",
+          "expanded_url": "http://on.cc.com/1Ip3gc2"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Planned Parenthood",
+          "indices": [
+            30,
+            35
+          ],
+          "id_str": "402957663",
+          "id": 402957663,
+          "screen_name": "PPFA"
+        },
+        {
+          "name": "The Nightly Show",
+          "indices": [
+            61,
+            73
+          ],
+          "id_str": "2875485611",
+          "id": 2875485611,
+          "screen_name": "nightlyshow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The GOP's arguments to defund @PPFA are practically made for @nightlyshow. Watch for my cameo at 3:37! http://t.co/sDi4cGPfps",
+    "lang": "en",
+    "created_at": "2015-08-05 16:33:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628721024100638720",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2968451607",
+    "id": 628721159341744128,
+    "id_str": "628721159341744128",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "EarnedSickDaysForNJ",
+          "indices": [
+            42,
+            62
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Chris Christie",
+          "indices": [
+            1,
+            15
+          ],
+          "id_str": "1347285918",
+          "id": 1347285918,
+          "screen_name": "ChrisChristie"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628721024100638720,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 2968451607,
+    "in_reply_to_screen_name": "RepBWColeman",
+    "retweeted": false,
+    "text": ".@ChrisChristie: 83% of NJ voters support #EarnedSickDaysForNJ, why don\u2019t you?",
+    "lang": "en",
+    "created_at": "2015-08-05 00:16:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628721024100638720,
+    "id_str": "628721024100638720",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "EarnedSickDaysForNJ",
+          "indices": [
+            76,
+            96
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Chris Christie",
+          "indices": [
+            42,
+            56
+          ],
+          "id_str": "1347285918",
+          "id": 1347285918,
+          "screen_name": "ChrisChristie"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Working families in NJ are suffering, yet @ChrisChristie refuses to support #EarnedSickDaysForNJ.",
+    "lang": "en",
+    "created_at": "2015-08-05 00:15:47+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 99,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 76,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628269454451965952,
+      "id_str": "628269454451965952",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              100,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/R4hQ6VGWvB",
+            "media_url": "http://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+            "expanded_url": "http://twitter.com/WHLive/status/628269454451965952/photo/1",
+            "id_str": "628269436634398720",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              }
+            },
+            "display_url": "pic.twitter.com/R4hQ6VGWvB",
+            "id": 628269436634398720
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              93,
+              99
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "369505837",
+        "id": 369505837
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/R4hQ6VGWvB",
+            "media_url": "http://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+            "expanded_url": "http://twitter.com/WHLive/status/628269454451965952/photo/1",
+            "id_str": "628269436634398720",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              }
+            },
+            "display_url": "pic.twitter.com/R4hQ6VGWvB",
+            "id": 628269436634398720
+          }
+        ]
+      },
+      "text": "\"The United States has cut our total carbon pollution more than any other nation on Earth.\" \u2014@POTUS #CleanPowerPlan http://t.co/R4hQ6VGWvB",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:21:25 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 99,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 369505837,
+          "media_url": "http://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+          "source_user_id_str": "369505837",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/R4hQ6VGWvB",
+          "expanded_url": "http://twitter.com/WHLive/status/628269454451965952/photo/1",
+          "url": "http://t.co/R4hQ6VGWvB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+          "source_status_id_str": "628269454451965952",
+          "id_str": "628269436634398720",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "id": 628269436634398720,
+          "source_status_id": 628269454451965952
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628271780856266752,
+    "id_str": "628271780856266752",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            112,
+            127
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 369505837,
+          "media_url": "http://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+          "source_user_id_str": "369505837",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/R4hQ6VGWvB",
+          "expanded_url": "http://twitter.com/WHLive/status/628269454451965952/photo/1",
+          "url": "http://t.co/R4hQ6VGWvB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgPuVHUAAAB0PE.jpg",
+          "source_status_id_str": "628269454451965952",
+          "id_str": "628269436634398720",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "id": 628269436634398720,
+          "source_status_id": 628269454451965952
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "White House Live",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "369505837",
+          "id": 369505837,
+          "screen_name": "WHLive"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            105,
+            111
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WHLive: \"The United States has cut our total carbon pollution more than any other nation on Earth.\" \u2014@POTUS #CleanPowerPlan http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 18:30:39+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 708,
+      "favorite_count": 691,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628268413782224896,
+      "id_str": "628268413782224896",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "StandwithPP",
+            "indices": [
+              125,
+              137
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16789970",
+        "id": 16789970
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Let's be crystal clear: A vote to defund Planned Parenthood is a vote to limit a woman's access to critical health services. #StandwithPP",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:17:17 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 708,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628269223182254080,
+    "id_str": "628269223182254080",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "StandwithPP",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Senator Harry Reid",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "16789970",
+          "id": 16789970,
+          "screen_name": "SenatorReid"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenatorReid: Let's be crystal clear: A vote to defund Planned Parenthood is a vote to limit a woman's access to critical health service\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 18:20:30+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 132,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 82,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628184544638861312,
+      "id_str": "628184544638861312",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/jDvZiglDQr",
+            "media_url": "http://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+            "expanded_url": "http://twitter.com/EconUS/status/628184544638861312/photo/1",
+            "id_str": "628184543414120448",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 595,
+                "resize": "fit",
+                "h": 335
+              },
+              "large": {
+                "w": 595,
+                "resize": "fit",
+                "h": 335
+              }
+            },
+            "display_url": "pic.twitter.com/jDvZiglDQr",
+            "id": 628184543414120448
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/LzK5kHHEUe",
+            "indices": [
+              95,
+              117
+            ],
+            "display_url": "econ.st/1UhNbfC",
+            "expanded_url": "http://econ.st/1UhNbfC"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "32353291",
+        "id": 32353291
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/jDvZiglDQr",
+            "media_url": "http://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+            "expanded_url": "http://twitter.com/EconUS/status/628184544638861312/photo/1",
+            "id_str": "628184543414120448",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 595,
+                "resize": "fit",
+                "h": 335
+              },
+              "large": {
+                "w": 595,
+                "resize": "fit",
+                "h": 335
+              }
+            },
+            "display_url": "pic.twitter.com/jDvZiglDQr",
+            "id": 628184543414120448
+          }
+        ]
+      },
+      "text": "What would happen if Republicans defunded Planned Parenthood? The US abortion rate would go up http://t.co/LzK5kHHEUe http://t.co/jDvZiglDQr",
+      "lang": "en",
+      "created_at": "Mon Aug 03 12:44:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 132,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 32353291,
+          "media_url": "http://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+          "source_user_id_str": "32353291",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/jDvZiglDQr",
+          "expanded_url": "http://twitter.com/EconUS/status/628184544638861312/photo/1",
+          "url": "http://t.co/jDvZiglDQr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+          "source_status_id_str": "628184544638861312",
+          "id_str": "628184543414120448",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 595,
+              "resize": "fit",
+              "h": 335
+            },
+            "large": {
+              "w": 595,
+              "resize": "fit",
+              "h": 335
+            }
+          },
+          "id": 628184543414120448,
+          "source_status_id": 628184544638861312
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628219302924144640,
+    "id_str": "628219302924144640",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 32353291,
+          "media_url": "http://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+          "source_user_id_str": "32353291",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/jDvZiglDQr",
+          "expanded_url": "http://twitter.com/EconUS/status/628184544638861312/photo/1",
+          "url": "http://t.co/jDvZiglDQr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfCg5OW8AAMX7V.jpg",
+          "source_status_id_str": "628184544638861312",
+          "id_str": "628184543414120448",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 595,
+              "resize": "fit",
+              "h": 335
+            },
+            "large": {
+              "w": 595,
+              "resize": "fit",
+              "h": 335
+            }
+          },
+          "id": 628184543414120448,
+          "source_status_id": 628184544638861312
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/LzK5kHHEUe",
+          "indices": [
+            107,
+            129
+          ],
+          "display_url": "econ.st/1UhNbfC",
+          "expanded_url": "http://econ.st/1UhNbfC"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Economist",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "32353291",
+          "id": 32353291,
+          "screen_name": "EconUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EconUS: What would happen if Republicans defunded Planned Parenthood? The US abortion rate would go up http://t.co/LzK5kHHEUe http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 15:02:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628218548377128960,
+    "id_str": "628218548377128960",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/TsoLOCl4o5",
+          "indices": [
+            113,
+            136
+          ],
+          "display_url": "amp.twimg.com/v/6a88b50d-b62\u2026",
+          "expanded_url": "https://amp.twimg.com/v/6a88b50d-b62d-4470-b8be-a03a40f51b19"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Melissa @ MSNBC",
+          "indices": [
+            20,
+            28
+          ],
+          "id_str": "475286355",
+          "id": 475286355,
+          "screen_name": "MHPshow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Did you catch me on @MHPshow this weekend discussing all that's wrong with the latest attacks on women's health?\nhttps://t.co/TsoLOCl4o5",
+    "lang": "en",
+    "created_at": "2015-08-03 14:59:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628194540999045120",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2968451607",
+    "id": 628195281897697280,
+    "id_str": "628195281897697280",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            93,
+            106
+          ]
+        },
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            116,
+            131
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 628194540999045120,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 2968451607,
+    "in_reply_to_screen_name": "RepBWColeman",
+    "retweeted": false,
+    "text": "We see the devastating impacts of climate change every day \u2013 it\u2019s time to unite together and #ActOnClimate with the #CleanPowerPlan",
+    "lang": "en",
+    "created_at": "2015-08-03 13:26:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628193881969004544",
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2968451607",
+    "id": 628194540999045120,
+    "id_str": "628194540999045120",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            83,
+            98
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            100,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/kjNDwFhaOH",
+          "media_url": "http://pbs.twimg.com/media/CLfLbv9XAAAcogU.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfLbv9XAAAcogU.png",
+          "expanded_url": "http://twitter.com/RepBWColeman/status/628194540999045120/photo/1",
+          "id_str": "628194350632206336",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 203
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 359,
+              "resize": "fit",
+              "h": 215
+            },
+            "large": {
+              "w": 359,
+              "resize": "fit",
+              "h": 215
+            }
+          },
+          "display_url": "pic.twitter.com/kjNDwFhaOH",
+          "id": 628194350632206336
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 628193881969004544,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 2968451607,
+    "in_reply_to_screen_name": "RepBWColeman",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kjNDwFhaOH",
+          "media_url": "http://pbs.twimg.com/media/CLfLbv9XAAAcogU.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfLbv9XAAAcogU.png",
+          "expanded_url": "http://twitter.com/RepBWColeman/status/628194540999045120/photo/1",
+          "id_str": "628194350632206336",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 203
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 359,
+              "resize": "fit",
+              "h": 215
+            },
+            "large": {
+              "w": 359,
+              "resize": "fit",
+              "h": 215
+            }
+          },
+          "display_url": "pic.twitter.com/kjNDwFhaOH",
+          "id": 628194350632206336
+        }
+      ]
+    },
+    "text": "With the heat turned up, delay on climate change action is dangerous. NJ needs the #CleanPowerPlan! #ActOnClimate http://t.co/kjNDwFhaOH",
+    "lang": "en",
+    "created_at": "2015-08-03 13:23:44+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628193881969004544,
+    "id_str": "628193881969004544",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            42,
+            57
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Cutting carbon pollution saves lives. The #CleanPowerPlan will protect the health of communities across America, including New Jersey.",
+    "lang": "en",
+    "created_at": "2015-08-03 13:21:07+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 7,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627850804679024640,
+      "id_str": "627850804679024640",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "Nerdland",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "23190117",
+        "id": 23190117
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#Nerdland \"Pro life until a baby is born and then it's hello, goodbye.\" -Rep. Bonnie Watson-Coleman",
+      "lang": "en",
+      "created_at": "Sun Aug 02 14:37:51 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627854611106406400,
+    "id_str": "627854611106406400",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Nerdland",
+          "indices": [
+            15,
+            24
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Dara Cooper",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "23190117",
+          "id": 23190117,
+          "screen_name": "sangodara"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sangodara: #Nerdland \"Pro life until a baby is born and then it's hello, goodbye.\" -Rep. Bonnie Watson-Coleman",
+    "lang": "en",
+    "created_at": "2015-08-02 14:52:58+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627851701316403205,
+      "id_str": "627851701316403205",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "nerdland",
+            "indices": [
+              7,
+              16
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Robert Traynham",
+            "indices": [
+              18,
+              33
+            ],
+            "id_str": "40323557",
+            "id": 40323557,
+            "screen_name": "roberttraynham"
+          },
+          {
+            "name": "Farai Chideya",
+            "indices": [
+              35,
+              41
+            ],
+            "id_str": "19152977",
+            "id": 19152977,
+            "screen_name": "farai"
+          },
+          {
+            "name": "Michelle Goldberg",
+            "indices": [
+              43,
+              59
+            ],
+            "id_str": "212657985",
+            "id": 212657985,
+            "screen_name": "michelleinbklyn"
+          },
+          {
+            "name": "Bonnie WatsonColeman",
+            "indices": [
+              61,
+              74
+            ],
+            "id_str": "2968451607",
+            "id": 2968451607,
+            "screen_name": "RepBWColeman"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "475286355",
+        "id": 475286355
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Now in #nerdland: @ROBERTTRAYNHAM, @FARAI, @MICHELLEINBKLYN, @REPBWCOLEMAN discuss the new threat to Planned Parenthood funding",
+      "lang": "en",
+      "created_at": "Sun Aug 02 14:41:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627851852550266880,
+    "id_str": "627851852550266880",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "nerdland",
+          "indices": [
+            20,
+            29
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Melissa @ MSNBC",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "475286355",
+          "id": 475286355,
+          "screen_name": "MHPshow"
+        },
+        {
+          "name": "Robert Traynham",
+          "indices": [
+            31,
+            46
+          ],
+          "id_str": "40323557",
+          "id": 40323557,
+          "screen_name": "roberttraynham"
+        },
+        {
+          "name": "Farai Chideya",
+          "indices": [
+            48,
+            54
+          ],
+          "id_str": "19152977",
+          "id": 19152977,
+          "screen_name": "farai"
+        },
+        {
+          "name": "Michelle Goldberg",
+          "indices": [
+            56,
+            72
+          ],
+          "id_str": "212657985",
+          "id": 212657985,
+          "screen_name": "michelleinbklyn"
+        },
+        {
+          "name": "Bonnie WatsonColeman",
+          "indices": [
+            74,
+            87
+          ],
+          "id_str": "2968451607",
+          "id": 2968451607,
+          "screen_name": "RepBWColeman"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MHPshow: Now in #nerdland: @ROBERTTRAYNHAM, @FARAI, @MICHELLEINBKLYN, @REPBWCOLEMAN discuss the new threat to Planned Parenthood funding",
+    "lang": "en",
+    "created_at": "2015-08-02 14:42:01+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 20,
+      "favorite_count": 14,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627851085609332736,
+      "id_str": "627851085609332736",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "nerdland",
+            "indices": [
+              62,
+              71
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "The White House",
+            "indices": [
+              1,
+              12
+            ],
+            "id_str": "30313925",
+            "id": 30313925,
+            "screen_name": "WhiteHouse"
+          },
+          {
+            "name": "Planned Parenthood",
+            "indices": [
+              56,
+              61
+            ],
+            "id_str": "402957663",
+            "id": 402957663,
+            "screen_name": "PPFA"
+          },
+          {
+            "name": "Robert Traynham",
+            "indices": [
+              72,
+              87
+            ],
+            "id_str": "40323557",
+            "id": 40323557,
+            "screen_name": "roberttraynham"
+          },
+          {
+            "name": "Farai Chideya",
+            "indices": [
+              88,
+              94
+            ],
+            "id_str": "19152977",
+            "id": 19152977,
+            "screen_name": "farai"
+          },
+          {
+            "name": "Michelle Goldberg",
+            "indices": [
+              95,
+              111
+            ],
+            "id_str": "212657985",
+            "id": 212657985,
+            "screen_name": "michelleinbklyn"
+          },
+          {
+            "name": "Bonnie WatsonColeman",
+            "indices": [
+              112,
+              125
+            ],
+            "id_str": "2968451607",
+            "id": 2968451607,
+            "screen_name": "RepBWColeman"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "475286355",
+        "id": 475286355
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@WhiteHouse threatened a veto on any bill that defunds @PPFA #nerdland @roberttraynham @farai @michelleinbklyn @repbwcoleman weigh in",
+      "lang": "en",
+      "created_at": "Sun Aug 02 14:38:58 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627851259438071808,
+    "id_str": "627851259438071808",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "nerdland",
+          "indices": [
+            75,
+            84
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Melissa @ MSNBC",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "475286355",
+          "id": 475286355,
+          "screen_name": "MHPshow"
+        },
+        {
+          "name": "The White House",
+          "indices": [
+            14,
+            25
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "name": "Planned Parenthood",
+          "indices": [
+            69,
+            74
+          ],
+          "id_str": "402957663",
+          "id": 402957663,
+          "screen_name": "PPFA"
+        },
+        {
+          "name": "Robert Traynham",
+          "indices": [
+            85,
+            100
+          ],
+          "id_str": "40323557",
+          "id": 40323557,
+          "screen_name": "roberttraynham"
+        },
+        {
+          "name": "Farai Chideya",
+          "indices": [
+            101,
+            107
+          ],
+          "id_str": "19152977",
+          "id": 19152977,
+          "screen_name": "farai"
+        },
+        {
+          "name": "Michelle Goldberg",
+          "indices": [
+            108,
+            124
+          ],
+          "id_str": "212657985",
+          "id": 212657985,
+          "screen_name": "michelleinbklyn"
+        },
+        {
+          "name": "Bonnie WatsonColeman",
+          "indices": [
+            125,
+            138
+          ],
+          "id_str": "2968451607",
+          "id": 2968451607,
+          "screen_name": "RepBWColeman"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2968451607",
+      "screen_name": "repbwcoleman",
+      "id": 2968451607
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MHPshow: .@WhiteHouse threatened a veto on any bill that defunds @PPFA #nerdland @roberttraynham @farai @michelleinbklyn @repbwcoleman \u2026",
+    "lang": "en",
+    "created_at": "2015-08-02 14:39:39+00:00"
+  }
+]

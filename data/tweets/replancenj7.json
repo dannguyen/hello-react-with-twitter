@@ -1,0 +1,2597 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Millburn, NJ",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.372452,
+                40.713308
+              ],
+              [
+                -74.284841,
+                40.713308
+              ],
+              [
+                -74.284841,
+                40.76105
+              ],
+              [
+                -74.372452,
+                40.76105
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/1935ab8020a2553b.json",
+        "name": "Millburn",
+        "country": "United States",
+        "place_type": "city",
+        "id": "1935ab8020a2553b"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628781461852823552,
+      "id_str": "628781461852823552",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/Io77T0V6t8",
+            "media_url": "http://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+            "expanded_url": "http://twitter.com/peterdueggeli/status/628781461852823552/photo/1",
+            "id_str": "628781419582607360",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 312
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 550
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 940
+              }
+            },
+            "display_url": "pic.twitter.com/Io77T0V6t8",
+            "id": 628781419582607360
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Leonard Lance",
+            "indices": [
+              100,
+              112
+            ],
+            "id_str": "613725908",
+            "id": 613725908,
+            "screen_name": "RepLanceNJ7"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "306234313",
+        "id": 306234313
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Io77T0V6t8",
+            "media_url": "http://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+            "expanded_url": "http://twitter.com/peterdueggeli/status/628781461852823552/photo/1",
+            "id_str": "628781419582607360",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 312
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 550
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 940
+              }
+            },
+            "display_url": "pic.twitter.com/Io77T0V6t8",
+            "id": 628781419582607360
+          }
+        ]
+      },
+      "text": "As grassroots as it gets: Congressman Leonard Lance discusses Iran nuke deal with his constituents, @RepLanceNJ7 http://t.co/Io77T0V6t8",
+      "lang": "en",
+      "created_at": "Wed Aug 05 04:15:57 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 306234313,
+          "media_url": "http://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+          "source_user_id_str": "306234313",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Io77T0V6t8",
+          "expanded_url": "http://twitter.com/peterdueggeli/status/628781461852823552/photo/1",
+          "url": "http://t.co/Io77T0V6t8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+          "source_status_id_str": "628781461852823552",
+          "id_str": "628781419582607360",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 312
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 550
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 940
+            }
+          },
+          "id": 628781419582607360,
+          "source_status_id": 628781461852823552
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628887550862733312,
+    "id_str": "628887550862733312",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 306234313,
+          "media_url": "http://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+          "source_user_id_str": "306234313",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Io77T0V6t8",
+          "expanded_url": "http://twitter.com/peterdueggeli/status/628781461852823552/photo/1",
+          "url": "http://t.co/Io77T0V6t8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLnhXqOWUAAJi0P.jpg",
+          "source_status_id_str": "628781461852823552",
+          "id_str": "628781419582607360",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 312
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 550
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 940
+            }
+          },
+          "id": 628781419582607360,
+          "source_status_id": 628781461852823552
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Peter D\u00fcggeli",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "306234313",
+          "id": 306234313,
+          "screen_name": "peterdueggeli"
+        },
+        {
+          "name": "Rep. Leonard Lance",
+          "indices": [
+            119,
+            131
+          ],
+          "id_str": "613725908",
+          "id": 613725908,
+          "screen_name": "RepLanceNJ7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @peterdueggeli: As grassroots as it gets: Congressman Leonard Lance discusses Iran nuke deal with his constituents, @RepLanceNJ7 http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 11:17:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628682110488977408,
+    "id_str": "628682110488977408",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/6EYHnppmhc",
+          "media_url": "http://pbs.twimg.com/media/CLmHDGcW8AAJTD6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmHDGcW8AAJTD6.jpg",
+          "expanded_url": "http://twitter.com/RepLanceNJ7/status/628682110488977408/photo/1",
+          "id_str": "628682110333808640",
+          "indices": [
+            70,
+            92
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/6EYHnppmhc",
+          "id": 628682110333808640
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/6EYHnppmhc",
+          "media_url": "http://pbs.twimg.com/media/CLmHDGcW8AAJTD6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmHDGcW8AAJTD6.jpg",
+          "expanded_url": "http://twitter.com/RepLanceNJ7/status/628682110488977408/photo/1",
+          "id_str": "628682110333808640",
+          "indices": [
+            70,
+            92
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/6EYHnppmhc",
+          "id": 628682110333808640
+        }
+      ]
+    },
+    "text": "Great crowd at my town hall meeting on Iran nuclear deal in Millburn. http://t.co/6EYHnppmhc",
+    "lang": "en",
+    "created_at": "2015-08-04 21:41:10+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "628660716724203526",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "14930580",
+    "id": 628675805497958401,
+    "id_str": "628675805497958401",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            28,
+            37
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Medea Benjamin",
+          "indices": [
+            0,
+            14
+          ],
+          "id_str": "14930580",
+          "id": 14930580,
+          "screen_name": "medeabenjamin"
+        },
+        {
+          "name": "Senator Bob Menendez",
+          "indices": [
+            73,
+            89
+          ],
+          "id_str": "18695134",
+          "id": 18695134,
+          "screen_name": "SenatorMenendez"
+        },
+        {
+          "name": "Albio Sires",
+          "indices": [
+            90,
+            99
+          ],
+          "id_str": "18696134",
+          "id": 18696134,
+          "screen_name": "RepSires"
+        },
+        {
+          "name": "Grace Meng",
+          "indices": [
+            100,
+            113
+          ],
+          "id_str": "1051127714",
+          "id": 1051127714,
+          "screen_name": "RepGraceMeng"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628660716724203526,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": 14930580,
+    "in_reply_to_screen_name": "medeabenjamin",
+    "retweeted": false,
+    "text": "@medeabenjamin opposing the #IranDeal isn't a partisan issue. NY/NJ Dems @SenatorMenendez @RepSires @RepGraceMeng also oppose the nuke deal.",
+    "lang": "en",
+    "created_at": "2015-08-04 21:16:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628643579351728128,
+    "id_str": "628643579351728128",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/K1uGwNziy7",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "1.usa.gov/1gHW7wx",
+          "expanded_url": "http://1.usa.gov/1gHW7wx"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            56,
+            65
+          ]
+        },
+        {
+          "text": "SecretSideDeals",
+          "indices": [
+            68,
+            84
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "93 House colleagues and I have demanded the text of the #IranDeal's #SecretSideDeals be delivered to Congress. http://t.co/K1uGwNziy7",
+    "lang": "en",
+    "created_at": "2015-08-04 19:08:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628190546767572992,
+    "id_str": "628190546767572992",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Sv2aBdy9rA",
+          "indices": [
+            60,
+            82
+          ],
+          "display_url": "mycj.co/1SsbVnZ",
+          "expanded_url": "http://mycj.co/1SsbVnZ"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "MyCentralJersey",
+          "indices": [
+            87,
+            103
+          ],
+          "id_str": "16164289",
+          "id": 16164289,
+          "screen_name": "MyCentralJersey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Lance honored by American Foundation for Suicide Prevention http://t.co/Sv2aBdy9rA via @MyCentralJersey",
+    "lang": "en",
+    "created_at": "2015-08-03 13:07:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "626216439733731328",
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "17757205",
+    "id": 626366865745543168,
+    "id_str": "626366865745543168",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/97TsU3Jthn",
+          "indices": [
+            43,
+            65
+          ],
+          "display_url": "lance.house.gov/iran-nuclear-d\u2026",
+          "expanded_url": "http://lance.house.gov/iran-nuclear-deal"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Lebo!",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "17757205",
+          "id": 17757205,
+          "screen_name": "leboism"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 626216439733731328,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": 17757205,
+    "in_reply_to_screen_name": "leboism",
+    "retweeted": false,
+    "text": "@leboism YES!  and you can too by visiting http://t.co/97TsU3Jthn",
+    "lang": "en",
+    "created_at": "2015-07-29 12:21:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626176383732056064,
+    "id_str": "626176383732056064",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/DjdeXBXC6b",
+          "media_url": "http://pbs.twimg.com/media/CLCgGnDWEAEYE4G.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLCgGnDWEAEYE4G.jpg",
+          "expanded_url": "http://twitter.com/RepLanceNJ7/status/626176383732056064/photo/1",
+          "id_str": "626176383627169793",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 799
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/DjdeXBXC6b",
+          "id": 626176383627169793
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/DjdeXBXC6b",
+          "media_url": "http://pbs.twimg.com/media/CLCgGnDWEAEYE4G.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLCgGnDWEAEYE4G.jpg",
+          "expanded_url": "http://twitter.com/RepLanceNJ7/status/626176383732056064/photo/1",
+          "id_str": "626176383627169793",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 799
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/DjdeXBXC6b",
+          "id": 626176383627169793
+        }
+      ]
+    },
+    "text": "More than 2,600 callers on tonight's telephone town hall concerning Iran nuclear agreement.  A great discussion! http://t.co/DjdeXBXC6b",
+    "lang": "en",
+    "created_at": "2015-07-28 23:44:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625808463940218880,
+    "id_str": "625808463940218880",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fUTqUMZRmz",
+          "indices": [
+            68,
+            90
+          ],
+          "display_url": "northjersey.com/news/world/con\u2026",
+          "expanded_url": "http://www.northjersey.com/news/world/congressman-to-hold-meeting-on-iran-deal-at-millburn-town-hall-1.1381713"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congressman to hold meeting on Iran deal at Millburn Town Hall  -   http://t.co/fUTqUMZRmz",
+    "lang": "en",
+    "created_at": "2015-07-27 23:22:19+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623134182907191296,
+      "id_str": "623134182907191296",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "rarediseases",
+            "indices": [
+              45,
+              58
+            ]
+          },
+          {
+            "text": "ExLPRSummit",
+            "indices": [
+              59,
+              71
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/haIIwYsnV1",
+            "media_url": "http://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+            "expanded_url": "http://twitter.com/SanofiUS/status/623134182907191296/photo/1",
+            "id_str": "623134182777200640",
+            "indices": [
+              72,
+              94
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 399
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 704
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1202
+              }
+            },
+            "display_url": "pic.twitter.com/haIIwYsnV1",
+            "id": 623134182777200640
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Leonard Lance",
+            "indices": [
+              1,
+              13
+            ],
+            "id_str": "613725908",
+            "id": 613725908,
+            "screen_name": "RepLanceNJ7"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "183033795",
+        "id": 183033795
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast app</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/haIIwYsnV1",
+            "media_url": "http://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+            "expanded_url": "http://twitter.com/SanofiUS/status/623134182907191296/photo/1",
+            "id_str": "623134182777200640",
+            "indices": [
+              72,
+              94
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 399
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 704
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1202
+              }
+            },
+            "display_url": "pic.twitter.com/haIIwYsnV1",
+            "id": 623134182777200640
+          }
+        ]
+      },
+      "text": ".@RepLanceNJ7 re: health policy trends &amp; #rarediseases #ExLPRSummit http://t.co/haIIwYsnV1",
+      "lang": "en",
+      "created_at": "Mon Jul 20 14:15:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 183033795,
+          "media_url": "http://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+          "source_user_id_str": "183033795",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "pic.twitter.com/haIIwYsnV1",
+          "expanded_url": "http://twitter.com/SanofiUS/status/623134182907191296/photo/1",
+          "url": "http://t.co/haIIwYsnV1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+          "source_status_id_str": "623134182907191296",
+          "id_str": "623134182777200640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 704
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1202
+            }
+          },
+          "id": 623134182777200640,
+          "source_status_id": 623134182907191296
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623146409836048384,
+    "id_str": "623146409836048384",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "rarediseases",
+          "indices": [
+            59,
+            72
+          ]
+        },
+        {
+          "text": "ExLPRSummit",
+          "indices": [
+            73,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 183033795,
+          "media_url": "http://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+          "source_user_id_str": "183033795",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "pic.twitter.com/haIIwYsnV1",
+          "expanded_url": "http://twitter.com/SanofiUS/status/623134182907191296/photo/1",
+          "url": "http://t.co/haIIwYsnV1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKXRPNvWoAAwBuq.jpg",
+          "source_status_id_str": "623134182907191296",
+          "id_str": "623134182777200640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 704
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1202
+            }
+          },
+          "id": 623134182777200640,
+          "source_status_id": 623134182907191296
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Sanofi US",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "183033795",
+          "id": 183033795,
+          "screen_name": "SanofiUS"
+        },
+        {
+          "name": "Rep. Leonard Lance",
+          "indices": [
+            15,
+            27
+          ],
+          "id_str": "613725908",
+          "id": 613725908,
+          "screen_name": "RepLanceNJ7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SanofiUS: .@RepLanceNJ7 re: health policy trends &amp; #rarediseases #ExLPRSummit http://t.co/haIIwYsnV1",
+    "lang": "en",
+    "created_at": "2015-07-20 15:04:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621666202205687809,
+      "id_str": "621666202205687809",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Z0hmvTI2xw",
+            "indices": [
+              95,
+              117
+            ],
+            "display_url": "njjewishnews.com/article/27857/\u2026",
+            "expanded_url": "http://njjewishnews.com/article/27857/local-pols-seek-action-on-restitution#.Vaeq-RRcQQ5.twitter"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Jewish",
+            "indices": [
+              11,
+              18
+            ]
+          },
+          {
+            "text": "Holocaust",
+            "indices": [
+              118,
+              128
+            ]
+          },
+          {
+            "text": "lootedart",
+            "indices": [
+              129,
+              139
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Chris Smith",
+            "indices": [
+              36,
+              50
+            ],
+            "id_str": "1289319271",
+            "id": 1289319271,
+            "screen_name": "RepChrisSmith"
+          },
+          {
+            "name": "Rep. Leonard Lance",
+            "indices": [
+              55,
+              67
+            ],
+            "id_str": "613725908",
+            "id": 613725908,
+            "screen_name": "RepLanceNJ7"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2967006035",
+        "id": 2967006035
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "New Jersey #Jewish News: Local pols @RepChrisSmith and @RepLanceNJ7 seek action on restitution http://t.co/Z0hmvTI2xw #Holocaust #lootedart",
+      "lang": "en",
+      "created_at": "Thu Jul 16 13:02:27 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621694954600050688,
+    "id_str": "621694954600050688",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Z0hmvTI2xw",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "njjewishnews.com/article/27857/\u2026",
+          "expanded_url": "http://njjewishnews.com/article/27857/local-pols-seek-action-on-restitution#.Vaeq-RRcQQ5.twitter"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Jewish",
+          "indices": [
+            32,
+            39
+          ]
+        },
+        {
+          "text": "Holocaust",
+          "indices": [
+            139,
+            140
+          ]
+        },
+        {
+          "text": "lootedart",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "WJRO",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2967006035",
+          "id": 2967006035,
+          "screen_name": "WJRORestitution"
+        },
+        {
+          "name": "Rep. Chris Smith",
+          "indices": [
+            57,
+            71
+          ],
+          "id_str": "1289319271",
+          "id": 1289319271,
+          "screen_name": "RepChrisSmith"
+        },
+        {
+          "name": "Rep. Leonard Lance",
+          "indices": [
+            76,
+            88
+          ],
+          "id_str": "613725908",
+          "id": 613725908,
+          "screen_name": "RepLanceNJ7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WJRORestitution: New Jersey #Jewish News: Local pols @RepChrisSmith and @RepLanceNJ7 seek action on restitution http://t.co/Z0hmvTI2xw \u2026",
+    "lang": "en",
+    "created_at": "2015-07-16 14:56:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "479430035",
+      "id": 613475289927163904,
+      "id_str": "613475289927163904",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "SuicidePrevention",
+            "indices": [
+              91,
+              109
+            ]
+          },
+          {
+            "text": "AFSPForum15",
+            "indices": [
+              111,
+              123
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Leonard Lance",
+            "indices": [
+              0,
+              16
+            ],
+            "id_str": "479430035",
+            "id": 479430035,
+            "screen_name": "LeonardLanceNJ7"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2961475099",
+        "id": 2961475099
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 479430035,
+      "in_reply_to_screen_name": "LeonardLanceNJ7",
+      "retweeted": false,
+      "text": "@LeonardLanceNJ7 Congrats on your Allies in Action Award. Thank you for your dedication to #SuicidePrevention. #AFSPForum15",
+      "lang": "en",
+      "created_at": "Tue Jun 23 22:34:41 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621335857220464640,
+    "id_str": "621335857220464640",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SuicidePrevention",
+          "indices": [
+            104,
+            122
+          ]
+        },
+        {
+          "text": "AFSPForum15",
+          "indices": [
+            124,
+            136
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Liz Broussard",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "2961475099",
+          "id": 2961475099,
+          "screen_name": "lizmb74"
+        },
+        {
+          "name": "Leonard Lance",
+          "indices": [
+            13,
+            29
+          ],
+          "id_str": "479430035",
+          "id": 479430035,
+          "screen_name": "LeonardLanceNJ7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @lizmb74: @LeonardLanceNJ7 Congrats on your Allies in Action Award. Thank you for your dedication to #SuicidePrevention. #AFSPForum15",
+    "lang": "en",
+    "created_at": "2015-07-15 15:09:46+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619126905837645824,
+      "id_str": "619126905837645824",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "AASAAdv",
+            "indices": [
+              92,
+              100
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/puW6IXZ1a6",
+            "media_url": "http://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+            "expanded_url": "http://twitter.com/SPudelski/status/619126905837645824/photo/1",
+            "id_str": "619126905611132929",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 269
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 475
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 811
+              }
+            },
+            "display_url": "pic.twitter.com/puW6IXZ1a6",
+            "id": 619126905611132929
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Leonard Lance",
+            "indices": [
+              52,
+              68
+            ],
+            "id_str": "479430035",
+            "id": 479430035,
+            "screen_name": "LeonardLanceNJ7"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "568346148",
+        "id": 568346148
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/puW6IXZ1a6",
+            "media_url": "http://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+            "expanded_url": "http://twitter.com/SPudelski/status/619126905837645824/photo/1",
+            "id_str": "619126905611132929",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 269
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 475
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 811
+              }
+            },
+            "display_url": "pic.twitter.com/puW6IXZ1a6",
+            "id": 619126905611132929
+          }
+        ]
+      },
+      "text": "Great meeting with my hometown supt, Peg Dolan, and @LeonardLanceNJ7 yesterday on the Hill. #AASAAdv http://t.co/puW6IXZ1a6",
+      "lang": "en",
+      "created_at": "Thu Jul 09 12:52:11 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 568346148,
+          "media_url": "http://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+          "source_user_id_str": "568346148",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/puW6IXZ1a6",
+          "expanded_url": "http://twitter.com/SPudelski/status/619126905837645824/photo/1",
+          "url": "http://t.co/puW6IXZ1a6",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+          "source_status_id_str": "619126905837645824",
+          "id_str": "619126905611132929",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 269
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 475
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 811
+            }
+          },
+          "id": 619126905611132929,
+          "source_status_id": 619126905837645824
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621335802858078208,
+    "id_str": "621335802858078208",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "AASAAdv",
+          "indices": [
+            107,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 568346148,
+          "media_url": "http://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+          "source_user_id_str": "568346148",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/puW6IXZ1a6",
+          "expanded_url": "http://twitter.com/SPudelski/status/619126905837645824/photo/1",
+          "url": "http://t.co/puW6IXZ1a6",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJeUo-_WoAE5mFy.jpg",
+          "source_status_id_str": "619126905837645824",
+          "id_str": "619126905611132929",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 269
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 475
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 811
+            }
+          },
+          "id": 619126905611132929,
+          "source_status_id": 619126905837645824
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Sasha Pudelski",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "568346148",
+          "id": 568346148,
+          "screen_name": "SPudelski"
+        },
+        {
+          "name": "Leonard Lance",
+          "indices": [
+            67,
+            83
+          ],
+          "id_str": "479430035",
+          "id": 479430035,
+          "screen_name": "LeonardLanceNJ7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SPudelski: Great meeting with my hometown supt, Peg Dolan, and @LeonardLanceNJ7 yesterday on the Hill. #AASAAdv http://t.co/puW6IXZ1a6",
+    "lang": "en",
+    "created_at": "2015-07-15 15:09:33+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "name": "Washington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "01fbe706f872cb32"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": "613725908",
+      "id": 621309096038395904,
+      "id_str": "621309096038395904",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Leonard Lance",
+            "indices": [
+              0,
+              12
+            ],
+            "id_str": "613725908",
+            "id": 613725908,
+            "screen_name": "RepLanceNJ7"
+          },
+          {
+            "name": "Mike Quigley",
+            "indices": [
+              13,
+              28
+            ],
+            "id_str": "56864092",
+            "id": 56864092,
+            "screen_name": "RepMikeQuigley"
+          },
+          {
+            "name": "Library of Congress",
+            "indices": [
+              68,
+              84
+            ],
+            "id_str": "7152572",
+            "id": 7152572,
+            "screen_name": "librarycongress"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "313667264",
+        "id": 313667264
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 613725908,
+      "in_reply_to_screen_name": "RepLanceNJ7",
+      "retweeted": false,
+      "text": "@RepLanceNJ7 @RepMikeQuigley i strongly support your effort to make @librarycongress CRS reports public. Informed public = healthy democracy",
+      "lang": "en",
+      "created_at": "Wed Jul 15 13:23:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621319031228866560,
+    "id_str": "621319031228866560",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sam Rubinstein",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "313667264",
+          "id": 313667264,
+          "screen_name": "Sam_Rubinstein"
+        },
+        {
+          "name": "Rep. Leonard Lance",
+          "indices": [
+            20,
+            32
+          ],
+          "id_str": "613725908",
+          "id": 613725908,
+          "screen_name": "RepLanceNJ7"
+        },
+        {
+          "name": "Mike Quigley",
+          "indices": [
+            33,
+            48
+          ],
+          "id_str": "56864092",
+          "id": 56864092,
+          "screen_name": "RepMikeQuigley"
+        },
+        {
+          "name": "Library of Congress",
+          "indices": [
+            88,
+            104
+          ],
+          "id_str": "7152572",
+          "id": 7152572,
+          "screen_name": "librarycongress"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Sam_Rubinstein: @RepLanceNJ7 @RepMikeQuigley i strongly support your effort to make @librarycongress CRS reports public. Informed publi\u2026",
+    "lang": "en",
+    "created_at": "2015-07-15 14:02:55+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621314267355201536,
+      "id_str": "621314267355201536",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "JDRFCC15",
+            "indices": [
+              91,
+              100
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/648HEn2xhI",
+            "media_url": "http://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+            "expanded_url": "http://twitter.com/JackAmabile/status/621314267355201536/photo/1",
+            "id_str": "621314261583831040",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/648HEn2xhI",
+            "id": 621314261583831040
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Leonard Lance",
+            "indices": [
+              18,
+              30
+            ],
+            "id_str": "613725908",
+            "id": 613725908,
+            "screen_name": "RepLanceNJ7"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3101770069",
+        "id": 3101770069
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/648HEn2xhI",
+            "media_url": "http://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+            "expanded_url": "http://twitter.com/JackAmabile/status/621314267355201536/photo/1",
+            "id_str": "621314261583831040",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/648HEn2xhI",
+            "id": 621314261583831040
+          }
+        ]
+      },
+      "text": "Thank you so much @RepLanceNJ7 for supporting diabetes research. It means the world to me! #JDRFCC15 http://t.co/648HEn2xhI",
+      "lang": "en",
+      "created_at": "Wed Jul 15 13:43:59 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 3101770069,
+          "media_url": "http://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+          "source_user_id_str": "3101770069",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/648HEn2xhI",
+          "expanded_url": "http://twitter.com/JackAmabile/status/621314267355201536/photo/1",
+          "url": "http://t.co/648HEn2xhI",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+          "source_status_id_str": "621314267355201536",
+          "id_str": "621314261583831040",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 621314261583831040,
+          "source_status_id": 621314267355201536
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621318949519687680,
+    "id_str": "621318949519687680",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "JDRFCC15",
+          "indices": [
+            108,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 3101770069,
+          "media_url": "http://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+          "source_user_id_str": "3101770069",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/648HEn2xhI",
+          "expanded_url": "http://twitter.com/JackAmabile/status/621314267355201536/photo/1",
+          "url": "http://t.co/648HEn2xhI",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ9aB2-WoAAL8H8.jpg",
+          "source_status_id_str": "621314267355201536",
+          "id_str": "621314261583831040",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 621314261583831040,
+          "source_status_id": 621314267355201536
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Jack Amabile",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "3101770069",
+          "id": 3101770069,
+          "screen_name": "JackAmabile"
+        },
+        {
+          "name": "Rep. Leonard Lance",
+          "indices": [
+            35,
+            47
+          ],
+          "id_str": "613725908",
+          "id": 613725908,
+          "screen_name": "RepLanceNJ7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JackAmabile: Thank you so much @RepLanceNJ7 for supporting diabetes research. It means the world to me! #JDRFCC15 http://t.co/648HEn2xhI",
+    "lang": "en",
+    "created_at": "2015-07-15 14:02:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621015268874129408,
+    "id_str": "621015268874129408",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/MuV3yZAGG6",
+          "indices": [
+            75,
+            97
+          ],
+          "display_url": "lance.house.gov/newsroom/press\u2026",
+          "expanded_url": "http://lance.house.gov/newsroom/press-releases/lance-statement-on-iran-nuclear-agreement"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I oppose the President's Iran nuclear agreement.  Read my full statement:  http://t.co/MuV3yZAGG6",
+    "lang": "en",
+    "created_at": "2015-07-14 17:55:52+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619582539443769344,
+      "id_str": "619582539443769344",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/A04Yv5ySIA",
+            "indices": [
+              112,
+              134
+            ],
+            "display_url": "lance.house.gov/newsroom/press\u2026",
+            "expanded_url": "http://lance.house.gov/newsroom/press-releases/lance-hails-passage-of-21st-century-cures-act"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "MSactivist",
+            "indices": [
+              37,
+              48
+            ]
+          },
+          {
+            "text": "cures2015",
+            "indices": [
+              86,
+              96
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Leonard Lance",
+            "indices": [
+              10,
+              22
+            ],
+            "id_str": "613725908",
+            "id": 613725908,
+            "screen_name": "RepLanceNJ7"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "398269985",
+        "id": 398269985
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you @RepLanceNJ7 for featuring #MSactivist Tammy Quasius and her family in your #cures2015 press release! http://t.co/A04Yv5ySIA",
+      "lang": "en",
+      "created_at": "Fri Jul 10 19:02:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619584029654781952,
+    "id_str": "619584029654781952",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/A04Yv5ySIA",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "lance.house.gov/newsroom/press\u2026",
+          "expanded_url": "http://lance.house.gov/newsroom/press-releases/lance-hails-passage-of-21st-century-cures-act"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "MSactivist",
+          "indices": [
+            53,
+            64
+          ]
+        },
+        {
+          "text": "cures2015",
+          "indices": [
+            102,
+            112
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "MS Activist",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "398269985",
+          "id": 398269985,
+          "screen_name": "MSactivist"
+        },
+        {
+          "name": "Rep. Leonard Lance",
+          "indices": [
+            26,
+            38
+          ],
+          "id_str": "613725908",
+          "id": 613725908,
+          "screen_name": "RepLanceNJ7"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MSactivist: Thank you @RepLanceNJ7 for featuring #MSactivist Tammy Quasius and her family in your #cures2015 press release! http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-07-10 19:08:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619582833640738817,
+    "id_str": "619582833640738817",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ESJ7kMA4O8",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "lance.house.gov/newsroom/press\u2026",
+          "expanded_url": "http://lance.house.gov/newsroom/press-releases/lance-hails-passage-of-21st-century-cures-act"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Cures2015",
+          "indices": [
+            98,
+            108
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Energy and Commerce",
+          "indices": [
+            25,
+            39
+          ],
+          "id_str": "114756202",
+          "id": 114756202,
+          "screen_name": "HouseCommerce"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I am proud to be part of @HouseCommerce efforts to accelerate live-saving treatments to patients. #Cures2015 http://t.co/ESJ7kMA4O8",
+    "lang": "en",
+    "created_at": "2015-07-10 19:03:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619580808962007040,
+    "id_str": "619580808962007040",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ciwrjB4uYD",
+          "indices": [
+            107,
+            130
+          ],
+          "display_url": "yahoo.com/politics/opm-d\u2026",
+          "expanded_url": "https://www.yahoo.com/politics/opm-director-katherine-archuleta-quits-123735134636.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "OPM",
+          "indices": [
+            9,
+            15
+          ],
+          "id_str": "30231097",
+          "id": 30231097,
+          "screen_name": "USOPM"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The next @USOPM director swiftly address issues that lead to data breaches affecting 25 million Americans. https://t.co/ciwrjB4uYD",
+    "lang": "en",
+    "created_at": "2015-07-10 18:55:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "44615672",
+    "id": 613089060568059904,
+    "id_str": "613089060568059904",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/R2csZvzLpk",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "tinyurl.com/q47gzqt",
+          "expanded_url": "http://tinyurl.com/q47gzqt"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "USTR",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "44615672",
+          "id": 44615672,
+          "screen_name": "USTradeRep"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": 44615672,
+    "in_reply_to_screen_name": "USTradeRep",
+    "retweeted": false,
+    "text": "@USTradeRep, Pres. Bush allowed the public to see FTAA trade deal in 2001 prior to its enactment. Release the TPP. http://t.co/R2csZvzLpk",
+    "lang": "en",
+    "created_at": "2015-06-22 20:59:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "44615672",
+    "id": 613087290894741504,
+    "id_str": "613087290894741504",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fJj5QjghUX",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "tinyurl.com/ovc395a",
+          "expanded_url": "http://tinyurl.com/ovc395a"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "USTR",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "44615672",
+          "id": 44615672,
+          "screen_name": "USTradeRep"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "613725908",
+      "screen_name": "replancenj7",
+      "id": 613725908
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": 44615672,
+    "in_reply_to_screen_name": "USTradeRep",
+    "retweeted": false,
+    "text": "@USTradeRep, it is time for the Obama Administration to release the TPP negotiating text to the public.  http://t.co/fJj5QjghUX",
+    "lang": "en",
+    "created_at": "2015-06-22 20:52:55+00:00"
+  }
+]

@@ -1,0 +1,3339 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629690735483158528,
+      "id_str": "629690735483158528",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/eIWQlh23MO",
+            "indices": [
+              98,
+              120
+            ],
+            "display_url": "goo.gl/68dmla",
+            "expanded_url": "http://goo.gl/68dmla"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "YALI",
+            "indices": [
+              49,
+              54
+            ]
+          },
+          {
+            "text": "YALI2015",
+            "indices": [
+              79,
+              88
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Hank Johnson",
+            "indices": [
+              13,
+              28
+            ],
+            "id_str": "24745957",
+            "id": 24745957,
+            "screen_name": "RepHankJohnson"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2231782800",
+        "id": 2231782800
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you to @RepHankJohnson for your support of #YALI and for speaking at the #YALI2015 Summit! \nhttp://t.co/eIWQlh23MO",
+      "lang": "en",
+      "created_at": "Fri Aug 07 16:29:05 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629701850468585472,
+    "id_str": "629701850468585472",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/eIWQlh23MO",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "goo.gl/68dmla",
+          "expanded_url": "http://goo.gl/68dmla"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "YALI",
+          "indices": [
+            69,
+            74
+          ]
+        },
+        {
+          "text": "YALI2015",
+          "indices": [
+            99,
+            108
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "MandelaWshFellowship",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "2231782800",
+          "id": 2231782800,
+          "screen_name": "WashFellowship"
+        },
+        {
+          "name": "Rep. Hank Johnson",
+          "indices": [
+            33,
+            48
+          ],
+          "id_str": "24745957",
+          "id": 24745957,
+          "screen_name": "RepHankJohnson"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WashFellowship: Thank you to @RepHankJohnson for your support of #YALI and for speaking at the #YALI2015 Summit! \nhttp://t.co/eIWQlh23MO",
+    "lang": "en",
+    "created_at": "2015-08-07 17:13:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "629690735483158528",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2231782800",
+    "id": 629701841073401856,
+    "id_str": "629701841073401856",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "MandelaWshFellowship",
+          "indices": [
+            11,
+            26
+          ],
+          "id_str": "2231782800",
+          "id": 2231782800,
+          "screen_name": "WashFellowship"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629690735483158528,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": 2231782800,
+    "in_reply_to_screen_name": "WashFellowship",
+    "retweeted": false,
+    "text": "Thank you .@WashFellowship",
+    "lang": "en",
+    "created_at": "2015-08-07 17:13:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 149,
+      "favorite_count": 157,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629650509603991557,
+      "id_str": "629650509603991557",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              78,
+              84
+            ]
+          },
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15764644",
+        "id": 15764644
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Fri Aug 07 13:49:14 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 149,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629675622390976512,
+    "id_str": "629675622390976512",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            95,
+            101
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Nancy Pelosi ",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "15764644",
+          "id": 15764644,
+          "screen_name": "NancyPelosi"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NancyPelosi: The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight \u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 15:29:01+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 217,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 172,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629654915888103424,
+      "id_str": "629654915888103424",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "source_user_id": 55355654,
+            "media_url": "http://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+            "source_user_id_str": "55355654",
+            "indices": [
+              94,
+              116
+            ],
+            "display_url": "pic.twitter.com/R1cDgPMbPs",
+            "expanded_url": "http://twitter.com/thinkprogress/status/629331214684549120/photo/1",
+            "url": "http://t.co/R1cDgPMbPs",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+            "source_status_id_str": "629331214684549120",
+            "id_str": "629331052746645504",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 244
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 431
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 736
+              }
+            },
+            "id": 629331052746645504,
+            "source_status_id": 629331214684549120
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/gpZlMSjurP",
+            "indices": [
+              70,
+              92
+            ],
+            "display_url": "thkpr.gs/3688380",
+            "expanded_url": "http://thkpr.gs/3688380"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "55355654",
+        "id": 55355654
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 55355654,
+            "media_url": "http://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+            "source_user_id_str": "55355654",
+            "indices": [
+              94,
+              116
+            ],
+            "display_url": "pic.twitter.com/R1cDgPMbPs",
+            "expanded_url": "http://twitter.com/thinkprogress/status/629331214684549120/photo/1",
+            "url": "http://t.co/R1cDgPMbPs",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+            "source_status_id_str": "629331214684549120",
+            "id_str": "629331052746645504",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 244
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 431
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 736
+              }
+            },
+            "id": 629331052746645504,
+            "source_status_id": 629331214684549120
+          }
+        ]
+      },
+      "text": "California restores voting rights to nearly 60,000 released prisoners http://t.co/gpZlMSjurP  http://t.co/R1cDgPMbPs",
+      "lang": "en",
+      "created_at": "Fri Aug 07 14:06:45 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 217,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 55355654,
+          "media_url": "http://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+          "source_user_id_str": "55355654",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "pic.twitter.com/R1cDgPMbPs",
+          "expanded_url": "http://twitter.com/thinkprogress/status/629331214684549120/photo/1",
+          "url": "http://t.co/R1cDgPMbPs",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+          "source_status_id_str": "629331214684549120",
+          "id_str": "629331052746645504",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 244
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 431
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 736
+            }
+          },
+          "id": 629331052746645504,
+          "source_status_id": 629331214684549120
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629659007205117952,
+    "id_str": "629659007205117952",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 55355654,
+          "media_url": "http://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+          "source_user_id_str": "55355654",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "pic.twitter.com/R1cDgPMbPs",
+          "expanded_url": "http://twitter.com/thinkprogress/status/629331214684549120/photo/1",
+          "url": "http://t.co/R1cDgPMbPs",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvVQhUWIAASAGX.jpg",
+          "source_status_id_str": "629331214684549120",
+          "id_str": "629331052746645504",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 244
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 431
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 736
+            }
+          },
+          "id": 629331052746645504,
+          "source_status_id": 629331214684549120
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/gpZlMSjurP",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "thkpr.gs/3688380",
+          "expanded_url": "http://thkpr.gs/3688380"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "ThinkProgress",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "55355654",
+          "id": 55355654,
+          "screen_name": "thinkprogress"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @thinkprogress: California restores voting rights to nearly 60,000 released prisoners http://t.co/gpZlMSjurP  http://t.co/R1cDgPMbPs",
+    "lang": "en",
+    "created_at": "2015-08-07 14:23:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629299408069357568,
+    "id_str": "629299408069357568",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            51,
+            65
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            67,
+            73
+          ]
+        },
+        {
+          "text": "FlagStillFlies",
+          "indices": [
+            74,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/EGYgDvAchT",
+          "media_url": "http://pbs.twimg.com/media/CLu4efqWgAE4H3E.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu4efqWgAE4H3E.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/629299408069357568/photo/1",
+          "id_str": "629299406983036929",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            },
+            "large": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            }
+          },
+          "display_url": "pic.twitter.com/EGYgDvAchT",
+          "id": 629299406983036929
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/sOgpSeJ23J",
+          "indices": [
+            90,
+            112
+          ],
+          "display_url": "huff.to/1SN0nqf",
+          "expanded_url": "http://huff.to/1SN0nqf"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/EGYgDvAchT",
+          "media_url": "http://pbs.twimg.com/media/CLu4efqWgAE4H3E.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu4efqWgAE4H3E.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/629299408069357568/photo/1",
+          "id_str": "629299406983036929",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            },
+            "large": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            }
+          },
+          "display_url": "pic.twitter.com/EGYgDvAchT",
+          "id": 629299406983036929
+        }
+      ]
+    },
+    "text": "RT if you believe Congress must, w/o delay, act to #RestoreTheVRA! #VRA50 #FlagStillFlies http://t.co/sOgpSeJ23J http://t.co/EGYgDvAchT",
+    "lang": "en",
+    "created_at": "2015-08-06 14:34:05+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629286306061938688,
+    "id_str": "629286306061938688",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            75,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/YojcnBJqqF",
+          "media_url": "http://pbs.twimg.com/media/CLusj3nUcAAoU_F.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLusj3nUcAAoU_F.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/629286306061938688/photo/1",
+          "id_str": "629286305172582400",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            },
+            "large": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            }
+          },
+          "display_url": "pic.twitter.com/YojcnBJqqF",
+          "id": 629286305172582400
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            102,
+            115
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/YojcnBJqqF",
+          "media_url": "http://pbs.twimg.com/media/CLusj3nUcAAoU_F.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLusj3nUcAAoU_F.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/629286306061938688/photo/1",
+          "id_str": "629286305172582400",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            },
+            "large": {
+              "w": 499,
+              "resize": "fit",
+              "h": 273
+            }
+          },
+          "display_url": "pic.twitter.com/YojcnBJqqF",
+          "id": 629286305172582400
+        }
+      ]
+    },
+    "text": "\"We should be working to remove any &amp; all barriers to the ballot box.\" #RestoretheVRA. I stand w/ @repjohnlewis. http://t.co/YojcnBJqqF",
+    "lang": "en",
+    "created_at": "2015-08-06 13:42:01+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "24745957",
+      "id": 629256936811270144,
+      "id_str": "629256936811270144",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoretheVRA",
+            "indices": [
+              35,
+              49
+            ]
+          },
+          {
+            "text": "keepvoting",
+            "indices": [
+              50,
+              61
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/HFFipglqOF",
+            "media_url": "http://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+            "expanded_url": "http://twitter.com/rainbowpushATL/status/629256936811270144/photo/1",
+            "id_str": "629256936253337600",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 534
+              }
+            },
+            "display_url": "pic.twitter.com/HFFipglqOF",
+            "id": 629256936253337600
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Hank Johnson",
+            "indices": [
+              0,
+              15
+            ],
+            "id_str": "24745957",
+            "id": 24745957,
+            "screen_name": "RepHankJohnson"
+          },
+          {
+            "name": "Rev Jesse Jackson Sr",
+            "indices": [
+              62,
+              74
+            ],
+            "id_str": "80366372",
+            "id": 80366372,
+            "screen_name": "RevJJackson"
+          },
+          {
+            "name": "News & Talk WAOK",
+            "indices": [
+              75,
+              80
+            ],
+            "id_str": "28427719",
+            "id": 28427719,
+            "screen_name": "WAOK"
+          },
+          {
+            "name": "SistersnLaw",
+            "indices": [
+              81,
+              93
+            ],
+            "id_str": "1705134498",
+            "id": 1705134498,
+            "screen_name": "SistersnLaw"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "93786853",
+        "id": 93786853
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 24745957,
+      "in_reply_to_screen_name": "RepHankJohnson",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/HFFipglqOF",
+            "media_url": "http://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+            "expanded_url": "http://twitter.com/rainbowpushATL/status/629256936811270144/photo/1",
+            "id_str": "629256936253337600",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 534
+              }
+            },
+            "display_url": "pic.twitter.com/HFFipglqOF",
+            "id": 629256936253337600
+          }
+        ]
+      },
+      "text": "@RepHankJohnson help Hank help us. #RestoretheVRA #keepvoting @RevJJackson @waok @SistersnLaw http://t.co/HFFipglqOF",
+      "lang": "en",
+      "created_at": "Thu Aug 06 11:45:19 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 93786853,
+          "media_url": "http://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+          "source_user_id_str": "93786853",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "pic.twitter.com/HFFipglqOF",
+          "expanded_url": "http://twitter.com/rainbowpushATL/status/629256936811270144/photo/1",
+          "url": "http://t.co/HFFipglqOF",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+          "source_status_id_str": "629256936811270144",
+          "id_str": "629256936253337600",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 534
+            }
+          },
+          "id": 629256936253337600,
+          "source_status_id": 629256936811270144
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629285456614699008,
+    "id_str": "629285456614699008",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            55,
+            69
+          ]
+        },
+        {
+          "text": "keepvoting",
+          "indices": [
+            70,
+            81
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 93786853,
+          "media_url": "http://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+          "source_user_id_str": "93786853",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "pic.twitter.com/HFFipglqOF",
+          "expanded_url": "http://twitter.com/rainbowpushATL/status/629256936811270144/photo/1",
+          "url": "http://t.co/HFFipglqOF",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuR2X3UsAAy-_V.jpg",
+          "source_status_id_str": "629256936811270144",
+          "id_str": "629256936253337600",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 534
+            }
+          },
+          "id": 629256936253337600,
+          "source_status_id": 629256936811270144
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Janice L. Mathis",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "93786853",
+          "id": 93786853,
+          "screen_name": "rainbowpushATL"
+        },
+        {
+          "name": "Rep. Hank Johnson",
+          "indices": [
+            20,
+            35
+          ],
+          "id_str": "24745957",
+          "id": 24745957,
+          "screen_name": "RepHankJohnson"
+        },
+        {
+          "name": "Rev Jesse Jackson Sr",
+          "indices": [
+            82,
+            94
+          ],
+          "id_str": "80366372",
+          "id": 80366372,
+          "screen_name": "RevJJackson"
+        },
+        {
+          "name": "News & Talk WAOK",
+          "indices": [
+            95,
+            100
+          ],
+          "id_str": "28427719",
+          "id": 28427719,
+          "screen_name": "WAOK"
+        },
+        {
+          "name": "SistersnLaw",
+          "indices": [
+            101,
+            113
+          ],
+          "id_str": "1705134498",
+          "id": 1705134498,
+          "screen_name": "SistersnLaw"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @rainbowpushATL: @RepHankJohnson help Hank help us. #RestoretheVRA #keepvoting @RevJJackson @waok @SistersnLaw http://t.co/HFFipglqOF",
+    "lang": "en",
+    "created_at": "2015-08-06 13:38:39+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628955727164411904,
+      "id_str": "628955727164411904",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/QxRR8Nnyws",
+            "indices": [
+              62,
+              85
+            ],
+            "display_url": "honda.house.gov/congressional-\u2026",
+            "expanded_url": "https://honda.house.gov/congressional-hepatitis-caucus"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Mike Honda",
+            "indices": [
+              86,
+              99
+            ],
+            "id_str": "16583468",
+            "id": 16583468,
+            "screen_name": "RepMikeHonda"
+          },
+          {
+            "name": "Rep. Hank Johnson",
+            "indices": [
+              100,
+              115
+            ],
+            "id_str": "24745957",
+            "id": 24745957,
+            "screen_name": "RepHankJohnson"
+          },
+          {
+            "name": "RepCharlieDent",
+            "indices": [
+              116,
+              131
+            ],
+            "id_str": "242376736",
+            "id": 242376736,
+            "screen_name": "RepCharlieDent"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "705106208",
+        "id": 705106208
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you Congressional Hepatitis Caucus for your leadership! https://t.co/QxRR8Nnyws @RepMikeHonda @RepHankJohnson @RepCharlieDent",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:48:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628970799697920000,
+    "id_str": "628970799697920000",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/QxRR8Nnyws",
+          "indices": [
+            73,
+            96
+          ],
+          "display_url": "honda.house.gov/congressional-\u2026",
+          "expanded_url": "https://honda.house.gov/congressional-hepatitis-caucus"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "NVHR",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "705106208",
+          "id": 705106208,
+          "screen_name": "NVHR1"
+        },
+        {
+          "name": "Rep. Mike Honda",
+          "indices": [
+            97,
+            110
+          ],
+          "id_str": "16583468",
+          "id": 16583468,
+          "screen_name": "RepMikeHonda"
+        },
+        {
+          "name": "Rep. Hank Johnson",
+          "indices": [
+            111,
+            126
+          ],
+          "id_str": "24745957",
+          "id": 24745957,
+          "screen_name": "RepHankJohnson"
+        },
+        {
+          "name": "RepCharlieDent",
+          "indices": [
+            127,
+            140
+          ],
+          "id_str": "242376736",
+          "id": 242376736,
+          "screen_name": "RepCharlieDent"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NVHR1: Thank you Congressional Hepatitis Caucus for your leadership! https://t.co/QxRR8Nnyws @RepMikeHonda @RepHankJohnson @RepCharlieD\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 16:48:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628967429671133184,
+    "id_str": "628967429671133184",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "fightfor15",
+          "indices": [
+            27,
+            38
+          ]
+        },
+        {
+          "text": "childcareforall",
+          "indices": [
+            39,
+            55
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/erZPJR4ii0",
+          "media_url": "http://pbs.twimg.com/media/CLqKggyWIAAmpmJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqKggyWIAAmpmJ.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/628967429671133184/photo/1",
+          "id_str": "628967389133152256",
+          "indices": [
+            56,
+            78
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/erZPJR4ii0",
+          "id": 628967389133152256
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "SEIU",
+          "indices": [
+            17,
+            22
+          ],
+          "id_str": "14695985",
+          "id": 14695985,
+          "screen_name": "SEIU"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/erZPJR4ii0",
+          "media_url": "http://pbs.twimg.com/media/CLqKggyWIAAmpmJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqKggyWIAAmpmJ.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/628967429671133184/photo/1",
+          "id_str": "628967389133152256",
+          "indices": [
+            56,
+            78
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/erZPJR4ii0",
+          "id": 628967389133152256
+        }
+      ]
+    },
+    "text": "Pleased to be w/ @SEIU for #fightfor15 #childcareforall http://t.co/erZPJR4ii0",
+    "lang": "en",
+    "created_at": "2015-08-05 16:34:55+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628966339311480833,
+      "id_str": "628966339311480833",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "FightFor15",
+            "indices": [
+              87,
+              98
+            ]
+          },
+          {
+            "text": "ChildCareForAll",
+            "indices": [
+              99,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/Rl6tmpnLGz",
+            "media_url": "http://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+            "expanded_url": "http://twitter.com/ATLRaiseUp/status/628966339311480833/photo/1",
+            "id_str": "628966331035992066",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/Rl6tmpnLGz",
+            "id": 628966331035992066
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Hank Johnson",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "24745957",
+            "id": 24745957,
+            "screen_name": "RepHankJohnson"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2734304898",
+        "id": 2734304898
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Rl6tmpnLGz",
+            "media_url": "http://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+            "expanded_url": "http://twitter.com/ATLRaiseUp/status/628966339311480833/photo/1",
+            "id_str": "628966331035992066",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/Rl6tmpnLGz",
+            "id": 628966331035992066
+          }
+        ]
+      },
+      "text": ".@RepHankJohnson \"Its important that parents provide and have time for their families\" #FightFor15 #ChildCareForAll http://t.co/Rl6tmpnLGz",
+      "lang": "en",
+      "created_at": "Wed Aug 05 16:30:35 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2734304898,
+          "media_url": "http://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+          "source_user_id_str": "2734304898",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Rl6tmpnLGz",
+          "expanded_url": "http://twitter.com/ATLRaiseUp/status/628966339311480833/photo/1",
+          "url": "http://t.co/Rl6tmpnLGz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+          "source_status_id_str": "628966339311480833",
+          "id_str": "628966331035992066",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 628966331035992066,
+          "source_status_id": 628966339311480833
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628966764932669440,
+    "id_str": "628966764932669440",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FightFor15",
+          "indices": [
+            103,
+            114
+          ]
+        },
+        {
+          "text": "ChildCareForAll",
+          "indices": [
+            115,
+            131
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2734304898,
+          "media_url": "http://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+          "source_user_id_str": "2734304898",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Rl6tmpnLGz",
+          "expanded_url": "http://twitter.com/ATLRaiseUp/status/628966339311480833/photo/1",
+          "url": "http://t.co/Rl6tmpnLGz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqJi7EUwAIdVWy.jpg",
+          "source_status_id_str": "628966339311480833",
+          "id_str": "628966331035992066",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 628966331035992066,
+          "source_status_id": 628966339311480833
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "ATLRaiseUp",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "2734304898",
+          "id": 2734304898,
+          "screen_name": "ATLRaiseUp"
+        },
+        {
+          "name": "Rep. Hank Johnson",
+          "indices": [
+            17,
+            32
+          ],
+          "id_str": "24745957",
+          "id": 24745957,
+          "screen_name": "RepHankJohnson"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ATLRaiseUp: .@RepHankJohnson \"Its important that parents provide and have time for their families\" #FightFor15 #ChildCareForAll http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 16:32:17+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628946494326992896,
+      "id_str": "628946494326992896",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "FedsMeetFeds",
+            "indices": [
+              87,
+              100
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/DB3zLTM96N",
+            "media_url": "http://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+            "expanded_url": "http://twitter.com/SBAsoutheast/status/628946494326992896/photo/1",
+            "id_str": "628946400730984449",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/DB3zLTM96N",
+            "id": 628946400730984449
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Hank Johnson",
+            "indices": [
+              38,
+              53
+            ],
+            "id_str": "24745957",
+            "id": 24745957,
+            "screen_name": "RepHankJohnson"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "217065550",
+        "id": 217065550
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/DB3zLTM96N",
+            "media_url": "http://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+            "expanded_url": "http://twitter.com/SBAsoutheast/status/628946494326992896/photo/1",
+            "id_str": "628946400730984449",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/DB3zLTM96N",
+            "id": 628946400730984449
+          }
+        ]
+      },
+      "text": "SBA Regional Dir. Cassius Butts &amp; @RepHankJohnson thank government employees today #FedsMeetFeds http://t.co/DB3zLTM96N",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:11:44 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 217065550,
+          "media_url": "http://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+          "source_user_id_str": "217065550",
+          "indices": [
+            119,
+            141
+          ],
+          "display_url": "pic.twitter.com/DB3zLTM96N",
+          "expanded_url": "http://twitter.com/SBAsoutheast/status/628946494326992896/photo/1",
+          "url": "http://t.co/DB3zLTM96N",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+          "source_status_id_str": "628946494326992896",
+          "id_str": "628946400730984449",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628946400730984449,
+          "source_status_id": 628946494326992896
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628946667887325184,
+    "id_str": "628946667887325184",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FedsMeetFeds",
+          "indices": [
+            105,
+            118
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 217065550,
+          "media_url": "http://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+          "source_user_id_str": "217065550",
+          "indices": [
+            119,
+            141
+          ],
+          "display_url": "pic.twitter.com/DB3zLTM96N",
+          "expanded_url": "http://twitter.com/SBAsoutheast/status/628946494326992896/photo/1",
+          "url": "http://t.co/DB3zLTM96N",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLp3a05UsAEK5Pn.jpg",
+          "source_status_id_str": "628946494326992896",
+          "id_str": "628946400730984449",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628946400730984449,
+          "source_status_id": 628946494326992896
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "SBA Southeast",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "217065550",
+          "id": 217065550,
+          "screen_name": "SBAsoutheast"
+        },
+        {
+          "name": "Rep. Hank Johnson",
+          "indices": [
+            56,
+            71
+          ],
+          "id_str": "24745957",
+          "id": 24745957,
+          "screen_name": "RepHankJohnson"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SBAsoutheast: SBA Regional Dir. Cassius Butts &amp; @RepHankJohnson thank government employees today #FedsMeetFeds http://t.co/DB3zLTM96N",
+    "lang": "en",
+    "created_at": "2015-08-05 15:12:25+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628938179681370112,
+      "id_str": "628938179681370112",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "FedsMeetFedsExpo",
+            "indices": [
+              52,
+              69
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/I2mwn3oy3b",
+            "media_url": "http://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+            "expanded_url": "http://twitter.com/attymlilly/status/628938179681370112/photo/1",
+            "id_str": "628938149654347776",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/I2mwn3oy3b",
+            "id": 628938149654347776
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Hank Johnson",
+            "indices": [
+              29,
+              44
+            ],
+            "id_str": "24745957",
+            "id": 24745957,
+            "screen_name": "RepHankJohnson"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "76860061",
+        "id": 76860061
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/I2mwn3oy3b",
+            "media_url": "http://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+            "expanded_url": "http://twitter.com/attymlilly/status/628938179681370112/photo/1",
+            "id_str": "628938149654347776",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/I2mwn3oy3b",
+            "id": 628938149654347776
+          }
+        ]
+      },
+      "text": "Enjoying our keynote speaker @RepHankJohnson at the #FedsMeetFedsExpo \"We are all in this together\" -Rep.Hank Johnson http://t.co/I2mwn3oy3b",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:38:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 76860061,
+          "media_url": "http://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+          "source_user_id_str": "76860061",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/I2mwn3oy3b",
+          "expanded_url": "http://twitter.com/attymlilly/status/628938179681370112/photo/1",
+          "url": "http://t.co/I2mwn3oy3b",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+          "source_status_id_str": "628938179681370112",
+          "id_str": "628938149654347776",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628938149654347776,
+          "source_status_id": 628938179681370112
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628946645351272448,
+    "id_str": "628946645351272448",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FedsMeetFedsExpo",
+          "indices": [
+            68,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 76860061,
+          "media_url": "http://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+          "source_user_id_str": "76860061",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/I2mwn3oy3b",
+          "expanded_url": "http://twitter.com/attymlilly/status/628938179681370112/photo/1",
+          "url": "http://t.co/I2mwn3oy3b",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpv6jPWwAAwIRI.jpg",
+          "source_status_id_str": "628938179681370112",
+          "id_str": "628938149654347776",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628938149654347776,
+          "source_status_id": 628938179681370112
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Meredith Lilly",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "76860061",
+          "id": 76860061,
+          "screen_name": "attymlilly"
+        },
+        {
+          "name": "Rep. Hank Johnson",
+          "indices": [
+            45,
+            60
+          ],
+          "id_str": "24745957",
+          "id": 24745957,
+          "screen_name": "RepHankJohnson"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @attymlilly: Enjoying our keynote speaker @RepHankJohnson at the #FedsMeetFedsExpo \"We are all in this together\" -Rep.Hank Johnson http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:12:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628933609978785793,
+    "id_str": "628933609978785793",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/OtpxRJSz6V",
+          "media_url": "http://pbs.twimg.com/media/CLprx6sUMAAbCr0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLprx6sUMAAbCr0.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/628933609978785793/photo/1",
+          "id_str": "628933603284496384",
+          "indices": [
+            61,
+            83
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/OtpxRJSz6V",
+          "id": 628933603284496384
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/OtpxRJSz6V",
+          "media_url": "http://pbs.twimg.com/media/CLprx6sUMAAbCr0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLprx6sUMAAbCr0.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/628933609978785793/photo/1",
+          "id_str": "628933603284496384",
+          "indices": [
+            61,
+            83
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/OtpxRJSz6V",
+          "id": 628933603284496384
+        }
+      ]
+    },
+    "text": "Pleased to be keynote @ Feds-meet-Feds inaugural expo today. http://t.co/OtpxRJSz6V",
+    "lang": "en",
+    "created_at": "2015-08-05 14:20:32+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 337,
+      "favorite_count": 159,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628903659523457025,
+      "id_str": "628903659523457025",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              124,
+              138
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Republicans",
+            "indices": [
+              94,
+              103
+            ],
+            "id_str": "15207668",
+            "id": 15207668,
+            "screen_name": "HouseGOP"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "188019606",
+        "id": 188019606
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The strength of our democracy rests upon the participation of every citizen. RT if you agree: @HouseGOP should join Dems to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Wed Aug 05 12:21:31 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 337,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628918805247434752,
+    "id_str": "628918805247434752",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            137,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "James E. Clyburn",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "188019606",
+          "id": 188019606,
+          "screen_name": "Clyburn"
+        },
+        {
+          "name": "House Republicans",
+          "indices": [
+            107,
+            116
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Clyburn: The strength of our democracy rests upon the participation of every citizen. RT if you agree: @HouseGOP should join Dems to #R\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 13:21:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628641962808246273,
+    "id_str": "628641962808246273",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/f3Oo3bqabG",
+          "media_url": "http://pbs.twimg.com/media/CLliiKnUAAIYX5e.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLliiKnUAAIYX5e.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/628641962808246273/photo/1",
+          "id_str": "628641962099212290",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 292
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 500,
+              "resize": "fit",
+              "h": 430
+            },
+            "large": {
+              "w": 500,
+              "resize": "fit",
+              "h": 430
+            }
+          },
+          "display_url": "pic.twitter.com/f3Oo3bqabG",
+          "id": 628641962099212290
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Atlanta Daily World",
+          "indices": [
+            17,
+            25
+          ],
+          "id_str": "714764250",
+          "id": 714764250,
+          "screen_name": "ADWNews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/f3Oo3bqabG",
+          "media_url": "http://pbs.twimg.com/media/CLliiKnUAAIYX5e.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLliiKnUAAIYX5e.jpg",
+          "expanded_url": "http://twitter.com/RepHankJohnson/status/628641962808246273/photo/1",
+          "id_str": "628641962099212290",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 292
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 500,
+              "resize": "fit",
+              "h": 430
+            },
+            "large": {
+              "w": 500,
+              "resize": "fit",
+              "h": 430
+            }
+          },
+          "display_url": "pic.twitter.com/f3Oo3bqabG",
+          "id": 628641962099212290
+        }
+      ]
+    },
+    "text": "Congrats to new .@ADWNews GM Lorraine Cochran. Great to meet you &amp; look forward to working w/ you! http://t.co/f3Oo3bqabG",
+    "lang": "en",
+    "created_at": "2015-08-04 19:01:38+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 225,
+      "favorite_count": 134,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628538226458951680,
+      "id_str": "628538226458951680",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              130,
+              144
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "193732179",
+        "id": 193732179
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "We have an obligation to ensure that every American citizen has the right to vote &amp; that every vote is counted as cast. Let's #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Tue Aug 04 12:09:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 225,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628561600102985728,
+    "id_str": "628561600102985728",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Judy Chu",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "193732179",
+          "id": 193732179,
+          "screen_name": "RepJudyChu"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepJudyChu: We have an obligation to ensure that every American citizen has the right to vote &amp; that every vote is counted as cast. Let\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 13:42:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628297573258915840,
+    "id_str": "628297573258915840",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/9g1apG8svH",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "1.usa.gov/1IkJzlp",
+          "expanded_url": "http://1.usa.gov/1IkJzlp"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            23,
+            38
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            76,
+            89
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            16,
+            22
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My comments on .@POTUS #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate. http://t.co/9g1apG8svH",
+    "lang": "en",
+    "created_at": "2015-08-03 20:13:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628241809412653056,
+    "id_str": "628241809412653056",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/4ah6d7dp3M",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "snpy.tv/1STbXjG",
+          "expanded_url": "http://snpy.tv/1STbXjG"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            28,
+            43
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            81,
+            94
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            7,
+            13
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today, @POTUS announced his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate. http://t.co/4ah6d7dp3M",
+    "lang": "en",
+    "created_at": "2015-08-03 16:31:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628236853058109440,
+    "id_str": "628236853058109440",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "YALI",
+          "indices": [
+            8,
+            13
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            1,
+            7
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        },
+        {
+          "name": "Half the Sky Mvmt",
+          "indices": [
+            97,
+            102
+          ],
+          "id_str": "407912092",
+          "id": 407912092,
+          "screen_name": "Half"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@POTUS #YALI Stop genital mutilation -- you don't do violence to young girls to suppress them. .@Half",
+    "lang": "en",
+    "created_at": "2015-08-03 16:11:52+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628231344116629504,
+      "id_str": "628231344116629504",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "YALI2015",
+            "indices": [
+              24,
+              33
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/N6utbrkVFk",
+            "media_url": "http://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+            "expanded_url": "http://twitter.com/SenMarkey/status/628231344116629504/photo/1",
+            "id_str": "628231343487332352",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 134
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 238
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 406
+              }
+            },
+            "display_url": "pic.twitter.com/N6utbrkVFk",
+            "id": 628231343487332352
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "MandelaWshFellowship",
+            "indices": [
+              58,
+              73
+            ],
+            "id_str": "2231782800",
+            "id": 2231782800,
+            "screen_name": "WashFellowship"
+          },
+          {
+            "name": "YALINetwork",
+            "indices": [
+              74,
+              86
+            ],
+            "id_str": "2371024465",
+            "id": 2371024465,
+            "screen_name": "YALINetwork"
+          },
+          {
+            "name": "Rep. Hank Johnson",
+            "indices": [
+              93,
+              108
+            ],
+            "id_str": "24745957",
+            "id": 24745957,
+            "screen_name": "RepHankJohnson"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "21406834",
+        "id": 21406834
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/N6utbrkVFk",
+            "media_url": "http://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+            "expanded_url": "http://twitter.com/SenMarkey/status/628231344116629504/photo/1",
+            "id_str": "628231343487332352",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 134
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 238
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 406
+              }
+            },
+            "display_url": "pic.twitter.com/N6utbrkVFk",
+            "id": 628231343487332352
+          }
+        ]
+      },
+      "text": "Terrific event today at #YALI2015 w young African leaders @WashFellowship @YALINetwork &amp; @RepHankJohnson. http://t.co/N6utbrkVFk",
+      "lang": "en",
+      "created_at": "Mon Aug 03 15:49:59 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 21406834,
+          "media_url": "http://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+          "source_user_id_str": "21406834",
+          "indices": [
+            125,
+            144
+          ],
+          "display_url": "pic.twitter.com/N6utbrkVFk",
+          "expanded_url": "http://twitter.com/SenMarkey/status/628231344116629504/photo/1",
+          "url": "http://t.co/N6utbrkVFk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+          "source_status_id_str": "628231344116629504",
+          "id_str": "628231343487332352",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 134
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 238
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 406
+            }
+          },
+          "id": 628231343487332352,
+          "source_status_id": 628231344116629504
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628231396365103105,
+    "id_str": "628231396365103105",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "YALI2015",
+          "indices": [
+            39,
+            48
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 21406834,
+          "media_url": "http://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+          "source_user_id_str": "21406834",
+          "indices": [
+            125,
+            144
+          ],
+          "display_url": "pic.twitter.com/N6utbrkVFk",
+          "expanded_url": "http://twitter.com/SenMarkey/status/628231344116629504/photo/1",
+          "url": "http://t.co/N6utbrkVFk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLftFBFUMAAp9mW.jpg",
+          "source_status_id_str": "628231344116629504",
+          "id_str": "628231343487332352",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 134
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 238
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 406
+            }
+          },
+          "id": 628231343487332352,
+          "source_status_id": 628231344116629504
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Ed Markey",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "21406834",
+          "id": 21406834,
+          "screen_name": "SenMarkey"
+        },
+        {
+          "name": "MandelaWshFellowship",
+          "indices": [
+            73,
+            88
+          ],
+          "id_str": "2231782800",
+          "id": 2231782800,
+          "screen_name": "WashFellowship"
+        },
+        {
+          "name": "YALINetwork",
+          "indices": [
+            89,
+            101
+          ],
+          "id_str": "2371024465",
+          "id": 2371024465,
+          "screen_name": "YALINetwork"
+        },
+        {
+          "name": "Rep. Hank Johnson",
+          "indices": [
+            108,
+            123
+          ],
+          "id_str": "24745957",
+          "id": 24745957,
+          "screen_name": "RepHankJohnson"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24745957",
+      "screen_name": "rephankjohnson",
+      "id": 24745957
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenMarkey: Terrific event today at #YALI2015 w young African leaders @WashFellowship @YALINetwork &amp; @RepHankJohnson. http://t.co/N6utbr\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 15:50:11+00:00"
+  }
+]

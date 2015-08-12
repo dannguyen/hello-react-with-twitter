@@ -1,0 +1,2404 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "630348640930918400",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/fbFHkZlnFA",
+          "indices": [
+            43,
+            65
+          ],
+          "display_url": "centredaily.com/2015/08/04/486\u2026",
+          "expanded_url": "http://www.centredaily.com/2015/08/04/4861223/letter-to-the-editor-a-boost-for.html"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 630348640930918400,
+    "text": "Letter to the editor: A boost for research http://t.co/fbFHkZlnFA",
+    "lang": "en",
+    "created_at": "2015-08-09 12:03:21+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -79.07924616,
+        41.16038653
+      ]
+    },
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/2193d26183fe4b4c.json",
+      "country_code": "US",
+      "full_name": "Brookville, PA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -79.105408,
+              41.141922
+            ],
+            [
+              -79.0454526,
+              41.141922
+            ],
+            [
+              -79.0454526,
+              41.181128
+            ],
+            [
+              -79.105408,
+              41.181128
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Brookville",
+      "country": "United States",
+      "place_type": "city",
+      "id": "2193d26183fe4b4c"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        41.16038653,
+        -79.07924616
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629405264282660869,
+    "id_str": "629405264282660869",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Brookville",
+          "indices": [
+            79,
+            90
+          ]
+        },
+        {
+          "text": "JeffersonCounty",
+          "indices": [
+            91,
+            107
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Meeting with constituents this afternoon at the Courthouse Grille &amp; Pub in #Brookville #JeffersonCounty",
+    "lang": "en",
+    "created_at": "2015-08-06 21:34:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -79.00986301,
+        41.1420056
+      ]
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+      "country_code": "US",
+      "full_name": "Pennsylvania, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.519851,
+              39.719801
+            ],
+            [
+              -74.689517,
+              39.719801
+            ],
+            [
+              -74.689517,
+              42.516072
+            ],
+            [
+              -80.519851,
+              42.516072
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Pennsylvania",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "dd9c503d6c35364b"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        41.1420056,
+        -79.00986301
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629374107604418560,
+    "id_str": "629374107604418560",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Brookville",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "text": "JeffersonCounty",
+          "indices": [
+            15,
+            31
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In #Brookville #JeffersonCounty to meet with County officials &amp; staff this afternoon",
+    "lang": "en",
+    "created_at": "2015-08-06 19:30:55+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -78.79401539,
+        41.14238505
+      ]
+    },
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/c253afdea143ab2b.json",
+      "country_code": "US",
+      "full_name": "Reynoldsville, PA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.90277,
+              41.077543
+            ],
+            [
+              -78.86706,
+              41.077543
+            ],
+            [
+              -78.86706,
+              41.111157
+            ],
+            [
+              -78.90277,
+              41.111157
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Reynoldsville",
+      "country": "United States",
+      "place_type": "city",
+      "id": "c253afdea143ab2b"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        41.14238505,
+        -78.79401539
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629353353861013504,
+    "id_str": "629353353861013504",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Reynoldsville",
+          "indices": [
+            3,
+            17
+          ]
+        },
+        {
+          "text": "JeffersonCounty",
+          "indices": [
+            18,
+            34
+          ]
+        },
+        {
+          "text": "CommunityBankers",
+          "indices": [
+            79,
+            96
+          ]
+        },
+        {
+          "text": "TakingPA05toDC",
+          "indices": [
+            99,
+            114
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In #Reynoldsville #JeffersonCounty listening to &amp; discussing issues facing #CommunityBankers.  #TakingPA05toDC",
+    "lang": "en",
+    "created_at": "2015-08-06 18:08:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -78.70979955,
+        41.1687909
+      ]
+    },
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/e4ea348cef3cee52.json",
+      "country_code": "US",
+      "full_name": "Treasure Lake, PA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.739847,
+              41.137292
+            ],
+            [
+              -78.69916,
+              41.137292
+            ],
+            [
+              -78.69916,
+              41.184398
+            ],
+            [
+              -78.739847,
+              41.184398
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Treasure Lake",
+      "country": "United States",
+      "place_type": "city",
+      "id": "e4ea348cef3cee52"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        41.1687909,
+        -78.70979955
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Gs3q7VbcNV",
+          "media_url": "http://pbs.twimg.com/media/CLvg-ZZW8AIGDcu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvg-ZZW8AIGDcu.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/629344092464541696/photo/1",
+          "id_str": "629343935522074626",
+          "indices": [
+            81,
+            103
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Gs3q7VbcNV",
+          "id": 629343935522074626
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629344092464541696,
+    "id_str": "629344092464541696",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/Gs3q7VbcNV",
+          "media_url": "http://pbs.twimg.com/media/CLvg-ZZW8AIGDcu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvg-ZZW8AIGDcu.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/629344092464541696/photo/1",
+          "id_str": "629343935522074626",
+          "indices": [
+            81,
+            103
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Gs3q7VbcNV",
+          "id": 629343935522074626
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TakingPA05toDC",
+          "indices": [
+            65,
+            80
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Proud to receive the U.S. Chamber's Spirit of Enterprise Award.  #TakingPA05toDC http://t.co/Gs3q7VbcNV",
+    "lang": "en",
+    "created_at": "2015-08-06 17:31:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -78.70990081,
+        41.16897987
+      ]
+    },
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/e4ea348cef3cee52.json",
+      "country_code": "US",
+      "full_name": "Treasure Lake, PA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.739847,
+              41.137292
+            ],
+            [
+              -78.69916,
+              41.137292
+            ],
+            [
+              -78.69916,
+              41.184398
+            ],
+            [
+              -78.739847,
+              41.184398
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Treasure Lake",
+      "country": "United States",
+      "place_type": "city",
+      "id": "e4ea348cef3cee52"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        41.16897987,
+        -78.70990081
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Oqkkig591K",
+          "media_url": "http://pbs.twimg.com/media/CLva2MWUMAAZZnr.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLva2MWUMAAZZnr.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/629337955761586176/photo/1",
+          "id_str": "629337197510930432",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Oqkkig591K",
+          "id": 629337197510930432
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629337955761586176,
+    "id_str": "629337955761586176",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/Oqkkig591K",
+          "media_url": "http://pbs.twimg.com/media/CLva2MWUMAAZZnr.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLva2MWUMAAZZnr.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/629337955761586176/photo/1",
+          "id_str": "629337197510930432",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Oqkkig591K",
+          "id": 629337197510930432
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Speaking about issues facing the 5th district and the national at the DuBois Chamber Legislative Luncheon. http://t.co/Oqkkig591K",
+    "lang": "en",
+    "created_at": "2015-08-06 17:07:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -78.70179492,
+        41.14459913
+      ]
+    },
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/dd9c503d6c35364b.json",
+      "country_code": "US",
+      "full_name": "Pennsylvania, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -80.519851,
+              39.719801
+            ],
+            [
+              -74.689517,
+              39.719801
+            ],
+            [
+              -74.689517,
+              42.516072
+            ],
+            [
+              -80.519851,
+              42.516072
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Pennsylvania",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "dd9c503d6c35364b"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        41.14459913,
+        -78.70179492
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629318519700766720,
+    "id_str": "629318519700766720",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "TreasureLake",
+          "indices": [
+            28,
+            41
+          ]
+        },
+        {
+          "text": "ClearfieldCounty",
+          "indices": [
+            42,
+            59
+          ]
+        },
+        {
+          "text": "DuBois",
+          "indices": [
+            63,
+            70
+          ]
+        },
+        {
+          "text": "Chamber",
+          "indices": [
+            71,
+            79
+          ]
+        },
+        {
+          "text": "TakePA05toDC",
+          "indices": [
+            101,
+            114
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Listening &amp; speaking in #TreasureLake #ClearfieldCounty at #DuBois #Chamber Legislative Luncheon #TakePA05toDC",
+    "lang": "en",
+    "created_at": "2015-08-06 15:50:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -77.76187844,
+        40.92088934
+      ]
+    },
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/00a1b27a36092a2f.json",
+      "country_code": "US",
+      "full_name": "Bellefonte, PA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.812525,
+              40.877087
+            ],
+            [
+              -77.7407814,
+              40.877087
+            ],
+            [
+              -77.7407814,
+              40.928341
+            ],
+            [
+              -77.812525,
+              40.928341
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Bellefonte",
+      "country": "United States",
+      "place_type": "city",
+      "id": "00a1b27a36092a2f"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.92088934,
+        -77.76187844
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629261691570782208,
+    "id_str": "629261691570782208",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Bellefonte",
+          "indices": [
+            16,
+            27
+          ]
+        },
+        {
+          "text": "TakingPA05toDC",
+          "indices": [
+            128,
+            143
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Starting day in #Bellefonte with Roundtable Breakfast with local citizens &amp; community leaders discussing issues / solutions #TakingPA05toDC",
+    "lang": "en",
+    "created_at": "2015-08-06 12:04:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZTPATQivhg",
+          "media_url": "http://pbs.twimg.com/media/CLrBzFBVEAQAdFa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrBzFBVEAQAdFa.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/629028195992477696/photo/1",
+          "id_str": "629028181236846596",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/ZTPATQivhg",
+          "id": 629028181236846596
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629028195992477696,
+    "id_str": "629028195992477696",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/ZTPATQivhg",
+          "media_url": "http://pbs.twimg.com/media/CLrBzFBVEAQAdFa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrBzFBVEAQAdFa.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/629028195992477696/photo/1",
+          "id_str": "629028181236846596",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/ZTPATQivhg",
+          "id": 629028181236846596
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Original pipe from the DuBois Municipal Reservoir.  Celebrating 112 years serving the DuBois area. http://t.co/ZTPATQivhg",
+    "lang": "en",
+    "created_at": "2015-08-05 20:36:23+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/yZQPxVHg1B",
+            "media_url": "http://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+            "expanded_url": "http://twitter.com/NCPCommission/status/628999923854364672/photo/1",
+            "id_str": "628999915578880000",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/yZQPxVHg1B",
+            "id": 628999915578880000
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": "18967498",
+      "id": 628999923854364672,
+      "id_str": "628999923854364672",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/yZQPxVHg1B",
+            "media_url": "http://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+            "expanded_url": "http://twitter.com/NCPCommission/status/628999923854364672/photo/1",
+            "id_str": "628999915578880000",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/yZQPxVHg1B",
+            "id": 628999915578880000
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "WIOA",
+            "indices": [
+              63,
+              68
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "18967498",
+            "indices": [
+              0,
+              14
+            ],
+            "name": "Glenn 'GT' Thompson",
+            "id": 18967498,
+            "screen_name": "CongressmanGT"
+          },
+          {
+            "id_str": "475196485",
+            "indices": [
+              69,
+              83
+            ],
+            "name": "North Central",
+            "id": 475196485,
+            "screen_name": "NCPCommission"
+          },
+          {
+            "id_str": "1589069954",
+            "indices": [
+              84,
+              90
+            ],
+            "name": "North Central WIB",
+            "id": 1589069954,
+            "screen_name": "NCWIB"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": 18967498,
+      "in_reply_to_screen_name": "CongressmanGT",
+      "user": {
+        "id_str": "475196485",
+        "id": 475196485
+      },
+      "text": "@CongressmanGT fields questions from youth and stakeholders on #WIOA @NCPCommission @NCWIB http://t.co/yZQPxVHg1B",
+      "lang": "en",
+      "created_at": "Wed Aug 05 18:44:02 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 475196485,
+          "media_url": "http://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+          "source_user_id_str": "475196485",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "pic.twitter.com/yZQPxVHg1B",
+          "expanded_url": "http://twitter.com/NCPCommission/status/628999923854364672/photo/1",
+          "url": "http://t.co/yZQPxVHg1B",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+          "source_status_id_str": "628999923854364672",
+          "id_str": "628999915578880000",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628999915578880000,
+          "source_status_id": 628999923854364672
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629000022227595269,
+    "id_str": "629000022227595269",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 475196485,
+          "media_url": "http://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+          "source_user_id_str": "475196485",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "pic.twitter.com/yZQPxVHg1B",
+          "expanded_url": "http://twitter.com/NCPCommission/status/628999923854364672/photo/1",
+          "url": "http://t.co/yZQPxVHg1B",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqoFzPUcAAVK5n.jpg",
+          "source_status_id_str": "628999923854364672",
+          "id_str": "628999915578880000",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628999915578880000,
+          "source_status_id": 628999923854364672
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WIOA",
+          "indices": [
+            82,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "475196485",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "North Central",
+          "id": 475196485,
+          "screen_name": "NCPCommission"
+        },
+        {
+          "id_str": "18967498",
+          "indices": [
+            19,
+            33
+          ],
+          "name": "Glenn 'GT' Thompson",
+          "id": 18967498,
+          "screen_name": "CongressmanGT"
+        },
+        {
+          "id_str": "475196485",
+          "indices": [
+            88,
+            102
+          ],
+          "name": "North Central",
+          "id": 475196485,
+          "screen_name": "NCPCommission"
+        },
+        {
+          "id_str": "1589069954",
+          "indices": [
+            103,
+            109
+          ],
+          "name": "North Central WIB",
+          "id": 1589069954,
+          "screen_name": "NCWIB"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "RT @NCPCommission: @CongressmanGT fields questions from youth and stakeholders on #WIOA @NCPCommission @NCWIB http://t.co/yZQPxVHg1B",
+    "lang": "en",
+    "created_at": "2015-08-05 18:44:26+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/VvFNKHagrf",
+          "media_url": "http://pbs.twimg.com/media/CLqoHsmUkAAbiuu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqoHsmUkAAbiuu.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/628999959568891904/photo/1",
+          "id_str": "628999948156047360",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/VvFNKHagrf",
+          "id": 628999948156047360
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628999959568891904,
+    "id_str": "628999959568891904",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/VvFNKHagrf",
+          "media_url": "http://pbs.twimg.com/media/CLqoHsmUkAAbiuu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqoHsmUkAAbiuu.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/628999959568891904/photo/1",
+          "id_str": "628999948156047360",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/VvFNKHagrf",
+          "id": 628999948156047360
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Great discussion on the Workforce Innovation and Opportunity Act in Elk County.  Connecting youth with good careers. http://t.co/VvFNKHagrf",
+    "lang": "en",
+    "created_at": "2015-08-05 18:44:11+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628969647036104704,
+    "id_str": "628969647036104704",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Ridgway",
+          "indices": [
+            3,
+            11
+          ]
+        },
+        {
+          "text": "ElkCounty",
+          "indices": [
+            12,
+            22
+          ]
+        },
+        {
+          "text": "WIB",
+          "indices": [
+            29,
+            33
+          ]
+        },
+        {
+          "text": "Workforce",
+          "indices": [
+            34,
+            44
+          ]
+        },
+        {
+          "text": "Youth",
+          "indices": [
+            62,
+            68
+          ]
+        },
+        {
+          "text": "workforcedevelopment",
+          "indices": [
+            93,
+            114
+          ]
+        },
+        {
+          "text": "WIOA",
+          "indices": [
+            123,
+            128
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            129,
+            134
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In #Ridgway #ElkCounty for a #WIB #Workforce Investment Board #Youth Council Event regarding #workforcedevelopment through #WIOA #jobs",
+    "lang": "en",
+    "created_at": "2015-08-05 16:43:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/qocyMPM8a1",
+          "media_url": "http://pbs.twimg.com/media/CLpcI4yUcAIXtee.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpcI4yUcAIXtee.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/628916415551156224/photo/1",
+          "id_str": "628916405723754498",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/qocyMPM8a1",
+          "id": 628916405723754498
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628916415551156224,
+    "id_str": "628916415551156224",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/qocyMPM8a1",
+          "media_url": "http://pbs.twimg.com/media/CLpcI4yUcAIXtee.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpcI4yUcAIXtee.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/628916415551156224/photo/1",
+          "id_str": "628916405723754498",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/qocyMPM8a1",
+          "id": 628916405723754498
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Proud to speak to students in Mr. Clyde Mighells Government and Politics Workshop at Penn State University. http://t.co/qocyMPM8a1",
+    "lang": "en",
+    "created_at": "2015-08-05 13:12:12+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628894649948745728,
+    "id_str": "628894649948745728",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "StateCollege",
+          "indices": [
+            3,
+            16
+          ]
+        },
+        {
+          "text": "CentreCounty",
+          "indices": [
+            73,
+            86
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In #StateCollege this morning at 8:05 AM on WBLF 970AM with Jerry Fisher #CentreCounty",
+    "lang": "en",
+    "created_at": "2015-08-05 11:45:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628380644452794368,
+    "id_str": "628380644452794368",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Clearfield",
+          "indices": [
+            3,
+            14
+          ]
+        },
+        {
+          "text": "ClearfieldCounty",
+          "indices": [
+            40,
+            57
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In #Clearfield for a great visit at the #ClearfieldCounty Fair &amp; Fireman's Parade.",
+    "lang": "en",
+    "created_at": "2015-08-04 01:43:15+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 33,
+      "favorite_count": 29,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "627492064419291137",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "HireMoreHeroes",
+            "indices": [
+              4,
+              19
+            ]
+          },
+          {
+            "text": "jobs",
+            "indices": [
+              35,
+              40
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/mINUirea4d",
+            "indices": [
+              110,
+              132
+            ],
+            "display_url": "j.mp/1KFEPKe",
+            "expanded_url": "http://j.mp/1KFEPKe"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "7713202",
+        "id": 7713202
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 627492064419291137,
+      "text": "The #HireMoreHeroes Act, the first #jobs bill the House passed earlier this year, is now the law of the land. http://t.co/mINUirea4d",
+      "lang": "en",
+      "created_at": "Sat Aug 01 14:52:21 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 33,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "627528164894482432",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "7713202",
+          "indices": [
+            3,
+            18
+          ],
+          "name": "Speaker John Boehner",
+          "id": 7713202,
+          "screen_name": "SpeakerBoehner"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "HireMoreHeroes",
+          "indices": [
+            24,
+            39
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            55,
+            60
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/mINUirea4d",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "j.mp/1KFEPKe",
+          "expanded_url": "http://j.mp/1KFEPKe"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 627528164894482432,
+    "text": "RT @SpeakerBoehner: The #HireMoreHeroes Act, the first #jobs bill the House passed earlier this year, is now the law of the land. http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-01 17:15:48+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/rYfRztiI1g",
+          "media_url": "http://pbs.twimg.com/media/CLVZ537WgAA-g-a.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLVZ537WgAA-g-a.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/627506574005792768/photo/1",
+          "id_str": "627506573888356352",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/rYfRztiI1g",
+          "id": 627506573888356352
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627506574005792768,
+    "id_str": "627506574005792768",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/rYfRztiI1g",
+          "media_url": "http://pbs.twimg.com/media/CLVZ537WgAA-g-a.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLVZ537WgAA-g-a.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/627506574005792768/photo/1",
+          "id_str": "627506573888356352",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/rYfRztiI1g",
+          "id": 627506573888356352
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RuralElectric",
+          "indices": [
+            46,
+            60
+          ]
+        },
+        {
+          "text": "TiogaCounty",
+          "indices": [
+            86,
+            98
+          ]
+        },
+        {
+          "text": "NRECA",
+          "indices": [
+            106,
+            112
+          ]
+        },
+        {
+          "text": "PREA",
+          "indices": [
+            113,
+            118
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Great to attend &amp; speak at the Tri-County #RuralElectric Coop's Annual Meeting in #TiogaCounty today. #NRECA #PREA http://t.co/rYfRztiI1g",
+    "lang": "en",
+    "created_at": "2015-08-01 15:50:00+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "627177441006489600",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "18967498",
+            "indices": [
+              10,
+              24
+            ],
+            "name": "Glenn 'GT' Thompson",
+            "id": 18967498,
+            "screen_name": "CongressmanGT"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "schools",
+            "indices": [
+              65,
+              73
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/KBs99GJWNt",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "ow.ly/Qlmu3",
+            "expanded_url": "http://ow.ly/Qlmu3"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "64758072",
+        "id": 64758072
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 627177441006489600,
+      "text": "Thank you @CongressmanGT \u2013 your support of SFMA will help ensure #schools have tools they need to serve healthy meals http://t.co/KBs99GJWNt",
+      "lang": "en",
+      "created_at": "Fri Jul 31 18:02:08 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "627225381544853504",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "64758072",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "Chef Ann Foundation",
+          "id": 64758072,
+          "screen_name": "ChefAnnFnd"
+        },
+        {
+          "id_str": "18967498",
+          "indices": [
+            26,
+            40
+          ],
+          "name": "Glenn 'GT' Thompson",
+          "id": 18967498,
+          "screen_name": "CongressmanGT"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "schools",
+          "indices": [
+            81,
+            89
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/KBs99GJWNt",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "ow.ly/Qlmu3",
+          "expanded_url": "http://ow.ly/Qlmu3"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 627225381544853504,
+    "text": "RT @ChefAnnFnd: Thank you @CongressmanGT \u2013 your support of SFMA will help ensure #schools have tools they need to serve healthy meals http:\u2026",
+    "lang": "en",
+    "created_at": "2015-07-31 21:12:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Jov7zFNyGv",
+          "media_url": "http://pbs.twimg.com/media/CLQ5A0zWgAEtKHb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQ5A0zWgAEtKHb.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/627188934666256384/photo/1",
+          "id_str": "627188934448152577",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1820
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 1066
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Jov7zFNyGv",
+          "id": 627188934448152577
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627188934666256384,
+    "id_str": "627188934666256384",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/Jov7zFNyGv",
+          "media_url": "http://pbs.twimg.com/media/CLQ5A0zWgAEtKHb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQ5A0zWgAEtKHb.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/627188934666256384/photo/1",
+          "id_str": "627188934448152577",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1820
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 1066
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Jov7zFNyGv",
+          "id": 627188934448152577
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PICCC",
+          "indices": [
+            21,
+            27
+          ]
+        },
+        {
+          "text": "CentreCounty",
+          "indices": [
+            61,
+            74
+          ]
+        },
+        {
+          "text": "WorkforceDevelopment",
+          "indices": [
+            75,
+            96
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Congrats to the 2015 #PICCC Blueprint for Success graduates! #CentreCounty #WorkforceDevelopment http://t.co/Jov7zFNyGv",
+    "lang": "en",
+    "created_at": "2015-07-31 18:47:49+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/oXirZb0riP",
+          "media_url": "http://pbs.twimg.com/media/CLQwCzlW8AAP3yR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQwCzlW8AAP3yR.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/627179072993501184/photo/1",
+          "id_str": "627179072876113920",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 928,
+              "resize": "fit",
+              "h": 1237
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 799
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/oXirZb0riP",
+          "id": 627179072876113920
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627179072993501184,
+    "id_str": "627179072993501184",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/oXirZb0riP",
+          "media_url": "http://pbs.twimg.com/media/CLQwCzlW8AAP3yR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQwCzlW8AAP3yR.jpg",
+          "expanded_url": "http://twitter.com/CongressmanGT/status/627179072993501184/photo/1",
+          "id_str": "627179072876113920",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 928,
+              "resize": "fit",
+              "h": 1237
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 799
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/oXirZb0riP",
+          "id": 627179072876113920
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PICCC",
+          "indices": [
+            34,
+            40
+          ]
+        },
+        {
+          "text": "WorkforceDevelopment",
+          "indices": [
+            84,
+            105
+          ]
+        },
+        {
+          "text": "Training",
+          "indices": [
+            106,
+            115
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "18967498",
+      "screen_name": "congressmangt",
+      "id": 18967498
+    },
+    "text": "Honored to be Keynote Speaker for #PICCC Blueprint for Success Recognition Ceremony #WorkforceDevelopment #Training http://t.co/oXirZb0riP",
+    "lang": "en",
+    "created_at": "2015-07-31 18:08:38+00:00",
+    "retweeted": false
+  }
+]

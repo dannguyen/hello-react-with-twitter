@@ -1,0 +1,1921 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629755770222063616,
+    "id_str": "629755770222063616",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/DTRM744ruY",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "on.fb.me/1OVSNbT",
+          "expanded_url": "http://on.fb.me/1OVSNbT"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Centerstone",
+          "indices": [
+            37,
+            49
+          ],
+          "id_str": "205438429",
+          "id": 205438429,
+          "screen_name": "Centerstone"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joe welcomed a federal grant to help @Centerstone of IN\u2019s program for homeless veterans in eastern &amp; south central IN.http://t.co/DTRM744ruY",
+    "lang": "en",
+    "created_at": "2015-08-07 20:47:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629737590560825344,
+    "id_str": "629737590560825344",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rJCKd960Fy",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "bit.ly/1Ee5edl",
+          "expanded_url": "http://bit.ly/1Ee5edl"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GoodNews",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#GoodNews: Recycling business ShaLee Oils LLC today announced plans to relocate to Hartford City, IN from Canada. http://t.co/rJCKd960Fy",
+    "lang": "en",
+    "created_at": "2015-08-07 19:35:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629612711396155392,
+      "id_str": "629612711396155392",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IndyStateFair",
+            "indices": [
+              69,
+              83
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/pLWaREYqIR",
+            "media_url": "http://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+            "expanded_url": "http://twitter.com/IndianaPork/status/629612711396155392/photo/1",
+            "id_str": "629612704131448832",
+            "indices": [
+              84,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 452
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 798
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 852
+              }
+            },
+            "display_url": "pic.twitter.com/pLWaREYqIR",
+            "id": 629612704131448832
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Senator Joe Donnelly",
+            "indices": [
+              10,
+              22
+            ],
+            "id_str": "216503958",
+            "id": 216503958,
+            "screen_name": "SenDonnelly"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "26156484",
+        "id": 26156484
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/pLWaREYqIR",
+            "media_url": "http://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+            "expanded_url": "http://twitter.com/IndianaPork/status/629612711396155392/photo/1",
+            "id_str": "629612704131448832",
+            "indices": [
+              84,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 452
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 798
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 852
+              }
+            },
+            "display_url": "pic.twitter.com/pLWaREYqIR",
+            "id": 629612704131448832
+          }
+        ]
+      },
+      "text": "Thank you @SenDonnelly for attending the Ham Breakfast this morning! #IndyStateFair http://t.co/pLWaREYqIR",
+      "lang": "en",
+      "created_at": "Fri Aug 07 11:19:02 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 26156484,
+          "media_url": "http://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+          "source_user_id_str": "26156484",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "pic.twitter.com/pLWaREYqIR",
+          "expanded_url": "http://twitter.com/IndianaPork/status/629612711396155392/photo/1",
+          "url": "http://t.co/pLWaREYqIR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+          "source_status_id_str": "629612711396155392",
+          "id_str": "629612704131448832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 452
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 798
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 852
+            }
+          },
+          "id": 629612704131448832,
+          "source_status_id": 629612711396155392
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629651078406082560,
+    "id_str": "629651078406082560",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IndyStateFair",
+          "indices": [
+            86,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 26156484,
+          "media_url": "http://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+          "source_user_id_str": "26156484",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "pic.twitter.com/pLWaREYqIR",
+          "expanded_url": "http://twitter.com/IndianaPork/status/629612711396155392/photo/1",
+          "url": "http://t.co/pLWaREYqIR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzVayfUAAAt0zY.jpg",
+          "source_status_id_str": "629612711396155392",
+          "id_str": "629612704131448832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 452
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 798
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 852
+            }
+          },
+          "id": 629612704131448832,
+          "source_status_id": 629612711396155392
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Indiana Pork Farmers",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "26156484",
+          "id": 26156484,
+          "screen_name": "IndianaPork"
+        },
+        {
+          "name": "Senator Joe Donnelly",
+          "indices": [
+            27,
+            39
+          ],
+          "id_str": "216503958",
+          "id": 216503958,
+          "screen_name": "SenDonnelly"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @IndianaPork: Thank you @SenDonnelly for attending the Ham Breakfast this morning! #IndyStateFair http://t.co/pLWaREYqIR",
+    "lang": "en",
+    "created_at": "2015-08-07 13:51:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629651053890416640,
+    "id_str": "629651053890416640",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "YrOfTheFarmer",
+          "indices": [
+            89,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/iJ7ZZzXLbG",
+          "media_url": "http://pbs.twimg.com/media/CLz4TAYUYAAWl2Z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz4TAYUYAAWl2Z.jpg",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/629651053890416640/photo/1",
+          "id_str": "629651053328228352",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iJ7ZZzXLbG",
+          "id": 629651053328228352
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Indiana Pork Farmers",
+          "indices": [
+            17,
+            29
+          ],
+          "id_str": "26156484",
+          "id": 26156484,
+          "screen_name": "IndianaPork"
+        },
+        {
+          "name": "Indiana State Fair",
+          "indices": [
+            73,
+            87
+          ],
+          "id_str": "44609264",
+          "id": 44609264,
+          "screen_name": "IndyStateFair"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/iJ7ZZzXLbG",
+          "media_url": "http://pbs.twimg.com/media/CLz4TAYUYAAWl2Z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz4TAYUYAAWl2Z.jpg",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/629651053890416640/photo/1",
+          "id_str": "629651053328228352",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iJ7ZZzXLbG",
+          "id": 629651053328228352
+        }
+      ]
+    },
+    "text": "Joe attended the @IndianaPork Ham Breakfast this morning to kick off the @IndyStateFair. #YrOfTheFarmer http://t.co/iJ7ZZzXLbG",
+    "lang": "en",
+    "created_at": "2015-08-07 13:51:24+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629398933077274625,
+    "id_str": "629398933077274625",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rr5OybSjEg",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "bit.ly/1D5bG8k",
+          "expanded_url": "http://bit.ly/1D5bG8k"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "INtownoftheday",
+          "indices": [
+            102,
+            117
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Montezuma was an important trading post for Miami Native American settlements. http://t.co/rr5OybSjEg #INtownoftheday",
+    "lang": "en",
+    "created_at": "2015-08-06 21:09:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629378627302486016,
+    "id_str": "629378627302486016",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/awpvhXyTKx",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "on.fb.me/1OTFSXP",
+          "expanded_url": "http://on.fb.me/1OTFSXP"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Hoosier students: Deadline is Sept. 25 to submit application for U.S. Service Academy nomination from Sen. Donnelly. http://t.co/awpvhXyTKx",
+    "lang": "en",
+    "created_at": "2015-08-06 19:48:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629324237745061888,
+    "id_str": "629324237745061888",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            123,
+            129
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(3/3) I will continue working to ensure that no Hoosier or American is denied the right to vote due to discrimination -Joe #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 16:12:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629324187799298048,
+    "id_str": "629324187799298048",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(2/3) We honor civil rights leaders &amp; advocates, including many Hoosiers, who fought to advance voting &amp; equal rights for all Americans.-Joe",
+    "lang": "en",
+    "created_at": "2015-08-06 16:12:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629323998665535488,
+    "id_str": "629323998665535488",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            133,
+            139
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(1/3) Fifty years ago, the landmark Voting Rights Act was signed into law to protect Americans from discrimination at the polls.-Joe #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 16:11:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629306116468572160,
+    "id_str": "629306116468572160",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/KNJppgGnay",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "indy.st/1eVf0ul",
+          "expanded_url": "http://indy.st/1eVf0ul"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GoodNews",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "celebrateIND",
+          "indices": [
+            81,
+            94
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Indianapolis Airport",
+          "indices": [
+            10,
+            21
+          ],
+          "id_str": "58886669",
+          "id": 58886669,
+          "screen_name": "INDairport"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#GoodNews @INDairport named \u201cBest Airport in North America\u201d 4th time in 5 years. #celebrateIND http://t.co/KNJppgGnay",
+    "lang": "en",
+    "created_at": "2015-08-06 15:00:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629296085551443968,
+    "id_str": "629296085551443968",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(2/2) Regardless of the time of year, day of the week, or where a family lives, children should have access to nutritious food to eat.-Joe",
+    "lang": "en",
+    "created_at": "2015-08-06 14:20:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629296029985284096,
+    "id_str": "629296029985284096",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/h1H03utZcm",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "1.usa.gov/1K5ciLt",
+          "expanded_url": "http://1.usa.gov/1K5ciLt"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(1/2) Joe helped introduce the bipartisan Hunger Free Summer for Kids Act yesterday. http://t.co/h1H03utZcm",
+    "lang": "en",
+    "created_at": "2015-08-06 14:20:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628939016503754752,
+    "id_str": "628939016503754752",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NationalNightOut",
+          "indices": [
+            51,
+            68
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/zZro8drYzo",
+          "media_url": "http://pbs.twimg.com/media/CLpwr0RUAAA4xXJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpwr0RUAAA4xXJ.jpg",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/628939016503754752/photo/1",
+          "id_str": "628938996039548928",
+          "indices": [
+            70,
+            92
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/zZro8drYzo",
+          "id": 628938996039548928
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/zZro8drYzo",
+          "media_url": "http://pbs.twimg.com/media/CLpwr0RUAAA4xXJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpwr0RUAAA4xXJ.jpg",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/628939016503754752/photo/1",
+          "id_str": "628938996039548928",
+          "indices": [
+            70,
+            92
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/zZro8drYzo",
+          "id": 628938996039548928
+        },
+        {
+          "url": "http://t.co/zZro8drYzo",
+          "media_url": "http://pbs.twimg.com/media/CLpws6TUwAA8Ig8.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpws6TUwAA8Ig8.jpg",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/628939016503754752/photo/1",
+          "id_str": "628939014838468608",
+          "indices": [
+            70,
+            92
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 270
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 476
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 813
+            }
+          },
+          "display_url": "pic.twitter.com/zZro8drYzo",
+          "id": 628939014838468608
+        }
+      ]
+    },
+    "text": "Last night, Joe\u2019s staff participated in Danville\u2019s #NationalNightOut. http://t.co/zZro8drYzo",
+    "lang": "en",
+    "created_at": "2015-08-05 14:42:01+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628598819362590720,
+    "id_str": "628598819362590720",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(4/4) I am hopeful we will see the day when jobs compete for the same workers instead of workers competing for the same jobs. -Joe",
+    "lang": "en",
+    "created_at": "2015-08-04 16:10:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628598750458609664,
+    "id_str": "628598750458609664",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(3/4) We need to ensure that we train Hoosiers for the jobs that are available now, so every Hoosier who wants a job can get a job. -Joe",
+    "lang": "en",
+    "created_at": "2015-08-04 16:09:55+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628598677620326400,
+    "id_str": "628598677620326400",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/p0Zszir919",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "1.usa.gov/1gHzl86",
+          "expanded_url": "http://1.usa.gov/1gHzl86"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(2/4) Progress has been made, but much work still remains to close the skills gap. \u2013Joe http://t.co/p0Zszir919",
+    "lang": "en",
+    "created_at": "2015-08-04 16:09:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628598404822642688,
+    "id_str": "628598404822642688",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/lNk9ZmgpkC",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "on.fb.me/1KOcXq9",
+          "expanded_url": "http://on.fb.me/1KOcXq9"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Dean Heller",
+          "indices": [
+            14,
+            28
+          ],
+          "id_str": "266133081",
+          "id": 266133081,
+          "screen_name": "SenDeanHeller"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(1/4) Joe and @SenDeanHeller introduced bipartisan legislation that would track progress in closing the skills gap. http://t.co/lNk9ZmgpkC",
+    "lang": "en",
+    "created_at": "2015-08-04 16:08:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628563579357278208,
+    "id_str": "628563579357278208",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/5bZB1Jshyg",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "on.fb.me/1Ihl3Uw",
+          "expanded_url": "http://on.fb.me/1Ihl3Uw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GoodNews",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#GoodNews: Fort Wayne Fire Department will hire 15 new firefighters thanks in part to a SAFER federal grant. http://t.co/5bZB1Jshyg",
+    "lang": "en",
+    "created_at": "2015-08-04 13:50:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627235696038776832,
+    "id_str": "627235696038776832",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/PHupO6sm3t",
+          "media_url": "http://pbs.twimg.com/media/CLRjir8WwAA23CA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRjir8WwAA23CA.jpg",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/627235696038776832/photo/1",
+          "id_str": "627235695673917440",
+          "indices": [
+            69,
+            91
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/PHupO6sm3t",
+          "id": 627235695673917440
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/PHupO6sm3t",
+          "media_url": "http://pbs.twimg.com/media/CLRjir8WwAA23CA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRjir8WwAA23CA.jpg",
+          "expanded_url": "http://twitter.com/SenDonnelly/status/627235696038776832/photo/1",
+          "id_str": "627235695673917440",
+          "indices": [
+            69,
+            91
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/PHupO6sm3t",
+          "id": 627235695673917440
+        }
+      ]
+    },
+    "text": "Joe's staff attended the Homes of Oakland City ribbon cutting today. http://t.co/PHupO6sm3t",
+    "lang": "en",
+    "created_at": "2015-07-31 21:53:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627158635089657856,
+    "id_str": "627158635089657856",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "216503958",
+      "screen_name": "sendonnelly",
+      "id": 216503958
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "(2/2) I would appreciate your immediate &amp; favorable consideration of a disaster declaration for these counties. \u2013Joe",
+    "lang": "en",
+    "created_at": "2015-07-31 16:47:25+00:00"
+  }
+]

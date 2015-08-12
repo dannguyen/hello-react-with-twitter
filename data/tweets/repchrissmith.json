@@ -1,0 +1,1282 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628633618726973440,
+    "id_str": "628633618726973440",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NJ04",
+          "indices": [
+            28,
+            33
+          ]
+        },
+        {
+          "text": "JerseyShore",
+          "indices": [
+            105,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/BzypqxJVKC",
+          "media_url": "http://pbs.twimg.com/media/CLla8eWUAAAEMrG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLla8eWUAAAEMrG.jpg",
+          "expanded_url": "http://twitter.com/RepChrisSmith/status/628633618726973440/photo/1",
+          "id_str": "628633617980194816",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 406
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 693
+            }
+          },
+          "display_url": "pic.twitter.com/BzypqxJVKC",
+          "id": 628633617980194816
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "USCG (Official)",
+          "indices": [
+            21,
+            26
+          ],
+          "id_str": "15113565",
+          "id": 15113565,
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/BzypqxJVKC",
+          "media_url": "http://pbs.twimg.com/media/CLla8eWUAAAEMrG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLla8eWUAAAEMrG.jpg",
+          "expanded_url": "http://twitter.com/RepChrisSmith/status/628633618726973440/photo/1",
+          "id_str": "628633617980194816",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 406
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 693
+            }
+          },
+          "display_url": "pic.twitter.com/BzypqxJVKC",
+          "id": 628633617980194816
+        }
+      ]
+    },
+    "text": "Happy 225th Birthday @USCG! #NJ04 thanks the Guardsman from Station Manasquan for working to protect the #JerseyShore http://t.co/BzypqxJVKC",
+    "lang": "en",
+    "created_at": "2015-08-04 18:28:28+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "626861501777899520",
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 626861566336630785,
+    "id_str": "626861566336630785",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/M3b34rhFnJ",
+          "indices": [
+            41,
+            63
+          ],
+          "display_url": "chrissmith.house.gov/news/documents\u2026",
+          "expanded_url": "http://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=398356"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 626861501777899520,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "Read more about the PACE Innovation Act: http://t.co/M3b34rhFnJ My bipartisan legislation has broad support and should be enacted",
+    "lang": "en",
+    "created_at": "2015-07-30 21:06:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "626861368696795137",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 626861501777899520,
+    "id_str": "626861501777899520",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "PACE",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 626861368696795137,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "#PACE greatly boosts the quality of life for seniors &amp; my bill will ensure more individuals can get the care they need &amp; stay in their homes",
+    "lang": "en",
+    "created_at": "2015-07-30 21:06:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "626861318495174656",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 626861368696795137,
+    "id_str": "626861368696795137",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 626861318495174656,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "Yesterday I introduced the PACE Innovation Act to allow Medicare's PACE program to serve more seniors &amp; individuals w/ disabilities",
+    "lang": "en",
+    "created_at": "2015-07-30 21:06:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "626861281509830657",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 626861318495174656,
+    "id_str": "626861318495174656",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 626861281509830657,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "I'll continue to work to preserve &amp; protect Medicare so today's 54 million beneficiaries &amp; future seniors can count on their earned benefits",
+    "lang": "en",
+    "created_at": "2015-07-30 21:05:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626861281509830657,
+    "id_str": "626861281509830657",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/L9uDjBjT4e",
+          "media_url": "http://pbs.twimg.com/media/CLMPA3-WgAQ26Vx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMPA3-WgAQ26Vx.jpg",
+          "expanded_url": "http://twitter.com/RepChrisSmith/status/626861281509830657/photo/1",
+          "id_str": "626861280834519044",
+          "indices": [
+            94,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 242
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 428
+            },
+            "large": {
+              "w": 764,
+              "resize": "fit",
+              "h": 545
+            }
+          },
+          "display_url": "pic.twitter.com/L9uDjBjT4e",
+          "id": 626861280834519044
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/EwwIwhnDtB",
+          "indices": [
+            71,
+            93
+          ],
+          "display_url": "chrissmith.house.gov/UploadedFiles/\u2026",
+          "expanded_url": "http://chrissmith.house.gov/UploadedFiles/2015-07-29_Medicare_50th_Anniv_CONGREC.pdf"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/L9uDjBjT4e",
+          "media_url": "http://pbs.twimg.com/media/CLMPA3-WgAQ26Vx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMPA3-WgAQ26Vx.jpg",
+          "expanded_url": "http://twitter.com/RepChrisSmith/status/626861281509830657/photo/1",
+          "id_str": "626861280834519044",
+          "indices": [
+            94,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 242
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 428
+            },
+            "large": {
+              "w": 764,
+              "resize": "fit",
+              "h": 545
+            }
+          },
+          "display_url": "pic.twitter.com/L9uDjBjT4e",
+          "id": 626861280834519044
+        }
+      ]
+    },
+    "text": "#Medicare turns 50 today: a sacred trust and commitment to our seniors http://t.co/EwwIwhnDtB http://t.co/L9uDjBjT4e",
+    "lang": "en",
+    "created_at": "2015-07-30 21:05:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "625760734543257600",
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625760832073371649,
+    "id_str": "625760832073371649",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/OePJHnLEik",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "chrissmith.house.gov/news/documents\u2026",
+          "expanded_url": "http://chrissmith.house.gov/news/documentsingle.aspx?DocumentID=398350"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 625760734543257600,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "One-by-one this Administration is overriding human rights and national security policies for another agenda. http://t.co/OePJHnLEik",
+    "lang": "en",
+    "created_at": "2015-07-27 20:13:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625760683498577924",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625760734543257600,
+    "id_str": "625760734543257600",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Vietnam",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "humantrafficking",
+          "indices": [
+            32,
+            49
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 625760683498577924,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "#Vietnam: directly profits from #humantrafficking thru forced labor &amp; bride trafficking still on Tier2. Missed shot to inspire real change",
+    "lang": "en",
+    "created_at": "2015-07-27 20:12:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625760627064221696",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625760683498577924,
+    "id_str": "625760683498577924",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "China",
+          "indices": [
+            0,
+            6
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 625760627064221696,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "#China: gov't sponsored forced labor camps &amp; magnet for bride trafficking (due to enormous gender gap) given Obama-pass to Tier2 Watchlist",
+    "lang": "en",
+    "created_at": "2015-07-27 20:12:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625760596294795265",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625760627064221696,
+    "id_str": "625760627064221696",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Cuba",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 625760596294795265,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "#Cuba: Tier3 worst offender since 2003-coincidentally upgraded to Tier2 Watchlist after Obama's flawed decision to normalize relations",
+    "lang": "en",
+    "created_at": "2015-07-27 20:12:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625760523364245504",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625760596294795265,
+    "id_str": "625760596294795265",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Malaysia",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 625760523364245504,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "#Malaysia: \u2191 to Tier2 Watchlist after providing no evidence to warrant such move-allowing Obama's TPP to proceed while human rights languish",
+    "lang": "en",
+    "created_at": "2015-07-27 20:12:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625760476547391488",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625760523364245504,
+    "id_str": "625760523364245504",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 625760476547391488,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "Facts about a country's (lack of)action in fighting trafficking are given no weight when matched up against the President's political agenda",
+    "lang": "en",
+    "created_at": "2015-07-27 20:11:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625760416115912705",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625760476547391488,
+    "id_str": "625760476547391488",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "humantrafficking",
+          "indices": [
+            118,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 625760416115912705,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "The Obama Administration has hijacked this report for political reasons alone--doing a grave disservice to victims of #humantrafficking",
+    "lang": "en",
+    "created_at": "2015-07-27 20:11:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625760416115912705,
+    "id_str": "625760416115912705",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TraffickingVictimsProtectionAct",
+          "indices": [
+            17,
+            49
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As author of the #TraffickingVictimsProtectionAct-which mandates the annual TraffickinginPersons Report-I object a portion of the '15 report",
+    "lang": "en",
+    "created_at": "2015-07-27 20:11:23+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625734779519025152",
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1289319271",
+    "id": 625734811517329408,
+    "id_str": "625734811517329408",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bW4lWtvWcf",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "edweek.org/ew/articles/20\u2026",
+          "expanded_url": "http://www.edweek.org/ew/articles/2015/06/04/special-ed-student-aims-for-college-political.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DisabilityStories",
+          "indices": [
+            0,
+            18
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rutgers University",
+          "indices": [
+            108,
+            117
+          ],
+          "id_str": "19272796",
+          "id": 19272796,
+          "screen_name": "RutgersU"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 625734779519025152,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1289319271,
+    "in_reply_to_screen_name": "RepChrisSmith",
+    "retweeted": false,
+    "text": "#DisabilityStories Meet Jonathan:an 18y.o. intern in my office w/ passion for politics who's about to begin @RutgersU http://t.co/bW4lWtvWcf",
+    "lang": "en",
+    "created_at": "2015-07-27 18:29:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625734779519025152,
+    "id_str": "625734779519025152",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ADA",
+          "indices": [
+            17,
+            21
+          ]
+        },
+        {
+          "text": "AnniversaryofADA",
+          "indices": [
+            131,
+            148
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "For 25 years the #ADA has empowered disabled Americans &amp; has given those with disabilities to opportunity succeed &amp; thrive #AnniversaryofADA",
+    "lang": "en",
+    "created_at": "2015-07-27 18:29:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624687928099405824,
+    "id_str": "624687928099405824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/JcPR4qCiXN",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "wpo.st/wqsR0",
+          "expanded_url": "http://wpo.st/wqsR0"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "21stCenturyCures",
+          "indices": [
+            35,
+            52
+          ]
+        },
+        {
+          "text": "Lyme",
+          "indices": [
+            61,
+            66
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "More reason for Senate to pass our #21stCenturyCures to help #Lyme patients \"CDC:Lyme is spreading to new territories http://t.co/JcPR4qCiXN",
+    "lang": "en",
+    "created_at": "2015-07-24 21:09:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624225549322452993,
+      "id_str": "624225549322452993",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "ThankYou",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "LymphedemaTreatmentAct",
+            "indices": [
+              47,
+              70
+            ]
+          },
+          {
+            "text": "lymphedema",
+            "indices": [
+              80,
+              91
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Chris Smith",
+            "indices": [
+              10,
+              24
+            ],
+            "id_str": "1289319271",
+            "id": 1289319271,
+            "screen_name": "RepChrisSmith"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1148956603",
+        "id": 1148956603
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#ThankYou @RepChrisSmith for co-sponsoring the #LymphedemaTreatmentAct HR 1608! #lymphedema",
+      "lang": "en",
+      "created_at": "Thu Jul 23 14:32:23 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624287982674137088,
+    "id_str": "624287982674137088",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ThankYou",
+          "indices": [
+            20,
+            29
+          ]
+        },
+        {
+          "text": "LymphedemaTreatmentAct",
+          "indices": [
+            67,
+            90
+          ]
+        },
+        {
+          "text": "lymphedema",
+          "indices": [
+            100,
+            111
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "LymphedemaACT",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "1148956603",
+          "id": 1148956603,
+          "screen_name": "LymphedemaACT1"
+        },
+        {
+          "name": "Rep. Chris Smith",
+          "indices": [
+            30,
+            44
+          ],
+          "id_str": "1289319271",
+          "id": 1289319271,
+          "screen_name": "RepChrisSmith"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LymphedemaACT1: #ThankYou @RepChrisSmith for co-sponsoring the #LymphedemaTreatmentAct HR 1608! #lymphedema",
+    "lang": "en",
+    "created_at": "2015-07-23 18:40:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624262488239046656,
+    "id_str": "624262488239046656",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/hL87NXoqlV",
+          "indices": [
+            64,
+            86
+          ],
+          "display_url": "s.nj.com/kmGHvxi",
+          "expanded_url": "http://s.nj.com/kmGHvxi"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NJ04",
+          "indices": [
+            101,
+            106
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "NJ.com",
+          "indices": [
+            91,
+            100
+          ],
+          "id_str": "14179819",
+          "id": 14179819,
+          "screen_name": "njdotcom"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Wreck Pond slated to get millions in additional federal funding http://t.co/hL87NXoqlV via @njdotcom #NJ04",
+    "lang": "en",
+    "created_at": "2015-07-23 16:59:10+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623874156547973121,
+      "id_str": "623874156547973121",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/AQzeoSlg5n",
+            "indices": [
+              106,
+              128
+            ],
+            "display_url": "1.usa.gov/1SrRHVW",
+            "expanded_url": "http://1.usa.gov/1SrRHVW"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Burundi",
+            "indices": [
+              97,
+              105
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Chris Smith",
+            "indices": [
+              36,
+              50
+            ],
+            "id_str": "1289319271",
+            "id": 1289319271,
+            "screen_name": "RepChrisSmith"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "75367781",
+        "id": 75367781
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Live noon ET: Subcommittee Chairman @RepChrisSmith to convene hearing on the unfolding crisis in #Burundi http://t.co/AQzeoSlg5n",
+      "lang": "en",
+      "created_at": "Wed Jul 22 15:16:04 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623885389112168448,
+    "id_str": "623885389112168448",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/AQzeoSlg5n",
+          "indices": [
+            124,
+            140
+          ],
+          "display_url": "1.usa.gov/1SrRHVW",
+          "expanded_url": "http://1.usa.gov/1SrRHVW"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Burundi",
+          "indices": [
+            115,
+            123
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Foreign Affairs Cmte",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "75367781",
+          "id": 75367781,
+          "screen_name": "HouseForeign"
+        },
+        {
+          "name": "Rep. Chris Smith",
+          "indices": [
+            54,
+            68
+          ],
+          "id_str": "1289319271",
+          "id": 1289319271,
+          "screen_name": "RepChrisSmith"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1289319271",
+      "screen_name": "repchrissmith",
+      "id": 1289319271
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseForeign: Live noon ET: Subcommittee Chairman @RepChrisSmith to convene hearing on the unfolding crisis in #Burundi http://t.co/AQz\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 16:00:42+00:00"
+  }
+]

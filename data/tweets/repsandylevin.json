@@ -1,0 +1,2262 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626800860207542272,
+    "id_str": "626800860207542272",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3EPnbR3qTX",
+          "indices": [
+            71,
+            93
+          ],
+          "display_url": "nyti.ms/1VPHpnj",
+          "expanded_url": "http://nyti.ms/1VPHpnj"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranNuclearDeal",
+          "indices": [
+            52,
+            68
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Roger Cohen",
+          "indices": [
+            108,
+            121
+          ],
+          "id_str": "157009365",
+          "id": 157009365,
+          "screen_name": "NYTimesCohen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We all must dig deeply into the facts regarding the #IranNuclearDeal \u2192 http://t.co/3EPnbR3qTX .  Good op-ed @NYTimesCohen",
+    "lang": "en",
+    "created_at": "2015-07-30 17:05:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 172,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 99,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626754037933674497,
+      "id_str": "626754037933674497",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Medicare",
+            "indices": [
+              23,
+              32
+            ]
+          },
+          {
+            "text": "Medicaid",
+            "indices": [
+              39,
+              48
+            ]
+          },
+          {
+            "text": "MedicareMedicaid50",
+            "indices": [
+              102,
+              121
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/tiNIlClols",
+            "media_url": "http://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+            "expanded_url": "http://twitter.com/janschakowsky/status/626754037933674497/photo/1",
+            "id_str": "626754037204041728",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 188
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 331
+              },
+              "large": {
+                "w": 734,
+                "resize": "fit",
+                "h": 406
+              }
+            },
+            "display_url": "pic.twitter.com/tiNIlClols",
+            "id": 626754037204041728
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "24195214",
+        "id": 24195214
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/tiNIlClols",
+            "media_url": "http://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+            "expanded_url": "http://twitter.com/janschakowsky/status/626754037933674497/photo/1",
+            "id_str": "626754037204041728",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 188
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 331
+              },
+              "large": {
+                "w": 734,
+                "resize": "fit",
+                "h": 406
+              }
+            },
+            "display_url": "pic.twitter.com/tiNIlClols",
+            "id": 626754037204041728
+          }
+        ]
+      },
+      "text": "Happy 50th anniversary #Medicare &amp; #Medicaid! Here\u2019s to the next 50 yrs. of serving our families. #MedicareMedicaid50 http://t.co/tiNIlClols",
+      "lang": "en",
+      "created_at": "Thu Jul 30 13:59:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 172,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 24195214,
+          "media_url": "http://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+          "source_user_id_str": "24195214",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/tiNIlClols",
+          "expanded_url": "http://twitter.com/janschakowsky/status/626754037933674497/photo/1",
+          "url": "http://t.co/tiNIlClols",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+          "source_status_id_str": "626754037933674497",
+          "id_str": "626754037204041728",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 188
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 331
+            },
+            "large": {
+              "w": 734,
+              "resize": "fit",
+              "h": 406
+            }
+          },
+          "id": 626754037204041728,
+          "source_status_id": 626754037933674497
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626760561594880000,
+    "id_str": "626760561594880000",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            42,
+            51
+          ]
+        },
+        {
+          "text": "Medicaid",
+          "indices": [
+            58,
+            67
+          ]
+        },
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            121,
+            140
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 24195214,
+          "media_url": "http://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+          "source_user_id_str": "24195214",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/tiNIlClols",
+          "expanded_url": "http://twitter.com/janschakowsky/status/626754037933674497/photo/1",
+          "url": "http://t.co/tiNIlClols",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLKteeUWwAA-Yto.png",
+          "source_status_id_str": "626754037933674497",
+          "id_str": "626754037204041728",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 188
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 331
+            },
+            "large": {
+              "w": 734,
+              "resize": "fit",
+              "h": 406
+            }
+          },
+          "id": 626754037204041728,
+          "source_status_id": 626754037933674497
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Jan Schakowsky",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "24195214",
+          "id": 24195214,
+          "screen_name": "janschakowsky"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @janschakowsky: Happy 50th anniversary #Medicare &amp; #Medicaid! Here\u2019s to the next 50 yrs. of serving our families. #MedicareMedicaid50 ht\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 14:25:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 381,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 325,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626071533337903104,
+    "id_str": "626071533337903104",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/xMcB7iMExH",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "1.usa.gov/1HYUUcY",
+          "expanded_url": "http://1.usa.gov/1HYUUcY"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranNuclearDeal",
+          "indices": [
+            21,
+            37
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I fully reviewed the #IranNuclearDeal and believe it's the best way to prevent Iran from getting a nuclear bomb \u2192 http://t.co/xMcB7iMExH",
+    "lang": "en",
+    "created_at": "2015-07-28 16:47:40+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 147,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 99,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625999193698480128,
+      "id_str": "625999193698480128",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RepublicanRoadblock",
+            "indices": [
+              91,
+              111
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/GBXrN6eeS8",
+            "media_url": "http://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+            "expanded_url": "http://twitter.com/RepGaramendi/status/625999193698480128/photo/1",
+            "id_str": "625898002528387073",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/GBXrN6eeS8",
+            "id": 625898002528387073
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "House Democrats",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "43963249",
+            "id": 43963249,
+            "screen_name": "HouseDemocrats"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "88806753",
+        "id": 88806753
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/GBXrN6eeS8",
+            "media_url": "http://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+            "expanded_url": "http://twitter.com/RepGaramendi/status/625999193698480128/photo/1",
+            "id_str": "625898002528387073",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/GBXrN6eeS8",
+            "id": 625898002528387073
+          }
+        ]
+      },
+      "text": ".@HouseDemocrats are fighting for robust &amp; long-term investment in our infrastructure. #RepublicanRoadblock must end. http://t.co/GBXrN6eeS8",
+      "lang": "en",
+      "created_at": "Tue Jul 28 12:00:12 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 147,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 88806753,
+          "media_url": "http://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+          "source_user_id_str": "88806753",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/GBXrN6eeS8",
+          "expanded_url": "http://twitter.com/RepGaramendi/status/625999193698480128/photo/1",
+          "url": "http://t.co/GBXrN6eeS8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+          "source_status_id_str": "625999193698480128",
+          "id_str": "625898002528387073",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 625898002528387073,
+          "source_status_id": 625999193698480128
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626018726178066432,
+    "id_str": "626018726178066432",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RepublicanRoadblock",
+          "indices": [
+            109,
+            129
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 88806753,
+          "media_url": "http://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+          "source_user_id_str": "88806753",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/GBXrN6eeS8",
+          "expanded_url": "http://twitter.com/RepGaramendi/status/625999193698480128/photo/1",
+          "url": "http://t.co/GBXrN6eeS8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK-i6spUwAEuP64.jpg",
+          "source_status_id_str": "625999193698480128",
+          "id_str": "625898002528387073",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 625898002528387073,
+          "source_status_id": 625999193698480128
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "John Garamendi",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "88806753",
+          "id": 88806753,
+          "screen_name": "RepGaramendi"
+        },
+        {
+          "name": "House Democrats",
+          "indices": [
+            19,
+            34
+          ],
+          "id_str": "43963249",
+          "id": 43963249,
+          "screen_name": "HouseDemocrats"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepGaramendi: .@HouseDemocrats are fighting for robust &amp; long-term investment in our infrastructure. #RepublicanRoadblock must end. htt\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 13:17:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625684723457769472,
+    "id_str": "625684723457769472",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/z7PeeTKCo8",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "1.usa.gov/1MvNlPe",
+          "expanded_url": "http://1.usa.gov/1MvNlPe"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Malaysia",
+          "indices": [
+            32,
+            41
+          ]
+        },
+        {
+          "text": "humantrafficking",
+          "indices": [
+            49,
+            66
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Administration\u2019s upgrade of #Malaysia in the #humantrafficking report \u2013 is extremely concerning \u2192 http://t.co/z7PeeTKCo8",
+    "lang": "en",
+    "created_at": "2015-07-27 15:10:37+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 107,
+      "favorite_count": 82,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624571087855202304,
+      "id_str": "624571087855202304",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "EqualityForward",
+            "indices": [
+              112,
+              128
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "462143773",
+        "id": 462143773
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "LGBT equality is the next chapter in the fight for civil rights, and it's time to write it in the books of law. #EqualityForward",
+      "lang": "en",
+      "created_at": "Fri Jul 24 13:25:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 107,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624573075422642176,
+    "id_str": "624573075422642176",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "EqualityForward",
+          "indices": [
+            130,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep David Cicilline",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "462143773",
+          "id": 462143773,
+          "screen_name": "RepCicilline"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepCicilline: LGBT equality is the next chapter in the fight for civil rights, and it's time to write it in the books of law. #Equality\u2026",
+    "lang": "en",
+    "created_at": "2015-07-24 13:33:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624257504722219008,
+    "id_str": "624257504722219008",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "EqualityForward",
+          "indices": [
+            11,
+            27
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/o9WTCps89b",
+          "media_url": "http://pbs.twimg.com/media/CKnO5IIUYAA_tfK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnO5IIUYAA_tfK.jpg",
+          "expanded_url": "http://twitter.com/repsandylevin/status/624257504722219008/photo/1",
+          "id_str": "624257504197763072",
+          "indices": [
+            92,
+            114
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/o9WTCps89b",
+          "id": 624257504197763072
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/o9WTCps89b",
+          "media_url": "http://pbs.twimg.com/media/CKnO5IIUYAA_tfK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnO5IIUYAA_tfK.jpg",
+          "expanded_url": "http://twitter.com/repsandylevin/status/624257504722219008/photo/1",
+          "id_str": "624257504197763072",
+          "indices": [
+            92,
+            114
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/o9WTCps89b",
+          "id": 624257504197763072
+        }
+      ]
+    },
+    "text": "Let\u2019s move #EqualityForward by putting an end to LGBT discrimination with The Equality Act. http://t.co/o9WTCps89b",
+    "lang": "en",
+    "created_at": "2015-07-23 16:39:21+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623595157787660293,
+    "id_str": "623595157787660293",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/BqVrJKVZeo",
+          "indices": [
+            97,
+            120
+          ],
+          "display_url": "instagram.com/p/5aYHBKM61A/",
+          "expanded_url": "https://instagram.com/p/5aYHBKM61A/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Eastpointe Community Garden is lovely this time of year. Last, Saturday was a real delight.\u2026 https://t.co/BqVrJKVZeo",
+    "lang": "en",
+    "created_at": "2015-07-21 20:47:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623570631410483200,
+    "id_str": "623570631410483200",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SocialSecurity",
+          "indices": [
+            29,
+            44
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/QjzN6Nmm2R",
+          "media_url": "http://pbs.twimg.com/media/CKdeL2AWoAQxMn5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdeL2AWoAQxMn5.jpg",
+          "expanded_url": "http://twitter.com/repsandylevin/status/623570631410483200/photo/1",
+          "id_str": "623570630982672388",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 195
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 344
+            },
+            "large": {
+              "w": 954,
+              "resize": "fit",
+              "h": 548
+            }
+          },
+          "display_url": "pic.twitter.com/QjzN6Nmm2R",
+          "id": 623570630982672388
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/NkLB5o3EFa",
+          "indices": [
+            61,
+            83
+          ],
+          "display_url": "socialsecurity.gov/myaccount",
+          "expanded_url": "http://www.socialsecurity.gov/myaccount"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/QjzN6Nmm2R",
+          "media_url": "http://pbs.twimg.com/media/CKdeL2AWoAQxMn5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdeL2AWoAQxMn5.jpg",
+          "expanded_url": "http://twitter.com/repsandylevin/status/623570631410483200/photo/1",
+          "id_str": "623570630982672388",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 195
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 344
+            },
+            "large": {
+              "w": 954,
+              "resize": "fit",
+              "h": 548
+            }
+          },
+          "display_url": "pic.twitter.com/QjzN6Nmm2R",
+          "id": 623570630982672388
+        }
+      ]
+    },
+    "text": "Want to access your personal #SocialSecurity records? Visit  http://t.co/NkLB5o3EFa to sign up today: http://t.co/QjzN6Nmm2R",
+    "lang": "en",
+    "created_at": "2015-07-21 19:09:58+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 569,
+      "favorite_count": 328,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622020662748708864,
+      "id_str": "622020662748708864",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              127,
+              141
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "432676344",
+        "id": 432676344
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "RT if you agree: We must ensure that every citizen, everywhere has the right to vote &amp; that every vote is counted as cast. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Fri Jul 17 12:30:57 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 569,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622043379334029312,
+    "id_str": "622043379334029312",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GKButterfield: RT if you agree: We must ensure that every citizen, everywhere has the right to vote &amp; that every vote is counted as cas\u2026",
+    "lang": "en",
+    "created_at": "2015-07-17 14:01:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 19,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621788999070433280,
+    "id_str": "621788999070433280",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/YSaRcICLfY",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "bit.ly/1GoL6EN",
+          "expanded_url": "http://bit.ly/1GoL6EN"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SCOTUS",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "MarriageEquality",
+          "indices": [
+            35,
+            52
+          ]
+        },
+        {
+          "text": "equality",
+          "indices": [
+            79,
+            88
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#SCOTUS recently ruled in favor of #MarriageEquality, my bill would bring this #equality to our country\u2019s tax code \u2192 http://t.co/YSaRcICLfY",
+    "lang": "en",
+    "created_at": "2015-07-16 21:10:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620243965749673984,
+    "id_str": "620243965749673984",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/mjoZoeIl3H",
+          "indices": [
+            96,
+            119
+          ],
+          "display_url": "instagram.com/p/5CkKgFM68z/",
+          "expanded_url": "https://instagram.com/p/5CkKgFM68z/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "selfie",
+          "indices": [
+            31,
+            38
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Not quite sure what this whole #selfie thing is \u2013 but my interns are helping me figure it out.\u2026 https://t.co/mjoZoeIl3H",
+    "lang": "en",
+    "created_at": "2015-07-12 14:50:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619529237167505408,
+    "id_str": "619529237167505408",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CMS",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#CMS deserves a confirmed leader to continue the march towards more affordable, quality health care. Andy Slavitt should get a prompt vote.",
+    "lang": "en",
+    "created_at": "2015-07-10 15:30:55+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 260,
+      "favorite_count": 157,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619134580017205249,
+      "id_str": "619134580017205249",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "ConfederateFlag",
+            "indices": [
+              44,
+              60
+            ]
+          },
+          {
+            "text": "TakeItDown",
+            "indices": [
+              129,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Republicans",
+            "indices": [
+              6,
+              15
+            ],
+            "id_str": "15207668",
+            "id": 15207668,
+            "screen_name": "HouseGOP"
+          },
+          {
+            "name": "News from House Dems",
+            "indices": [
+              62,
+              72
+            ],
+            "id_str": "17552486",
+            "id": 17552486,
+            "screen_name": "HouseDems"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "188019606",
+        "id": 188019606
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Today @HouseGOP bringing up vote to support #ConfederateFlag. @HouseDems stand w Charleston against this painful symbol of hate. #TakeItDown",
+      "lang": "en",
+      "created_at": "Thu Jul 09 13:22:41 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 260,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619159489896411136,
+    "id_str": "619159489896411136",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ConfederateFlag",
+          "indices": [
+            57,
+            73
+          ]
+        },
+        {
+          "text": "TakeItDown",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "James E. Clyburn",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "188019606",
+          "id": 188019606,
+          "screen_name": "Clyburn"
+        },
+        {
+          "name": "House Republicans",
+          "indices": [
+            19,
+            28
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        },
+        {
+          "name": "News from House Dems",
+          "indices": [
+            75,
+            85
+          ],
+          "id_str": "17552486",
+          "id": 17552486,
+          "screen_name": "HouseDems"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Clyburn: Today @HouseGOP bringing up vote to support #ConfederateFlag. @HouseDems stand w Charleston against this painful symbol of hat\u2026",
+    "lang": "en",
+    "created_at": "2015-07-09 15:01:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 616673522212061184,
+    "id_str": "616673522212061184",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/gETGNYDT1W",
+          "indices": [
+            99,
+            122
+          ],
+          "display_url": "instagram.com/p/4pMg4rs66E/",
+          "expanded_url": "https://instagram.com/p/4pMg4rs66E/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "4thofJuly",
+          "indices": [
+            39,
+            49
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#TBT: Thinking back to one of the best #4thofJuly with my brother Carl and Barbara!  Please share\u2026 https://t.co/gETGNYDT1W",
+    "lang": "en",
+    "created_at": "2015-07-02 18:23:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 616349243801006080,
+    "id_str": "616349243801006080",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/0Re7bm2yqY",
+          "indices": [
+            70,
+            93
+          ],
+          "display_url": "instagram.com/repsandylevin/",
+          "expanded_url": "https://instagram.com/repsandylevin/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Instagram",
+          "indices": [
+            13,
+            23
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you're on #Instagram, make sure to head over and follow me there \u2192 https://t.co/0Re7bm2yqY",
+    "lang": "en",
+    "created_at": "2015-07-01 20:54:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 27,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 45,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 614447298228191232,
+      "id_str": "614447298228191232",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "LoveWins",
+            "indices": [
+              76,
+              85
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/x4gAB9nUnd",
+            "media_url": "http://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+            "expanded_url": "http://twitter.com/WaysMeansCmte/status/614447298228191232/photo/1",
+            "id_str": "614447231400312832",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 900,
+                "resize": "fit",
+                "h": 450
+              }
+            },
+            "display_url": "pic.twitter.com/x4gAB9nUnd",
+            "id": 614447231400312832
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/p083Q0gxjc",
+            "indices": [
+              86,
+              108
+            ],
+            "display_url": "democrats.waysandmeans.house.gov/press-release/\u2026",
+            "expanded_url": "http://democrats.waysandmeans.house.gov/press-release/levin-statement-same-sex-marriage-supreme-court-decision"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Sandy Levin",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "25781141",
+            "id": 25781141,
+            "screen_name": "repsandylevin"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "31128529",
+        "id": 31128529
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/x4gAB9nUnd",
+            "media_url": "http://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+            "expanded_url": "http://twitter.com/WaysMeansCmte/status/614447298228191232/photo/1",
+            "id_str": "614447231400312832",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 900,
+                "resize": "fit",
+                "h": 450
+              }
+            },
+            "display_url": "pic.twitter.com/x4gAB9nUnd",
+            "id": 614447231400312832
+          }
+        ]
+      },
+      "text": ".@repsandylevin: \"We are all equal and should be able to marry who we love\" #LoveWins http://t.co/p083Q0gxjc http://t.co/x4gAB9nUnd",
+      "lang": "en",
+      "created_at": "Fri Jun 26 14:57:06 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 31128529,
+          "media_url": "http://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+          "source_user_id_str": "31128529",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/x4gAB9nUnd",
+          "expanded_url": "http://twitter.com/WaysMeansCmte/status/614447298228191232/photo/1",
+          "url": "http://t.co/x4gAB9nUnd",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+          "source_status_id_str": "614447298228191232",
+          "id_str": "614447231400312832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 450
+            }
+          },
+          "id": 614447231400312832,
+          "source_status_id": 614447298228191232
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 614452905450598400,
+    "id_str": "614452905450598400",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "LoveWins",
+          "indices": [
+            95,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 31128529,
+          "media_url": "http://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+          "source_user_id_str": "31128529",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/x4gAB9nUnd",
+          "expanded_url": "http://twitter.com/WaysMeansCmte/status/614447298228191232/photo/1",
+          "url": "http://t.co/x4gAB9nUnd",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIb0gGDWgAA35hJ.png",
+          "source_status_id_str": "614447298228191232",
+          "id_str": "614447231400312832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 450
+            }
+          },
+          "id": 614447231400312832,
+          "source_status_id": 614447298228191232
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/p083Q0gxjc",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "democrats.waysandmeans.house.gov/press-release/\u2026",
+          "expanded_url": "http://democrats.waysandmeans.house.gov/press-release/levin-statement-same-sex-marriage-supreme-court-decision"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Ways and Means Dems",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "31128529",
+          "id": 31128529,
+          "screen_name": "WaysMeansCmte"
+        },
+        {
+          "name": "Sandy Levin",
+          "indices": [
+            20,
+            34
+          ],
+          "id_str": "25781141",
+          "id": 25781141,
+          "screen_name": "repsandylevin"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WaysMeansCmte: .@repsandylevin: \"We are all equal and should be able to marry who we love\" #LoveWins http://t.co/p083Q0gxjc http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-06-26 15:19:23+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 43,
+    "favorite_count": 32,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 614078570147647488,
+    "id_str": "614078570147647488",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SCOTUS",
+          "indices": [
+            9,
+            16
+          ]
+        },
+        {
+          "text": "ACA",
+          "indices": [
+            20,
+            24
+          ]
+        },
+        {
+          "text": "MI",
+          "indices": [
+            74,
+            77
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A win at #SCOTUS on #ACA.  21k people in our district alone &amp; 228k in #MI can continue to receive their health care insurance tax credit.",
+    "lang": "en",
+    "created_at": "2015-06-25 14:31:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 80,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 35,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 613699417821081600,
+    "id_str": "613699417821081600",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ExIm4jobs",
+          "indices": [
+            94,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/RgESkTgX4m",
+          "media_url": "http://pbs.twimg.com/media/CIRMWffXAAAT_O4.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIRMWffXAAAT_O4.jpg",
+          "expanded_url": "http://twitter.com/repsandylevin/status/613699417821081600/photo/1",
+          "id_str": "613699398523092992",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/RgESkTgX4m",
+          "id": 613699398523092992
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Speaker John Boehner",
+          "indices": [
+            1,
+            16
+          ],
+          "id_str": "7713202",
+          "id": 7713202,
+          "screen_name": "SpeakerBoehner"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/RgESkTgX4m",
+          "media_url": "http://pbs.twimg.com/media/CIRMWffXAAAT_O4.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIRMWffXAAAT_O4.jpg",
+          "expanded_url": "http://twitter.com/repsandylevin/status/613699417821081600/photo/1",
+          "id_str": "613699398523092992",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/RgESkTgX4m",
+          "id": 613699398523092992
+        }
+      ]
+    },
+    "text": ".@SpeakerBoehner don't shut down the job creating Ex-Im Bank. RT if you agree: We should pass #ExIm4jobs immediately! http://t.co/RgESkTgX4m",
+    "lang": "en",
+    "created_at": "2015-06-24 13:25:17+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 25,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 611535086601805824,
+      "id_str": "611535086601805824",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/EmBxgQCuko",
+            "indices": [
+              59,
+              81
+            ],
+            "display_url": "democrats.waysandmeans.house.gov/blog/climate-c\u2026",
+            "expanded_url": "http://democrats.waysandmeans.house.gov/blog/climate-change-tpa-21st-century-%E2%80%93-or-19th"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "TPA",
+            "indices": [
+              18,
+              22
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "31128529",
+        "id": 31128529
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Climate Change: A #TPA for the 21st Century \u2013 or the 19th? http://t.co/EmBxgQCuko",
+      "lang": "en",
+      "created_at": "Thu Jun 18 14:05:01 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 25,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 611535786014601216,
+    "id_str": "611535786014601216",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EmBxgQCuko",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "democrats.waysandmeans.house.gov/blog/climate-c\u2026",
+          "expanded_url": "http://democrats.waysandmeans.house.gov/blog/climate-change-tpa-21st-century-%E2%80%93-or-19th"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TPA",
+          "indices": [
+            37,
+            41
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Ways and Means Dems",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "31128529",
+          "id": 31128529,
+          "screen_name": "WaysMeansCmte"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "25781141",
+      "screen_name": "repsandylevin",
+      "id": 25781141
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WaysMeansCmte: Climate Change: A #TPA for the 21st Century \u2013 or the 19th? http://t.co/EmBxgQCuko",
+    "lang": "en",
+    "created_at": "2015-06-18 14:07:47+00:00"
+  }
+]

@@ -1,0 +1,1876 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629305817897041920,
+    "id_str": "629305817897041920",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA",
+          "indices": [
+            139,
+            143
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Im working 2 ensure every eligible citizen is able 2 register,every registered voter is able 2 vote &amp; every vote is accurately counted #VRA",
+    "lang": "en",
+    "created_at": "2015-08-06 14:59:33+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 12,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629291662997630977,
+      "id_str": "629291662997630977",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              75,
+              89
+            ]
+          },
+          {
+            "text": "VRA50",
+            "indices": [
+              113,
+              119
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/wUNr0Ln6Tz",
+            "media_url": "http://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+            "expanded_url": "http://twitter.com/dscc/status/629291662997630977/photo/1",
+            "id_str": "629291543086534656",
+            "indices": [
+              120,
+              142
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 880,
+                "resize": "fit",
+                "h": 440
+              }
+            },
+            "display_url": "pic.twitter.com/wUNr0Ln6Tz",
+            "id": 629291543086534656
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/oUmyPeWcBD",
+            "indices": [
+              90,
+              112
+            ],
+            "display_url": "join.dscc.org/votingrights/",
+            "expanded_url": "http://join.dscc.org/votingrights/"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14466538",
+        "id": 14466538
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wUNr0Ln6Tz",
+            "media_url": "http://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+            "expanded_url": "http://twitter.com/dscc/status/629291662997630977/photo/1",
+            "id_str": "629291543086534656",
+            "indices": [
+              120,
+              142
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 880,
+                "resize": "fit",
+                "h": 440
+              }
+            },
+            "display_url": "pic.twitter.com/wUNr0Ln6Tz",
+            "id": 629291543086534656
+          }
+        ]
+      },
+      "text": "Add your name to support Dems in our fight to stop voter suppression &amp; #RestoreTheVRA http://t.co/oUmyPeWcBD #VRA50 http://t.co/wUNr0Ln6Tz",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:03:18 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 14466538,
+          "media_url": "http://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+          "source_user_id_str": "14466538",
+          "indices": [
+            130,
+            144
+          ],
+          "display_url": "pic.twitter.com/wUNr0Ln6Tz",
+          "expanded_url": "http://twitter.com/dscc/status/629291662997630977/photo/1",
+          "url": "http://t.co/wUNr0Ln6Tz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+          "source_status_id_str": "629291662997630977",
+          "id_str": "629291543086534656",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 880,
+              "resize": "fit",
+              "h": 440
+            }
+          },
+          "id": 629291543086534656,
+          "source_status_id": 629291662997630977
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629295820668583936,
+    "id_str": "629295820668583936",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            85,
+            99
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            123,
+            129
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 14466538,
+          "media_url": "http://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+          "source_user_id_str": "14466538",
+          "indices": [
+            130,
+            144
+          ],
+          "display_url": "pic.twitter.com/wUNr0Ln6Tz",
+          "expanded_url": "http://twitter.com/dscc/status/629291662997630977/photo/1",
+          "url": "http://t.co/wUNr0Ln6Tz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuxUwXUkAArgWg.png",
+          "source_status_id_str": "629291662997630977",
+          "id_str": "629291543086534656",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 880,
+              "resize": "fit",
+              "h": 440
+            }
+          },
+          "id": 629291543086534656,
+          "source_status_id": 629291662997630977
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/oUmyPeWcBD",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "join.dscc.org/votingrights/",
+          "expanded_url": "http://join.dscc.org/votingrights/"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "DSCC",
+          "indices": [
+            3,
+            8
+          ],
+          "id_str": "14466538",
+          "id": 14466538,
+          "screen_name": "dscc"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @dscc: Add your name to support Dems in our fight to stop voter suppression &amp; #RestoreTheVRA http://t.co/oUmyPeWcBD #VRA50 http://t.co/w\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 14:19:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629026095493480448,
+    "id_str": "629026095493480448",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CentralIndianaJobFair",
+          "indices": [
+            8,
+            30
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today's #CentralIndianaJobFair was a huge success! Over 1200 job seekers showed up to meet w/138 employers. Thanks to everyone who came out!",
+    "lang": "en",
+    "created_at": "2015-08-05 20:28:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629007841383333888,
+    "id_str": "629007841383333888",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jill Sheridan Poulos",
+          "indices": [
+            10,
+            24
+          ],
+          "id_str": "221487134",
+          "id": 221487134,
+          "screen_name": "JillASheridan"
+        },
+        {
+          "name": "IndianapolisRecorder",
+          "indices": [
+            26,
+            39
+          ],
+          "id_str": "127907578",
+          "id": 127907578,
+          "screen_name": "IndyRecorder"
+        },
+        {
+          "name": "FOX59 News",
+          "indices": [
+            41,
+            47
+          ],
+          "id_str": "16440677",
+          "id": 16440677,
+          "screen_name": "FOX59"
+        },
+        {
+          "name": "Kyle Inskeep",
+          "indices": [
+            49,
+            62
+          ],
+          "id_str": "29573053",
+          "id": 29573053,
+          "screen_name": "Kyle_Inskeep"
+        },
+        {
+          "name": "WISH-TV",
+          "indices": [
+            64,
+            72
+          ],
+          "id_str": "16285710",
+          "id": 16285710,
+          "screen_name": "WISH_TV"
+        },
+        {
+          "name": "Amos Brown",
+          "indices": [
+            79,
+            92
+          ],
+          "id_str": "255689004",
+          "id": 255689004,
+          "screen_name": "Amoswtlcindy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank U 2 @JillASheridan, @IndyRecorder, @FOX59, @Kyle_Inskeep, @WISH_TV &amp; @Amoswtlcindy 4 helping 2 spread the word about today's job fair!",
+    "lang": "en",
+    "created_at": "2015-08-05 19:15:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629005047322554368,
+    "id_str": "629005047322554368",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 123,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 113,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628978833505550336,
+      "id_str": "628978833505550336",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/o7i1aGN1gF",
+            "media_url": "http://pbs.twimg.com/media/CLqU6osUEAAcIh8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqU6osUEAAcIh8.jpg",
+            "expanded_url": "http://twitter.com/indystar/status/628978833505550336/photo/1",
+            "id_str": "628978833048211456",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 876,
+                "resize": "fit",
+                "h": 584
+              }
+            },
+            "display_url": "pic.twitter.com/o7i1aGN1gF",
+            "id": 628978833048211456
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/PmsRurTOwH",
+            "indices": [
+              91,
+              113
+            ],
+            "display_url": "indy.st/1Ili4ug",
+            "expanded_url": "http://indy.st/1Ili4ug"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Indianapolis Airport",
+            "indices": [
+              35,
+              46
+            ],
+            "id_str": "58886669",
+            "id": 58886669,
+            "screen_name": "INDairport"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16550142",
+        "id": 16550142
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/o7i1aGN1gF",
+            "media_url": "http://pbs.twimg.com/media/CLqU6osUEAAcIh8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqU6osUEAAcIh8.jpg",
+            "expanded_url": "http://twitter.com/indystar/status/628978833505550336/photo/1",
+            "id_str": "628978833048211456",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 876,
+                "resize": "fit",
+                "h": 584
+              }
+            },
+            "display_url": "pic.twitter.com/o7i1aGN1gF",
+            "id": 628978833048211456
+          }
+        ]
+      },
+      "text": "For the fourth time in five years, @INDairport is rated the best airport in North America. http://t.co/PmsRurTOwH http://t.co/o7i1aGN1gF",
+      "lang": "en",
+      "created_at": "Wed Aug 05 17:20:14 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/vAIeyIbOMO",
+          "indices": [
+            22,
+            45
+          ],
+          "display_url": "twitter.com/indystar/statu\u2026",
+          "expanded_url": "https://twitter.com/indystar/status/628978833505550336"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Indianapolis Airport",
+          "indices": [
+            9,
+            20
+          ],
+          "id_str": "58886669",
+          "id": 58886669,
+          "screen_name": "INDairport"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628978833505550336",
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 19:04:24+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats @INDairport! https://t.co/vAIeyIbOMO",
+    "lang": "en",
+    "quoted_status_id": 628978833505550336
+  },
+  {
+    "in_reply_to_status_id_str": "628929777462865920",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2645701736",
+    "id": 628937171341283328,
+    "id_str": "628937171341283328",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Joe Hogsett for Indy",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "2645701736",
+          "id": 2645701736,
+          "screen_name": "HogsettForIndy"
+        },
+        {
+          "name": "Ivy Tech",
+          "indices": [
+            16,
+            26
+          ],
+          "id_str": "20565591",
+          "id": 20565591,
+          "screen_name": "IvyTechCC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628929777462865920,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 2645701736,
+    "in_reply_to_screen_name": "HogsettForIndy",
+    "retweeted": false,
+    "text": "@HogsettForIndy @IvyTechCC Thanks for being here! Good to see you!",
+    "lang": "en",
+    "created_at": "2015-08-05 14:34:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628936521152774144",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "304043565",
+    "id": 628936709942718465,
+    "id_str": "628936709942718465",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "EmployIndy",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "304043565",
+          "id": 304043565,
+          "screen_name": "EmployIndy"
+        },
+        {
+          "name": "EmployIndyRecruiters",
+          "indices": [
+            12,
+            25
+          ],
+          "id_str": "3240716292",
+          "id": 3240716292,
+          "screen_name": "EIRecruiters"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628936521152774144,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 304043565,
+    "in_reply_to_screen_name": "EmployIndy",
+    "retweeted": false,
+    "text": "@EmployIndy @EIRecruiters Thanks for being here!",
+    "lang": "en",
+    "created_at": "2015-08-05 14:32:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628910860937900032,
+    "id_str": "628910860937900032",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Z2zVLhPfb6",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "bit.ly/1Ikzg3a",
+          "expanded_url": "http://bit.ly/1Ikzg3a"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "FOX59 News",
+          "indices": [
+            15,
+            21
+          ],
+          "id_str": "16440677",
+          "id": 16440677,
+          "screen_name": "FOX59"
+        },
+        {
+          "name": "Kyle Inskeep",
+          "indices": [
+            24,
+            37
+          ],
+          "id_str": "29573053",
+          "id": 29573053,
+          "screen_name": "Kyle_Inskeep"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great story by @fox59's @Kyle_Inskeep highlighting today's Central Indiana Job Fair.  Hope you will join us! http://t.co/Z2zVLhPfb6",
+    "lang": "en",
+    "created_at": "2015-08-05 12:50:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628905603843399680,
+    "id_str": "628905603843399680",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/9FXdzPhfcX",
+          "media_url": "http://pbs.twimg.com/media/CLpSUHGWIAAeVRv.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpSUHGWIAAeVRv.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/628905603843399680/photo/1",
+          "id_str": "628905603428130816",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 473,
+              "resize": "fit",
+              "h": 631
+            },
+            "large": {
+              "w": 473,
+              "resize": "fit",
+              "h": 631
+            }
+          },
+          "display_url": "pic.twitter.com/9FXdzPhfcX",
+          "id": 628905603428130816
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Ivy Tech",
+          "indices": [
+            90,
+            100
+          ],
+          "id_str": "20565591",
+          "id": 20565591,
+          "screen_name": "IvyTechCC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/9FXdzPhfcX",
+          "media_url": "http://pbs.twimg.com/media/CLpSUHGWIAAeVRv.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpSUHGWIAAeVRv.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/628905603843399680/photo/1",
+          "id_str": "628905603428130816",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 473,
+              "resize": "fit",
+              "h": 631
+            },
+            "large": {
+              "w": 473,
+              "resize": "fit",
+              "h": 631
+            }
+          },
+          "display_url": "pic.twitter.com/9FXdzPhfcX",
+          "id": 628905603428130816
+        }
+      ]
+    },
+    "text": "Happening Now: Getting ready for the 6th Annual Central Indiana Job Fair! Hope to see you @IvyTechCC today from 9-3. http://t.co/9FXdzPhfcX",
+    "lang": "en",
+    "created_at": "2015-08-05 12:29:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628682718356877312,
+    "id_str": "628682718356877312",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            32,
+            38
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        },
+        {
+          "name": "Barack Obama",
+          "indices": [
+            39,
+            51
+          ],
+          "id_str": "813286",
+          "id": 813286,
+          "screen_name": "BarackObama"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy Birthday, Mr. President!  @Potus @BarackObama",
+    "lang": "en",
+    "created_at": "2015-08-04 21:43:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628576691892269057",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "297375670",
+    "id": 628664808422965248,
+    "id_str": "628664808422965248",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "MS-IL Staffing",
+          "indices": [
+            0,
+            6
+          ],
+          "id_str": "297375670",
+          "id": 297375670,
+          "screen_name": "MS_IL"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628576691892269057,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 297375670,
+    "in_reply_to_screen_name": "MS_IL",
+    "retweeted": false,
+    "text": "@MS_IL Awesome! Look forward to having you there!",
+    "lang": "en",
+    "created_at": "2015-08-04 20:32:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628664319534891008,
+    "id_str": "628664319534891008",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/57ISYSLCtm",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "1.usa.gov/1M9JOGg",
+          "expanded_url": "http://1.usa.gov/1M9JOGg"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            104,
+            113
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A nuclear-armed Iran would make the world a much more dangerous place. Congress should unite behind the #IranDeal.- http://t.co/57ISYSLCtm",
+    "lang": "en",
+    "created_at": "2015-08-04 20:30:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628264777333256192,
+    "id_str": "628264777333256192",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/2SwLxO1nAl",
+          "media_url": "http://pbs.twimg.com/media/CLgLfEaXAAAYfyK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgLfEaXAAAYfyK.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/628264777333256192/photo/1",
+          "id_str": "628264776406335488",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/2SwLxO1nAl",
+          "id": 628264776406335488
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "IPS",
+          "indices": [
+            50,
+            61
+          ],
+          "id_str": "36846192",
+          "id": 36846192,
+          "screen_name": "IPSSchools"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/2SwLxO1nAl",
+          "media_url": "http://pbs.twimg.com/media/CLgLfEaXAAAYfyK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgLfEaXAAAYfyK.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/628264777333256192/photo/1",
+          "id_str": "628264776406335488",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/2SwLxO1nAl",
+          "id": 628264776406335488
+        }
+      ]
+    },
+    "text": "My daughter Salimah's first day of 3rd grade! Thx @IPSSchools 4 making a difference in the lives of so many children http://t.co/2SwLxO1nAl",
+    "lang": "en",
+    "created_at": "2015-08-03 18:02:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628246029876510720,
+    "id_str": "628246029876510720",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Amos Brown",
+          "indices": [
+            36,
+            49
+          ],
+          "id_str": "255689004",
+          "id": 255689004,
+          "screen_name": "Amoswtlcindy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happening Now: Getting ready 2 join @Amoswtlcindy @ 1pm to discuss my upcoming job fair &amp; the issues facing our community. Tune in!",
+    "lang": "en",
+    "created_at": "2015-08-03 16:48:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627194735904620545,
+    "id_str": "627194735904620545",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NationalMuttDay",
+          "indices": [
+            6,
+            22
+          ]
+        },
+        {
+          "text": "MuttDay",
+          "indices": [
+            84,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/is4niDEU57",
+          "media_url": "http://pbs.twimg.com/media/CLQ-SeWUsAA7xFE.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQ-SeWUsAA7xFE.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/627194735904620545/photo/1",
+          "id_str": "627194735216603136",
+          "indices": [
+            93,
+            115
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/is4niDEU57",
+          "id": 627194735216603136
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/is4niDEU57",
+          "media_url": "http://pbs.twimg.com/media/CLQ-SeWUsAA7xFE.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQ-SeWUsAA7xFE.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/627194735904620545/photo/1",
+          "id_str": "627194735216603136",
+          "indices": [
+            93,
+            115
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/is4niDEU57",
+          "id": 627194735216603136
+        }
+      ]
+    },
+    "text": "Happy #NationalMuttDay to Simone Carson and all her canine brothers &amp; sisters.  #MuttDay http://t.co/is4niDEU57",
+    "lang": "en",
+    "created_at": "2015-07-31 19:10:52+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627161068029222913,
+    "id_str": "627161068029222913",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FlashbackFriday",
+          "indices": [
+            0,
+            16
+          ]
+        },
+        {
+          "text": "Indy",
+          "indices": [
+            57,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/OIAAX3pLrp",
+          "media_url": "http://pbs.twimg.com/media/CLQfqvaUwAUvlDq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQfqvaUwAUvlDq.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/627161068029222913/photo/1",
+          "id_str": "627161067253186565",
+          "indices": [
+            77,
+            99
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 577
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 985
+            }
+          },
+          "display_url": "pic.twitter.com/OIAAX3pLrp",
+          "id": 627161067253186565
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/OIAAX3pLrp",
+          "media_url": "http://pbs.twimg.com/media/CLQfqvaUwAUvlDq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQfqvaUwAUvlDq.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/627161068029222913/photo/1",
+          "id_str": "627161067253186565",
+          "indices": [
+            77,
+            99
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 577
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 985
+            }
+          },
+          "display_url": "pic.twitter.com/OIAAX3pLrp",
+          "id": 627161067253186565
+        }
+      ]
+    },
+    "text": "#FlashbackFriday to Gen Con 2012.\nGlad to see it back in #Indy this weekend. http://t.co/OIAAX3pLrp",
+    "lang": "en",
+    "created_at": "2015-07-31 16:57:05+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626799863586406400,
+    "id_str": "626799863586406400",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "tbt",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/4nxd0EIEgC",
+          "media_url": "http://pbs.twimg.com/media/CLLXJ38UcAAzVWi.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLXJ38UcAAzVWi.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/626799863586406400/photo/1",
+          "id_str": "626799862793662464",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 548
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 967
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 1451
+            }
+          },
+          "display_url": "pic.twitter.com/4nxd0EIEgC",
+          "id": 626799862793662464
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/4nxd0EIEgC",
+          "media_url": "http://pbs.twimg.com/media/CLLXJ38UcAAzVWi.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLXJ38UcAAzVWi.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/626799863586406400/photo/1",
+          "id_str": "626799862793662464",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 548
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 967
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 1451
+            }
+          },
+          "display_url": "pic.twitter.com/4nxd0EIEgC",
+          "id": 626799862793662464
+        }
+      ]
+    },
+    "text": "#tbt To my annual job fair in 2011. Hope you will join me next week, August 5, for this year's job fair. http://t.co/4nxd0EIEgC",
+    "lang": "en",
+    "created_at": "2015-07-30 17:01:47+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626791381588176896,
+    "id_str": "626791381588176896",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Indy",
+          "indices": [
+            13,
+            18
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/SQQJxjyb9p",
+          "media_url": "http://pbs.twimg.com/media/CLLPcLdWgAEOZCa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLPcLdWgAEOZCa.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/626791381588176896/photo/1",
+          "id_str": "626791381177106433",
+          "indices": [
+            54,
+            76
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/SQQJxjyb9p",
+          "id": 626791381177106433
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/SQQJxjyb9p",
+          "media_url": "http://pbs.twimg.com/media/CLLPcLdWgAEOZCa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLPcLdWgAEOZCa.jpg",
+          "expanded_url": "http://twitter.com/RepAndreCarson/status/626791381588176896/photo/1",
+          "id_str": "626791381177106433",
+          "indices": [
+            54,
+            76
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/SQQJxjyb9p",
+          "id": 626791381177106433
+        }
+      ]
+    },
+    "text": "Great day as #Indy welcomes 97 new American citizens! http://t.co/SQQJxjyb9p",
+    "lang": "en",
+    "created_at": "2015-07-30 16:28:05+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "626114696618360832",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "25495080",
+    "id": 626789108522876928,
+    "id_str": "626789108522876928",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "nancy watson",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "25495080",
+          "id": 25495080,
+          "screen_name": "nansea94w"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 626114696618360832,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 25495080,
+    "in_reply_to_screen_name": "nansea94w",
+    "retweeted": false,
+    "text": "@nansea94w Happy to do it!",
+    "lang": "en",
+    "created_at": "2015-07-30 16:19:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "626478800428097536",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "347967174",
+    "id": 626788858202472450,
+    "id_str": "626788858202472450",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Melissa VanHouten",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "347967174",
+          "id": 347967174,
+          "screen_name": "melissarvh"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 626478800428097536,
+    "contributors": null,
+    "user": {
+      "id_str": "199325935",
+      "screen_name": "repandrecarson",
+      "id": 199325935
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 347967174,
+    "in_reply_to_screen_name": "melissarvh",
+    "retweeted": false,
+    "text": "@melissarvh Thx for helping get the word out!",
+    "lang": "en",
+    "created_at": "2015-07-30 16:18:03+00:00"
+  }
+]

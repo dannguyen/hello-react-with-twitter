@@ -1,0 +1,2692 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 28,
+      "favorite_count": 14,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "name": "Washington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "01fbe706f872cb32"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629768888285310976,
+      "id_str": "629768888285310976",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Ben Cardin",
+            "indices": [
+              46,
+              60
+            ],
+            "id_str": "109071031",
+            "id": 109071031,
+            "screen_name": "SenatorCardin"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "349921132",
+        "id": 349921132
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#IranDeal vote is \"not a party loyalty test,\" @SenatorCardin (D-Maryland), Senate Foreign Relations Committee ranking member, tells CNN.",
+      "lang": "en",
+      "created_at": "Fri Aug 07 21:39:38 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 28,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629775096073351168,
+    "id_str": "629775096073351168",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            14,
+            23
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Michael Wilner",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "349921132",
+          "id": 349921132,
+          "screen_name": "mawilner"
+        },
+        {
+          "name": "Senator Ben Cardin",
+          "indices": [
+            60,
+            74
+          ],
+          "id_str": "109071031",
+          "id": 109071031,
+          "screen_name": "SenatorCardin"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @mawilner: #IranDeal vote is \"not a party loyalty test,\" @SenatorCardin (D-Maryland), Senate Foreign Relations Committee ranking member,\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 22:04:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629761566104285189,
+    "id_str": "629761566104285189",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            83,
+            92
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Situation Room",
+          "indices": [
+            28,
+            39
+          ],
+          "id_str": "34310801",
+          "id": 34310801,
+          "screen_name": "CNNSitRoom"
+        },
+        {
+          "name": "Brianna Keilar",
+          "indices": [
+            45,
+            58
+          ],
+          "id_str": "46817943",
+          "id": 46817943,
+          "screen_name": "brikeilarcnn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Getting ready to go live on @CNNSitRoom with @brikeilarcnn. Will be discussing the #IranDeal. Tune in.",
+    "lang": "en",
+    "created_at": "2015-08-07 21:10:32+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629672284509335557,
+      "id_str": "629672284509335557",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/0bo1eUfIlp",
+            "indices": [
+              49,
+              71
+            ],
+            "display_url": "ow.ly/QA7NA",
+            "expanded_url": "http://ow.ly/QA7NA"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              93,
+              106
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Ben Cardin",
+            "indices": [
+              21,
+              35
+            ],
+            "id_str": "109071031",
+            "id": 109071031,
+            "screen_name": "SenatorCardin"
+          },
+          {
+            "name": "MCAF Maryland",
+            "indices": [
+              76,
+              92
+            ],
+            "id_str": "2900989535",
+            "id": 2900989535,
+            "screen_name": "CleanAirMoms_MD"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2790005353",
+        "id": 2790005353
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Exclusive interview! @SenatorCardin of Maryland: http://t.co/0bo1eUfIlp via @CleanAirMoms_MD #ActOnClimate",
+      "lang": "en",
+      "created_at": "Fri Aug 07 15:15:46 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629672429489623040,
+    "id_str": "629672429489623040",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/0bo1eUfIlp",
+          "indices": [
+            70,
+            92
+          ],
+          "display_url": "ow.ly/QA7NA",
+          "expanded_url": "http://ow.ly/QA7NA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            114,
+            127
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "MCAF Washington, DC",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2790005353",
+          "id": 2790005353,
+          "screen_name": "CleanAirMoms_DC"
+        },
+        {
+          "name": "Senator Ben Cardin",
+          "indices": [
+            42,
+            56
+          ],
+          "id_str": "109071031",
+          "id": 109071031,
+          "screen_name": "SenatorCardin"
+        },
+        {
+          "name": "MCAF Maryland",
+          "indices": [
+            97,
+            113
+          ],
+          "id_str": "2900989535",
+          "id": 2900989535,
+          "screen_name": "CleanAirMoms_MD"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CleanAirMoms_DC: Exclusive interview! @SenatorCardin of Maryland: http://t.co/0bo1eUfIlp via @CleanAirMoms_MD #ActOnClimate",
+    "lang": "en",
+    "created_at": "2015-08-07 15:16:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 12,
+    "favorite_count": 22,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629503125397860353,
+    "id_str": "629503125397860353",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "YourMomentOfZen",
+          "indices": [
+            54,
+            70
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Daily Show",
+          "indices": [
+            33,
+            46
+          ],
+          "id_str": "158414847",
+          "id": 158414847,
+          "screen_name": "TheDailyShow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "To Mr. Stewart &amp; his crew at @TheDailyShow- enjoy #YourMomentOfZen. Congrats on 16yrs of using side-splitting comedy to shine a light.",
+    "lang": "en",
+    "created_at": "2015-08-07 04:03:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629473375937777664,
+    "id_str": "629473375937777664",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 45,
+      "favorite_count": 84,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629471070618288130,
+      "id_str": "629471070618288130",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14412533",
+        "id": 14412533
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "If this debate was a pay-per-view for $19.99, you would absolutely but it right?",
+      "lang": "en",
+      "created_at": "Fri Aug 07 01:56:12 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/a9O3P1VJjJ",
+          "indices": [
+            43,
+            66
+          ],
+          "display_url": "twitter.com/thefix/status/\u2026",
+          "expanded_url": "https://twitter.com/thefix/status/629471070618288130"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629471070618288130",
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 02:05:22+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Would the undercard be thrown in for free? https://t.co/a9O3P1VJjJ",
+    "lang": "en",
+    "quoted_status_id": 629471070618288130
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 473,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 640,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629356686860550149,
+      "id_str": "629356686860550149",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              94,
+              108
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/no70eMY2Xe",
+            "media_url": "http://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+            "expanded_url": "http://twitter.com/SenWarren/status/629356686860550149/photo/1",
+            "id_str": "629356686357172224",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 311
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 550
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 939
+              }
+            },
+            "display_url": "pic.twitter.com/no70eMY2Xe",
+            "id": 629356686357172224
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "970207298",
+        "id": 970207298
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/no70eMY2Xe",
+            "media_url": "http://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+            "expanded_url": "http://twitter.com/SenWarren/status/629356686860550149/photo/1",
+            "id_str": "629356686357172224",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 311
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 550
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 939
+              }
+            },
+            "display_url": "pic.twitter.com/no70eMY2Xe",
+            "id": 629356686357172224
+          }
+        ]
+      },
+      "text": "On the 50th anniversary of the VRA, we remember: Voting rights are civil rights. It\u2019s time to #RestoreTheVRA. http://t.co/no70eMY2Xe",
+      "lang": "en",
+      "created_at": "Thu Aug 06 18:21:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 473,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 970207298,
+          "media_url": "http://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+          "source_user_id_str": "970207298",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/no70eMY2Xe",
+          "expanded_url": "http://twitter.com/SenWarren/status/629356686860550149/photo/1",
+          "url": "http://t.co/no70eMY2Xe",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+          "source_status_id_str": "629356686860550149",
+          "id_str": "629356686357172224",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 311
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 550
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 939
+            }
+          },
+          "id": 629356686357172224,
+          "source_status_id": 629356686860550149
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629407473552785408,
+    "id_str": "629407473552785408",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            109,
+            123
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 970207298,
+          "media_url": "http://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+          "source_user_id_str": "970207298",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/no70eMY2Xe",
+          "expanded_url": "http://twitter.com/SenWarren/status/629356686860550149/photo/1",
+          "url": "http://t.co/no70eMY2Xe",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvskl9WEAAmsOa.jpg",
+          "source_status_id_str": "629356686860550149",
+          "id_str": "629356686357172224",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 311
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 550
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 939
+            }
+          },
+          "id": 629356686357172224,
+          "source_status_id": 629356686860550149
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Warren",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "970207298",
+          "id": 970207298,
+          "screen_name": "SenWarren"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenWarren: On the 50th anniversary of the VRA, we remember: Voting rights are civil rights. It\u2019s time to #RestoreTheVRA. http://t.co/no\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 21:43:30+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 294,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 331,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629392820483194880,
+      "id_str": "629392820483194880",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              97,
+              103
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/J6DLTbPQiy",
+            "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+            "id_str": "629392637049507840",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              },
+              "large": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              }
+            },
+            "display_url": "pic.twitter.com/J6DLTbPQiy",
+            "id": 629392637049507840
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RLfPczV7P2",
+            "indices": [
+              73,
+              96
+            ],
+            "display_url": "instagram.com/p/6Dh4UIwikP/",
+            "expanded_url": "https://instagram.com/p/6Dh4UIwikP/"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "John Lewis",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "29450962",
+            "id": 29450962,
+            "screen_name": "repjohnlewis"
+          },
+          {
+            "name": "Instagram",
+            "indices": [
+              46,
+              56
+            ],
+            "id_str": "180505807",
+            "id": 180505807,
+            "screen_name": "instagram"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/J6DLTbPQiy",
+            "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+            "id_str": "629392637049507840",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              },
+              "large": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              }
+            },
+            "display_url": "pic.twitter.com/J6DLTbPQiy",
+            "id": 629392637049507840
+          }
+        ]
+      },
+      "text": ".@RepJohnLewis is taking over the White House @Instagram.\nFollow along \u2192 https://t.co/RLfPczV7P2 #VRA50 http://t.co/J6DLTbPQiy",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:45:16 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 294,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/J6DLTbPQiy",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+          "url": "http://t.co/J6DLTbPQiy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_status_id_str": "629392820483194880",
+          "id_str": "629392637049507840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            },
+            "large": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            }
+          },
+          "id": 629392637049507840,
+          "source_status_id": 629392820483194880
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629407383773671424,
+    "id_str": "629407383773671424",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            113,
+            119
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/J6DLTbPQiy",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+          "url": "http://t.co/J6DLTbPQiy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_status_id_str": "629392820483194880",
+          "id_str": "629392637049507840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            },
+            "large": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            }
+          },
+          "id": 629392637049507840,
+          "source_status_id": 629392820483194880
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RLfPczV7P2",
+          "indices": [
+            89,
+            112
+          ],
+          "display_url": "instagram.com/p/6Dh4UIwikP/",
+          "expanded_url": "https://instagram.com/p/6Dh4UIwikP/"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The White House",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "name": "John Lewis",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        },
+        {
+          "name": "Instagram",
+          "indices": [
+            62,
+            72
+          ],
+          "id_str": "180505807",
+          "id": 180505807,
+          "screen_name": "instagram"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WhiteHouse: .@RepJohnLewis is taking over the White House @Instagram.\nFollow along \u2192 https://t.co/RLfPczV7P2 #VRA50 http://t.co/J6DLTbP\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 21:43:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629404950531960832,
+    "id_str": "629404950531960832",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            43,
+            59
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            108,
+            114
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Strengthening our democracy, restoring the #VotingRightsAct should be a top priority of the 114th Congress. #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 21:33:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629396207316537345,
+    "id_str": "629396207316537345",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            116,
+            122
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In 2015, there are still areas where Jim Crow's legacy &amp; state statutes lead to unfairness in Federal elections #VRA50. We must do better",
+    "lang": "en",
+    "created_at": "2015-08-06 20:58:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629333127257829376,
+    "id_str": "629333127257829376",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629331292535042048,
+      "id_str": "629331292535042048",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "EndHumanTrafficking",
+            "indices": [
+              108,
+              128
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Bob Corker",
+            "indices": [
+              35,
+              48
+            ],
+            "id_str": "73303753",
+            "id": 73303753,
+            "screen_name": "SenBobCorker"
+          },
+          {
+            "name": "Senator Ben Cardin",
+            "indices": [
+              49,
+              63
+            ],
+            "id_str": "109071031",
+            "id": 109071031,
+            "screen_name": "SenatorCardin"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "314740330",
+        "id": 314740330
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Senate left on Aug recess, but NOT @SenBobCorker @SenatorCardin  who stayed and are holding SFRC hearing on #EndHumanTrafficking TIP Report",
+      "lang": "en",
+      "created_at": "Thu Aug 06 16:40:47 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/GzX3FKswXv",
+          "indices": [
+            55,
+            78
+          ],
+          "display_url": "twitter.com/intdevcompanie\u2026",
+          "expanded_url": "https://twitter.com/intdevcompanies/status/629331292535042048"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Senator Bob Menendez",
+          "indices": [
+            13,
+            29
+          ],
+          "id_str": "18695134",
+          "id": 18695134,
+          "screen_name": "SenatorMenendez"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629331292535042048",
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 16:48:04+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Good to have @SenatorMenendez at the hearing as well.  https://t.co/GzX3FKswXv",
+    "lang": "en",
+    "quoted_status_id": 629331292535042048
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629314654918037504,
+    "id_str": "629314654918037504",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SFRC",
+          "indices": [
+            16,
+            21
+          ]
+        },
+        {
+          "text": "TIPReport",
+          "indices": [
+            37,
+            47
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Senator Bob Corker",
+          "indices": [
+            51,
+            64
+          ],
+          "id_str": "73303753",
+          "id": 73303753,
+          "screen_name": "SenBobCorker"
+        },
+        {
+          "name": "Senator Bob Menendez",
+          "indices": [
+            71,
+            87
+          ],
+          "id_str": "18695134",
+          "id": 18695134,
+          "screen_name": "SenatorMenendez"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Just finished a #SFRC hearing on the #TIPReport w/ @SenBobCorker &amp; @SenatorMenendez. Both are extremely committed to ending human traficking",
+    "lang": "en",
+    "created_at": "2015-08-06 15:34:40+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629306434912681984,
+      "id_str": "629306434912681984",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "TIPReport",
+            "indices": [
+              121,
+              131
+            ]
+          },
+          {
+            "text": "SFRC",
+            "indices": [
+              132,
+              137
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Ben Cardin",
+            "indices": [
+              106,
+              120
+            ],
+            "id_str": "109071031",
+            "id": 109071031,
+            "screen_name": "SenatorCardin"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "335329389",
+        "id": 335329389
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Malaysia upgrade seems to be \"based on promises instead of action.\" It diminishes the strength of report. @SenatorCardin #TIPReport #SFRC",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:02:00 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629306931287588864,
+    "id_str": "629306931287588864",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TIPReport",
+          "indices": [
+            137,
+            140
+          ]
+        },
+        {
+          "text": "SFRC",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "MaraVandersliceKelly",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "335329389",
+          "id": 335329389,
+          "screen_name": "MaraVKelly"
+        },
+        {
+          "name": "Senator Ben Cardin",
+          "indices": [
+            122,
+            136
+          ],
+          "id_str": "109071031",
+          "id": 109071031,
+          "screen_name": "SenatorCardin"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MaraVKelly: Malaysia upgrade seems to be \"based on promises instead of action.\" It diminishes the strength of report. @SenatorCardin #T\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 15:03:59+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629304597266452480,
+      "id_str": "629304597266452480",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "TIPReport",
+            "indices": [
+              8,
+              18
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Ben Cardin",
+            "indices": [
+              114,
+              128
+            ],
+            "id_str": "109071031",
+            "id": 109071031,
+            "screen_name": "SenatorCardin"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "182999804",
+        "id": 182999804
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "In 2014 #TIPReport, Malaysia had 9 trafficking convictions; in 2015, there were 3. And yet Malaysia was upgraded. @SenatorCardin",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:54:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629305409233383424,
+    "id_str": "629305409233383424",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TIPReport",
+          "indices": [
+            19,
+            29
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "ATEST",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "182999804",
+          "id": 182999804,
+          "screen_name": "ATEST"
+        },
+        {
+          "name": "Senator Ben Cardin",
+          "indices": [
+            125,
+            139
+          ],
+          "id_str": "109071031",
+          "id": 109071031,
+          "screen_name": "SenatorCardin"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ATEST: In 2014 #TIPReport, Malaysia had 9 trafficking convictions; in 2015, there were 3. And yet Malaysia was upgraded. @SenatorCardin",
+    "lang": "en",
+    "created_at": "2015-08-06 14:57:56+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629290831334232064,
+      "id_str": "629290831334232064",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/t23v6dMGf1",
+            "indices": [
+              112,
+              134
+            ],
+            "display_url": "1.usa.gov/1hleSGf",
+            "expanded_url": "http://1.usa.gov/1hleSGf"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "73303753",
+        "id": 73303753
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Tune in: SFRC hearing today at 10 a.m. ET to question administration on its 2015 Trafficking in Persons Report. http://t.co/t23v6dMGf1",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:00:00 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629297370447134721,
+    "id_str": "629297370447134721",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/t23v6dMGf1",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "1.usa.gov/1hleSGf",
+          "expanded_url": "http://1.usa.gov/1hleSGf"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Senator Bob Corker",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "73303753",
+          "id": 73303753,
+          "screen_name": "SenBobCorker"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenBobCorker: Tune in: SFRC hearing today at 10 a.m. ET to question administration on its 2015 Trafficking in Persons Report. http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 14:25:59+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629034617597771776,
+      "id_str": "629034617597771776",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "OPMHack",
+            "indices": [
+              83,
+              91
+            ]
+          },
+          {
+            "text": "ABC2InFocus",
+            "indices": [
+              129,
+              141
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Barbara Mikulski",
+            "indices": [
+              1,
+              13
+            ],
+            "id_str": "132278386",
+            "id": 132278386,
+            "screen_name": "SenatorBarb"
+          },
+          {
+            "name": "Senator Ben Cardin",
+            "indices": [
+              20,
+              34
+            ],
+            "id_str": "109071031",
+            "id": 109071031,
+            "screen_name": "SenatorCardin"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2734504315",
+        "id": 2734504315
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@SenatorBarb &amp; @SenatorCardin are working to toughen cyber security after the #OPMHack We're breaking down their amendments #ABC2InFocus",
+      "lang": "en",
+      "created_at": "Wed Aug 05 21:01:54 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629048823147569152,
+    "id_str": "629048823147569152",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "OPMHack",
+          "indices": [
+            100,
+            108
+          ]
+        },
+        {
+          "text": "ABC2InFocus",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "ABC2 In Focus",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "2734504315",
+          "id": 2734504315,
+          "screen_name": "ABC2InFocus"
+        },
+        {
+          "name": "Barbara Mikulski",
+          "indices": [
+            18,
+            30
+          ],
+          "id_str": "132278386",
+          "id": 132278386,
+          "screen_name": "SenatorBarb"
+        },
+        {
+          "name": "Senator Ben Cardin",
+          "indices": [
+            37,
+            51
+          ],
+          "id_str": "109071031",
+          "id": 109071031,
+          "screen_name": "SenatorCardin"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ABC2InFocus: .@SenatorBarb &amp; @SenatorCardin are working to toughen cyber security after the #OPMHack We're breaking down their amendmen\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 21:58:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628973410647994369,
+    "id_str": "628973410647994369",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SaveTheBay",
+          "indices": [
+            11,
+            22
+          ]
+        },
+        {
+          "text": "Chesapeake",
+          "indices": [
+            74,
+            85
+          ]
+        },
+        {
+          "text": "NationalOysterDay",
+          "indices": [
+            118,
+            136
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Chesapeake Bay Found",
+          "indices": [
+            50,
+            64
+          ],
+          "id_str": "16573859",
+          "id": 16573859,
+          "screen_name": "chesapeakebay"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It pays to #SaveTheBay \nHealthy oysters = Healthy @Chesapeakebay \nHealthy #Chesapeake Bay = Healthy regional economy \n#NationalOysterDay",
+    "lang": "en",
+    "created_at": "2015-08-05 16:58:41+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 10,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628954015859089408,
+      "id_str": "628954015859089408",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "NationalOysterDay",
+            "indices": [
+              15,
+              33
+            ]
+          },
+          {
+            "text": "ChesBay",
+            "indices": [
+              70,
+              78
+            ]
+          },
+          {
+            "text": "oysters",
+            "indices": [
+              79,
+              87
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/8IWLSZ7RSb",
+            "media_url": "http://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+            "expanded_url": "http://twitter.com/chesapeakebay/status/628954015859089408/photo/1",
+            "id_str": "628954014852386816",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 172
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 303
+              },
+              "large": {
+                "w": 695,
+                "resize": "fit",
+                "h": 352
+              }
+            },
+            "display_url": "pic.twitter.com/8IWLSZ7RSb",
+            "id": 628954014852386816
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/t5SNfrwhAA",
+            "indices": [
+              89,
+              111
+            ],
+            "display_url": "bit.ly/cZNUVf",
+            "expanded_url": "http://bit.ly/cZNUVf"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16573859",
+        "id": 16573859
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/8IWLSZ7RSb",
+            "media_url": "http://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+            "expanded_url": "http://twitter.com/chesapeakebay/status/628954015859089408/photo/1",
+            "id_str": "628954014852386816",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 172
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 303
+              },
+              "large": {
+                "w": 695,
+                "resize": "fit",
+                "h": 352
+              }
+            },
+            "display_url": "pic.twitter.com/8IWLSZ7RSb",
+            "id": 628954014852386816
+          }
+        ]
+      },
+      "text": "Hey! Hey! It's #NationalOysterDay! Learn how we're working to restore #ChesBay #oysters! http://t.co/t5SNfrwhAA http://t.co/8IWLSZ7RSb",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:41:37 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16573859,
+          "media_url": "http://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+          "source_user_id_str": "16573859",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/8IWLSZ7RSb",
+          "expanded_url": "http://twitter.com/chesapeakebay/status/628954015859089408/photo/1",
+          "url": "http://t.co/8IWLSZ7RSb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+          "source_status_id_str": "628954015859089408",
+          "id_str": "628954014852386816",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 172
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 303
+            },
+            "large": {
+              "w": 695,
+              "resize": "fit",
+              "h": 352
+            }
+          },
+          "id": 628954014852386816,
+          "source_status_id": 628954015859089408
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628954210952998912,
+    "id_str": "628954210952998912",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NationalOysterDay",
+          "indices": [
+            34,
+            52
+          ]
+        },
+        {
+          "text": "ChesBay",
+          "indices": [
+            89,
+            97
+          ]
+        },
+        {
+          "text": "oysters",
+          "indices": [
+            98,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 16573859,
+          "media_url": "http://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+          "source_user_id_str": "16573859",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/8IWLSZ7RSb",
+          "expanded_url": "http://twitter.com/chesapeakebay/status/628954015859089408/photo/1",
+          "url": "http://t.co/8IWLSZ7RSb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLp-WBtVEAA32no.jpg",
+          "source_status_id_str": "628954015859089408",
+          "id_str": "628954014852386816",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 172
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 303
+            },
+            "large": {
+              "w": 695,
+              "resize": "fit",
+              "h": 352
+            }
+          },
+          "id": 628954014852386816,
+          "source_status_id": 628954015859089408
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/t5SNfrwhAA",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "bit.ly/cZNUVf",
+          "expanded_url": "http://bit.ly/cZNUVf"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Chesapeake Bay Found",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "16573859",
+          "id": 16573859,
+          "screen_name": "chesapeakebay"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @chesapeakebay: Hey! Hey! It's #NationalOysterDay! Learn how we're working to restore #ChesBay #oysters! http://t.co/t5SNfrwhAA http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:42:23+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628953166026043392,
+    "id_str": "628953166026043392",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/MqtgVULKX9",
+          "indices": [
+            119,
+            141
+          ],
+          "display_url": "goo.gl/XmIKjQ",
+          "expanded_url": "http://goo.gl/XmIKjQ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CISA",
+          "indices": [
+            18,
+            23
+          ]
+        },
+        {
+          "text": "opmhack",
+          "indices": [
+            110,
+            118
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Barbara Mikulski",
+          "indices": [
+            27,
+            39
+          ],
+          "id_str": "132278386",
+          "id": 132278386,
+          "screen_name": "SenatorBarb"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Intro'd amdt's to #CISA w/ @SenatorBarb to bolster fed cyber systems &amp; help federal employees affected by #opmhack http://t.co/MqtgVULKX9",
+    "lang": "en",
+    "created_at": "2015-08-05 15:38:14+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 8,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 13,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628669861107998720,
+      "id_str": "628669861107998720",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/w8Uo7lFSM8",
+            "indices": [
+              116,
+              138
+            ],
+            "display_url": "baltimoresun.com/entertainment/\u2026",
+            "expanded_url": "http://www.baltimoresun.com/entertainment/dining/baltimore-diner-blog/bal-free-oysters-wednesday-at-mt-washington-tavern-20150804-story.html"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "NationalOysterDay",
+            "indices": [
+              0,
+              18
+            ]
+          },
+          {
+            "text": "Baltimore",
+            "indices": [
+              104,
+              114
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "The Baltimore Sun",
+            "indices": [
+              19,
+              32
+            ],
+            "id_str": "8861752",
+            "id": 8861752,
+            "screen_name": "baltimoresun"
+          },
+          {
+            "name": "The Nickel Taphouse",
+            "indices": [
+              39,
+              54
+            ],
+            "id_str": "2203365121",
+            "id": 2203365121,
+            "screen_name": "NickelTaphouse"
+          },
+          {
+            "name": "Ryleigh's Oyster",
+            "indices": [
+              55,
+              70
+            ],
+            "id_str": "26102966",
+            "id": 26102966,
+            "screen_name": "RyleighsOyster"
+          },
+          {
+            "name": "Mt Washington Tavern",
+            "indices": [
+              71,
+              87
+            ],
+            "id_str": "67668500",
+            "id": 67668500,
+            "screen_name": "MtWashingtonTav"
+          },
+          {
+            "name": "John-John WilliamsIV",
+            "indices": [
+              88,
+              103
+            ],
+            "id_str": "165841440",
+            "id": 165841440,
+            "screen_name": "popcouturejjw4"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "21604276",
+        "id": 21604276
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#NationalOysterDay @BaltimoreSun Deals @NickelTaphouse @RyleighsOyster @MtWashingtonTav @popcouturejjw4 #Baltimore  http://t.co/w8Uo7lFSM8",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:52:29 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628946913501540352,
+    "id_str": "628946913501540352",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/w8Uo7lFSM8",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "baltimoresun.com/entertainment/\u2026",
+          "expanded_url": "http://www.baltimoresun.com/entertainment/dining/baltimore-diner-blog/bal-free-oysters-wednesday-at-mt-washington-tavern-20150804-story.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NationalOysterDay",
+          "indices": [
+            19,
+            37
+          ]
+        },
+        {
+          "text": "Baltimore",
+          "indices": [
+            123,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Downtown Diane",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "21604276",
+          "id": 21604276,
+          "screen_name": "downtowndiane"
+        },
+        {
+          "name": "The Baltimore Sun",
+          "indices": [
+            38,
+            51
+          ],
+          "id_str": "8861752",
+          "id": 8861752,
+          "screen_name": "baltimoresun"
+        },
+        {
+          "name": "The Nickel Taphouse",
+          "indices": [
+            58,
+            73
+          ],
+          "id_str": "2203365121",
+          "id": 2203365121,
+          "screen_name": "NickelTaphouse"
+        },
+        {
+          "name": "Ryleigh's Oyster",
+          "indices": [
+            74,
+            89
+          ],
+          "id_str": "26102966",
+          "id": 26102966,
+          "screen_name": "RyleighsOyster"
+        },
+        {
+          "name": "Mt Washington Tavern",
+          "indices": [
+            90,
+            106
+          ],
+          "id_str": "67668500",
+          "id": 67668500,
+          "screen_name": "MtWashingtonTav"
+        },
+        {
+          "name": "John-John WilliamsIV",
+          "indices": [
+            107,
+            122
+          ],
+          "id_str": "165841440",
+          "id": 165841440,
+          "screen_name": "popcouturejjw4"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @downtowndiane: #NationalOysterDay @BaltimoreSun Deals @NickelTaphouse @RyleighsOyster @MtWashingtonTav @popcouturejjw4 #Baltimore  http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:13:24+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628919817928581120,
+      "id_str": "628919817928581120",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/JYITLWrjL7",
+            "indices": [
+              49,
+              71
+            ],
+            "display_url": "ow.ly/Qc6sA",
+            "expanded_url": "http://ow.ly/Qc6sA"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              89,
+              102
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Ben Cardin",
+            "indices": [
+              21,
+              35
+            ],
+            "id_str": "109071031",
+            "id": 109071031,
+            "screen_name": "SenatorCardin"
+          },
+          {
+            "name": "MCAF Maryland",
+            "indices": [
+              72,
+              88
+            ],
+            "id_str": "2900989535",
+            "id": 2900989535,
+            "screen_name": "CleanAirMoms_MD"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "259873788",
+        "id": 259873788
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Exclusive interview! @SenatorCardin of Maryland: http://t.co/JYITLWrjL7 @CleanAirMoms_MD #ActOnClimate",
+      "lang": "en",
+      "created_at": "Wed Aug 05 13:25:44 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628930365089017856,
+    "id_str": "628930365089017856",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/JYITLWrjL7",
+          "indices": [
+            67,
+            89
+          ],
+          "display_url": "ow.ly/Qc6sA",
+          "expanded_url": "http://ow.ly/Qc6sA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            107,
+            120
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Moms Clean Air Force",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "259873788",
+          "id": 259873788,
+          "screen_name": "CleanAirMoms"
+        },
+        {
+          "name": "Senator Ben Cardin",
+          "indices": [
+            39,
+            53
+          ],
+          "id_str": "109071031",
+          "id": 109071031,
+          "screen_name": "SenatorCardin"
+        },
+        {
+          "name": "MCAF Maryland",
+          "indices": [
+            90,
+            106
+          ],
+          "id_str": "2900989535",
+          "id": 2900989535,
+          "screen_name": "CleanAirMoms_MD"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "109071031",
+      "screen_name": "senatorcardin",
+      "id": 109071031
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CleanAirMoms: Exclusive interview! @SenatorCardin of Maryland: http://t.co/JYITLWrjL7 @CleanAirMoms_MD #ActOnClimate",
+    "lang": "en",
+    "created_at": "2015-08-05 14:07:38+00:00"
+  }
+]

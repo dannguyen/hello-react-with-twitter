@@ -1,0 +1,1332 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629745934495281152,
+    "id_str": "629745934495281152",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629744380606328832,
+      "id_str": "629744380606328832",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "FairTax",
+            "indices": [
+              29,
+              37
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "FairTax\u00ae Official",
+            "indices": [
+              128,
+              144
+            ],
+            "id_str": "24009801",
+            "id": 24009801,
+            "screen_name": "FairTaxOfficial"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2382685057",
+        "id": 2382685057
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Couldn\u2019t help but notice the #FairTax in last night\u2019s debate! For all of us on board from day 1 &amp; along the way\u2013keep it up! @FairTaxOfficial",
+      "lang": "en",
+      "created_at": "Fri Aug 07 20:02:15 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ye5ahT7aw1",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "twitter.com/RepRobWoodall/\u2026",
+          "expanded_url": "https://twitter.com/RepRobWoodall/status/629744380606328832"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FairTax",
+          "indices": [
+            65,
+            73
+          ]
+        },
+        {
+          "text": "KeepingOn",
+          "indices": [
+            110,
+            120
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rob Woodall",
+          "indices": [
+            48,
+            62
+          ],
+          "id_str": "2382685057",
+          "id": 2382685057,
+          "screen_name": "RepRobWoodall"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629744380606328832",
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 20:08:25+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I've been a proud co-sponsor &amp; supporter of @RepRobWoodall's #FairTax Act since my first day in Congress. #KeepingOn https://t.co/Ye5ahT7aw1",
+    "lang": "en",
+    "quoted_status_id": 629744380606328832
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629696733044436992,
+    "id_str": "629696733044436992",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oLWbeYczYQ",
+          "indices": [
+            82,
+            104
+          ],
+          "display_url": "1.usa.gov/1JRgAKL",
+          "expanded_url": "http://1.usa.gov/1JRgAKL"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "LaborForce",
+          "indices": [
+            4,
+            15
+          ]
+        },
+        {
+          "text": "UnemploymentRate",
+          "indices": [
+            44,
+            61
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Key #LaborForce measurement contributing to #UnemploymentRate has not improved. - http://t.co/oLWbeYczYQ - The House has acted on solutions.",
+    "lang": "en",
+    "created_at": "2015-08-07 16:52:55+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629688553509924865,
+    "id_str": "629688553509924865",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/8jryNKUulB",
+          "indices": [
+            120,
+            142
+          ],
+          "display_url": "bit.ly/1IN2x3s",
+          "expanded_url": "http://bit.ly/1IN2x3s"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "LongsShortReport",
+          "indices": [
+            15,
+            32
+          ]
+        },
+        {
+          "text": "EPA",
+          "indices": [
+            48,
+            52
+          ]
+        },
+        {
+          "text": "Ozarks",
+          "indices": [
+            105,
+            112
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In this week's #LongsShortReport: how the final #EPA power plant emisisons rule is out of touch with the #Ozarks. -&gt; http://t.co/8jryNKUulB",
+    "lang": "en",
+    "created_at": "2015-08-07 16:20:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629676481686454272,
+    "id_str": "629676481686454272",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/l2wXa3b0p5",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "bit.ly/1Pb0WK9",
+          "expanded_url": "http://bit.ly/1Pb0WK9"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranPlan",
+          "indices": [
+            4,
+            13
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The #IranPlan is losing the support of key Senate players. -&gt; http://t.co/l2wXa3b0p5",
+    "lang": "en",
+    "created_at": "2015-08-07 15:32:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629612716769046529,
+    "id_str": "629612716769046529",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/xZZeB9RPgD",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "player.tritondigital.com/3051?mount=KWT\u2026",
+          "expanded_url": "http://player.tritondigital.com/3051?mount=KWTOAM"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "KWTOAM Radio",
+          "indices": [
+            18,
+            30
+          ],
+          "id_str": "570886014",
+          "id": 570886014,
+          "screen_name": "NewsTalk560"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I will be live on @NewsTalk560 this morning at 7:15 CT. Listen in here: http://t.co/xZZeB9RPgD",
+    "lang": "en",
+    "created_at": "2015-08-07 11:19:03+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629392749570101249,
+      "id_str": "629392749570101249",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/qLFtX3mkLu",
+            "indices": [
+              85,
+              107
+            ],
+            "display_url": "j.mp/1gBfxTU",
+            "expanded_url": "http://j.mp/1gBfxTU"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "7713202",
+        "id": 7713202
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "We're listening to the American people &amp; getting things done. A progress report: http://t.co/qLFtX3mkLu",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:44:59 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629393784518782976,
+    "id_str": "629393784518782976",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/qLFtX3mkLu",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "j.mp/1gBfxTU",
+          "expanded_url": "http://j.mp/1gBfxTU"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Speaker John Boehner",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "7713202",
+          "id": 7713202,
+          "screen_name": "SpeakerBoehner"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SpeakerBoehner: We're listening to the American people &amp; getting things done. A progress report: http://t.co/qLFtX3mkLu",
+    "lang": "en",
+    "created_at": "2015-08-06 20:49:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629366325761179649,
+    "id_str": "629366325761179649",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/UKdHxy8U84",
+          "indices": [
+            60,
+            82
+          ],
+          "display_url": "bit.ly/1IKT0tQ",
+          "expanded_url": "http://bit.ly/1IKT0tQ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            28,
+            33
+          ]
+        },
+        {
+          "text": "BadDeal",
+          "indices": [
+            107,
+            115
+          ]
+        },
+        {
+          "text": "NuclearIran",
+          "indices": [
+            122,
+            134
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Eyebrow-raising activity at #Iran's Parchin facility. -&gt; http://t.co/UKdHxy8U84\nI will neither accept a #BadDeal nor a #NuclearIran.",
+    "lang": "en",
+    "created_at": "2015-08-06 18:59:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629353760041644032,
+    "id_str": "629353760041644032",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/v8qIieruL5",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "sgfnow.co/1hlEymd",
+          "expanded_url": "http://sgfnow.co/1hlEymd"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Springfield PD",
+          "indices": [
+            15,
+            25
+          ],
+          "id_str": "232260236",
+          "id": 232260236,
+          "screen_name": "SGFPolice"
+        },
+        {
+          "name": "News-Leader",
+          "indices": [
+            100,
+            114
+          ],
+          "id_str": "20624061",
+          "id": 20624061,
+          "screen_name": "springfieldNL"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great story on @SGFPolice Officer Aaron Pearson &amp; his recovery reaching the six-month mark, via @springfieldNL -&gt; http://t.co/v8qIieruL5",
+    "lang": "en",
+    "created_at": "2015-08-06 18:10:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629314422071296000,
+    "id_str": "629314422071296000",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Hiroshima",
+          "indices": [
+            10,
+            20
+          ]
+        },
+        {
+          "text": "HiroshimaNagasaki70",
+          "indices": [
+            117,
+            137
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I went to #Hiroshima ground zero last Feb on Congressional Study Group visit. Was powerful. We have come a long way. #HiroshimaNagasaki70",
+    "lang": "en",
+    "created_at": "2015-08-06 15:33:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629293161811156992,
+    "id_str": "629293161811156992",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bFMeHtoCQ6",
+          "indices": [
+            41,
+            63
+          ],
+          "display_url": "bit.ly/1IK4s92",
+          "expanded_url": "http://bit.ly/1IK4s92"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            12,
+            16
+          ]
+        },
+        {
+          "text": "House",
+          "indices": [
+            66,
+            72
+          ]
+        },
+        {
+          "text": "RatepayerProtectionAct",
+          "indices": [
+            80,
+            103
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "States want #EPA power plant rule delay. http://t.co/bFMeHtoCQ6 - #House passed #RatepayerProtectionAct to delay until it's decided in court",
+    "lang": "en",
+    "created_at": "2015-08-06 14:09:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629027465948741632,
+    "id_str": "629027465948741632",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/A0rf9IeaEs",
+          "indices": [
+            126,
+            148
+          ],
+          "display_url": "1.usa.gov/1T4e1Fy",
+          "expanded_url": "http://1.usa.gov/1T4e1Fy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RecordOfSuccess",
+          "indices": [
+            9,
+            25
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Energy and Commerce",
+          "indices": [
+            29,
+            43
+          ],
+          "id_str": "114756202",
+          "id": 114756202,
+          "screen_name": "HouseCommerce"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A strong #RecordOfSuccess at @HouseCommerce so far in 2015. &gt;70 hearings, &gt;20 House-approved bills, &amp; more to come.\nhttp://t.co/A0rf9IeaEs",
+    "lang": "en",
+    "created_at": "2015-08-05 20:33:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628964905589325824,
+    "id_str": "628964905589325824",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            8,
+            13
+          ]
+        },
+        {
+          "text": "IranDeal",
+          "indices": [
+            132,
+            141
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Lifting #Iran sanctions would free resources to put toward research &amp; readiness for nuclear capabilities within the timeline of #IranDeal.",
+    "lang": "en",
+    "created_at": "2015-08-05 16:24:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628962423530254336,
+    "id_str": "628962423530254336",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2WO6oHj9ym",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "1.usa.gov/1DukY0N",
+          "expanded_url": "http://1.usa.gov/1DukY0N"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "MO7",
+          "indices": [
+            63,
+            67
+          ]
+        },
+        {
+          "text": "Ozarks",
+          "indices": [
+            68,
+            75
+          ]
+        },
+        {
+          "text": "LongsShortReport",
+          "indices": [
+            84,
+            101
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Want to receive weekly updates from DC on issues impacting the #MO7 #Ozarks?Get the #LongsShortReport for the latest: http://t.co/2WO6oHj9ym",
+    "lang": "en",
+    "created_at": "2015-08-05 16:15:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628940055827075072,
+    "id_str": "628940055827075072",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/YKFteQGG0o",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "wapo.st/1K3RlQQ",
+          "expanded_url": "http://wapo.st/1K3RlQQ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FBI",
+          "indices": [
+            4,
+            8
+          ]
+        },
+        {
+          "text": "Hillary",
+          "indices": [
+            42,
+            50
+          ]
+        },
+        {
+          "text": "Clinton",
+          "indices": [
+            51,
+            59
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The #FBI is investigating the security of #Hillary #Clinton's private server used during time as Secretary of State.-&gt;http://t.co/YKFteQGG0o",
+    "lang": "en",
+    "created_at": "2015-08-05 14:46:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628669699958702080,
+    "id_str": "628669699958702080",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2wHVEOwvPK",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "bit.ly/1eR635h",
+          "expanded_url": "http://bit.ly/1eR635h"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            34,
+            43
+          ]
+        },
+        {
+          "text": "House",
+          "indices": [
+            71,
+            77
+          ]
+        },
+        {
+          "text": "BadDeal",
+          "indices": [
+            98,
+            106
+          ]
+        },
+        {
+          "text": "Iran",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A resolution to disapprove of the #IranDeal will be brought before the #House. We cannot afford a #BadDeal w/ #Iran.- http://t.co/2wHVEOwvPK",
+    "lang": "en",
+    "created_at": "2015-08-04 20:51:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628636871061598208,
+    "id_str": "628636871061598208",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LMDFkib6m1",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "1.usa.gov/1UlihmE",
+          "expanded_url": "http://1.usa.gov/1UlihmE"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "House",
+          "indices": [
+            4,
+            10
+          ]
+        },
+        {
+          "text": "veterans",
+          "indices": [
+            26,
+            35
+          ]
+        },
+        {
+          "text": "VA",
+          "indices": [
+            71,
+            74
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The #House is working for #veterans - passed 19 bills this year to fix #VA, help w/ employment, health &amp; housing. http://t.co/LMDFkib6m1",
+    "lang": "en",
+    "created_at": "2015-08-04 18:41:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628609578821926912,
+    "id_str": "628609578821926912",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/z5zM9jV5jl",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "bit.ly/1KOOhLr",
+          "expanded_url": "http://bit.ly/1KOOhLr"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DefundPP",
+          "indices": [
+            94,
+            103
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Babies are not \"line items.\" They are innocent, priceless individuals who deserve protection. #DefundPP. Another vid: http://t.co/z5zM9jV5jl",
+    "lang": "en",
+    "created_at": "2015-08-04 16:52:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628577773444026369,
+    "id_str": "628577773444026369",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Fast Talking Podcast",
+          "indices": [
+            38,
+            53
+          ],
+          "id_str": "3035376478",
+          "id": 3035376478,
+          "screen_name": "AuctionPodcast"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great talking w/ Andy Imholte for the @AuctionPodcast this AM on how auctioneers can be involved, my time as an auctioneer &amp; current issues.",
+    "lang": "en",
+    "created_at": "2015-08-04 14:46:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628311939190550528,
+    "id_str": "628311939190550528",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/gGATqOnOqe",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "1.usa.gov/1gFiGlL",
+          "expanded_url": "http://1.usa.gov/1gFiGlL"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            30,
+            34
+          ]
+        },
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            35,
+            50
+          ]
+        },
+        {
+          "text": "MO7",
+          "indices": [
+            63,
+            67
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Coal = 80% of Missouri power. #EPA #CleanPowerPlan slams coal. #MO7 families &amp; business will feel it. Full statement: http://t.co/gGATqOnOqe",
+    "lang": "en",
+    "created_at": "2015-08-03 21:10:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628280063939756033,
+    "id_str": "628280063939756033",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/aCe1Qfv4xr",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "bit.ly/1MIlU4N",
+          "expanded_url": "http://bit.ly/1MIlU4N"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "China",
+          "indices": [
+            6,
+            12
+          ]
+        },
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            26,
+            41
+          ]
+        },
+        {
+          "text": "CarbonEmissions",
+          "indices": [
+            57,
+            73
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1444015610",
+      "screen_name": "usreplong",
+      "id": 1444015610
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Maybe #China needs a real #CleanPowerPlan. U.S. vs China #CarbonEmissions trend, according to avail World Bank data-&gt; http://t.co/aCe1Qfv4xr",
+    "lang": "en",
+    "created_at": "2015-08-03 19:03:34+00:00"
+  }
+]

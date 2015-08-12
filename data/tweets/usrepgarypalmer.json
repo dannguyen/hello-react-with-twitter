@@ -1,0 +1,2539 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629762978129276928,
+    "id_str": "629762978129276928",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "alpolitics",
+          "indices": [
+            69,
+            80
+          ]
+        },
+        {
+          "text": "al06",
+          "indices": [
+            81,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/pJtAUK1v4b",
+          "media_url": "http://pbs.twimg.com/media/CL1eFO9UYAA6OfX.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1eFO9UYAA6OfX.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629762978129276928/photo/1",
+          "id_str": "629762966909378560",
+          "indices": [
+            87,
+            109
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/pJtAUK1v4b",
+          "id": 629762966909378560
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pJtAUK1v4b",
+          "media_url": "http://pbs.twimg.com/media/CL1eFO9UYAA6OfX.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1eFO9UYAA6OfX.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629762978129276928/photo/1",
+          "id_str": "629762966909378560",
+          "indices": [
+            87,
+            109
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/pJtAUK1v4b",
+          "id": 629762966909378560
+        },
+        {
+          "url": "http://t.co/pJtAUK1v4b",
+          "media_url": "http://pbs.twimg.com/media/CL1eFO3UsAEhkv6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1eFO3UsAEhkv6.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629762978129276928/photo/1",
+          "id_str": "629762966884233217",
+          "indices": [
+            87,
+            109
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/pJtAUK1v4b",
+          "id": 629762966884233217
+        },
+        {
+          "url": "http://t.co/pJtAUK1v4b",
+          "media_url": "http://pbs.twimg.com/media/CL1eFO4UAAAoB7g.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1eFO4UAAAoB7g.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629762978129276928/photo/1",
+          "id_str": "629762966888382464",
+          "indices": [
+            87,
+            109
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/pJtAUK1v4b",
+          "id": 629762966888382464
+        },
+        {
+          "url": "http://t.co/pJtAUK1v4b",
+          "media_url": "http://pbs.twimg.com/media/CL1eFQbUkAAQme0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1eFQbUkAAQme0.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629762978129276928/photo/1",
+          "id_str": "629762967303655424",
+          "indices": [
+            87,
+            109
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/pJtAUK1v4b",
+          "id": 629762967303655424
+        }
+      ]
+    },
+    "text": "Enjoyed visiting St. Vincent's Blount Community Hospital in Oneonta. #alpolitics #al06 http://t.co/pJtAUK1v4b",
+    "lang": "en",
+    "created_at": "2015-08-07 21:16:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629692397602123777,
+    "id_str": "629692397602123777",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/e31Iw5KjOv",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "al.com/news/index.ssf\u2026",
+          "expanded_url": "http://www.al.com/news/index.ssf/2015/08/palmer_to_host_town_hall_frida.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "AL.com",
+          "indices": [
+            108,
+            117
+          ],
+          "id_str": "14528874",
+          "id": 14528874,
+          "screen_name": "aldotcom"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you're around Coosa County this afternoon, I would be pleased if you would join me for a town hall event.@aldotcom http://t.co/e31Iw5KjOv",
+    "lang": "en",
+    "created_at": "2015-08-07 16:35:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629645122024701952,
+    "id_str": "629645122024701952",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/wwkqJD32bI",
+          "media_url": "http://pbs.twimg.com/media/CLzy5gVUwAAyowJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzy5gVUwAAyowJ.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629645122024701952/photo/1",
+          "id_str": "629645117670866944",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/wwkqJD32bI",
+          "id": 629645117670866944
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "John Lyda",
+          "indices": [
+            111,
+            120
+          ],
+          "id_str": "33915272",
+          "id": 33915272,
+          "screen_name": "johnlyda"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/wwkqJD32bI",
+          "media_url": "http://pbs.twimg.com/media/CLzy5gVUwAAyowJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzy5gVUwAAyowJ.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629645122024701952/photo/1",
+          "id_str": "629645117670866944",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/wwkqJD32bI",
+          "id": 629645117670866944
+        },
+        {
+          "url": "http://t.co/wwkqJD32bI",
+          "media_url": "http://pbs.twimg.com/media/CLzy5s-UwAAYrfk.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzy5s-UwAAYrfk.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629645122024701952/photo/1",
+          "id_str": "629645121064058880",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/wwkqJD32bI",
+          "id": 629645121064058880
+        }
+      ]
+    },
+    "text": "Enjoyed the Field and Stream grand opening in Hoover &amp; catching up with Hoover Mayor Ivey &amp; Councilman @johnlyda. http://t.co/wwkqJD32bI",
+    "lang": "en",
+    "created_at": "2015-08-07 13:27:49+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629600430998159360,
+    "id_str": "629600430998159360",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "GOPDebate",
+          "indices": [
+            61,
+            71
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "B'ham's Morning News",
+          "indices": [
+            11,
+            20
+          ],
+          "id_str": "19027416",
+          "id": 19027416,
+          "screen_name": "1055WERC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'll be on @1055WERC with JT at about 7am CST to discuss the #GOPDebate and more.",
+    "lang": "en",
+    "created_at": "2015-08-07 10:30:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629402838133702656,
+    "id_str": "629402838133702656",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/JSyqgdw7eI",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "palmer.house.gov/media-center/p\u2026",
+          "expanded_url": "https://palmer.house.gov/media-center/press-releases/palmer-signs-letter-requesting-information-side-deal-iran"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            36,
+            45
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congress has a legal right to these #IranDeal side agreements &amp; to have all of its questions answered before voting. https://t.co/JSyqgdw7eI",
+    "lang": "en",
+    "created_at": "2015-08-06 21:25:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629316018414952448,
+    "id_str": "629316018414952448",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "alpolitics",
+          "indices": [
+            100,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/9LbScr23YJ",
+          "media_url": "http://pbs.twimg.com/media/CLvHlT-WcAAwCEg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvHlT-WcAAwCEg.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629316018414952448/photo/1",
+          "id_str": "629316016779194368",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/9LbScr23YJ",
+          "id": 629316016779194368
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/9LbScr23YJ",
+          "media_url": "http://pbs.twimg.com/media/CLvHlT-WcAAwCEg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvHlT-WcAAwCEg.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629316018414952448/photo/1",
+          "id_str": "629316016779194368",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/9LbScr23YJ",
+          "id": 629316016779194368
+        },
+        {
+          "url": "http://t.co/9LbScr23YJ",
+          "media_url": "http://pbs.twimg.com/media/CLvHlQ_WUAAtyEW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvHlQ_WUAAtyEW.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629316018414952448/photo/1",
+          "id_str": "629316015978074112",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/9LbScr23YJ",
+          "id": 629316015978074112
+        },
+        {
+          "url": "http://t.co/9LbScr23YJ",
+          "media_url": "http://pbs.twimg.com/media/CLvHlVcXAAAsvRV.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvHlVcXAAAsvRV.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629316018414952448/photo/1",
+          "id_str": "629316017173495808",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/9LbScr23YJ",
+          "id": 629316017173495808
+        },
+        {
+          "url": "http://t.co/9LbScr23YJ",
+          "media_url": "http://pbs.twimg.com/media/CLvHkP1WcAUhvH3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvHkP1WcAUhvH3.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629316018414952448/photo/1",
+          "id_str": "629315998487834629",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1536
+            }
+          },
+          "display_url": "pic.twitter.com/9LbScr23YJ",
+          "id": 629315998487834629
+        }
+      ]
+    },
+    "text": "It was great to speak to the business and professional leaders at the Hoover Rotary Club\u200b luncheon. #alpolitics http://t.co/9LbScr23YJ",
+    "lang": "en",
+    "created_at": "2015-08-06 15:40:05+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629007724211269633,
+    "id_str": "629007724211269633",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/WQSTXcKmDh",
+          "media_url": "http://pbs.twimg.com/media/CLqvKdhUcAEcRFt.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqvKdhUcAEcRFt.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629007724211269633/photo/1",
+          "id_str": "629007692229537793",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/WQSTXcKmDh",
+          "id": 629007692229537793
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Golden Flake",
+          "indices": [
+            20,
+            33
+          ],
+          "id_str": "60394449",
+          "id": 60394449,
+          "screen_name": "Golden_Flake"
+        },
+        {
+          "name": "City of Birmingham",
+          "indices": [
+            46,
+            59
+          ],
+          "id_str": "23486900",
+          "id": 23486900,
+          "screen_name": "cityofbhamal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/WQSTXcKmDh",
+          "media_url": "http://pbs.twimg.com/media/CLqvKdhUcAEcRFt.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqvKdhUcAEcRFt.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629007724211269633/photo/1",
+          "id_str": "629007692229537793",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/WQSTXcKmDh",
+          "id": 629007692229537793
+        },
+        {
+          "url": "http://t.co/WQSTXcKmDh",
+          "media_url": "http://pbs.twimg.com/media/CLqvK-vUwAAGxI0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqvK-vUwAAGxI0.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629007724211269633/photo/1",
+          "id_str": "629007701146648576",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/WQSTXcKmDh",
+          "id": 629007701146648576
+        },
+        {
+          "url": "http://t.co/WQSTXcKmDh",
+          "media_url": "http://pbs.twimg.com/media/CLqvK1wUkAA2V7J.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqvK1wUkAA2V7J.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629007724211269633/photo/1",
+          "id_str": "629007698734911488",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/WQSTXcKmDh",
+          "id": 629007698734911488
+        },
+        {
+          "url": "http://t.co/WQSTXcKmDh",
+          "media_url": "http://pbs.twimg.com/media/CLqvMPuUcAAt17S.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqvMPuUcAAt17S.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/629007724211269633/photo/1",
+          "id_str": "629007722885705728",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/WQSTXcKmDh",
+          "id": 629007722885705728
+        }
+      ]
+    },
+    "text": "Enjoyed touring the @Golden_Flake facility in @cityofbhamal. Founded in 1923, it now serves a 12 state market. http://t.co/WQSTXcKmDh",
+    "lang": "en",
+    "created_at": "2015-08-05 19:15:02+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628691163042545665,
+    "id_str": "628691163042545665",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1Xo1WqY9F8",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "yellowhammernews.com/politics-2/ala\u2026",
+          "expanded_url": "http://yellowhammernews.com/politics-2/alabama-lawmakers-react-to-obamas-new-overreaching-epa-power-plan/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            94,
+            98
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Yellowhammer",
+          "indices": [
+            111,
+            115
+          ],
+          "id_str": "425268743",
+          "id": 425268743,
+          "screen_name": "yhn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "American families, particularly the most economically vulnerable, can ill afford the costs of #EPA's rule. h/t @yhn \nhttp://t.co/1Xo1WqY9F8",
+    "lang": "en",
+    "created_at": "2015-08-04 22:17:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628681829986336768,
+    "id_str": "628681829986336768",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/aKYuHxznXi",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "youtu.be/uG-4RRzML8s",
+          "expanded_url": "https://youtu.be/uG-4RRzML8s"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rick & Bubba Show",
+          "indices": [
+            20,
+            33
+          ],
+          "id_str": "19352525",
+          "id": 19352525,
+          "screen_name": "rickandbubba"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you missed me on @rickandbubba yesterday, you can watch it here.  We discuss Iran, Planned Parenthood &amp; more.\nhttps://t.co/aKYuHxznXi",
+    "lang": "en",
+    "created_at": "2015-08-04 21:40:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628659033340313600,
+    "id_str": "628659033340313600",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/3KMkGk8RBz",
+          "media_url": "http://pbs.twimg.com/media/CLlyD0FUkAAStsZ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlyD0FUkAAStsZ.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628659033340313600/photo/1",
+          "id_str": "628659032841031680",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 284,
+              "resize": "fit",
+              "h": 342
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 284,
+              "resize": "fit",
+              "h": 342
+            },
+            "large": {
+              "w": 284,
+              "resize": "fit",
+              "h": 342
+            }
+          },
+          "display_url": "pic.twitter.com/3KMkGk8RBz",
+          "id": 628659032841031680
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/3KMkGk8RBz",
+          "media_url": "http://pbs.twimg.com/media/CLlyD0FUkAAStsZ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlyD0FUkAAStsZ.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628659033340313600/photo/1",
+          "id_str": "628659032841031680",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 284,
+              "resize": "fit",
+              "h": 342
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 284,
+              "resize": "fit",
+              "h": 342
+            },
+            "large": {
+              "w": 284,
+              "resize": "fit",
+              "h": 342
+            }
+          },
+          "display_url": "pic.twitter.com/3KMkGk8RBz",
+          "id": 628659032841031680
+        }
+      ]
+    },
+    "text": "All are invited to my Town Hall event on Friday, August 7, @ 4 p.m. @ the Coosa County Courthouse, Rockford, AL http://t.co/3KMkGk8RBz",
+    "lang": "en",
+    "created_at": "2015-08-04 20:09:28+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628601776728604673,
+    "id_str": "628601776728604673",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "alpolitics",
+          "indices": [
+            110,
+            121
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/1UQQch6pKe",
+          "media_url": "http://pbs.twimg.com/media/CLk99-rWsAABOK_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk99-rWsAABOK_.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628601776728604673/photo/1",
+          "id_str": "628601758001049600",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/1UQQch6pKe",
+          "id": 628601758001049600
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/1UQQch6pKe",
+          "media_url": "http://pbs.twimg.com/media/CLk99-rWsAABOK_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk99-rWsAABOK_.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628601776728604673/photo/1",
+          "id_str": "628601758001049600",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/1UQQch6pKe",
+          "id": 628601758001049600
+        },
+        {
+          "url": "http://t.co/1UQQch6pKe",
+          "media_url": "http://pbs.twimg.com/media/CLk9--SWEAA707t.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk9--SWEAA707t.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628601776728604673/photo/1",
+          "id_str": "628601775076020224",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/1UQQch6pKe",
+          "id": 628601775076020224
+        },
+        {
+          "url": "http://t.co/1UQQch6pKe",
+          "media_url": "http://pbs.twimg.com/media/CLk9-O2WwAAvxSS.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk9-O2WwAAvxSS.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628601776728604673/photo/1",
+          "id_str": "628601762342158336",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/1UQQch6pKe",
+          "id": 628601762342158336
+        },
+        {
+          "url": "http://t.co/1UQQch6pKe",
+          "media_url": "http://pbs.twimg.com/media/CLk9--GXAAA9G4o.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk9--GXAAA9G4o.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628601776728604673/photo/1",
+          "id_str": "628601775025750016",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/1UQQch6pKe",
+          "id": 628601775025750016
+        }
+      ]
+    },
+    "text": "Enjoyed Coffee with over 55 fellow Alabamians at Snider's Discount Pharmacy &amp; Ground Up Coffee last week. #alpolitics http://t.co/1UQQch6pKe",
+    "lang": "en",
+    "created_at": "2015-08-04 16:21:57+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628598271842385920,
+    "id_str": "628598271842385920",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "alpolitics",
+          "indices": [
+            91,
+            102
+          ]
+        },
+        {
+          "text": "al06",
+          "indices": [
+            103,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/8CuqF2Uo9l",
+          "media_url": "http://pbs.twimg.com/media/CLk6zCbWEAAChBM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk6zCbWEAAChBM.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628598271842385920/photo/1",
+          "id_str": "628598271494197248",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/8CuqF2Uo9l",
+          "id": 628598271494197248
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8CuqF2Uo9l",
+          "media_url": "http://pbs.twimg.com/media/CLk6zCbWEAAChBM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk6zCbWEAAChBM.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628598271842385920/photo/1",
+          "id_str": "628598271494197248",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/8CuqF2Uo9l",
+          "id": 628598271494197248
+        }
+      ]
+    },
+    "text": "Pleased to attend the swearing in of Stan Hogeland, the new Mayor of Gardendale, Alabama\u200b. #alpolitics #al06 http://t.co/8CuqF2Uo9l",
+    "lang": "en",
+    "created_at": "2015-08-04 16:08:01+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628567609064169472,
+    "id_str": "628567609064169472",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/ZEwo7E5SPx",
+          "media_url": "http://pbs.twimg.com/media/CLke6NJWgAA3n6c.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLke6NJWgAA3n6c.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628567609064169472/photo/1",
+          "id_str": "628567608305025024",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/ZEwo7E5SPx",
+          "id": 628567608305025024
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Arthritis Foundation",
+          "indices": [
+            104,
+            114
+          ],
+          "id_str": "1154868793",
+          "id": 1154868793,
+          "screen_name": "AFAlabama"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZEwo7E5SPx",
+          "media_url": "http://pbs.twimg.com/media/CLke6NJWgAA3n6c.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLke6NJWgAA3n6c.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628567609064169472/photo/1",
+          "id_str": "628567608305025024",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/ZEwo7E5SPx",
+          "id": 628567608305025024
+        }
+      ]
+    },
+    "text": "Thanks to the Arthritis Foundation of Alabama for visiting with me in my Birmingham Office yesterday. w/@AFAlabama http://t.co/ZEwo7E5SPx",
+    "lang": "en",
+    "created_at": "2015-08-04 14:06:10+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628560656212566017,
+    "id_str": "628560656212566017",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            26,
+            35
+          ]
+        },
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            40,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/GoLu48K8zM",
+          "media_url": "http://pbs.twimg.com/media/CLkYG52WUAIaaPN.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkYG52WUAIaaPN.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628560656212566017/photo/1",
+          "id_str": "628560129881952258",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/GoLu48K8zM",
+          "id": 628560129881952258
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "B'ham's Morning News",
+          "indices": [
+            70,
+            79
+          ],
+          "id_str": "19027416",
+          "id": 19027416,
+          "screen_name": "1055WERC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/GoLu48K8zM",
+          "media_url": "http://pbs.twimg.com/media/CLkYG52WUAIaaPN.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkYG52WUAIaaPN.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628560656212566017/photo/1",
+          "id_str": "628560129881952258",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/GoLu48K8zM",
+          "id": 628560129881952258
+        },
+        {
+          "url": "http://t.co/GoLu48K8zM",
+          "media_url": "http://pbs.twimg.com/media/CLkYH32WcAASo_4.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkYH32WcAASo_4.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628560656212566017/photo/1",
+          "id_str": "628560146524958720",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/GoLu48K8zM",
+          "id": 628560146524958720
+        }
+      ]
+    },
+    "text": "Enjoyed talking politics, #IranDeal and #PlannedParenthood with JT on @1055WERC earlier this morning. http://t.co/GoLu48K8zM",
+    "lang": "en",
+    "created_at": "2015-08-04 13:38:33+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628527053566926848,
+    "id_str": "628527053566926848",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "B'ham's Morning News",
+          "indices": [
+            50,
+            59
+          ],
+          "id_str": "19027416",
+          "id": 19027416,
+          "screen_name": "1055WERC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Going to be on Birmingham Morning News with JT on @1055WERC at 7am CST.  Tune in!",
+    "lang": "en",
+    "created_at": "2015-08-04 11:25:01+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628354640652955649,
+      "id_str": "628354640652955649",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/wXcJXDbhzu",
+            "indices": [
+              71,
+              93
+            ],
+            "display_url": "altoday.com/archives/5138-\u2026",
+            "expanded_url": "http://altoday.com/archives/5138-alabama-reactions-to-president-obamas-clean-energy-plan"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "EPA",
+            "indices": [
+              94,
+              98
+            ]
+          },
+          {
+            "text": "ALpolitics",
+            "indices": [
+              99,
+              110
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Gary Palmer",
+            "indices": [
+              1,
+              17
+            ],
+            "id_str": "2861616083",
+            "id": 2861616083,
+            "screen_name": "USRepGaryPalmer"
+          },
+          {
+            "name": "Barack Obama",
+            "indices": [
+              34,
+              46
+            ],
+            "id_str": "813286",
+            "id": 813286,
+            "screen_name": "BarackObama"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3019316668",
+        "id": 3019316668
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@USRepGaryPalmer reacts to Pres. @BarackObama's new Clean Power Plan: http://t.co/wXcJXDbhzu #EPA #ALpolitics",
+      "lang": "en",
+      "created_at": "Mon Aug 03 23:59:55 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628365914350686208,
+    "id_str": "628365914350686208",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/wXcJXDbhzu",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "altoday.com/archives/5138-\u2026",
+          "expanded_url": "http://altoday.com/archives/5138-alabama-reactions-to-president-obamas-clean-energy-plan"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            112,
+            116
+          ]
+        },
+        {
+          "text": "ALpolitics",
+          "indices": [
+            117,
+            128
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "AL Today",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "3019316668",
+          "id": 3019316668,
+          "screen_name": "AlabamaToday"
+        },
+        {
+          "name": "Gary Palmer",
+          "indices": [
+            19,
+            35
+          ],
+          "id_str": "2861616083",
+          "id": 2861616083,
+          "screen_name": "USRepGaryPalmer"
+        },
+        {
+          "name": "Barack Obama",
+          "indices": [
+            52,
+            64
+          ],
+          "id_str": "813286",
+          "id": 813286,
+          "screen_name": "BarackObama"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AlabamaToday: .@USRepGaryPalmer reacts to Pres. @BarackObama's new Clean Power Plan: http://t.co/wXcJXDbhzu #EPA #ALpolitics",
+    "lang": "en",
+    "created_at": "2015-08-04 00:44:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628355947954630656,
+    "id_str": "628355947954630656",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/1SSkFvViCi",
+          "indices": [
+            119,
+            142
+          ],
+          "display_url": "palmer.house.gov/media-center/p\u2026",
+          "expanded_url": "https://palmer.house.gov/media-center/press-releases/palmer-opposes-expensive-job-killing-epa-power-plant-rule"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            8,
+            12
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The new #EPA power plant rule will do little for the environment &amp; it will be one of the most costly of all time. \nhttps://t.co/1SSkFvViCi",
+    "lang": "en",
+    "created_at": "2015-08-04 00:05:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628203121915875329,
+    "id_str": "628203121915875329",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            11,
+            29
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Wwn67LQnzy",
+          "media_url": "http://pbs.twimg.com/media/CLfTXVrWoAAHgSe.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfTXVrWoAAHgSe.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628203121915875329/photo/1",
+          "id_str": "628203070950907904",
+          "indices": [
+            59,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/Wwn67LQnzy",
+          "id": 628203070950907904
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rick & Bubba Show",
+          "indices": [
+            40,
+            53
+          ],
+          "id_str": "19352525",
+          "id": 19352525,
+          "screen_name": "rickandbubba"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Wwn67LQnzy",
+          "media_url": "http://pbs.twimg.com/media/CLfTXVrWoAAHgSe.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfTXVrWoAAHgSe.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628203121915875329/photo/1",
+          "id_str": "628203070950907904",
+          "indices": [
+            59,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/Wwn67LQnzy",
+          "id": 628203070950907904
+        }
+      ]
+    },
+    "text": "Discussing #PlannedParenthood videos on @rickandbubba now. http://t.co/Wwn67LQnzy",
+    "lang": "en",
+    "created_at": "2015-08-03 13:57:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628195676426514432,
+    "id_str": "628195676426514432",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            69,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/mdzDxct8Rf",
+          "media_url": "http://pbs.twimg.com/media/CLfMbZAWgAAXMit.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfMbZAWgAAXMit.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628195676426514432/photo/1",
+          "id_str": "628195443982368768",
+          "indices": [
+            80,
+            102
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/mdzDxct8Rf",
+          "id": 628195443982368768
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rick & Bubba Show",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "19352525",
+          "id": 19352525,
+          "screen_name": "rickandbubba"
+        },
+        {
+          "name": "Bill Bubba Bussey",
+          "indices": [
+            22,
+            38
+          ],
+          "id_str": "39366444",
+          "id": 39366444,
+          "screen_name": "BillBubbaBussey"
+        },
+        {
+          "name": "rick burgess",
+          "indices": [
+            43,
+            50
+          ],
+          "id_str": "42028415",
+          "id": 42028415,
+          "screen_name": "bigvox"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/mdzDxct8Rf",
+          "media_url": "http://pbs.twimg.com/media/CLfMbZAWgAAXMit.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfMbZAWgAAXMit.jpg",
+          "expanded_url": "http://twitter.com/USRepGaryPalmer/status/628195676426514432/photo/1",
+          "id_str": "628195443982368768",
+          "indices": [
+            80,
+            102
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/mdzDxct8Rf",
+          "id": 628195443982368768
+        }
+      ]
+    },
+    "text": "On @rickandbubba with @BillBubbaBussey and @bigvox talking about the #IranDeal. http://t.co/mdzDxct8Rf",
+    "lang": "en",
+    "created_at": "2015-08-03 13:28:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627914285167964160,
+    "id_str": "627914285167964160",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/QJDmp7l1lR",
+          "indices": [
+            114,
+            137
+          ],
+          "display_url": "youtu.be/onFEom3oc3Y",
+          "expanded_url": "https://youtu.be/onFEom3oc3Y"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "NASA",
+          "indices": [
+            69,
+            74
+          ],
+          "id_str": "11348282",
+          "id": 11348282,
+          "screen_name": "NASA"
+        },
+        {
+          "name": "Sci,Space,&Tech Cmte",
+          "indices": [
+            90,
+            103
+          ],
+          "id_str": "23103488",
+          "id": 23103488,
+          "screen_name": "HouseScience"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2861616083",
+      "screen_name": "usrepgarypalmer",
+      "id": 2861616083
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It is an exciting time for space exploration. See my discussion with @NASA officials at a @HouseScience hearing.  https://t.co/QJDmp7l1lR",
+    "lang": "en",
+    "created_at": "2015-08-02 18:50:06+00:00"
+  }
+]

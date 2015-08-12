@@ -1,0 +1,2332 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "10126672",
+    "id_str": "626149881837699072",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 88,
+      "favorite_count": 212,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/NrnFB4TLXS",
+            "media_url": "http://pbs.twimg.com/media/CLBegOhUwAACLZn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBegOhUwAACLZn.jpg",
+            "expanded_url": "http://twitter.com/USMC/status/626104256941068288/photo/1",
+            "id_str": "626104255951192064",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 169
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 511
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 299
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/NrnFB4TLXS",
+            "id": 626104255951192064
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 626104256941068288,
+      "id_str": "626104256941068288",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/NrnFB4TLXS",
+            "media_url": "http://pbs.twimg.com/media/CLBegOhUwAACLZn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBegOhUwAACLZn.jpg",
+            "expanded_url": "http://twitter.com/USMC/status/626104256941068288/photo/1",
+            "id_str": "626104255951192064",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 169
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 511
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 299
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/NrnFB4TLXS",
+            "id": 626104255951192064
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Marines",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "15356407",
+            "indices": [
+              17,
+              28
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/b4sAHYh3rN",
+            "indices": [
+              89,
+              111
+            ],
+            "display_url": "go.usa.gov/376Em",
+            "expanded_url": "http://go.usa.gov/376Em"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "10126672",
+        "id": 10126672
+      },
+      "text": "#Marines welcome @RobWittman as the newest Honorary Marine.\n\nSemper Fi, sir.\n\nRead more: http://t.co/b4sAHYh3rN http://t.co/NrnFB4TLXS",
+      "lang": "en",
+      "created_at": "Tue Jul 28 18:57:41 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "10126672",
+          "indices": [
+            0,
+            5
+          ],
+          "name": "U.S. Marines",
+          "id": 10126672,
+          "screen_name": "USMC"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/r4MwansFn7",
+          "indices": [
+            107,
+            130
+          ],
+          "display_url": "twitter.com/USMC/status/62\u2026",
+          "expanded_url": "https://twitter.com/USMC/status/626104256941068288"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626104256941068288",
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "created_at": "2015-07-28 21:58:59+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 10126672,
+    "in_reply_to_screen_name": "USMC",
+    "id": 626149881837699072,
+    "text": "@USMC I am truly humbled, &amp; will continue to do all I can to support our Marines &amp; their families. https://t.co/r4MwansFn7",
+    "lang": "en",
+    "quoted_status_id": 626104256941068288,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "623961393247723520",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/8Uo0xKcRxe",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "tinyurl.com/wklyupdate722",
+          "expanded_url": "http://tinyurl.com/wklyupdate722"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 623961393247723520,
+    "text": "Want to see REAL health care reform in Washington? So do I! Check out my weekly update to learn more--http://t.co/8Uo0xKcRxe",
+    "lang": "en",
+    "created_at": "2015-07-22 21:02:43+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/4FKleYIwDW",
+            "media_url": "http://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+            "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605387774309638144/photo/1",
+            "id_str": "605387774104059904",
+            "indices": [
+              69,
+              91
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 852,
+                "resize": "fit",
+                "h": 1136
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/4FKleYIwDW",
+            "id": 605387774104059904
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 605387774309638144,
+      "id_str": "605387774309638144",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/4FKleYIwDW",
+            "media_url": "http://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+            "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605387774309638144/photo/1",
+            "id_str": "605387774104059904",
+            "indices": [
+              69,
+              91
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 852,
+                "resize": "fit",
+                "h": 1136
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/4FKleYIwDW",
+            "id": 605387774104059904
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "15356407",
+            "indices": [
+              57,
+              68
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "2889057492",
+        "id": 2889057492
+      },
+      "text": "Congressman Wittman talks with students in the CISCO Lab @robwittman http://t.co/4FKleYIwDW",
+      "lang": "en",
+      "created_at": "Mon Jun 01 14:57:47 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2889057492,
+          "media_url": "http://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+          "source_user_id_str": "2889057492",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "pic.twitter.com/4FKleYIwDW",
+          "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605387774309638144/photo/1",
+          "url": "http://t.co/4FKleYIwDW",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+          "source_status_id_str": "605387774309638144",
+          "id_str": "605387774104059904",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 1136
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 605387774104059904,
+          "source_status_id": 605387774309638144
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 605388286249578497,
+    "id_str": "605388286249578497",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 2889057492,
+          "media_url": "http://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+          "source_user_id_str": "2889057492",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "pic.twitter.com/4FKleYIwDW",
+          "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605387774309638144/photo/1",
+          "url": "http://t.co/4FKleYIwDW",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGbE-RrWQAAt7NC.jpg",
+          "source_status_id_str": "605387774309638144",
+          "id_str": "605387774104059904",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 1136
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 605387774104059904,
+          "source_status_id": 605387774309638144
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "2889057492",
+          "indices": [
+            3,
+            18
+          ],
+          "name": "NOVA Woodbridge",
+          "id": 2889057492,
+          "screen_name": "NOVAWoodbridge"
+        },
+        {
+          "id_str": "15356407",
+          "indices": [
+            77,
+            88
+          ],
+          "name": "Rep. Rob Wittman",
+          "id": 15356407,
+          "screen_name": "RobWittman"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "text": "RT @NOVAWoodbridge: Congressman Wittman talks with students in the CISCO Lab @robwittman http://t.co/4FKleYIwDW",
+    "lang": "en",
+    "created_at": "2015-06-01 14:59:49+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wQWWbwmXWn",
+            "media_url": "http://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+            "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605385990530867200/photo/1",
+            "id_str": "605385990442741760",
+            "indices": [
+              103,
+              125
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 852,
+                "resize": "fit",
+                "h": 1136
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/wQWWbwmXWn",
+            "id": 605385990442741760
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 605385990530867200,
+      "id_str": "605385990530867200",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/wQWWbwmXWn",
+            "media_url": "http://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+            "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605385990530867200/photo/1",
+            "id_str": "605385990442741760",
+            "indices": [
+              103,
+              125
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 852,
+                "resize": "fit",
+                "h": 1136
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/wQWWbwmXWn",
+            "id": 605385990442741760
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "15356407",
+            "indices": [
+              91,
+              102
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "2889057492",
+        "id": 2889057492
+      },
+      "text": "Congressman Rob Wittman touring the Regional Center for Workforce Education &amp; Training @robwittman http://t.co/wQWWbwmXWn",
+      "lang": "en",
+      "created_at": "Mon Jun 01 14:50:42 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2889057492,
+          "media_url": "http://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+          "source_user_id_str": "2889057492",
+          "indices": [
+            123,
+            144
+          ],
+          "display_url": "pic.twitter.com/wQWWbwmXWn",
+          "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605385990530867200/photo/1",
+          "url": "http://t.co/wQWWbwmXWn",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+          "source_status_id_str": "605385990530867200",
+          "id_str": "605385990442741760",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 1136
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 605385990442741760,
+          "source_status_id": 605385990530867200
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 605388223930580992,
+    "id_str": "605388223930580992",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 2889057492,
+          "media_url": "http://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+          "source_user_id_str": "2889057492",
+          "indices": [
+            123,
+            144
+          ],
+          "display_url": "pic.twitter.com/wQWWbwmXWn",
+          "expanded_url": "http://twitter.com/NOVAWoodbridge/status/605385990530867200/photo/1",
+          "url": "http://t.co/wQWWbwmXWn",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGbDWdBWcAAnato.jpg",
+          "source_status_id_str": "605385990530867200",
+          "id_str": "605385990442741760",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 1136
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 605385990442741760,
+          "source_status_id": 605385990530867200
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "2889057492",
+          "indices": [
+            3,
+            18
+          ],
+          "name": "NOVA Woodbridge",
+          "id": 2889057492,
+          "screen_name": "NOVAWoodbridge"
+        },
+        {
+          "id_str": "15356407",
+          "indices": [
+            111,
+            122
+          ],
+          "name": "Rep. Rob Wittman",
+          "id": 15356407,
+          "screen_name": "RobWittman"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "text": "RT @NOVAWoodbridge: Congressman Rob Wittman touring the Regional Center for Workforce Education &amp; Training @robwittman http://t.co/wQWWbwmX\u2026",
+    "lang": "en",
+    "created_at": "2015-06-01 14:59:34+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "601415177175707648",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Lyme",
+          "indices": [
+            3,
+            8
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/C0sxdeHivI",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "1.usa.gov/1F2oA5bhttp://\u2026",
+          "expanded_url": "http://1.usa.gov/1F2oA5bhttp://1.usa.gov/1F2oA5b"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 601415177175707648,
+    "text": "My #Lyme and other Tick-Borne Diseases Forum will be held at 7pm on Thurs. 5/28 at Ashland Elementary in Manassas: http://t.co/C0sxdeHivI",
+    "lang": "en",
+    "created_at": "2015-05-21 15:52:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "601414905032486912",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14345759",
+          "indices": [
+            15,
+            25
+          ],
+          "name": "Post Local",
+          "id": 14345759,
+          "screen_name": "postlocal"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Lyme",
+          "indices": [
+            29,
+            34
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/RPn7o5ZqPC",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "wapo.st/1Foz9lt",
+          "expanded_url": "http://wapo.st/1Foz9lt"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 601414905032486912,
+    "text": "story today in @postlocal on #Lyme disease is a reminder of the impact of tick-borne illnesses in our region: http://t.co/RPn7o5ZqPC",
+    "lang": "en",
+    "created_at": "2015-05-21 15:51:01+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "14345759",
+    "id_str": "601410694496542720",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14345759",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "Post Local",
+          "id": 14345759,
+          "screen_name": "postlocal"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Lyme",
+          "indices": [
+            26,
+            31
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/RPn7o5ZqPC",
+          "indices": [
+            107,
+            129
+          ],
+          "display_url": "wapo.st/1Foz9lt",
+          "expanded_url": "http://wapo.st/1Foz9lt"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 14345759,
+    "in_reply_to_screen_name": "postlocal",
+    "id": 601410694496542720,
+    "text": "@postlocal story today on #Lyme disease is a reminder of the impact of tick-borne illnesses in our region: http://t.co/RPn7o5ZqPC",
+    "lang": "en",
+    "created_at": "2015-05-21 15:34:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "601410536719409152",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Lyme",
+          "indices": [
+            73,
+            78
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/2OFQw85Z5D",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "1.usa.gov/1F2oA5b",
+          "expanded_url": "http://1.usa.gov/1F2oA5b"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 601410536719409152,
+    "text": "May is Nat\u2019l Lyme Disease Awareness Month. Please join us on 5/28 for my #Lyme and other Tick-Borne Diseases Forum: http://t.co/2OFQw85Z5D",
+    "lang": "en",
+    "created_at": "2015-05-21 15:33:40+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "601125510073167872",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 601114799544639489,
+      "id_str": "601114799544639489",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "15356407",
+            "indices": [
+              13,
+              24
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          },
+          {
+            "id_str": "111635527",
+            "indices": [
+              31,
+              44
+            ],
+            "name": "Rep. Gene Green",
+            "id": 111635527,
+            "screen_name": "RepGeneGreen"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "PublicHealth",
+            "indices": [
+              76,
+              89
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "426909329",
+        "id": 426909329
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you to @RobWittman &amp; @RepGeneGreen for your work on Congressional #PublicHealth Caucus; important step to a safer, healthier world.",
+      "lang": "en",
+      "created_at": "Wed May 20 19:58:31 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "426909329",
+          "indices": [
+            8,
+            21
+          ],
+          "name": "Dr. Tom Frieden",
+          "id": 426909329,
+          "screen_name": "DrFriedenCDC"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PublicHealth",
+          "indices": [
+            53,
+            66
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/D8rkGi46ex",
+          "indices": [
+            81,
+            104
+          ],
+          "display_url": "twitter.com/DrFriedenCDC/s\u2026",
+          "expanded_url": "https://twitter.com/DrFriedenCDC/status/601114799544639489"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "601114799544639489",
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "created_at": "2015-05-20 20:41:04+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 601125510073167872,
+    "text": "Thanks, @DrFriedenCDC, for the CDC's work to promote #PublicHealth initiatives!  https://t.co/D8rkGi46ex",
+    "lang": "en",
+    "quoted_status_id": 601114799544639489,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "599273939219525632",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "NDAA",
+          "indices": [
+            32,
+            37
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/14wWD0KBPE",
+          "indices": [
+            110,
+            133
+          ],
+          "display_url": "amp.twimg.com/v/f791b69b-5a4\u2026",
+          "expanded_url": "https://amp.twimg.com/v/f791b69b-5a4d-4414-a7ab-0203b261f126"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 599273939219525632,
+    "text": "The House has been debating the #NDAA this week &amp; yesterday I was proud to defend a strong carrier fleet:\nhttps://t.co/14wWD0KBPE",
+    "lang": "en",
+    "created_at": "2015-05-15 18:03:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "593471554924761088",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "FY16NDAA",
+          "indices": [
+            10,
+            19
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/fSYtuJ69g8",
+          "indices": [
+            89,
+            112
+          ],
+          "display_url": "youtube.com/watch?v=JpG-UB\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=JpG-UBtNSz4&feature=youtu.be"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 593471554924761088,
+    "text": "Tune into #FY16NDAA now as Rob leads consideration of the Readiness portion of the bill: https://t.co/fSYtuJ69g8",
+    "lang": "en",
+    "created_at": "2015-04-29 17:46:59+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 593471062039461889,
+      "id_str": "593471062039461889",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "FY16NDAA",
+            "indices": [
+              28,
+              37
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20192403",
+        "id": 20192403
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Readiness Subcomm begins at #FY16NDAA",
+      "lang": "en",
+      "created_at": "Wed Apr 29 17:45:02 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "593471210840825858",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FY16NDAA",
+          "indices": [
+            49,
+            58
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 593471210840825858,
+    "text": "RT @HASCRepublicans: Readiness Subcomm begins at #FY16NDAA",
+    "lang": "en",
+    "created_at": "2015-04-29 17:45:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "593422529756299264",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            6,
+            22
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        },
+        {
+          "id_str": "74294786",
+          "indices": [
+            29,
+            43
+          ],
+          "name": "House Armed Services",
+          "id": 74294786,
+          "screen_name": "HASCDemocrats"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FY16NDAA",
+          "indices": [
+            132,
+            141
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PuSbj2c4c3",
+          "indices": [
+            108,
+            131
+          ],
+          "display_url": "youtube.com/watch?v=5OIwal\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=5OIwalYm2RM&feature=youtu.be"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 593422529756299264,
+    "text": "Today @HASCRepublicans &amp; @HASCDemocrats consider the National Defense Authorization Act - tune in here: https://t.co/PuSbj2c4c3 #FY16NDAA",
+    "lang": "en",
+    "created_at": "2015-04-29 14:32:11+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "588382567495294976",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 7,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/0NofzD4oWr",
+            "media_url": "http://pbs.twimg.com/media/CClcRZiW0AAuMw7.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CClcRZiW0AAuMw7.jpg",
+            "expanded_url": "http://twitter.com/BAESystemsInc/status/588102680838569984/photo/1",
+            "id_str": "588102680331079680",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 267
+              },
+              "large": {
+                "w": 410,
+                "resize": "fit",
+                "h": 322
+              },
+              "medium": {
+                "w": 410,
+                "resize": "fit",
+                "h": 322
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/0NofzD4oWr",
+            "id": 588102680331079680
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 588102680838569984,
+      "id_str": "588102680838569984",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/0NofzD4oWr",
+            "media_url": "http://pbs.twimg.com/media/CClcRZiW0AAuMw7.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CClcRZiW0AAuMw7.jpg",
+            "expanded_url": "http://twitter.com/BAESystemsInc/status/588102680838569984/photo/1",
+            "id_str": "588102680331079680",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 267
+              },
+              "large": {
+                "w": 410,
+                "resize": "fit",
+                "h": 322
+              },
+              "medium": {
+                "w": 410,
+                "resize": "fit",
+                "h": 322
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/0NofzD4oWr",
+            "id": 588102680331079680
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "SAS15",
+            "indices": [
+              108,
+              114
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "229119882",
+            "indices": [
+              28,
+              40
+            ],
+            "name": "Sea Air Space",
+            "id": 229119882,
+            "screen_name": "SeaAirSpace"
+          },
+          {
+            "id_str": "15356407",
+            "indices": [
+              82,
+              93
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "50446312",
+        "id": 50446312
+      },
+      "text": "It was another great day at @SeaAirSpace! We especially enjoyed a visit from Rep. @RobWittman at our booth. #SAS15 http://t.co/0NofzD4oWr",
+      "lang": "en",
+      "created_at": "Tue Apr 14 22:13:00 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "50446312",
+          "indices": [
+            21,
+            35
+          ],
+          "name": "BAE Systems, Inc.",
+          "id": 50446312,
+          "screen_name": "BAESystemsInc"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/gMO8C8f9kd",
+          "indices": [
+            38,
+            61
+          ],
+          "display_url": "twitter.com/BAESystemsInc/\u2026",
+          "expanded_url": "https://twitter.com/BAESystemsInc/status/588102680838569984"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "588102680838569984",
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "created_at": "2015-04-15 16:45:10+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 588382567495294976,
+    "text": "Thanks for having me @BAESystemsInc ! https://t.co/gMO8C8f9kd",
+    "lang": "en",
+    "quoted_status_id": 588102680838569984,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "588382236111667200",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/2dR7Viupum",
+            "media_url": "http://pbs.twimg.com/media/CCpEo4mUgAAGyml.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CCpEo4mUgAAGyml.jpg",
+            "expanded_url": "http://twitter.com/NavyLeagueUS/status/588358171607093249/photo/1",
+            "id_str": "588358170503839744",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/2dR7Viupum",
+            "id": 588358170503839744
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 588358171607093249,
+      "id_str": "588358171607093249",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/2dR7Viupum",
+            "media_url": "http://pbs.twimg.com/media/CCpEo4mUgAAGyml.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CCpEo4mUgAAGyml.jpg",
+            "expanded_url": "http://twitter.com/NavyLeagueUS/status/588358171607093249/photo/1",
+            "id_str": "588358170503839744",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/2dR7Viupum",
+            "id": 588358170503839744
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "SAS15",
+            "indices": [
+              75,
+              81
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "15356407",
+            "indices": [
+              26,
+              37
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          },
+          {
+            "id_str": "229119882",
+            "indices": [
+              45,
+              57
+            ],
+            "name": "Sea Air Space",
+            "id": 229119882,
+            "screen_name": "SeaAirSpace"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "68839395",
+        "id": 68839395
+      },
+      "text": "Happy to have Congressman @RobWittman on the @SeaAirSpace floor yesterday. #SAS15 http://t.co/2dR7Viupum",
+      "lang": "en",
+      "created_at": "Wed Apr 15 15:08:13 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "68839395",
+          "indices": [
+            7,
+            20
+          ],
+          "name": "Navy League",
+          "id": 68839395,
+          "screen_name": "NavyLeagueUS"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/NunoN5XaRI",
+          "indices": [
+            105,
+            128
+          ],
+          "display_url": "twitter.com/NavyLeagueUS/s\u2026",
+          "expanded_url": "https://twitter.com/NavyLeagueUS/status/588358171607093249"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "588358171607093249",
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "created_at": "2015-04-15 16:43:51+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 588382236111667200,
+    "text": "Thanks @NavyLeagueUS for a great opportunity to commemorate 50 yrs of maritime excellence and innovation https://t.co/NunoN5XaRI",
+    "lang": "en",
+    "quoted_status_id": 588358171607093249,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 580831264640466945,
+    "id_str": "580831264640466945",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts &amp; prayers are with the family &amp; loved ones of the two Virginians who were on board the Germanwings flight that crashed Tuesday",
+    "lang": "en",
+    "created_at": "2015-03-25 20:38:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "580474179096559618",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/HjXxDuWPbN",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "1.usa.gov/1CW28zb",
+          "expanded_url": "http://1.usa.gov/1CW28zb"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580474179096559618,
+    "text": "Know a high school student interested in the Congressional Art Competition? Submissions are due 4/8. Details here: http://t.co/HjXxDuWPbN",
+    "lang": "en",
+    "created_at": "2015-03-24 21:00:03+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ev5Tb8cZRF",
+          "media_url": "http://pbs.twimg.com/media/B__M1ODWcAAq-8i.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B__M1ODWcAAq-8i.jpg",
+          "expanded_url": "http://twitter.com/RobWittman/status/576404493010628609/photo/1",
+          "id_str": "576404492003995648",
+          "indices": [
+            58,
+            80
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/ev5Tb8cZRF",
+          "id": 576404492003995648
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 576404493010628609,
+    "id_str": "576404493010628609",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/ev5Tb8cZRF",
+          "media_url": "http://pbs.twimg.com/media/B__M1ODWcAAq-8i.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B__M1ODWcAAq-8i.jpg",
+          "expanded_url": "http://twitter.com/RobWittman/status/576404493010628609/photo/1",
+          "id_str": "576404492003995648",
+          "indices": [
+            58,
+            80
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/ev5Tb8cZRF",
+          "id": 576404492003995648
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "va01",
+          "indices": [
+            52,
+            57
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "text": "Congratulations to all my Service Academy nominees! #va01 http://t.co/ev5Tb8cZRF",
+    "lang": "en",
+    "created_at": "2015-03-13 15:28:34+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "573099198326947840",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "15356407",
+            "indices": [
+              8,
+              19
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "JFRS",
+            "indices": [
+              64,
+              69
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/QncGofkITN",
+            "indices": [
+              41,
+              63
+            ],
+            "display_url": "tunein.com/radio/WHKT-165\u2026",
+            "expanded_url": "http://tunein.com/radio/WHKT-1650-s29343/"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "449850814",
+        "id": 449850814
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 573099198326947840,
+      "text": "Up next @RobWittman ! He's here! Tune in http://t.co/QncGofkITN #JFRS",
+      "lang": "en",
+      "created_at": "Wed Mar 04 12:34:31 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "573187511956217856",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "449850814",
+          "indices": [
+            3,
+            15
+          ],
+          "name": "John Fredericks",
+          "id": 449850814,
+          "screen_name": "jfradioshow"
+        },
+        {
+          "id_str": "15356407",
+          "indices": [
+            25,
+            36
+          ],
+          "name": "Rep. Rob Wittman",
+          "id": 15356407,
+          "screen_name": "RobWittman"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "JFRS",
+          "indices": [
+            81,
+            86
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/QncGofkITN",
+          "indices": [
+            58,
+            80
+          ],
+          "display_url": "tunein.com/radio/WHKT-165\u2026",
+          "expanded_url": "http://tunein.com/radio/WHKT-1650-s29343/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 573187511956217856,
+    "text": "RT @jfradioshow: Up next @RobWittman ! He's here! Tune in http://t.co/QncGofkITN #JFRS",
+    "lang": "en",
+    "created_at": "2015-03-04 18:25:26+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 6,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "571061705008152577",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "15356407",
+            "indices": [
+              16,
+              27
+            ],
+            "name": "Rep. Rob Wittman",
+            "id": 15356407,
+            "screen_name": "RobWittman"
+          },
+          {
+            "id_str": "44916396",
+            "indices": [
+              80,
+              91
+            ],
+            "name": "NACo",
+            "id": 44916396,
+            "screen_name": "NACoTweets"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CountiesMatter",
+            "indices": [
+              92,
+              107
+            ]
+          },
+          {
+            "text": "NACoLeg",
+            "indices": [
+              108,
+              116
+            ]
+          },
+          {
+            "text": "KingGeorge",
+            "indices": [
+              117,
+              128
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/HM7hxgJA1z",
+            "indices": [
+              57,
+              79
+            ],
+            "display_url": "bit.ly/1C0WOJN",
+            "expanded_url": "http://bit.ly/1C0WOJN"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2369774894",
+        "id": 2369774894
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 571061705008152577,
+      "text": "Congratulations @RobWittman!! Well deserved recognition. http://t.co/HM7hxgJA1z @NACoTweets #CountiesMatter #NACoLeg #KingGeorge",
+      "lang": "en",
+      "created_at": "Thu Feb 26 21:38:14 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "571295462294204416",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2369774894",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "Ruby Brabo",
+          "id": 2369774894,
+          "screen_name": "RubyBrabo"
+        },
+        {
+          "id_str": "15356407",
+          "indices": [
+            31,
+            42
+          ],
+          "name": "Rep. Rob Wittman",
+          "id": 15356407,
+          "screen_name": "RobWittman"
+        },
+        {
+          "id_str": "44916396",
+          "indices": [
+            95,
+            106
+          ],
+          "name": "NACo",
+          "id": 44916396,
+          "screen_name": "NACoTweets"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CountiesMatter",
+          "indices": [
+            107,
+            122
+          ]
+        },
+        {
+          "text": "NACoLeg",
+          "indices": [
+            123,
+            131
+          ]
+        },
+        {
+          "text": "KingGeorge",
+          "indices": [
+            132,
+            140
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/HM7hxgJA1z",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "bit.ly/1C0WOJN",
+          "expanded_url": "http://bit.ly/1C0WOJN"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15356407",
+      "screen_name": "robwittman",
+      "id": 15356407
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 571295462294204416,
+    "text": "RT @RubyBrabo: Congratulations @RobWittman!! Well deserved recognition. http://t.co/HM7hxgJA1z @NACoTweets #CountiesMatter #NACoLeg #KingGe\u2026",
+    "lang": "en",
+    "created_at": "2015-02-27 13:07:07+00:00",
+    "retweeted": false
+  }
+]

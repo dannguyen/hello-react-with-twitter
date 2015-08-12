@@ -1,0 +1,2418 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630453010401918977,
+    "id_str": "630453010401918977",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/anuVsr2zmI",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "1.usa.gov/1It1xCm",
+          "expanded_url": "http://1.usa.gov/1It1xCm"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "domesticviolence",
+          "indices": [
+            101,
+            118
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Cannot fathom amount of cowardice needed to exploit women &amp; kids. Watch what we're doing to stop #domesticviolence:  http://t.co/anuVsr2zmI",
+    "lang": "en",
+    "created_at": "2015-08-09 18:58:05+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Mundelein, IL",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -88.069671,
+                42.2276443
+              ],
+              [
+                -87.973993,
+                42.2276443
+              ],
+              [
+                -87.973993,
+                42.2996144
+              ],
+              [
+                -88.069671,
+                42.2996144
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/c72b4751b1fce384.json",
+        "name": "Mundelein",
+        "country": "United States",
+        "place_type": "city",
+        "id": "c72b4751b1fce384"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630388490342133760,
+      "id_str": "630388490342133760",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/iBsr0NNO4V",
+            "media_url": "http://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+            "expanded_url": "http://twitter.com/MundeleinHolly/status/630388490342133760/photo/1",
+            "id_str": "630388484067295232",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 264
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 465
+              },
+              "large": {
+                "w": 935,
+                "resize": "fit",
+                "h": 726
+              }
+            },
+            "display_url": "pic.twitter.com/iBsr0NNO4V",
+            "id": 630388484067295232
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Robert J. Dold",
+            "indices": [
+              46,
+              54
+            ],
+            "id_str": "245408102",
+            "id": 245408102,
+            "screen_name": "RepDold"
+          },
+          {
+            "name": "Rep Sam Yingling",
+            "indices": [
+              59,
+              67
+            ],
+            "id_str": "376257654",
+            "id": 376257654,
+            "screen_name": "Sam4Rep"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1046923646",
+        "id": 1046923646
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/iBsr0NNO4V",
+            "media_url": "http://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+            "expanded_url": "http://twitter.com/MundeleinHolly/status/630388490342133760/photo/1",
+            "id_str": "630388484067295232",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 264
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 465
+              },
+              "large": {
+                "w": 935,
+                "resize": "fit",
+                "h": 726
+              }
+            },
+            "display_url": "pic.twitter.com/iBsr0NNO4V",
+            "id": 630388484067295232
+          }
+        ]
+      },
+      "text": "LakeCounty IL  job fair in Round lake. Thanks @RepDold and @Sam4Rep for putting it on. http://t.co/iBsr0NNO4V",
+      "lang": "en",
+      "created_at": "Sun Aug 09 14:41:42 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1046923646,
+          "media_url": "http://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+          "source_user_id_str": "1046923646",
+          "indices": [
+            107,
+            129
+          ],
+          "display_url": "pic.twitter.com/iBsr0NNO4V",
+          "expanded_url": "http://twitter.com/MundeleinHolly/status/630388490342133760/photo/1",
+          "url": "http://t.co/iBsr0NNO4V",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+          "source_status_id_str": "630388490342133760",
+          "id_str": "630388484067295232",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 264
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 465
+            },
+            "large": {
+              "w": 935,
+              "resize": "fit",
+              "h": 726
+            }
+          },
+          "id": 630388484067295232,
+          "source_status_id": 630388490342133760
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630431054378176517,
+    "id_str": "630431054378176517",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 1046923646,
+          "media_url": "http://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+          "source_user_id_str": "1046923646",
+          "indices": [
+            107,
+            129
+          ],
+          "display_url": "pic.twitter.com/iBsr0NNO4V",
+          "expanded_url": "http://twitter.com/MundeleinHolly/status/630388490342133760/photo/1",
+          "url": "http://t.co/iBsr0NNO4V",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL-W_H9UAAAVkzc.jpg",
+          "source_status_id_str": "630388490342133760",
+          "id_str": "630388484067295232",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 264
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 465
+            },
+            "large": {
+              "w": 935,
+              "resize": "fit",
+              "h": 726
+            }
+          },
+          "id": 630388484067295232,
+          "source_status_id": 630388490342133760
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Holly Kim",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "1046923646",
+          "id": 1046923646,
+          "screen_name": "MundeleinHolly"
+        },
+        {
+          "name": "Rep. Robert J. Dold",
+          "indices": [
+            66,
+            74
+          ],
+          "id_str": "245408102",
+          "id": 245408102,
+          "screen_name": "RepDold"
+        },
+        {
+          "name": "Rep Sam Yingling",
+          "indices": [
+            79,
+            87
+          ],
+          "id_str": "376257654",
+          "id": 376257654,
+          "screen_name": "Sam4Rep"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MundeleinHolly: LakeCounty IL  job fair in Round lake. Thanks @RepDold and @Sam4Rep for putting it on. http://t.co/iBsr0NNO4V",
+    "lang": "en",
+    "created_at": "2015-08-09 17:30:50+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 18,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629821828786073600,
+      "id_str": "629821828786073600",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              0,
+              9
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/uEjmFDNQ3I",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+            "expanded_url": "http://twitter.com/PressReader/status/629821828786073600/video/1",
+            "id_str": "629821593871499264",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 338
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/uEjmFDNQ3I",
+            "id": 629821593871499264
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/51l8cPowGW",
+            "indices": [
+              94,
+              116
+            ],
+            "display_url": "ow.ly/QDWWK",
+            "expanded_url": "http://ow.ly/QDWWK"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Robert J. Dold",
+            "indices": [
+              78,
+              86
+            ],
+            "id_str": "245408102",
+            "id": 245408102,
+            "screen_name": "RepDold"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16456572",
+        "id": 16456572
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/uEjmFDNQ3I",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+            "type": "video",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+            "expanded_url": "http://twitter.com/PressReader/status/629821828786073600/video/1",
+            "video_info": {
+              "duration_millis": 29671,
+              "variants": [
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/640x360/2BrWqzeCpJwaRoFG.webm",
+                  "bitrate": 832000,
+                  "content_type": "video/webm"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/pl/EYLBJj8XgLAoQV8S.mpd",
+                  "content_type": "application/dash+xml"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/pl/EYLBJj8XgLAoQV8S.m3u8",
+                  "content_type": "application/x-mpegURL"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/320x180/bL7XgVmtwQPqlr90.mp4",
+                  "bitrate": 320000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/640x360/2BrWqzeCpJwaRoFG.mp4",
+                  "bitrate": 832000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/1280x720/cPI3OrojBLCAjmPw.mp4",
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ]
+            },
+            "id_str": "629821593871499264",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 338
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/uEjmFDNQ3I",
+            "id": 629821593871499264
+          }
+        ]
+      },
+      "text": "#IranDeal endangers Americans and sustains nuclear threat against Israel says @RepDold. Watch http://t.co/51l8cPowGW http://t.co/uEjmFDNQ3I",
+      "lang": "en",
+      "created_at": "Sat Aug 08 01:10:00 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16456572,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+          "source_user_id_str": "16456572",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/uEjmFDNQ3I",
+          "expanded_url": "http://twitter.com/PressReader/status/629821828786073600/video/1",
+          "url": "http://t.co/uEjmFDNQ3I",
+          "type": "video",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+          "source_status_id_str": "629821828786073600",
+          "video_info": {
+            "duration_millis": 29671,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/640x360/2BrWqzeCpJwaRoFG.webm",
+                "bitrate": 832000,
+                "content_type": "video/webm"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/pl/EYLBJj8XgLAoQV8S.mpd",
+                "content_type": "application/dash+xml"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/pl/EYLBJj8XgLAoQV8S.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/320x180/bL7XgVmtwQPqlr90.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/640x360/2BrWqzeCpJwaRoFG.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629821593871499264/pu/vid/1280x720/cPI3OrojBLCAjmPw.mp4",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              16,
+              9
+            ]
+          },
+          "id_str": "629821593871499264",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 338
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629821593871499264,
+          "source_status_id": 629821828786073600
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630090452243480576,
+    "id_str": "630090452243480576",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            17,
+            26
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 16456572,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+          "source_user_id_str": "16456572",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/uEjmFDNQ3I",
+          "expanded_url": "http://twitter.com/PressReader/status/629821828786073600/video/1",
+          "url": "http://t.co/uEjmFDNQ3I",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629821593871499264/pu/img/JEKSpEU-baRU8lCf.jpg",
+          "source_status_id_str": "629821828786073600",
+          "id_str": "629821593871499264",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 338
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629821593871499264,
+          "source_status_id": 629821828786073600
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/51l8cPowGW",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "ow.ly/QDWWK",
+          "expanded_url": "http://ow.ly/QDWWK"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "PressReader",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "16456572",
+          "id": 16456572,
+          "screen_name": "PressReader"
+        },
+        {
+          "name": "Rep. Robert J. Dold",
+          "indices": [
+            95,
+            103
+          ],
+          "id_str": "245408102",
+          "id": 245408102,
+          "screen_name": "RepDold"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @PressReader: #IranDeal endangers Americans and sustains nuclear threat against Israel says @RepDold. Watch http://t.co/51l8cPowGW http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-08 18:57:24+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629828301708627968,
+      "id_str": "629828301708627968",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/9wbB81JXPe",
+            "indices": [
+              67,
+              90
+            ],
+            "display_url": "youtu.be/XnrB9Br15U4",
+            "expanded_url": "https://youtu.be/XnrB9Br15U4"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "YouTube",
+            "indices": [
+              95,
+              103
+            ],
+            "id_str": "10228272",
+            "id": 10228272,
+            "screen_name": "YouTube"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "968468624",
+        "id": 968468624
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Congressman Bob Dold: \"Congress must reject the Iran nuclear deal\" https://t.co/9wbB81JXPe via @YouTube",
+      "lang": "en",
+      "created_at": "Sat Aug 08 01:35:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630087168455757824,
+    "id_str": "630087168455757824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/9wbB81JXPe",
+          "indices": [
+            86,
+            109
+          ],
+          "display_url": "youtu.be/XnrB9Br15U4",
+          "expanded_url": "https://youtu.be/XnrB9Br15U4"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "MichaelPaulSpurling",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "968468624",
+          "id": 968468624,
+          "screen_name": "MikePSpurling"
+        },
+        {
+          "name": "YouTube",
+          "indices": [
+            114,
+            122
+          ],
+          "id_str": "10228272",
+          "id": 10228272,
+          "screen_name": "YouTube"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MikePSpurling: Congressman Bob Dold: \"Congress must reject the Iran nuclear deal\" https://t.co/9wbB81JXPe via @YouTube",
+    "lang": "en",
+    "created_at": "2015-08-08 18:44:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629668365800353792,
+    "id_str": "629668365800353792",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/N6M2ook8Mk",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "youtube.com/watch?v=2Se3O6\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=2Se3O6iAlNU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IL10",
+          "indices": [
+            11,
+            16
+          ]
+        },
+        {
+          "text": "WeekInReview",
+          "indices": [
+            17,
+            30
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In lieu of #IL10 #WeekInReview, I want to talk about an issue near to my heart - preventing domestic violence --&gt; https://t.co/N6M2ook8Mk",
+    "lang": "en",
+    "created_at": "2015-08-07 15:00:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629351486028255232,
+    "id_str": "629351486028255232",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/hzYZuhvu8l",
+          "indices": [
+            96,
+            119
+          ],
+          "display_url": "youtube.com/watch?v=t_zKXs\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=t_zKXsKg4uU"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It is past time that we call human trafficking what it really is -- modern day slavery.  WATCH: https://t.co/hzYZuhvu8l",
+    "lang": "en",
+    "created_at": "2015-08-06 18:01:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629305989649580032,
+    "id_str": "629305989649580032",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            24,
+            40
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            68,
+            74
+          ]
+        },
+        {
+          "text": "VRA",
+          "indices": [
+            106,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/5Aevh73IkX",
+          "media_url": "http://pbs.twimg.com/media/CLu9cSoUYAEwkPx.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu9cSoUYAEwkPx.png",
+          "expanded_url": "http://twitter.com/RepDold/status/629305989649580032/photo/1",
+          "id_str": "629304866683248641",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/5Aevh73IkX",
+          "id": 629304866683248641
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/5Aevh73IkX",
+          "media_url": "http://pbs.twimg.com/media/CLu9cSoUYAEwkPx.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu9cSoUYAEwkPx.png",
+          "expanded_url": "http://twitter.com/RepDold/status/629305989649580032/photo/1",
+          "id_str": "629304866683248641",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/5Aevh73IkX",
+          "id": 629304866683248641
+        }
+      ]
+    },
+    "text": "Today is 50th anniv. of #VotingRightsAct. RT if you agree: to honor #VRA50 we should pass bill to restore #VRA. http://t.co/5Aevh73IkX",
+    "lang": "en",
+    "created_at": "2015-08-06 15:00:14+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628973248185696257,
+    "id_str": "628973248185696257",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LIBBvM0MBS",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "1.usa.gov/1IEwGSF",
+          "expanded_url": "http://1.usa.gov/1IEwGSF"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IL10",
+          "indices": [
+            23,
+            28
+          ]
+        },
+        {
+          "text": "AskBob",
+          "indices": [
+            29,
+            36
+          ]
+        },
+        {
+          "text": "ADA",
+          "indices": [
+            91,
+            95
+          ]
+        },
+        {
+          "text": "ADA25",
+          "indices": [
+            126,
+            132
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Don't miss this week's #IL10 #AskBob about how we can continue to uphold the values of the #ADA --&gt; http://t.co/LIBBvM0MBS #ADA25",
+    "lang": "en",
+    "created_at": "2015-08-05 16:58:02+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 103,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 46,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628936443025588224,
+      "id_str": "628936443025588224",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              16,
+              25
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/C95w55L1eK",
+            "media_url": "http://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+            "expanded_url": "http://twitter.com/AJCGlobal/status/628936443025588224/photo/1",
+            "id_str": "628936442937520128",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 504,
+                "resize": "fit",
+                "h": 252
+              },
+              "large": {
+                "w": 504,
+                "resize": "fit",
+                "h": 252
+              }
+            },
+            "display_url": "pic.twitter.com/C95w55L1eK",
+            "id": 628936442937520128
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/VtR7JLHfKk",
+            "indices": [
+              91,
+              113
+            ],
+            "display_url": "bit.ly/1hjnDRe",
+            "expanded_url": "http://bit.ly/1hjnDRe"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "183767243",
+        "id": 183767243
+      },
+      "favorited": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/C95w55L1eK",
+            "media_url": "http://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+            "expanded_url": "http://twitter.com/AJCGlobal/status/628936443025588224/photo/1",
+            "id_str": "628936442937520128",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 504,
+                "resize": "fit",
+                "h": 252
+              },
+              "large": {
+                "w": 504,
+                "resize": "fit",
+                "h": 252
+              }
+            },
+            "display_url": "pic.twitter.com/C95w55L1eK",
+            "id": 628936442937520128
+          }
+        ]
+      },
+      "text": "AJC opposes the #IranDeal &amp; calls on Congress to do the same. Read the full statement: http://t.co/VtR7JLHfKk http://t.co/C95w55L1eK",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:31:47 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 103,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 183767243,
+          "media_url": "http://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+          "source_user_id_str": "183767243",
+          "indices": [
+            129,
+            144
+          ],
+          "display_url": "pic.twitter.com/C95w55L1eK",
+          "expanded_url": "http://twitter.com/AJCGlobal/status/628936443025588224/photo/1",
+          "url": "http://t.co/C95w55L1eK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+          "source_status_id_str": "628936443025588224",
+          "id_str": "628936442937520128",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 504,
+              "resize": "fit",
+              "h": 252
+            },
+            "large": {
+              "w": 504,
+              "resize": "fit",
+              "h": 252
+            }
+          },
+          "id": 628936442937520128,
+          "source_status_id": 628936443025588224
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628969008579125248,
+    "id_str": "628969008579125248",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 183767243,
+          "media_url": "http://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+          "source_user_id_str": "183767243",
+          "indices": [
+            129,
+            144
+          ],
+          "display_url": "pic.twitter.com/C95w55L1eK",
+          "expanded_url": "http://twitter.com/AJCGlobal/status/628936443025588224/photo/1",
+          "url": "http://t.co/C95w55L1eK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpuXNOWsAARSg1.jpg",
+          "source_status_id_str": "628936443025588224",
+          "id_str": "628936442937520128",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 504,
+              "resize": "fit",
+              "h": 252
+            },
+            "large": {
+              "w": 504,
+              "resize": "fit",
+              "h": 252
+            }
+          },
+          "id": 628936442937520128,
+          "source_status_id": 628936443025588224
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/VtR7JLHfKk",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "bit.ly/1hjnDRe",
+          "expanded_url": "http://bit.ly/1hjnDRe"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "AJC",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "183767243",
+          "id": 183767243,
+          "screen_name": "AJCGlobal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AJCGlobal: AJC opposes the #IranDeal &amp; calls on Congress to do the same. Read the full statement: http://t.co/VtR7JLHfKk http://t.co/C9\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 16:41:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Deerfield, IL",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -87.884853,
+              42.138206
+            ],
+            [
+              -87.799621,
+              42.138206
+            ],
+            [
+              -87.799621,
+              42.189925
+            ],
+            [
+              -87.884853,
+              42.189925
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/72efa03540804278.json",
+      "name": "Deerfield",
+      "country": "United States",
+      "place_type": "city",
+      "id": "72efa03540804278"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628680917469544448,
+    "id_str": "628680917469544448",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/gLxPcc80fb",
+          "media_url": "http://pbs.twimg.com/media/CLmF9ffUAAEkGiE.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmF9ffUAAEkGiE.jpg",
+          "expanded_url": "http://twitter.com/RepDold/status/628680917469544448/photo/1",
+          "id_str": "628680914466242561",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/gLxPcc80fb",
+          "id": 628680914466242561
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gLxPcc80fb",
+          "media_url": "http://pbs.twimg.com/media/CLmF9ffUAAEkGiE.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmF9ffUAAEkGiE.jpg",
+          "expanded_url": "http://twitter.com/RepDold/status/628680917469544448/photo/1",
+          "id_str": "628680914466242561",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/gLxPcc80fb",
+          "id": 628680914466242561
+        },
+        {
+          "url": "http://t.co/gLxPcc80fb",
+          "media_url": "http://pbs.twimg.com/media/CLmF9m0UYAAkx89.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmF9m0UYAAkx89.jpg",
+          "expanded_url": "http://twitter.com/RepDold/status/628680917469544448/photo/1",
+          "id_str": "628680916433395712",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/gLxPcc80fb",
+          "id": 628680916433395712
+        }
+      ]
+    },
+    "text": "Visited Patty Turner Center to talk abt protecting healthcare programs for our seniors, including Medicare Part D! http://t.co/gLxPcc80fb",
+    "lang": "en",
+    "created_at": "2015-08-04 21:36:25+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628629112064765952,
+    "id_str": "628629112064765952",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/hzYZuhN5wV",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "youtube.com/watch?v=t_zKXs\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=t_zKXsKg4uU"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Every yr 300k+ kids at risk of being trafficked in US. Most sold before 13th bday. This is modern day slavery --&gt; https://t.co/hzYZuhN5wV",
+    "lang": "en",
+    "created_at": "2015-08-04 18:10:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628608111662772224,
+    "id_str": "628608111662772224",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/0KNuFIrlOj",
+          "indices": [
+            65,
+            88
+          ],
+          "display_url": "youtube.com/watch?v=XD27y_\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=XD27y_DVk64"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IL10",
+          "indices": [
+            18,
+            23
+          ]
+        },
+        {
+          "text": "AskBob",
+          "indices": [
+            24,
+            31
+          ]
+        },
+        {
+          "text": "ADA",
+          "indices": [
+            53,
+            57
+          ]
+        },
+        {
+          "text": "ADA25",
+          "indices": [
+            89,
+            95
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Watch this week's #IL10 #AskBob on the importance of #ADA --&gt; https://t.co/0KNuFIrlOj #ADA25",
+    "lang": "en",
+    "created_at": "2015-08-04 16:47:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628554515764088832,
+    "id_str": "628554515764088832",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/pmmXhODUW8",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "chicagotribune.com/news/ct-senate\u2026",
+          "expanded_url": "http://www.chicagotribune.com/news/ct-senate-hearing-hines-va-met-07-31-20150730-story.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Veterans Affairs",
+          "indices": [
+            30,
+            45
+          ],
+          "id_str": "78408666",
+          "id": 78408666,
+          "screen_name": "DeptVetAffairs"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Lack of care many vets get at @DeptVetAffairs is unacceptable. Must do all we can to honor our heroes. Read more: http://t.co/pmmXhODUW8",
+    "lang": "en",
+    "created_at": "2015-08-04 13:14:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628233985202655233,
+    "id_str": "628233985202655233",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IL10",
+          "indices": [
+            105,
+            110
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts are w/ our neighbors affected by storms. If you need help, please do not hesitate to contact #IL10 office at 847-793-8400.",
+    "lang": "en",
+    "created_at": "2015-08-03 16:00:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628200137794453505,
+    "id_str": "628200137794453505",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/JNg8b1OrDj",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "bit.ly/1f0hYpZ",
+          "expanded_url": "http://bit.ly/1f0hYpZ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IL10",
+          "indices": [
+            117,
+            122
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you were affected by yesterday's storms, you can see estimates for power restoration here: http://t.co/JNg8b1OrDj #IL10",
+    "lang": "en",
+    "created_at": "2015-08-03 13:45:58+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627676610607452160,
+      "id_str": "627676610607452160",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/OxDcJGKmDn",
+            "indices": [
+              66,
+              88
+            ],
+            "display_url": "dold.house.gov/2015/7/ask-bob\u2026",
+            "expanded_url": "http://dold.house.gov/2015/7/ask-bob-blueprint-for-a-better-iran-deal#.Vb2I8Xg7d1M.twitter"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "768613386",
+        "id": 768613386
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Blueprint For A Better Iran Deal - Blog - Representative Bob Dold http://t.co/OxDcJGKmDn",
+      "lang": "en",
+      "created_at": "Sun Aug 02 03:05:40 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627808317717520384,
+    "id_str": "627808317717520384",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/OxDcJGKmDn",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "dold.house.gov/2015/7/ask-bob\u2026",
+          "expanded_url": "http://dold.house.gov/2015/7/ask-bob-blueprint-for-a-better-iran-deal#.Vb2I8Xg7d1M.twitter"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Beth Myn",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "768613386",
+          "id": 768613386,
+          "screen_name": "BethMyn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @BethMyn: Blueprint For A Better Iran Deal - Blog - Representative Bob Dold http://t.co/OxDcJGKmDn",
+    "lang": "en",
+    "created_at": "2015-08-02 11:49:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627539328885874688,
+    "id_str": "627539328885874688",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rRAXvDnLmH",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "1.usa.gov/1IyzCVa",
+          "expanded_url": "http://1.usa.gov/1IyzCVa"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IL10",
+          "indices": [
+            26,
+            31
+          ]
+        },
+        {
+          "text": "WeekInReview",
+          "indices": [
+            32,
+            45
+          ]
+        },
+        {
+          "text": "Chattanooga",
+          "indices": [
+            82,
+            94
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you missed this week's #IL10 #WeekInReview, watch how we honored the heroes of #Chattanooga this week --&gt; http://t.co/rRAXvDnLmH",
+    "lang": "en",
+    "created_at": "2015-08-01 18:00:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627180945511026688,
+    "id_str": "627180945511026688",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/Bvlt2mSgQb",
+          "media_url": "http://pbs.twimg.com/media/CLQjmwcWgAAkFM6.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQjmwcWgAAkFM6.png",
+          "expanded_url": "http://twitter.com/RepDold/status/627180945511026688/photo/1",
+          "id_str": "627165396857159680",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/Bvlt2mSgQb",
+          "id": 627165396857159680
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "US Rep Rodney Davis",
+          "indices": [
+            12,
+            24
+          ],
+          "id_str": "993153006",
+          "id": 993153006,
+          "screen_name": "RodneyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Bvlt2mSgQb",
+          "media_url": "http://pbs.twimg.com/media/CLQjmwcWgAAkFM6.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQjmwcWgAAkFM6.png",
+          "expanded_url": "http://twitter.com/RepDold/status/627180945511026688/photo/1",
+          "id_str": "627165396857159680",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/Bvlt2mSgQb",
+          "id": 627165396857159680
+        }
+      ]
+    },
+    "text": "Great news: @RodneyDavis's Hire More Heroes Act was signed into law today - makes it easier for vets to find jobs! http://t.co/Bvlt2mSgQb",
+    "lang": "en",
+    "created_at": "2015-07-31 18:16:04+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627161592443076608,
+    "id_str": "627161592443076608",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/QP9cTfL8M4",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "youtube.com/watch?v=QyjY8Z\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=QyjY8ZDcIRU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Chattanooga",
+          "indices": [
+            45,
+            57
+          ]
+        },
+        {
+          "text": "IL10",
+          "indices": [
+            95,
+            100
+          ]
+        },
+        {
+          "text": "WeekInReview",
+          "indices": [
+            101,
+            114
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Because of heroes like brave men who died in #Chattanooga USA remains force for freedom. Watch #IL10 #WeekInReview: https://t.co/QP9cTfL8M4",
+    "lang": "en",
+    "created_at": "2015-07-31 16:59:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626878454760235008,
+    "id_str": "626878454760235008",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            37,
+            46
+          ]
+        },
+        {
+          "text": "IL10",
+          "indices": [
+            66,
+            71
+          ]
+        },
+        {
+          "text": "AskBob",
+          "indices": [
+            72,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/iyIcoJNTKN",
+          "media_url": "http://pbs.twimg.com/media/CLMCyCHWEAAtArp.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMCyCHWEAAtArp.png",
+          "expanded_url": "http://twitter.com/RepDold/status/626878454760235008/photo/1",
+          "id_str": "626847831719022592",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/iyIcoJNTKN",
+          "id": 626847831719022592
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/LnCucGyHC5",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "dold.house.gov/blueprint",
+          "expanded_url": "http://dold.house.gov/blueprint"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "245408102",
+      "screen_name": "repdold",
+      "id": 245408102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/iyIcoJNTKN",
+          "media_url": "http://pbs.twimg.com/media/CLMCyCHWEAAtArp.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMCyCHWEAAtArp.png",
+          "expanded_url": "http://twitter.com/RepDold/status/626878454760235008/photo/1",
+          "id_str": "626847831719022592",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/iyIcoJNTKN",
+          "id": 626847831719022592
+        }
+      ]
+    },
+    "text": "What happens if Congress rejects the #IranDeal? Watch this week's #IL10 #AskBob --&gt; http://t.co/LnCucGyHC5 http://t.co/iyIcoJNTKN",
+    "lang": "en",
+    "created_at": "2015-07-30 22:14:05+00:00",
+    "retweeted": false
+  }
+]

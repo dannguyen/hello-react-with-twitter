@@ -1,0 +1,2965 @@
+[
+  {
+    "in_reply_to_status_id_str": "630399205350223872",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 16,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "301101385",
+    "id": 630417198994059264,
+    "id_str": "630417198994059264",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "todosmarchamamos",
+          "indices": [
+            90,
+            107
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Angel Juan Moya",
+          "indices": [
+            22,
+            33
+          ],
+          "id_str": "301101385",
+          "id": 301101385,
+          "screen_name": "jangelmoya"
+        },
+        {
+          "name": "Damas de Blanco",
+          "indices": [
+            48,
+            61
+          ],
+          "id_str": "137763526",
+          "id": 137763526,
+          "screen_name": "DamasdBlanco"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 630399205350223872,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": 301101385,
+    "in_reply_to_screen_name": "jangelmoya",
+    "retweeted": false,
+    "text": "La libertad llegara! \"@jangelmoya: DSE traslada @DamasdBlanco S.Garro a lugar desconocido\n#todosmarchamamos\u201d",
+    "lang": "es",
+    "created_at": "2015-08-09 16:35:47+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629705845434155012,
+      "id_str": "629705845434155012",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IVLP",
+            "indices": [
+              0,
+              5
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/KX6Im9Mw2A",
+            "media_url": "http://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+            "expanded_url": "http://twitter.com/CassieMcG/status/629705845434155012/photo/1",
+            "id_str": "629705832322609152",
+            "indices": [
+              119,
+              141
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 233
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 412
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 704
+              }
+            },
+            "display_url": "pic.twitter.com/KX6Im9Mw2A",
+            "id": 629705832322609152
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Global Ties Miami",
+            "indices": [
+              48,
+              64
+            ],
+            "id_str": "114783717",
+            "id": 114783717,
+            "screen_name": "GlobalTiesMiami"
+          },
+          {
+            "name": "IVLP",
+            "indices": [
+              65,
+              75
+            ],
+            "id_str": "407098018",
+            "id": 407098018,
+            "screen_name": "StateIVLP"
+          },
+          {
+            "name": "Ileana Ros-Lehtinen",
+            "indices": [
+              96,
+              108
+            ],
+            "id_str": "14275291",
+            "id": 14275291,
+            "screen_name": "RosLehtinen"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "98261145",
+        "id": 98261145
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/KX6Im9Mw2A",
+            "media_url": "http://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+            "expanded_url": "http://twitter.com/CassieMcG/status/629705845434155012/photo/1",
+            "id_str": "629705832322609152",
+            "indices": [
+              119,
+              141
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 233
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 412
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 704
+              }
+            },
+            "display_url": "pic.twitter.com/KX6Im9Mw2A",
+            "id": 629705832322609152
+          }
+        ]
+      },
+      "text": "#IVLP in the moment: Friday Lunch &amp; Learn w @GlobalTiesMiami @StateIVLP at FL Congresswoman @RosLehtinen's office. http://t.co/KX6Im9Mw2A",
+      "lang": "en",
+      "created_at": "Fri Aug 07 17:29:07 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 98261145,
+          "media_url": "http://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+          "source_user_id_str": "98261145",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/KX6Im9Mw2A",
+          "expanded_url": "http://twitter.com/CassieMcG/status/629705845434155012/photo/1",
+          "url": "http://t.co/KX6Im9Mw2A",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+          "source_status_id_str": "629705845434155012",
+          "id_str": "629705832322609152",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 233
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 412
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 704
+            }
+          },
+          "id": 629705832322609152,
+          "source_status_id": 629705845434155012
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630413486527508480,
+    "id_str": "630413486527508480",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IVLP",
+          "indices": [
+            15,
+            20
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 98261145,
+          "media_url": "http://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+          "source_user_id_str": "98261145",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/KX6Im9Mw2A",
+          "expanded_url": "http://twitter.com/CassieMcG/status/629705845434155012/photo/1",
+          "url": "http://t.co/KX6Im9Mw2A",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0qHkCUsAAORNw.jpg",
+          "source_status_id_str": "629705845434155012",
+          "id_str": "629705832322609152",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 233
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 412
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 704
+            }
+          },
+          "id": 629705832322609152,
+          "source_status_id": 629705845434155012
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Cassie McGuiness",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "98261145",
+          "id": 98261145,
+          "screen_name": "CassieMcG"
+        },
+        {
+          "name": "Global Ties Miami",
+          "indices": [
+            63,
+            79
+          ],
+          "id_str": "114783717",
+          "id": 114783717,
+          "screen_name": "GlobalTiesMiami"
+        },
+        {
+          "name": "IVLP",
+          "indices": [
+            80,
+            90
+          ],
+          "id_str": "407098018",
+          "id": 407098018,
+          "screen_name": "StateIVLP"
+        },
+        {
+          "name": "Ileana Ros-Lehtinen",
+          "indices": [
+            111,
+            123
+          ],
+          "id_str": "14275291",
+          "id": 14275291,
+          "screen_name": "RosLehtinen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CassieMcG: #IVLP in the moment: Friday Lunch &amp; Learn w @GlobalTiesMiami @StateIVLP at FL Congresswoman @RosLehtinen's office. http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-09 16:21:02+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 17,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630093396510543873,
+      "id_str": "630093396510543873",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/DGb5kCVtt9",
+            "media_url": "http://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+            "expanded_url": "http://twitter.com/LIBREinitiative/status/630093396510543873/photo/1",
+            "id_str": "628236138411610113",
+            "indices": [
+              36,
+              58
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/DGb5kCVtt9",
+            "id": 628236138411610113
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Ileana Ros-Lehtinen",
+            "indices": [
+              18,
+              30
+            ],
+            "id_str": "14275291",
+            "id": 14275291,
+            "screen_name": "RosLehtinen"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "310424310",
+        "id": 310424310
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/DGb5kCVtt9",
+            "media_url": "http://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+            "expanded_url": "http://twitter.com/LIBREinitiative/status/630093396510543873/photo/1",
+            "id_str": "628236138411610113",
+            "indices": [
+              36,
+              58
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 500
+              }
+            },
+            "display_url": "pic.twitter.com/DGb5kCVtt9",
+            "id": 628236138411610113
+          }
+        ]
+      },
+      "text": "Do you agree with @RosLehtinen? RT! http://t.co/DGb5kCVtt9",
+      "lang": "en",
+      "created_at": "Sat Aug 08 19:09:06 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 310424310,
+          "media_url": "http://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+          "source_user_id_str": "310424310",
+          "indices": [
+            57,
+            79
+          ],
+          "display_url": "pic.twitter.com/DGb5kCVtt9",
+          "expanded_url": "http://twitter.com/LIBREinitiative/status/630093396510543873/photo/1",
+          "url": "http://t.co/DGb5kCVtt9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+          "source_status_id_str": "630093396510543873",
+          "id_str": "628236138411610113",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 628236138411610113,
+          "source_status_id": 630093396510543873
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630093542287896576,
+    "id_str": "630093542287896576",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 310424310,
+          "media_url": "http://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+          "source_user_id_str": "310424310",
+          "indices": [
+            57,
+            79
+          ],
+          "display_url": "pic.twitter.com/DGb5kCVtt9",
+          "expanded_url": "http://twitter.com/LIBREinitiative/status/630093396510543873/photo/1",
+          "url": "http://t.co/DGb5kCVtt9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfxcHkWUAEnyQk.png",
+          "source_status_id_str": "630093396510543873",
+          "id_str": "628236138411610113",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "id": 628236138411610113,
+          "source_status_id": 630093396510543873
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "The LIBRE Initiative",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "310424310",
+          "id": 310424310,
+          "screen_name": "LIBREinitiative"
+        },
+        {
+          "name": "Ileana Ros-Lehtinen",
+          "indices": [
+            39,
+            51
+          ],
+          "id_str": "14275291",
+          "id": 14275291,
+          "screen_name": "RosLehtinen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LIBREinitiative: Do you agree with @RosLehtinen? RT! http://t.co/DGb5kCVtt9",
+    "lang": "en",
+    "created_at": "2015-08-08 19:09:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 334,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 59,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629360603195416577,
+    "id_str": "629360603195416577",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Venezuela",
+          "indices": [
+            3,
+            13
+          ]
+        },
+        {
+          "text": "CNE",
+          "indices": [
+            53,
+            57
+          ]
+        },
+        {
+          "text": "Maduro",
+          "indices": [
+            101,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/MiPMACR5co",
+          "media_url": "http://pbs.twimg.com/media/CLvwIjZWcAApyTZ.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvwIjZWcAApyTZ.png",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629360603195416577/photo/1",
+          "id_str": "629360602679504896",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/MiPMACR5co",
+          "id": 629360602679504896
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/MiPMACR5co",
+          "media_url": "http://pbs.twimg.com/media/CLvwIjZWcAApyTZ.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvwIjZWcAApyTZ.png",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629360603195416577/photo/1",
+          "id_str": "629360602679504896",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/MiPMACR5co",
+          "id": 629360602679504896
+        }
+      ]
+    },
+    "text": "En #Venezuela no habr\u00e1 elecciones libres mientras el #CNE inhabilite candidatos por instrucciones de #Maduro. http://t.co/MiPMACR5co",
+    "lang": "es",
+    "created_at": "2015-08-06 18:37:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629360475113943041,
+    "id_str": "629360475113943041",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            0,
+            4
+          ]
+        },
+        {
+          "text": "summer",
+          "indices": [
+            5,
+            12
+          ]
+        },
+        {
+          "text": "school",
+          "indices": [
+            27,
+            34
+          ]
+        },
+        {
+          "text": "FL",
+          "indices": [
+            56,
+            59
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/1KHAU7Zun3",
+          "media_url": "http://pbs.twimg.com/media/CLvwBHwWcAAm3G9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvwBHwWcAAm3G9.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629360475113943041/photo/1",
+          "id_str": "629360475000696832",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/1KHAU7Zun3",
+          "id": 629360475000696832
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JwjaBehfIA",
+          "indices": [
+            92,
+            115
+          ],
+          "display_url": "instagram.com/p/6Cid_upLtd/",
+          "expanded_url": "https://instagram.com/p/6Cid_upLtd/"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/1KHAU7Zun3",
+          "media_url": "http://pbs.twimg.com/media/CLvwBHwWcAAm3G9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvwBHwWcAAm3G9.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629360475113943041/photo/1",
+          "id_str": "629360475000696832",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/1KHAU7Zun3",
+          "id": 629360475000696832
+        }
+      ]
+    },
+    "text": "#TBT #summer almost over + #school days soon!Buy during #FL sales tax holiday from 8/7-8/16 https://t.co/JwjaBehfIA http://t.co/1KHAU7Zun3",
+    "lang": "en",
+    "created_at": "2015-08-06 18:36:44+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629044163233845248,
+    "id_str": "629044163233845248",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Miami",
+          "indices": [
+            43,
+            49
+          ]
+        },
+        {
+          "text": "strokes",
+          "indices": [
+            97,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/vyU44PVISO",
+          "media_url": "http://pbs.twimg.com/media/CLrQVTmXAAAgI_Z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrQVTmXAAAgI_Z.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629044163233845248/photo/1",
+          "id_str": "629044162428600320",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/vyU44PVISO",
+          "id": 629044162428600320
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/vyU44PVISO",
+          "media_url": "http://pbs.twimg.com/media/CLrQVTmXAAAgI_Z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrQVTmXAAAgI_Z.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629044163233845248/photo/1",
+          "id_str": "629044162428600320",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/vyU44PVISO",
+          "id": 629044162428600320
+        }
+      ]
+    },
+    "text": "Sis-in-law, Ana, is recovering from stroke.#Miami has gr8 healthcare professionals. Impt info on #strokes: http://t.co/vyU44PVISO",
+    "lang": "en",
+    "created_at": "2015-08-05 21:39:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629043892877414400,
+    "id_str": "629043892877414400",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Miami",
+          "indices": [
+            69,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/oKASDPjhLY",
+          "media_url": "http://pbs.twimg.com/media/CLrQFkHWgAAr5Ks.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrQFkHWgAAr5Ks.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629043892877414400/photo/1",
+          "id_str": "629043891984039936",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/oKASDPjhLY",
+          "id": 629043891984039936
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/oKASDPjhLY",
+          "media_url": "http://pbs.twimg.com/media/CLrQFkHWgAAr5Ks.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrQFkHWgAAr5Ks.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/629043892877414400/photo/1",
+          "id_str": "629043891984039936",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/oKASDPjhLY",
+          "id": 629043891984039936
+        }
+      ]
+    },
+    "text": "My granddaughter, Morgan, met winner of spiny lobster catch at South #Miami's Sunset Tavern. She thought it was cute! http://t.co/oKASDPjhLY",
+    "lang": "en",
+    "created_at": "2015-08-05 21:38:45+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629035727171493888,
+    "id_str": "629035727171493888",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/g93kXzyfpG",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "1.usa.gov/1NaJNyT",
+          "expanded_url": "http://1.usa.gov/1NaJNyT"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SouthFlorida",
+          "indices": [
+            31,
+            44
+          ]
+        },
+        {
+          "text": "district",
+          "indices": [
+            66,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to represent any area of #SouthFlorida, no matter where the #district lines may fall http://t.co/g93kXzyfpG",
+    "lang": "en",
+    "created_at": "2015-08-05 21:06:18+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629016542932529156,
+      "id_str": "629016542932529156",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/khPSKVgnOl",
+            "media_url": "http://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+            "expanded_url": "http://twitter.com/MarcACaputo/status/629016542932529156/photo/1",
+            "id_str": "629016542441672704",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 63
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 109
+              },
+              "medium": {
+                "w": 587,
+                "resize": "fit",
+                "h": 109
+              },
+              "large": {
+                "w": 587,
+                "resize": "fit",
+                "h": 109
+              }
+            },
+            "display_url": "pic.twitter.com/khPSKVgnOl",
+            "id": 629016542441672704
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Ileana Ros-Lehtinen",
+            "indices": [
+              27,
+              39
+            ],
+            "id_str": "14275291",
+            "id": 14275291,
+            "screen_name": "RosLehtinen"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "227373977",
+        "id": 227373977
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/khPSKVgnOl",
+            "media_url": "http://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+            "expanded_url": "http://twitter.com/MarcACaputo/status/629016542932529156/photo/1",
+            "id_str": "629016542441672704",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 63
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 109
+              },
+              "medium": {
+                "w": 587,
+                "resize": "fit",
+                "h": 109
+              },
+              "large": {
+                "w": 587,
+                "resize": "fit",
+                "h": 109
+              }
+            },
+            "display_url": "pic.twitter.com/khPSKVgnOl",
+            "id": 629016542441672704
+          }
+        ]
+      },
+      "text": "The Teflon Representative, @RosLehtinen, beloved GOPer in Dem seat, is cool w/new congressional maps http://t.co/khPSKVgnOl",
+      "lang": "en",
+      "created_at": "Wed Aug 05 19:50:05 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 227373977,
+          "media_url": "http://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+          "source_user_id_str": "227373977",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/khPSKVgnOl",
+          "expanded_url": "http://twitter.com/MarcACaputo/status/629016542932529156/photo/1",
+          "url": "http://t.co/khPSKVgnOl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+          "source_status_id_str": "629016542932529156",
+          "id_str": "629016542441672704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 63
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 109
+            },
+            "medium": {
+              "w": 587,
+              "resize": "fit",
+              "h": 109
+            },
+            "large": {
+              "w": 587,
+              "resize": "fit",
+              "h": 109
+            }
+          },
+          "id": 629016542441672704,
+          "source_status_id": 629016542932529156
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629017044684509184,
+    "id_str": "629017044684509184",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 227373977,
+          "media_url": "http://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+          "source_user_id_str": "227373977",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/khPSKVgnOl",
+          "expanded_url": "http://twitter.com/MarcACaputo/status/629016542932529156/photo/1",
+          "url": "http://t.co/khPSKVgnOl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq3NnIUkAA7DPi.jpg",
+          "source_status_id_str": "629016542932529156",
+          "id_str": "629016542441672704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 63
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 109
+            },
+            "medium": {
+              "w": 587,
+              "resize": "fit",
+              "h": 109
+            },
+            "large": {
+              "w": 587,
+              "resize": "fit",
+              "h": 109
+            }
+          },
+          "id": 629016542441672704,
+          "source_status_id": 629016542932529156
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Marc Caputo",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "227373977",
+          "id": 227373977,
+          "screen_name": "MarcACaputo"
+        },
+        {
+          "name": "Ileana Ros-Lehtinen",
+          "indices": [
+            44,
+            56
+          ],
+          "id_str": "14275291",
+          "id": 14275291,
+          "screen_name": "RosLehtinen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MarcACaputo: The Teflon Representative, @RosLehtinen, beloved GOPer in Dem seat, is cool w/new congressional maps http://t.co/khPSKVgnOl",
+    "lang": "en",
+    "created_at": "2015-08-05 19:52:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628614307018854400,
+    "id_str": "628614307018854400",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/gmNdGbk9A5",
+          "media_url": "http://pbs.twimg.com/media/CLlJYZtWcAE7Rgy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlJYZtWcAE7Rgy.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/628614307018854400/photo/1",
+          "id_str": "628614306561683457",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 251
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 444
+            },
+            "large": {
+              "w": 763,
+              "resize": "fit",
+              "h": 565
+            }
+          },
+          "display_url": "pic.twitter.com/gmNdGbk9A5",
+          "id": 628614306561683457
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "U.S. Coast Guard",
+          "indices": [
+            21,
+            34
+          ],
+          "id_str": "17409240",
+          "id": 17409240,
+          "screen_name": "uscoastguard"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gmNdGbk9A5",
+          "media_url": "http://pbs.twimg.com/media/CLlJYZtWcAE7Rgy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlJYZtWcAE7Rgy.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/628614307018854400/photo/1",
+          "id_str": "628614306561683457",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 251
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 444
+            },
+            "large": {
+              "w": 763,
+              "resize": "fit",
+              "h": 565
+            }
+          },
+          "display_url": "pic.twitter.com/gmNdGbk9A5",
+          "id": 628614306561683457
+        }
+      ]
+    },
+    "text": "Happy birthday 2 the @uscoastguard. Thank you for 225 great years serving and protecting our nation! http://t.co/gmNdGbk9A5",
+    "lang": "en",
+    "created_at": "2015-08-04 17:11:44+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628278679936741376,
+    "id_str": "628278679936741376",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/1fGtgbV6vv",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "amp.twimg.com/v/58089b9d-036\u2026",
+          "expanded_url": "https://amp.twimg.com/v/58089b9d-036a-4392-acfd-c393443c381d"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "CHLI",
+          "indices": [
+            17,
+            25
+          ],
+          "id_str": "390240185",
+          "id": 390240185,
+          "screen_name": "TheCHLI"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Last week: met w @TheCHLI student ldrs, activists helping domestic abuse victims, spoke against Iran nuke deal+more!\nhttps://t.co/1fGtgbV6vv",
+    "lang": "en",
+    "created_at": "2015-08-03 18:58:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628245232149241856,
+    "id_str": "628245232149241856",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/khDLJlqjE1",
+          "media_url": "http://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/628245232149241856/photo/1",
+          "id_str": "628245232052752384",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 666,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/khDLJlqjE1",
+          "id": 628245232052752384
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Natural Resources",
+          "indices": [
+            13,
+            26
+          ],
+          "id_str": "41445718",
+          "id": 41445718,
+          "screen_name": "NatResources"
+        },
+        {
+          "name": "Biscayne NP",
+          "indices": [
+            58,
+            70
+          ],
+          "id_str": "70523764",
+          "id": 70523764,
+          "screen_name": "BiscayneNPS"
+        },
+        {
+          "name": "Rep. Carlos Curbelo ",
+          "indices": [
+            79,
+            90
+          ],
+          "id_str": "2853309155",
+          "id": 2853309155,
+          "screen_name": "RepCurbelo"
+        },
+        {
+          "name": "Mario Diaz-Balart",
+          "indices": [
+            91,
+            99
+          ],
+          "id_str": "37094727",
+          "id": 37094727,
+          "screen_name": "MarioDB"
+        },
+        {
+          "name": "David Jolly",
+          "indices": [
+            100,
+            116
+          ],
+          "id_str": "2482022082",
+          "id": 2482022082,
+          "screen_name": "USRepDavidJolly"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/khDLJlqjE1",
+          "media_url": "http://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/628245232149241856/photo/1",
+          "id_str": "628245232052752384",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 666,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/khDLJlqjE1",
+          "id": 628245232052752384
+        }
+      ]
+    },
+    "text": "Great 2 b at @NatResources hearing on preserving access 2 @BiscayneNPS 4 all w @RepCurbelo @MarioDB @USRepDavidJolly http://t.co/khDLJlqjE1",
+    "lang": "en",
+    "created_at": "2015-08-03 16:45:10+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628224702092328960,
+      "id_str": "628224702092328960",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/4tDWjxtzZZ",
+            "media_url": "http://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+            "expanded_url": "http://twitter.com/MarioDB/status/628224702092328960/photo/1",
+            "id_str": "628224689395994624",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/4tDWjxtzZZ",
+            "id": 628224689395994624
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Natural Resources",
+            "indices": [
+              5,
+              18
+            ],
+            "id_str": "41445718",
+            "id": 41445718,
+            "screen_name": "NatResources"
+          },
+          {
+            "name": "Biscayne NP",
+            "indices": [
+              43,
+              55
+            ],
+            "id_str": "70523764",
+            "id": 70523764,
+            "screen_name": "BiscayneNPS"
+          },
+          {
+            "name": "Ileana Ros-Lehtinen",
+            "indices": [
+              71,
+              83
+            ],
+            "id_str": "14275291",
+            "id": 14275291,
+            "screen_name": "RosLehtinen"
+          },
+          {
+            "name": "Rep. Carlos Curbelo ",
+            "indices": [
+              84,
+              95
+            ],
+            "id_str": "2853309155",
+            "id": 2853309155,
+            "screen_name": "RepCurbelo"
+          },
+          {
+            "name": "David Jolly",
+            "indices": [
+              96,
+              112
+            ],
+            "id_str": "2482022082",
+            "id": 2482022082,
+            "screen_name": "USRepDavidJolly"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "37094727",
+        "id": 37094727
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/4tDWjxtzZZ",
+            "media_url": "http://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+            "expanded_url": "http://twitter.com/MarioDB/status/628224702092328960/photo/1",
+            "id_str": "628224689395994624",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/4tDWjxtzZZ",
+            "id": 628224689395994624
+          }
+        ]
+      },
+      "text": "Now: @NatResources field hearing regarding @BiscayneNPS fisheries plan @RosLehtinen @RepCurbelo @USRepDavidJolly http://t.co/4tDWjxtzZZ",
+      "lang": "en",
+      "created_at": "Mon Aug 03 15:23:35 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 37094727,
+          "media_url": "http://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "source_user_id_str": "37094727",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/4tDWjxtzZZ",
+          "expanded_url": "http://twitter.com/MarioDB/status/628224702092328960/photo/1",
+          "url": "http://t.co/4tDWjxtzZZ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "source_status_id_str": "628224702092328960",
+          "id_str": "628224689395994624",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628224689395994624,
+          "source_status_id": 628224702092328960
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628229419090464768,
+    "id_str": "628229419090464768",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 37094727,
+          "media_url": "http://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "source_user_id_str": "37094727",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/4tDWjxtzZZ",
+          "expanded_url": "http://twitter.com/MarioDB/status/628224702092328960/photo/1",
+          "url": "http://t.co/4tDWjxtzZZ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "source_status_id_str": "628224702092328960",
+          "id_str": "628224689395994624",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628224689395994624,
+          "source_status_id": 628224702092328960
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Mario Diaz-Balart",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "37094727",
+          "id": 37094727,
+          "screen_name": "MarioDB"
+        },
+        {
+          "name": "Natural Resources",
+          "indices": [
+            18,
+            31
+          ],
+          "id_str": "41445718",
+          "id": 41445718,
+          "screen_name": "NatResources"
+        },
+        {
+          "name": "Biscayne NP",
+          "indices": [
+            56,
+            68
+          ],
+          "id_str": "70523764",
+          "id": 70523764,
+          "screen_name": "BiscayneNPS"
+        },
+        {
+          "name": "Ileana Ros-Lehtinen",
+          "indices": [
+            84,
+            96
+          ],
+          "id_str": "14275291",
+          "id": 14275291,
+          "screen_name": "RosLehtinen"
+        },
+        {
+          "name": "Rep. Carlos Curbelo ",
+          "indices": [
+            97,
+            108
+          ],
+          "id_str": "2853309155",
+          "id": 2853309155,
+          "screen_name": "RepCurbelo"
+        },
+        {
+          "name": "David Jolly",
+          "indices": [
+            109,
+            125
+          ],
+          "id_str": "2482022082",
+          "id": 2482022082,
+          "screen_name": "USRepDavidJolly"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MarioDB: Now: @NatResources field hearing regarding @BiscayneNPS fisheries plan @RosLehtinen @RepCurbelo @USRepDavidJolly http://t.co/4\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 15:42:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628183713369751552,
+    "id_str": "628183713369751552",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Florida",
+          "indices": [
+            131,
+            139
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Actualidad 1020/1040",
+          "indices": [
+            14,
+            30
+          ],
+          "id_str": "40062932",
+          "id": 40062932,
+          "screen_name": "ActualidadRadio"
+        },
+        {
+          "name": "Roberto R. Tejera",
+          "indices": [
+            33,
+            48
+          ],
+          "id_str": "560582467",
+          "id": 560582467,
+          "screen_name": "RobertoRTejera"
+        },
+        {
+          "name": "Juan Camilo G\u00f3mez",
+          "indices": [
+            49,
+            62
+          ],
+          "id_str": "23984622",
+          "id": 23984622,
+          "screen_name": "JuanCamiloGG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Cada lunes en @ActualidadRadio c @RobertoRTejera @JuanCamiloGG hablamos de temas importantes para nuestra comunidad en el Sur d la #Florida!",
+    "lang": "es",
+    "created_at": "2015-08-03 12:40:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 150,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 25,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627980810738601985,
+    "id_str": "627980810738601985",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/yqY0r4L1be",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "dlamini.co/31b303",
+          "expanded_url": "http://dlamini.co/31b303"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Bolivia",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "FidelCastro",
+          "indices": [
+            23,
+            35
+          ]
+        },
+        {
+          "text": "Cuba",
+          "indices": [
+            108,
+            113
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#Bolivia le concedi\u00f3 a #FidelCastro un doctorado. Debe ser por su crueldad y despotismo contra el pueblo de #Cuba. http://t.co/yqY0r4L1be",
+    "lang": "es",
+    "created_at": "2015-08-02 23:14:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 43,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627978636763664386,
+    "id_str": "627978636763664386",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "democracia",
+          "indices": [
+            80,
+            91
+          ]
+        },
+        {
+          "text": "Castro",
+          "indices": [
+            114,
+            121
+          ]
+        },
+        {
+          "text": "Cuba",
+          "indices": [
+            125,
+            130
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Damas de Blanco",
+          "indices": [
+            46,
+            59
+          ],
+          "id_str": "137763526",
+          "id": 137763526,
+          "screen_name": "DamasdBlanco"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "16 domingos d represi\u00f3n c mas d 60 arrestos d @DamasdBlanco y otros l\u00edderes pro-#democracia.Demuestra q r\u00e9gimen d #Castro en #Cuba no cambia",
+    "lang": "es",
+    "created_at": "2015-08-02 23:05:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627898082521296896,
+    "id_str": "627898082521296896",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SundayFunday",
+          "indices": [
+            9,
+            22
+          ]
+        },
+        {
+          "text": "Miami",
+          "indices": [
+            26,
+            32
+          ]
+        },
+        {
+          "text": "family",
+          "indices": [
+            38,
+            45
+          ]
+        },
+        {
+          "text": "lunching",
+          "indices": [
+            90,
+            99
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/pE358kVyQc",
+          "media_url": "http://pbs.twimg.com/media/CLa9-qYUcAEDrgg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLa9-qYUcAEDrgg.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627898082521296896/photo/1",
+          "id_str": "627898082290593793",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1536
+            }
+          },
+          "display_url": "pic.twitter.com/pE358kVyQc",
+          "id": 627898082290593793
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Versailles Miami",
+          "indices": [
+            59,
+            75
+          ],
+          "id_str": "284722491",
+          "id": 284722491,
+          "screen_name": "VersaillesMiami"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pE358kVyQc",
+          "media_url": "http://pbs.twimg.com/media/CLa9-qYUcAEDrgg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLa9-qYUcAEDrgg.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627898082521296896/photo/1",
+          "id_str": "627898082290593793",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1536
+            }
+          },
+          "display_url": "pic.twitter.com/pE358kVyQc",
+          "id": 627898082290593793
+        }
+      ]
+    },
+    "text": "What's a #SundayFunday in #Miami with #family without some @VersaillesMiami?It's required #lunching!Or is it lunchar? http://t.co/pE358kVyQc",
+    "lang": "en",
+    "created_at": "2015-08-02 17:45:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1125,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 181,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627657011170308096,
+    "id_str": "627657011170308096",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Venezuela",
+          "indices": [
+            15,
+            25
+          ]
+        },
+        {
+          "text": "Maduro",
+          "indices": [
+            110,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/byIssCSnA9",
+          "media_url": "http://pbs.twimg.com/media/CLXitu-UAAApmrB.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLXitu-UAAApmrB.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627657011170308096/photo/1",
+          "id_str": "627656998419431424",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/byIssCSnA9",
+          "id": 627656998419431424
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/byIssCSnA9",
+          "media_url": "http://pbs.twimg.com/media/CLXitu-UAAApmrB.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLXitu-UAAApmrB.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627657011170308096/photo/1",
+          "id_str": "627656998419431424",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/byIssCSnA9",
+          "id": 627656998419431424
+        }
+      ]
+    },
+    "text": "Los saqueos en #Venezuela s\u00f3lo reflejan la desesperaci\u00f3n de un pueblo que sufre bajo el debacle financiero de #Maduro http://t.co/byIssCSnA9",
+    "lang": "es",
+    "created_at": "2015-08-02 01:47:47+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627591740220768256,
+    "id_str": "627591740220768256",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/eIrwgcO1gR",
+          "media_url": "http://pbs.twimg.com/media/CLWnXNBUwAErESf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWnXNBUwAErESf.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627591740220768256/photo/1",
+          "id_str": "627591740162097153",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/eIrwgcO1gR",
+          "id": 627591740162097153
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "U.S Military Academy",
+          "indices": [
+            36,
+            51
+          ],
+          "id_str": "249844732",
+          "id": 249844732,
+          "screen_name": "WestPoint_USMA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/eIrwgcO1gR",
+          "media_url": "http://pbs.twimg.com/media/CLWnXNBUwAErESf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWnXNBUwAErESf.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627591740220768256/photo/1",
+          "id_str": "627591740162097153",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/eIrwgcO1gR",
+          "id": 627591740162097153
+        }
+      ]
+    },
+    "text": "Here's Ethan, who is a Cow (3rd yr) @WestPoint_USMA,when we nominated him.If you're 1 of my nominees, stay in touch! http://t.co/eIrwgcO1gR",
+    "lang": "en",
+    "created_at": "2015-08-01 21:28:25+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627554106698149889,
+    "id_str": "627554106698149889",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SoFla",
+          "indices": [
+            101,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/hjjzkCCowi",
+          "media_url": "http://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627554106698149889/photo/1",
+          "id_str": "627554106568093696",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 666,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/hjjzkCCowi",
+          "id": 627554106568093696
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Everglades Natl Park",
+          "indices": [
+            31,
+            45
+          ],
+          "id_str": "63966574",
+          "id": 63966574,
+          "screen_name": "EvergladesNPS"
+        },
+        {
+          "name": "Rob Bishop",
+          "indices": [
+            48,
+            61
+          ],
+          "id_str": "148006729",
+          "id": 148006729,
+          "screen_name": "RepRobBishop"
+        },
+        {
+          "name": "Mario Diaz-Balart",
+          "indices": [
+            62,
+            70
+          ],
+          "id_str": "37094727",
+          "id": 37094727,
+          "screen_name": "MarioDB"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14275291",
+      "screen_name": "roslehtinen",
+      "id": 14275291
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/hjjzkCCowi",
+          "media_url": "http://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/627554106698149889/photo/1",
+          "id_str": "627554106568093696",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 666,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "display_url": "pic.twitter.com/hjjzkCCowi",
+          "id": 627554106568093696
+        }
+      ]
+    },
+    "text": "Incredible,informative tour of @EvergladesNPS w @RepRobBishop @MarioDB.Tremendous park that reflects #SoFla diversity http://t.co/hjjzkCCowi",
+    "lang": "en",
+    "created_at": "2015-08-01 18:58:53+00:00",
+    "retweeted": false
+  }
+]

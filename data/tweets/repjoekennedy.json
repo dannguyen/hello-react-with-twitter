@@ -1,0 +1,2841 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629707155956998144,
+    "id_str": "629707155956998144",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/9k7pNY2QPe",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "kennedy.house.gov/the-bedrock-pr\u2026",
+          "expanded_url": "http://kennedy.house.gov/the-bedrock-principle-of-our-democracy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            64,
+            78
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            83,
+            89
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: You can read my most recent newsletter about the need to #RestoreTheVRA and #VRA50 here:  http://t.co/9k7pNY2QPe",
+    "lang": "en",
+    "created_at": "2015-08-07 17:34:20+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 41,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 38,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629677484334817281,
+      "id_str": "629677484334817281",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 321,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 171,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 628684544972095488,
+        "id_str": "628684544972095488",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/W1WHFwy6hD",
+              "indices": [
+                83,
+                105
+              ],
+              "display_url": "nyti.ms/1IKOW0V",
+              "expanded_url": "http://nyti.ms/1IKOW0V"
+            }
+          ],
+          "hashtags": [],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "807095",
+          "id": 807095
+        },
+        "favorited": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "retweeted": false,
+        "text": "Jeb Bush: \"I'm not sure we need half a billion dollars for women's health issues.\" http://t.co/W1WHFwy6hD",
+        "lang": "en",
+        "created_at": "Tue Aug 04 21:50:50 +0000 2015"
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/3Ss70c0tXD",
+            "indices": [
+              113,
+              136
+            ],
+            "display_url": "twitter.com/nytimes/status\u2026",
+            "expanded_url": "https://twitter.com/nytimes/status/628684544972095488"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "trustwomen",
+            "indices": [
+              87,
+              98
+            ]
+          },
+          {
+            "text": "reprohealth",
+            "indices": [
+              99,
+              111
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628684544972095488",
+      "user": {
+        "id_str": "3044993235",
+        "id": 3044993235
+      },
+      "favorited": false,
+      "created_at": "Fri Aug 07 15:36:25 +0000 2015",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "125 million Americans are women. I think $4 each for women's health is far too little. #trustwomen #reprohealth  https://t.co/3Ss70c0tXD",
+      "lang": "en",
+      "quoted_status_id": 628684544972095488
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 41,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629705992293453824,
+    "id_str": "629705992293453824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/3Ss70c0tXD",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "twitter.com/nytimes/status\u2026",
+          "expanded_url": "https://twitter.com/nytimes/status/628684544972095488"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "trustwomen",
+          "indices": [
+            103,
+            114
+          ]
+        },
+        {
+          "text": "reprohealth",
+          "indices": [
+            115,
+            127
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep. Ted Lieu",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "3044993235",
+          "id": 3044993235,
+          "screen_name": "RepTedLieu"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepTedLieu: 125 million Americans are women. I think $4 each for women's health is far too little. #trustwomen #reprohealth  https://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 17:29:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629681333372063744,
+      "id_str": "629681333372063744",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/edbh0Ne3q8",
+            "indices": [
+              106,
+              128
+            ],
+            "display_url": "milforddailynews.com/article/201508\u2026",
+            "expanded_url": "http://www.milforddailynews.com/article/20150805/NEWS/150808144"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              7,
+              21
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1599301700",
+        "id": 1599301700
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "ICMYI: @RepJoeKennedy, domestic violence workers say the justice system is a major hurdle for DV victims: http://t.co/edbh0Ne3q8",
+      "lang": "en",
+      "created_at": "Fri Aug 07 15:51:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629682248741208068,
+    "id_str": "629682248741208068",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/edbh0Ne3q8",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "milforddailynews.com/article/201508\u2026",
+          "expanded_url": "http://www.milforddailynews.com/article/20150805/NEWS/150808144"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Zachary Comeau",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "1599301700",
+          "id": 1599301700,
+          "screen_name": "ZComeau_MDN"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            24,
+            38
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ZComeau_MDN: ICMYI: @RepJoeKennedy, domestic violence workers say the justice system is a major hurdle for DV victims: http://t.co/edbh\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 15:55:21+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629357003543027712,
+      "id_str": "629357003543027712",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/WepfwrA7g2",
+            "indices": [
+              110,
+              132
+            ],
+            "display_url": "thesunchronicle.com/news/local_new\u2026",
+            "expanded_url": "http://www.thesunchronicle.com/news/local_news/kennedy-urges-regional-cooperation-on-the-economy/article_3a18ac6a-3be7-11e5-a93e-6b591eb48d51.html"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Joe Kennedy",
+            "indices": [
+              25,
+              36
+            ],
+            "id_str": "461720085",
+            "id": 461720085,
+            "screen_name": "joekennedy"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "23593446",
+        "id": 23593446
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Proud to be working with @JoeKennedy on a regional approach to economic development in Southern New England - http://t.co/WepfwrA7g2",
+      "lang": "en",
+      "created_at": "Thu Aug 06 18:22:57 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629384311800619011,
+    "id_str": "629384311800619011",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WepfwrA7g2",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "thesunchronicle.com/news/local_new\u2026",
+          "expanded_url": "http://www.thesunchronicle.com/news/local_news/kennedy-urges-regional-cooperation-on-the-economy/article_3a18ac6a-3be7-11e5-a93e-6b591eb48d51.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "David N. Cicilline",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "23593446",
+          "id": 23593446,
+          "screen_name": "davidcicilline"
+        },
+        {
+          "name": "Joe Kennedy",
+          "indices": [
+            45,
+            56
+          ],
+          "id_str": "461720085",
+          "id": 461720085,
+          "screen_name": "joekennedy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @davidcicilline: Proud to be working with @JoeKennedy on a regional approach to economic development in Southern New England - http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 20:11:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629381470772039680,
+    "id_str": "629381470772039680",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/AQYwjf4dyV",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "thedailyshow.cc.com/videos/65vdb4/\u2026",
+          "expanded_url": "http://thedailyshow.cc.com/videos/65vdb4/ted-kennedy-pt--1"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            10,
+            14
+          ]
+        },
+        {
+          "text": "JonStewart",
+          "indices": [
+            23,
+            34
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Daily Show",
+          "indices": [
+            93,
+            106
+          ],
+          "id_str": "158414847",
+          "id": 158414847,
+          "screen_name": "TheDailyShow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A special #TBT to when #JonStewart claimed that my uncle \u201crolls like Snoop Dogg\u201d after their @TheDailyShow interview http://t.co/AQYwjf4dyV",
+    "lang": "en",
+    "created_at": "2015-08-06 20:00:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629357099982700545,
+    "id_str": "629357099982700545",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/siHzMk1Vd5",
+          "media_url": "http://pbs.twimg.com/media/CLvs8nTXAAIzCIW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvs8nTXAAIzCIW.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/629357099982700545/photo/1",
+          "id_str": "629357099034804226",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/siHzMk1Vd5",
+          "id": 629357099034804226
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Setti Warren",
+          "indices": [
+            7,
+            19
+          ],
+          "id_str": "40267916",
+          "id": 40267916,
+          "screen_name": "MayorWarren"
+        },
+        {
+          "name": "Greg Reibman",
+          "indices": [
+            40,
+            53
+          ],
+          "id_str": "11268822",
+          "id": 11268822,
+          "screen_name": "Greg_Reibman"
+        },
+        {
+          "name": "N2 Corridor",
+          "indices": [
+            93,
+            104
+          ],
+          "id_str": "1854525990",
+          "id": 1854525990,
+          "screen_name": "N2Corridor"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/siHzMk1Vd5",
+          "media_url": "http://pbs.twimg.com/media/CLvs8nTXAAIzCIW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvs8nTXAAIzCIW.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/629357099982700545/photo/1",
+          "id_str": "629357099034804226",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/siHzMk1Vd5",
+          "id": 629357099034804226
+        }
+      ]
+    },
+    "text": "Joined @MayorWarren, Selectman Handel + @Greg_Reibman to announce $50K grant to help support @N2Corridor. http://t.co/siHzMk1Vd5",
+    "lang": "en",
+    "created_at": "2015-08-06 18:23:20+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629338923655892992,
+      "id_str": "629338923655892992",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/sCCs2HUXtM",
+            "indices": [
+              112,
+              134
+            ],
+            "display_url": "newton.wickedlocal.com/article/201508\u2026",
+            "expanded_url": "http://newton.wickedlocal.com/article/20150806/NEWS/150807882"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "NewtonMA",
+            "indices": [
+              135,
+              144
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          },
+          {
+            "name": "N2 Corridor",
+            "indices": [
+              58,
+              69
+            ],
+            "id_str": "1854525990",
+            "id": 1854525990,
+            "screen_name": "N2Corridor"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "256374086",
+        "id": 256374086
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepJoeKennedy announces $50k federal matching grant for @N2Corridor competitiveness study &amp; markting plan http://t.co/sCCs2HUXtM #NewtonMA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 17:11:06 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629354331192578049,
+    "id_str": "629354331192578049",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/sCCs2HUXtM",
+          "indices": [
+            126,
+            144
+          ],
+          "display_url": "newton.wickedlocal.com/article/201508\u2026",
+          "expanded_url": "http://newton.wickedlocal.com/article/20150806/NEWS/150807882"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NewtonMA",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Jonathan Dame",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "256374086",
+          "id": 256374086,
+          "screen_name": "JDameTAB"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            15,
+            29
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        },
+        {
+          "name": "N2 Corridor",
+          "indices": [
+            72,
+            83
+          ],
+          "id_str": "1854525990",
+          "id": 1854525990,
+          "screen_name": "N2Corridor"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JDameTAB: .@RepJoeKennedy announces $50k federal matching grant for @N2Corridor competitiveness study &amp; markting plan http://t.co/sCCs2\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 18:12:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629319099370356736,
+    "id_str": "629319099370356736",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            100,
+            106
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            123,
+            137
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Voting Rights Act cemented access to the ballot box as a bedrock principle of our democracy. On #VRA50 let's commit to #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-06 15:52:20+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629315101691113472,
+      "id_str": "629315101691113472",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/OeDEqVISC8",
+            "media_url": "http://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+            "expanded_url": "http://twitter.com/settiwarren/status/629315101691113472/photo/1",
+            "id_str": "629315100567060481",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/OeDEqVISC8",
+            "id": 629315100567060481
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              13,
+              27
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          },
+          {
+            "name": "Town of Needham",
+            "indices": [
+              28,
+              42
+            ],
+            "id_str": "450609406",
+            "id": 450609406,
+            "screen_name": "TownofNeedham"
+          },
+          {
+            "name": "Newton-Needham CoC",
+            "indices": [
+              43,
+              53
+            ],
+            "id_str": "25675470",
+            "id": 25675470,
+            "screen_name": "nnchamber"
+          },
+          {
+            "name": "N2 Corridor",
+            "indices": [
+              78,
+              89
+            ],
+            "id_str": "1854525990",
+            "id": 1854525990,
+            "screen_name": "N2Corridor"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "191469107",
+        "id": 191469107
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/OeDEqVISC8",
+            "media_url": "http://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+            "expanded_url": "http://twitter.com/settiwarren/status/629315101691113472/photo/1",
+            "id_str": "629315100567060481",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/OeDEqVISC8",
+            "id": 629315100567060481
+          }
+        ]
+      },
+      "text": "Proud 2 join @RepJoeKennedy @TownofNeedham @nnchamber 2 announce fed. grant 4 @N2Corridor -reg. partnership in action http://t.co/OeDEqVISC8",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:36:27 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 191469107,
+          "media_url": "http://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+          "source_user_id_str": "191469107",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/OeDEqVISC8",
+          "expanded_url": "http://twitter.com/settiwarren/status/629315101691113472/photo/1",
+          "url": "http://t.co/OeDEqVISC8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+          "source_status_id_str": "629315101691113472",
+          "id_str": "629315100567060481",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629315100567060481,
+          "source_status_id": 629315101691113472
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629318490776801280,
+    "id_str": "629318490776801280",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 191469107,
+          "media_url": "http://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+          "source_user_id_str": "191469107",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/OeDEqVISC8",
+          "expanded_url": "http://twitter.com/settiwarren/status/629315101691113472/photo/1",
+          "url": "http://t.co/OeDEqVISC8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvGv-0WwAErTye.jpg",
+          "source_status_id_str": "629315101691113472",
+          "id_str": "629315100567060481",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629315100567060481,
+          "source_status_id": 629315101691113472
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Setti Warren",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "191469107",
+          "id": 191469107,
+          "screen_name": "settiwarren"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            30,
+            44
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        },
+        {
+          "name": "Town of Needham",
+          "indices": [
+            45,
+            59
+          ],
+          "id_str": "450609406",
+          "id": 450609406,
+          "screen_name": "TownofNeedham"
+        },
+        {
+          "name": "Newton-Needham CoC",
+          "indices": [
+            60,
+            70
+          ],
+          "id_str": "25675470",
+          "id": 25675470,
+          "screen_name": "nnchamber"
+        },
+        {
+          "name": "N2 Corridor",
+          "indices": [
+            95,
+            106
+          ],
+          "id_str": "1854525990",
+          "id": 1854525990,
+          "screen_name": "N2Corridor"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @settiwarren: Proud 2 join @RepJoeKennedy @TownofNeedham @nnchamber 2 announce fed. grant 4 @N2Corridor -reg. partnership in action http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 15:49:55+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629310448630956032,
+      "id_str": "629310448630956032",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/JsGD41Gg8I",
+            "indices": [
+              50,
+              72
+            ],
+            "display_url": "thesunchronicle.com/news/local_new\u2026",
+            "expanded_url": "http://www.thesunchronicle.com/news/local_news/kennedy-urges-regional-cooperation-on-the-economy/article_3a18ac6a-3be7-11e5-a93e-6b591eb48d51.html"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "mapoli",
+            "indices": [
+              73,
+              80
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "568531092",
+        "id": 568531092
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepJoeKennedy eyes regional approach to economy http://t.co/JsGD41Gg8I #mapoli",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:17:57 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629310738822209537,
+    "id_str": "629310738822209537",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/JsGD41Gg8I",
+          "indices": [
+            67,
+            89
+          ],
+          "display_url": "thesunchronicle.com/news/local_new\u2026",
+          "expanded_url": "http://www.thesunchronicle.com/news/local_news/kennedy-urges-regional-cooperation-on-the-economy/article_3a18ac6a-3be7-11e5-a93e-6b591eb48d51.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "mapoli",
+          "indices": [
+            90,
+            97
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Sun Chron Politics",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "568531092",
+          "id": 568531092,
+          "screen_name": "TSCPolitics"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            18,
+            32
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TSCPolitics: .@RepJoeKennedy eyes regional approach to economy http://t.co/JsGD41Gg8I #mapoli",
+    "lang": "en",
+    "created_at": "2015-08-06 15:19:06+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1803,
+      "favorite_count": 1468,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629265088214638592,
+      "id_str": "629265088214638592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1803,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629278583291314177,
+    "id_str": "629278583291314177",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:11:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629028348627447808,
+    "id_str": "629028348627447808",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "FMLA22",
+          "indices": [
+            16,
+            23
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As we celebrate #FMLA22, we cannot forget that we are 1 of just 3 countries without paid maternity leave. Our work is far from finished.",
+    "lang": "en",
+    "created_at": "2015-08-05 20:36:59+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628941179468578816,
+      "id_str": "628941179468578816",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/gvqq3Xg8mR",
+            "indices": [
+              90,
+              112
+            ],
+            "display_url": "telegram.com/article/201507\u2026",
+            "expanded_url": "http://www.telegram.com/article/20150729/NEWS/150729058"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Energy and Commerce",
+            "indices": [
+              3,
+              17
+            ],
+            "id_str": "114756202",
+            "id": 114756202,
+            "screen_name": "HouseCommerce"
+          },
+          {
+            "name": "Katherine Clark",
+            "indices": [
+              58,
+              68
+            ],
+            "id_str": "2293131060",
+            "id": 2293131060,
+            "screen_name": "RepKClark"
+          },
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              75,
+              89
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22159841",
+        "id": 22159841
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "TY @HouseCommerce for advancing legislation introduced by @RepKClark &amp; @RepJoeKennedy http://t.co/gvqq3Xg8mR",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:50:37 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629015788305969152,
+    "id_str": "629015788305969152",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/gvqq3Xg8mR",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "telegram.com/article/201507\u2026",
+          "expanded_url": "http://www.telegram.com/article/20150729/NEWS/150729058"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Maura Healey",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "22159841",
+          "id": 22159841,
+          "screen_name": "MassAGO"
+        },
+        {
+          "name": "Energy and Commerce",
+          "indices": [
+            16,
+            30
+          ],
+          "id_str": "114756202",
+          "id": 114756202,
+          "screen_name": "HouseCommerce"
+        },
+        {
+          "name": "Katherine Clark",
+          "indices": [
+            71,
+            81
+          ],
+          "id_str": "2293131060",
+          "id": 2293131060,
+          "screen_name": "RepKClark"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            88,
+            102
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MassAGO: TY @HouseCommerce for advancing legislation introduced by @RepKClark &amp; @RepJoeKennedy http://t.co/gvqq3Xg8mR",
+    "lang": "en",
+    "created_at": "2015-08-05 19:47:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629009430928039936,
+    "id_str": "629009430928039936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/XBNwm3wS3e",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "heraldnews.com/article/201507\u2026",
+          "expanded_url": "http://heraldnews.com/article/20150731/NEWS/150739163"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SouthCoast",
+          "indices": [
+            45,
+            56
+          ]
+        },
+        {
+          "text": "RI",
+          "indices": [
+            62,
+            65
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Read about my proposal to treat cities along #SouthCoast + in #RI not as isolated silos, but as an economic force. http://t.co/XBNwm3wS3e",
+    "lang": "en",
+    "created_at": "2015-08-05 19:21:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628982211602202624,
+    "id_str": "628982211602202624",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/DKVxdoQUcx",
+          "media_url": "http://pbs.twimg.com/media/CLqX_OqW8AAs005.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqX_OqW8AAs005.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/628982211602202624/photo/1",
+          "id_str": "628982210494918656",
+          "indices": [
+            98,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/DKVxdoQUcx",
+          "id": 628982210494918656
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Northeastern U.",
+          "indices": [
+            9,
+            22
+          ],
+          "id_str": "46477409",
+          "id": 46477409,
+          "screen_name": "Northeastern"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/DKVxdoQUcx",
+          "media_url": "http://pbs.twimg.com/media/CLqX_OqW8AAs005.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqX_OqW8AAs005.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/628982211602202624/photo/1",
+          "id_str": "628982210494918656",
+          "indices": [
+            98,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/DKVxdoQUcx",
+          "id": 628982210494918656
+        }
+      ]
+    },
+    "text": "A couple @Northeastern students described how they are using origami to study tissue engineering. http://t.co/DKVxdoQUcx",
+    "lang": "en",
+    "created_at": "2015-08-05 17:33:39+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628950234853470208,
+    "id_str": "628950234853470208",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Sharon",
+          "indices": [
+            11,
+            18
+          ]
+        },
+        {
+          "text": "STEM",
+          "indices": [
+            96,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/cjdTAW1OPo",
+          "media_url": "http://pbs.twimg.com/media/CLp659_WgAAyCIm.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLp659_WgAAyCIm.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/628950234853470208/photo/1",
+          "id_str": "628950234283016192",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/cjdTAW1OPo",
+          "id": 628950234283016192
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Northeastern U.",
+          "indices": [
+            82,
+            95
+          ],
+          "id_str": "46477409",
+          "id": 46477409,
+          "screen_name": "Northeastern"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/cjdTAW1OPo",
+          "media_url": "http://pbs.twimg.com/media/CLp659_WgAAyCIm.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLp659_WgAAyCIm.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/628950234853470208/photo/1",
+          "id_str": "628950234283016192",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/cjdTAW1OPo",
+          "id": 628950234283016192
+        }
+      ]
+    },
+    "text": "Heard from #Sharon high school student abt solar phone charger he's developing in @Northeastern #STEM summer program http://t.co/cjdTAW1OPo",
+    "lang": "en",
+    "created_at": "2015-08-05 15:26:35+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628929175995437056,
+      "id_str": "628929175995437056",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/T2yPiOo5Hp",
+            "indices": [
+              96,
+              119
+            ],
+            "display_url": "periscope.tv/w/aJIPDjE4OTA0\u2026",
+            "expanded_url": "https://www.periscope.tv/w/aJIPDjE4OTA0NTd8NTQ0MTQ4MjLI1eU6nd6ebAwQtAGH1rcFSs05dAo5MKRnczMSVo3Ymg=="
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Periscope",
+            "indices": [
+              8,
+              18
+            ]
+          },
+          {
+            "text": "Northeastern",
+            "indices": [
+              41,
+              54
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              20,
+              34
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "46477409",
+        "id": 46477409
+      },
+      "favorited": false,
+      "source": "<a href=\"https://periscope.tv\" rel=\"nofollow\">Periscope.TV</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "LIVE on #Periscope: @RepJoeKennedy tours #Northeastern STEM labs as part of his campus visit. \n https://t.co/T2yPiOo5Hp",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:02:55 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628934567387398145,
+    "id_str": "628934567387398145",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/T2yPiOo5Hp",
+          "indices": [
+            114,
+            137
+          ],
+          "display_url": "periscope.tv/w/aJIPDjE4OTA0\u2026",
+          "expanded_url": "https://www.periscope.tv/w/aJIPDjE4OTA0NTd8NTQ0MTQ4MjLI1eU6nd6ebAwQtAGH1rcFSs05dAo5MKRnczMSVo3Ymg=="
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Periscope",
+          "indices": [
+            26,
+            36
+          ]
+        },
+        {
+          "text": "Northeastern",
+          "indices": [
+            59,
+            72
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Northeastern U.",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "46477409",
+          "id": 46477409,
+          "screen_name": "Northeastern"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            38,
+            52
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Northeastern: LIVE on #Periscope: @RepJoeKennedy tours #Northeastern STEM labs as part of his campus visit. \n https://t.co/T2yPiOo5Hp",
+    "lang": "en",
+    "created_at": "2015-08-05 14:24:20+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628924722563125248,
+      "id_str": "628924722563125248",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "STEM",
+            "indices": [
+              55,
+              60
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/wTqIj7uzYJ",
+            "media_url": "http://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+            "expanded_url": "http://twitter.com/joconnell_nu/status/628924722563125248/photo/1",
+            "id_str": "628924722487664640",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 254
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 449
+              },
+              "large": {
+                "w": 923,
+                "resize": "fit",
+                "h": 692
+              }
+            },
+            "display_url": "pic.twitter.com/wTqIj7uzYJ",
+            "id": 628924722487664640
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          },
+          {
+            "name": "Northeastern U.",
+            "indices": [
+              41,
+              54
+            ],
+            "id_str": "46477409",
+            "id": 46477409,
+            "screen_name": "Northeastern"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2243920214",
+        "id": 2243920214
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wTqIj7uzYJ",
+            "media_url": "http://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+            "expanded_url": "http://twitter.com/joconnell_nu/status/628924722563125248/photo/1",
+            "id_str": "628924722487664640",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 254
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 449
+              },
+              "large": {
+                "w": 923,
+                "resize": "fit",
+                "h": 692
+              }
+            },
+            "display_url": "pic.twitter.com/wTqIj7uzYJ",
+            "id": 628924722487664640
+          }
+        ]
+      },
+      "text": ".@RepJoeKennedy meeting with students in @Northeastern #STEM Center young scholars program http://t.co/wTqIj7uzYJ",
+      "lang": "en",
+      "created_at": "Wed Aug 05 13:45:13 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2243920214,
+          "media_url": "http://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+          "source_user_id_str": "2243920214",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/wTqIj7uzYJ",
+          "expanded_url": "http://twitter.com/joconnell_nu/status/628924722563125248/photo/1",
+          "url": "http://t.co/wTqIj7uzYJ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+          "source_status_id_str": "628924722563125248",
+          "id_str": "628924722487664640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 923,
+              "resize": "fit",
+              "h": 692
+            }
+          },
+          "id": 628924722487664640,
+          "source_status_id": 628924722563125248
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628934540413792257,
+    "id_str": "628934540413792257",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "STEM",
+          "indices": [
+            73,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2243920214,
+          "media_url": "http://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+          "source_user_id_str": "2243920214",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/wTqIj7uzYJ",
+          "expanded_url": "http://twitter.com/joconnell_nu/status/628924722563125248/photo/1",
+          "url": "http://t.co/wTqIj7uzYJ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpjs_JWoAAyb4R.jpg",
+          "source_status_id_str": "628924722563125248",
+          "id_str": "628924722487664640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 923,
+              "resize": "fit",
+              "h": 692
+            }
+          },
+          "id": 628924722487664640,
+          "source_status_id": 628924722563125248
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Joe O'Connell",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "2243920214",
+          "id": 2243920214,
+          "screen_name": "joconnell_nu"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            19,
+            33
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        },
+        {
+          "name": "Northeastern U.",
+          "indices": [
+            59,
+            72
+          ],
+          "id_str": "46477409",
+          "id": 46477409,
+          "screen_name": "Northeastern"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @joconnell_nu: .@RepJoeKennedy meeting with students in @Northeastern #STEM Center young scholars program http://t.co/wTqIj7uzYJ",
+    "lang": "en",
+    "created_at": "2015-08-05 14:24:14+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628930253105274880,
+      "id_str": "628930253105274880",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/FVzjUHfbmA",
+            "media_url": "http://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+            "expanded_url": "http://twitter.com/TIMatNUGov/status/628930253105274880/photo/1",
+            "id_str": "628930240971177984",
+            "indices": [
+              99,
+              121
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/FVzjUHfbmA",
+            "id": 628930240971177984
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Joe Kennedy III",
+            "indices": [
+              8,
+              22
+            ],
+            "id_str": "1055907624",
+            "id": 1055907624,
+            "screen_name": "RepJoeKennedy"
+          },
+          {
+            "name": "Northeastern U.",
+            "indices": [
+              25,
+              38
+            ],
+            "id_str": "46477409",
+            "id": 46477409,
+            "screen_name": "Northeastern"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "194705638",
+        "id": 194705638
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FVzjUHfbmA",
+            "media_url": "http://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+            "expanded_url": "http://twitter.com/TIMatNUGov/status/628930253105274880/photo/1",
+            "id_str": "628930240971177984",
+            "indices": [
+              99,
+              121
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/FVzjUHfbmA",
+            "id": 628930240971177984
+          }
+        ]
+      },
+      "text": "Showing @RepJoeKennedy a @Northeastern lab focussed on mechanical engineering and tissue engining. http://t.co/FVzjUHfbmA",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:07:11 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 194705638,
+          "media_url": "http://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+          "source_user_id_str": "194705638",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/FVzjUHfbmA",
+          "expanded_url": "http://twitter.com/TIMatNUGov/status/628930253105274880/photo/1",
+          "url": "http://t.co/FVzjUHfbmA",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+          "source_status_id_str": "628930253105274880",
+          "id_str": "628930240971177984",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628930240971177984,
+          "source_status_id": 628930253105274880
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628931163697102848,
+    "id_str": "628931163697102848",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 194705638,
+          "media_url": "http://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+          "source_user_id_str": "194705638",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/FVzjUHfbmA",
+          "expanded_url": "http://twitter.com/TIMatNUGov/status/628930253105274880/photo/1",
+          "url": "http://t.co/FVzjUHfbmA",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpouNGWgAA8zEZ.jpg",
+          "source_status_id_str": "628930253105274880",
+          "id_str": "628930240971177984",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628930240971177984,
+          "source_status_id": 628930253105274880
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "NU Gov't Relations ",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "194705638",
+          "id": 194705638,
+          "screen_name": "TIMatNUGov"
+        },
+        {
+          "name": "Rep. Joe Kennedy III",
+          "indices": [
+            24,
+            38
+          ],
+          "id_str": "1055907624",
+          "id": 1055907624,
+          "screen_name": "RepJoeKennedy"
+        },
+        {
+          "name": "Northeastern U.",
+          "indices": [
+            41,
+            54
+          ],
+          "id_str": "46477409",
+          "id": 46477409,
+          "screen_name": "Northeastern"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TIMatNUGov: Showing @RepJoeKennedy a @Northeastern lab focussed on mechanical engineering and tissue engining. http://t.co/FVzjUHfbmA",
+    "lang": "en",
+    "created_at": "2015-08-05 14:10:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628671482848243712,
+    "id_str": "628671482848243712",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Brookline",
+          "indices": [
+            51,
+            61
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ZYlQBFvOn1",
+          "media_url": "http://pbs.twimg.com/media/CLl9YcoVAAADNA3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl9YcoVAAADNA3.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/628671482848243712/photo/1",
+          "id_str": "628671481950568448",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ZYlQBFvOn1",
+          "id": 628671481950568448
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1055907624",
+      "screen_name": "repjoekennedy",
+      "id": 1055907624
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZYlQBFvOn1",
+          "media_url": "http://pbs.twimg.com/media/CLl9YcoVAAADNA3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl9YcoVAAADNA3.jpg",
+          "expanded_url": "http://twitter.com/RepJoeKennedy/status/628671482848243712/photo/1",
+          "id_str": "628671481950568448",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ZYlQBFvOn1",
+          "id": 628671481950568448
+        }
+      ]
+    },
+    "text": "Had a great time visiting Frederick Olmsted NHS in #Brookline to learn abt his lasting legacy on our nation's parks. http://t.co/ZYlQBFvOn1",
+    "lang": "en",
+    "created_at": "2015-08-04 20:58:56+00:00",
+    "retweeted": false
+  }
+]

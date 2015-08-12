@@ -1,0 +1,1615 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624589825325162496,
+    "id_str": "624589825325162496",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/h3LHl7lNWr",
+          "indices": [
+            37,
+            59
+          ],
+          "display_url": "goo.gl/Q10nqo",
+          "expanded_url": "http://goo.gl/Q10nqo"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ExIm",
+          "indices": [
+            16,
+            21
+          ]
+        },
+        {
+          "text": "EndExIm",
+          "indices": [
+            66,
+            74
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Wall Street Journal",
+          "indices": [
+            60,
+            64
+          ],
+          "id_str": "3108351",
+          "id": 3108351,
+          "screen_name": "WSJ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: \"Raising #ExIm From the Dead\" http://t.co/h3LHl7lNWr @WSJ  #EndExIm",
+    "lang": "en",
+    "created_at": "2015-07-24 14:39:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623116328044490752,
+    "id_str": "623116328044490752",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/4qiLvbgTok",
+          "indices": [
+            64,
+            86
+          ],
+          "display_url": "saleminteractivemedia.com/ListenLive/Pla\u2026",
+          "expanded_url": "http://saleminteractivemedia.com/ListenLive/Player/KSKYAM"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DoddFrank",
+          "indices": [
+            34,
+            44
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Mark Davis",
+          "indices": [
+            8,
+            18
+          ],
+          "id_str": "25916881",
+          "id": 25916881,
+          "screen_name": "MarkDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joining @MarkDavis now to discuss #DoddFrank. Listen live here: http://t.co/4qiLvbgTok",
+    "lang": "en",
+    "created_at": "2015-07-20 13:04:44+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622367743447162883,
+      "id_str": "622367743447162883",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/uCA62tSlkj",
+            "media_url": "http://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+            "expanded_url": "http://twitter.com/HouseGOP/status/622367743447162883/photo/1",
+            "id_str": "622036582669811712",
+            "indices": [
+              106,
+              128
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/uCA62tSlkj",
+            "id": 622036582669811712
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/ur9ZBg1t8o",
+            "indices": [
+              83,
+              105
+            ],
+            "display_url": "bit.ly/1LqiDoT",
+            "expanded_url": "http://bit.ly/1LqiDoT"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Jeb Hensarling",
+            "indices": [
+              10,
+              24
+            ],
+            "id_str": "18566912",
+            "id": 18566912,
+            "screen_name": "RepHensarling"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15207668",
+        "id": 15207668
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/uCA62tSlkj",
+            "media_url": "http://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+            "expanded_url": "http://twitter.com/HouseGOP/status/622367743447162883/photo/1",
+            "id_str": "622036582669811712",
+            "indices": [
+              106,
+              128
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/uCA62tSlkj",
+            "id": 622036582669811712
+          }
+        ]
+      },
+      "text": "This week @RepHensarling delivers the Weekly Republican Address.  \n\nCheck it out \u2014 http://t.co/ur9ZBg1t8o http://t.co/uCA62tSlkj",
+      "lang": "en",
+      "created_at": "Sat Jul 18 11:30:07 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 15207668,
+          "media_url": "http://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+          "source_user_id_str": "15207668",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/uCA62tSlkj",
+          "expanded_url": "http://twitter.com/HouseGOP/status/622367743447162883/photo/1",
+          "url": "http://t.co/uCA62tSlkj",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+          "source_status_id_str": "622367743447162883",
+          "id_str": "622036582669811712",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 622036582669811712,
+          "source_status_id": 622367743447162883
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 622451031369195520,
+    "id_str": "622451031369195520",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 15207668,
+          "media_url": "http://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+          "source_user_id_str": "15207668",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/uCA62tSlkj",
+          "expanded_url": "http://twitter.com/HouseGOP/status/622367743447162883/photo/1",
+          "url": "http://t.co/uCA62tSlkj",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKHq-etVAAAsJ2X.jpg",
+          "source_status_id_str": "622367743447162883",
+          "id_str": "622036582669811712",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 622036582669811712,
+          "source_status_id": 622367743447162883
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/ur9ZBg1t8o",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "bit.ly/1LqiDoT",
+          "expanded_url": "http://bit.ly/1LqiDoT"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        },
+        {
+          "name": "Jeb Hensarling",
+          "indices": [
+            24,
+            38
+          ],
+          "id_str": "18566912",
+          "id": 18566912,
+          "screen_name": "RepHensarling"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseGOP: This week @RepHensarling delivers the Weekly Republican Address.  \n\nCheck it out \u2014 http://t.co/ur9ZBg1t8o http://t.co/uCA62tS\u2026",
+    "lang": "en",
+    "created_at": "2015-07-18 17:01:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622394149350682624,
+    "id_str": "622394149350682624",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E05fUgOD8d",
+          "indices": [
+            55,
+            77
+          ],
+          "display_url": "1.usa.gov/1DlwoOX",
+          "expanded_url": "http://1.usa.gov/1DlwoOX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Dodd-Frank has made us less prosperous and less free\" http://t.co/E05fUgOD8d",
+    "lang": "en",
+    "created_at": "2015-07-18 13:15:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622390416860557312,
+    "id_str": "622390416860557312",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E05fUgOD8d",
+          "indices": [
+            50,
+            72
+          ],
+          "display_url": "1.usa.gov/1DlwoOX",
+          "expanded_url": "http://1.usa.gov/1DlwoOX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Dodd-Frank enshrines \u201cToo Big to Fail\u201d into law\u201d http://t.co/E05fUgOD8d",
+    "lang": "en",
+    "created_at": "2015-07-18 13:00:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622386596340314113,
+    "id_str": "622386596340314113",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E05fUgOD8d",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "1.usa.gov/1DlwoOX",
+          "expanded_url": "http://1.usa.gov/1DlwoOX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"It wasn\u2019t deregulation that caused the crisis- It was Washington\u2019s dumb regulations\u201d http://t.co/E05fUgOD8d",
+    "lang": "en",
+    "created_at": "2015-07-18 12:45:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622382841658105856,
+    "id_str": "622382841658105856",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E05fUgOD8d",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "1.usa.gov/1DlwoOX",
+          "expanded_url": "http://1.usa.gov/1DlwoOX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Together, we can end Wall Street bailouts, have a healthier economy, and protect consumer choice\u201d http://t.co/E05fUgOD8d",
+    "lang": "en",
+    "created_at": "2015-07-18 12:30:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622379055346663425,
+    "id_str": "622379055346663425",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E05fUgOD8d",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "1.usa.gov/1DlwoOX",
+          "expanded_url": "http://1.usa.gov/1DlwoOX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\u201cJust like Obamacare, Dodd-Frank has left us with fewer choices, higher costs and less freedom\u201d http://t.co/E05fUgOD8d",
+    "lang": "en",
+    "created_at": "2015-07-18 12:15:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622375319572365312,
+    "id_str": "622375319572365312",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E05fUgOD8d",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "1.usa.gov/1DlwoOX",
+          "expanded_url": "http://1.usa.gov/1DlwoOX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "WATCH: I give this week's Republican Address: \"Together, We Can End Wall St. Bailouts &amp; Grow Our Economy\" http://t.co/E05fUgOD8d",
+    "lang": "en",
+    "created_at": "2015-07-18 12:00:14+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622105666182860801,
+      "id_str": "622105666182860801",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Gb1O2udaKG",
+            "indices": [
+              80,
+              102
+            ],
+            "display_url": "j.mp/1I8GGYl",
+            "expanded_url": "http://j.mp/1I8GGYl"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "GOP",
+            "indices": [
+              41,
+              45
+            ]
+          },
+          {
+            "text": "DoddFrank",
+            "indices": [
+              118,
+              128
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Jeb Hensarling",
+            "indices": [
+              64,
+              78
+            ],
+            "id_str": "18566912",
+            "id": 18566912,
+            "screen_name": "RepHensarling"
+          },
+          {
+            "name": "Financial Services",
+            "indices": [
+              103,
+              117
+            ],
+            "id_str": "42924141",
+            "id": 42924141,
+            "screen_name": "FinancialCmte"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "7713202",
+        "id": 7713202
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Here\u2019s a sneak peek at tomorrow's weekly #GOP address featuring @RepHensarling. http://t.co/Gb1O2udaKG @FinancialCmte #DoddFrank",
+      "lang": "en",
+      "created_at": "Fri Jul 17 18:08:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622107657848098816,
+    "id_str": "622107657848098816",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Gb1O2udaKG",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "j.mp/1I8GGYl",
+          "expanded_url": "http://j.mp/1I8GGYl"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GOP",
+          "indices": [
+            61,
+            65
+          ]
+        },
+        {
+          "text": "DoddFrank",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Speaker John Boehner",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "7713202",
+          "id": 7713202,
+          "screen_name": "SpeakerBoehner"
+        },
+        {
+          "name": "Jeb Hensarling",
+          "indices": [
+            84,
+            98
+          ],
+          "id_str": "18566912",
+          "id": 18566912,
+          "screen_name": "RepHensarling"
+        },
+        {
+          "name": "Financial Services",
+          "indices": [
+            123,
+            137
+          ],
+          "id_str": "42924141",
+          "id": 42924141,
+          "screen_name": "FinancialCmte"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SpeakerBoehner: Here\u2019s a sneak peek at tomorrow's weekly #GOP address featuring @RepHensarling. http://t.co/Gb1O2udaKG @FinancialCmte #\u2026",
+    "lang": "en",
+    "created_at": "2015-07-17 18:16:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 614148474767056896,
+    "id_str": "614148474767056896",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ovZftS56Kx",
+          "indices": [
+            84,
+            106
+          ],
+          "display_url": "hensarling.house.gov/media-center/p\u2026",
+          "expanded_url": "http://hensarling.house.gov/media-center/press-releases/hensarling-statement-on-expiration-of-export-import-bank-s-charter"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ExIm",
+          "indices": [
+            0,
+            5
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#ExIm is a part of yesterday\u2019s economy. Our focus needs to be on tomorrow\u2019s economy http://t.co/ovZftS56Kx",
+    "lang": "en",
+    "created_at": "2015-06-25 19:09:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 614130062665875456,
+    "id_str": "614130062665875456",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/xktr8mX2rN",
+          "indices": [
+            67,
+            90
+          ],
+          "display_url": "youtube.com/watch?v=S3cMUJ\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=S3cMUJ2sZYM&feature=youtu.be"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "KingvBurwell",
+          "indices": [
+            45,
+            58
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Varney & Co. ",
+          "indices": [
+            25,
+            34
+          ],
+          "id_str": "281610530",
+          "id": 281610530,
+          "screen_name": "Varneyco"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: My interview with @Varneyco about the #KingvBurwell ruling: https://t.co/xktr8mX2rN",
+    "lang": "en",
+    "created_at": "2015-06-25 17:56:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 614082272090791936,
+    "id_str": "614082272090791936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/GBrCNQQB5G",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "hensarling.house.gov/media-center/p\u2026",
+          "expanded_url": "http://hensarling.house.gov/media-center/press-releases/hensarling-obamacare-ruling-seriously-undermines-constitution"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            0,
+            10
+          ]
+        },
+        {
+          "text": "KingvBurwell",
+          "indices": [
+            103,
+            116
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#Obamacare ruling essentially vests legislative power to executive, seriously underminds Constitution. #KingvBurwell http://t.co/GBrCNQQB5G",
+    "lang": "en",
+    "created_at": "2015-06-25 14:46:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 611574317864878080,
+    "id_str": "611574317864878080",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/F145frFGbh",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "hensarling.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hensarling.house.gov/media-center/press-releases/hensarling-applauds-house-passage-of-trade-promotion-authority"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "TPA is about the fundamentally conservative principles of free trade and economic liberty that make America great. https://t.co/F145frFGbh",
+    "lang": "en",
+    "created_at": "2015-06-18 16:40:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 18,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 609358851549364224,
+    "id_str": "609358851549364224",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 49,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 26,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 609142875759210496,
+      "id_str": "609142875759210496",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/ZspRXCPK6V",
+            "indices": [
+              115,
+              137
+            ],
+            "display_url": "goo.gl/ITuHoH",
+            "expanded_url": "http://goo.gl/ITuHoH"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Washington Examiner",
+            "indices": [
+              3,
+              16
+            ],
+            "id_str": "27703934",
+            "id": 27703934,
+            "screen_name": "washexaminer"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18916432",
+        "id": 18916432
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "In @washexaminer: 'If you want to know more about all these trade deals being negotiated, you should support TPA.' http://t.co/ZspRXCPK6V",
+      "lang": "en",
+      "created_at": "Thu Jun 11 23:39:13 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/r9IQ0poPUL",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "twitter.com/RepPaulRyan/st\u2026",
+          "expanded_url": "https://twitter.com/RepPaulRyan/status/609142875759210496"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TPA4USjobs",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "609142875759210496",
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "created_at": "2015-06-12 13:57:26+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#TPA4USjobs is about fundamentally conservative principles of free trade &amp; economic liberty that make America great. https://t.co/r9IQ0poPUL",
+    "lang": "en",
+    "quoted_status_id": 609142875759210496
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608763076129755136,
+    "id_str": "608763076129755136",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/epzEs193be",
+          "media_url": "http://pbs.twimg.com/media/CHLCyrlU0AAUAST.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHLCyrlU0AAUAST.jpg",
+          "expanded_url": "http://twitter.com/RepHensarling/status/608763076129755136/photo/1",
+          "id_str": "608763075596963840",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/epzEs193be",
+          "id": 608763075596963840
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/epzEs193be",
+          "media_url": "http://pbs.twimg.com/media/CHLCyrlU0AAUAST.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHLCyrlU0AAUAST.jpg",
+          "expanded_url": "http://twitter.com/RepHensarling/status/608763076129755136/photo/1",
+          "id_str": "608763075596963840",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/epzEs193be",
+          "id": 608763075596963840
+        }
+      ]
+    },
+    "text": "I had an extra special helper at work today. So glad my son, Travis, was able to join me in DC. http://t.co/epzEs193be",
+    "lang": "en",
+    "created_at": "2015-06-10 22:30:02+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608010804063932416,
+    "id_str": "608010804063932416",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "KingvBurwell",
+          "indices": [
+            89,
+            102
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Neil Cavuto",
+          "indices": [
+            8,
+            19
+          ],
+          "id_str": "223970563",
+          "id": 223970563,
+          "screen_name": "TeamCavuto"
+        },
+        {
+          "name": "Fox News",
+          "indices": [
+            23,
+            31
+          ],
+          "id_str": "1367531",
+          "id": 1367531,
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joining @TeamCavuto on @FoxNews shortly to discuss President Obama's comments this AM on #KingvBurwell. Hope you'll tune in.",
+    "lang": "en",
+    "created_at": "2015-06-08 20:40:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 23,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 607940436456448001,
+    "id_str": "607940436456448001",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/AgMEsxSM1D",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "nationalreview.com/article/419409\u2026",
+          "expanded_url": "http://www.nationalreview.com/article/419409/conservative-case-trade-promotion-authority-jeb-hensarling"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TPA",
+          "indices": [
+            70,
+            74
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "National Review",
+          "indices": [
+            95,
+            99
+          ],
+          "id_str": "19417492",
+          "id": 19417492,
+          "screen_name": "NRO"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'm sorry Barack Obama is president, but conservatives should support #TPA anyway. My piece in @NRO: http://t.co/AgMEsxSM1D",
+    "lang": "en",
+    "created_at": "2015-06-08 16:01:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 606454607036846081,
+    "id_str": "606454607036846081",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Tvt606kOmt",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "wsj.com/articles/an-op\u2026",
+          "expanded_url": "http://www.wsj.com/articles/an-open-letter-to-republicans-on-the-ex-im-bank-1433372926"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EndExIm",
+          "indices": [
+            49,
+            57
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Wall Street Journal",
+          "indices": [
+            100,
+            104
+          ],
+          "id_str": "3108351",
+          "id": 3108351,
+          "screen_name": "WSJ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It's time to stand up to corporate interests and #EndExIm. My open letter to Republicans in today's @WSJ: http://t.co/Tvt606kOmt",
+    "lang": "en",
+    "created_at": "2015-06-04 13:37:00+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 606081048406052865,
+      "id_str": "606081048406052865",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/fI48A8htZB",
+            "indices": [
+              46,
+              68
+            ],
+            "display_url": "1.usa.gov/1Q6w7um",
+            "expanded_url": "http://1.usa.gov/1Q6w7um"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ExIm",
+            "indices": [
+              19,
+              24
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "42924141",
+        "id": 42924141
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "FSC DIGITAL SHORT: #ExIm By The Numbers WATCH http://t.co/fI48A8htZB",
+      "lang": "en",
+      "created_at": "Wed Jun 03 12:52:37 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 606097529038639104,
+    "id_str": "606097529038639104",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fI48A8htZB",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "1.usa.gov/1Q6w7um",
+          "expanded_url": "http://1.usa.gov/1Q6w7um"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ExIm",
+          "indices": [
+            38,
+            43
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Financial Services",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "42924141",
+          "id": 42924141,
+          "screen_name": "FinancialCmte"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18566912",
+      "screen_name": "rephensarling",
+      "id": 18566912
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FinancialCmte: FSC DIGITAL SHORT: #ExIm By The Numbers WATCH http://t.co/fI48A8htZB",
+    "lang": "en",
+    "created_at": "2015-06-03 13:58:06+00:00"
+  }
+]

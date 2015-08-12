@@ -1,0 +1,3257 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629375659907915778,
+    "id_str": "629375659907915778",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/iZueirSnvK",
+          "indices": [
+            45,
+            68
+          ],
+          "display_url": "youtu.be/V0gUFRQ2_0A",
+          "expanded_url": "https://youtu.be/V0gUFRQ2_0A"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts on reforming regulatory takings: https://t.co/iZueirSnvK",
+    "lang": "en",
+    "created_at": "2015-08-06 19:37:05+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628664806959149056,
+      "id_str": "628664806959149056",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "AdvocacyCorps",
+            "indices": [
+              36,
+              50
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/YMe7IL4bmq",
+            "media_url": "http://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+            "expanded_url": "http://twitter.com/laurenelmundo/status/628664806959149056/photo/1",
+            "id_str": "628664701509971968",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 436
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 769
+              },
+              "large": {
+                "w": 798,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/YMe7IL4bmq",
+            "id": 628664701509971968
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              101,
+              112
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "424689297",
+        "id": 424689297
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/YMe7IL4bmq",
+            "media_url": "http://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+            "expanded_url": "http://twitter.com/laurenelmundo/status/628664806959149056/photo/1",
+            "id_str": "628664701509971968",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 436
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 769
+              },
+              "large": {
+                "w": 798,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/YMe7IL4bmq",
+            "id": 628664701509971968
+          }
+        ]
+      },
+      "text": "Participating in democracy with the #AdvocacyCorps by talking to LA Drew Wayne about the Prepare Act @RepTomReed http://t.co/YMe7IL4bmq",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:32:24 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 424689297,
+          "media_url": "http://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+          "source_user_id_str": "424689297",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/YMe7IL4bmq",
+          "expanded_url": "http://twitter.com/laurenelmundo/status/628664806959149056/photo/1",
+          "url": "http://t.co/YMe7IL4bmq",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+          "source_status_id_str": "628664806959149056",
+          "id_str": "628664701509971968",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 436
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 769
+            },
+            "large": {
+              "w": 798,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628664701509971968,
+          "source_status_id": 628664806959149056
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629316459211149312,
+    "id_str": "629316459211149312",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "AdvocacyCorps",
+          "indices": [
+            55,
+            69
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 424689297,
+          "media_url": "http://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+          "source_user_id_str": "424689297",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/YMe7IL4bmq",
+          "expanded_url": "http://twitter.com/laurenelmundo/status/628664806959149056/photo/1",
+          "url": "http://t.co/YMe7IL4bmq",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl3NxhUMAABJjt.jpg",
+          "source_status_id_str": "628664806959149056",
+          "id_str": "628664701509971968",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 436
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 769
+            },
+            "large": {
+              "w": 798,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628664701509971968,
+          "source_status_id": 628664806959149056
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Lauren Bechtel",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "424689297",
+          "id": 424689297,
+          "screen_name": "laurenelmundo"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            120,
+            131
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @laurenelmundo: Participating in democracy with the #AdvocacyCorps by talking to LA Drew Wayne about the Prepare Act @RepTomReed http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 15:41:50+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629271310841942016,
+      "id_str": "629271310841942016",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/E0cfOw9ofI",
+            "indices": [
+              81,
+              103
+            ],
+            "display_url": "riponadvance.com/stories/510631\u2026",
+            "expanded_url": "http://riponadvance.com/stories/510631700-reed-backs-bill-to-give-fallen-soldiers-families-full-benefits-end-widow-tax"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              104,
+              115
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1613575663",
+        "id": 1613575663
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Reed backs bill to give fallen soldiers' families full benefits, end 'widow tax' http://t.co/E0cfOw9ofI @RepTomReed",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:42:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629316132265140224,
+    "id_str": "629316132265140224",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E0cfOw9ofI",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "riponadvance.com/stories/510631\u2026",
+          "expanded_url": "http://riponadvance.com/stories/510631700-reed-backs-bill-to-give-fallen-soldiers-families-full-benefits-end-widow-tax"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ripon Advance",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "1613575663",
+          "id": 1613575663,
+          "screen_name": "RiponAdvance"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            122,
+            133
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RiponAdvance: Reed backs bill to give fallen soldiers' families full benefits, end 'widow tax' http://t.co/E0cfOw9ofI @RepTomReed",
+    "lang": "en",
+    "created_at": "2015-08-06 15:40:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628633155969417216,
+    "id_str": "628633155969417216",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/hAAv0Spf1n",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "tinyurl.com/ol7txvh",
+          "expanded_url": "http://tinyurl.com/ol7txvh"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NY23",
+          "indices": [
+            102,
+            107
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "NRFnews",
+          "indices": [
+            10,
+            18
+          ],
+          "id_str": "63787812",
+          "id": 63787812,
+          "screen_name": "NRFnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks to @NRFnews for recognizing our efforts to support small businesses and local retailers across #NY23! http://t.co/hAAv0Spf1n",
+    "lang": "en",
+    "created_at": "2015-08-04 18:26:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628279692718665729,
+    "id_str": "628279692718665729",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "252819323",
+      "id": 628270661287452672,
+      "id_str": "628270661287452672",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/0P4eZRtOQi",
+            "media_url": "http://pbs.twimg.com/media/CLgQ1jyUkAAKwoj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgQ1jyUkAAKwoj.jpg",
+            "expanded_url": "http://twitter.com/PPRCaucus/status/628270661287452672/photo/1",
+            "id_str": "628270660343599104",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 373
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 597,
+                "resize": "fit",
+                "h": 655
+              },
+              "large": {
+                "w": 597,
+                "resize": "fit",
+                "h": 655
+              }
+            },
+            "display_url": "pic.twitter.com/0P4eZRtOQi",
+            "id": 628270660343599104
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/YUGHNNAlyl",
+            "indices": [
+              84,
+              107
+            ],
+            "display_url": "facebook.com/PrivatePropert\u2026",
+            "expanded_url": "https://www.facebook.com/PrivatePropertyRightsCaucus"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              0,
+              11
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          },
+          {
+            "name": "PPR Caucus",
+            "indices": [
+              67,
+              77
+            ],
+            "id_str": "3401585567",
+            "id": 3401585567,
+            "screen_name": "PPRCaucus"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3401585567",
+        "id": 3401585567
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 252819323,
+      "in_reply_to_screen_name": "RepTomReed",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/0P4eZRtOQi",
+            "media_url": "http://pbs.twimg.com/media/CLgQ1jyUkAAKwoj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgQ1jyUkAAKwoj.jpg",
+            "expanded_url": "http://twitter.com/PPRCaucus/status/628270661287452672/photo/1",
+            "id_str": "628270660343599104",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 373
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 597,
+                "resize": "fit",
+                "h": 655
+              },
+              "large": {
+                "w": 597,
+                "resize": "fit",
+                "h": 655
+              }
+            },
+            "display_url": "pic.twitter.com/0P4eZRtOQi",
+            "id": 628270660343599104
+          }
+        ]
+      },
+      "text": "@RepTomReed The Private Property Rights Caucus is on social media: @PPRCaucus &amp; https://t.co/YUGHNNAlyl http://t.co/0P4eZRtOQi",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:26:13 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/tFOYmthmdv",
+          "indices": [
+            98,
+            121
+          ],
+          "display_url": "twitter.com/PPRCaucus/stat\u2026",
+          "expanded_url": "https://twitter.com/PPRCaucus/status/628270661287452672"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "PPR Caucus",
+          "indices": [
+            7,
+            17
+          ],
+          "id_str": "3401585567",
+          "id": 3401585567,
+          "screen_name": "PPRCaucus"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628270661287452672",
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "created_at": "2015-08-03 19:02:06+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Follow @PPRCaucus to learn more about our efforts to protect Americans' private property rights.  https://t.co/tFOYmthmdv",
+    "lang": "en",
+    "quoted_status_id": 628270661287452672
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627368300004048896,
+      "id_str": "627368300004048896",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RTPA",
+            "indices": [
+              122,
+              127
+            ]
+          },
+          {
+            "text": "efairness",
+            "indices": [
+              128,
+              138
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              10,
+              21
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "407053599",
+        "id": 407053599
+      },
+      "favorited": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank You @RepTomReed for supporting New York small businesses by co-sponsoring HR2775 The Remote Transactions Parity Act #RTPA #efairness",
+      "lang": "en",
+      "created_at": "Sat Aug 01 06:40:33 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628259339002847232,
+    "id_str": "628259339002847232",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RTPA",
+          "indices": [
+            135,
+            140
+          ]
+        },
+        {
+          "text": "efairness",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Marketplace Fairness",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "407053599",
+          "id": 407053599,
+          "screen_name": "MFAinfo"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            23,
+            34
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MFAinfo: Thank You @RepTomReed for supporting New York small businesses by co-sponsoring HR2775 The Remote Transactions Parity Act #RTP\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 17:41:13+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "252819323",
+      "id": 626411480112582658,
+      "id_str": "626411480112582658",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 7,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 626410755722772481,
+        "id_str": "626410755722772481",
+        "entities": {
+          "symbols": [],
+          "hashtags": [
+            {
+              "text": "IranDeal",
+              "indices": [
+                93,
+                102
+              ]
+            }
+          ],
+          "media": [
+            {
+              "url": "http://t.co/8ZYKGXtJao",
+              "media_url": "http://pbs.twimg.com/media/CLF1QojXAAAgR_v.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLF1QojXAAAgR_v.jpg",
+              "expanded_url": "http://twitter.com/Nate_Jara/status/626410755722772481/photo/1",
+              "id_str": "626410751805292544",
+              "indices": [
+                103,
+                125
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 453
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 800
+                },
+                "large": {
+                  "w": 768,
+                  "resize": "fit",
+                  "h": 1024
+                }
+              },
+              "display_url": "pic.twitter.com/8ZYKGXtJao",
+              "id": 626410751805292544
+            }
+          ],
+          "urls": [],
+          "user_mentions": [
+            {
+              "name": "Tom Reed",
+              "indices": [
+                21,
+                32
+              ],
+              "id_str": "252819323",
+              "id": 252819323,
+              "screen_name": "RepTomReed"
+            }
+          ]
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "1067780420",
+          "id": 1067780420
+        },
+        "favorited": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "extended_entities": {
+          "media": [
+            {
+              "url": "http://t.co/8ZYKGXtJao",
+              "media_url": "http://pbs.twimg.com/media/CLF1QojXAAAgR_v.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLF1QojXAAAgR_v.jpg",
+              "expanded_url": "http://twitter.com/Nate_Jara/status/626410755722772481/photo/1",
+              "id_str": "626410751805292544",
+              "indices": [
+                103,
+                125
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 453
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 800
+                },
+                "large": {
+                  "w": 768,
+                  "resize": "fit",
+                  "h": 1024
+                }
+              },
+              "display_url": "pic.twitter.com/8ZYKGXtJao",
+              "id": 626410751805292544
+            }
+          ]
+        },
+        "text": "It was great meeting @RepTomReed this morning! Had a really constructive conversation on the #IranDeal http://t.co/8ZYKGXtJao",
+        "lang": "en",
+        "created_at": "Wed Jul 29 15:15:36 +0000 2015",
+        "retweeted": false
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/Y3QDSX8Klj",
+            "indices": [
+              65,
+              88
+            ],
+            "display_url": "twitter.com/Nate_Jara/stat\u2026",
+            "expanded_url": "https://twitter.com/Nate_Jara/status/626410755722772481"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              0,
+              11
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          },
+          {
+            "name": "Cornell University",
+            "indices": [
+              18,
+              26
+            ],
+            "id_str": "17369110",
+            "id": 17369110,
+            "screen_name": "Cornell"
+          },
+          {
+            "name": "Nate Jara",
+            "indices": [
+              54,
+              64
+            ],
+            "id_str": "1067780420",
+            "id": 1067780420,
+            "screen_name": "Nate_Jara"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "626410755722772481",
+      "user": {
+        "id_str": "384964905",
+        "id": 384964905
+      },
+      "favorited": false,
+      "created_at": "Wed Jul 29 15:18:29 +0000 2015",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 252819323,
+      "in_reply_to_screen_name": "RepTomReed",
+      "retweeted": false,
+      "text": "@RepTomReed meets @Cornell in DC office summer intern @nate_jara https://t.co/Y3QDSX8Klj",
+      "lang": "en",
+      "quoted_status_id": 626410755722772481
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626459392045674496,
+    "id_str": "626459392045674496",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Y3QDSX8Klj",
+          "indices": [
+            82,
+            105
+          ],
+          "display_url": "twitter.com/Nate_Jara/stat\u2026",
+          "expanded_url": "https://twitter.com/Nate_Jara/status/626410755722772481"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Kathleen Corcoran",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "384964905",
+          "id": 384964905,
+          "screen_name": "CornellinDC"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            17,
+            28
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        },
+        {
+          "name": "Cornell University",
+          "indices": [
+            35,
+            43
+          ],
+          "id_str": "17369110",
+          "id": 17369110,
+          "screen_name": "Cornell"
+        },
+        {
+          "name": "Nate Jara",
+          "indices": [
+            71,
+            81
+          ],
+          "id_str": "1067780420",
+          "id": 1067780420,
+          "screen_name": "Nate_Jara"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CornellinDC: @RepTomReed meets @Cornell in DC office summer intern @nate_jara https://t.co/Y3QDSX8Klj",
+    "lang": "en",
+    "created_at": "2015-07-29 18:28:52+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626453942176718852,
+      "id_str": "626453942176718852",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NY",
+            "indices": [
+              42,
+              45
+            ]
+          },
+          {
+            "text": "PropaneDelivers",
+            "indices": [
+              90,
+              106
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Propane Caucus",
+            "indices": [
+              12,
+              26
+            ],
+            "id_str": "3290505615",
+            "id": 3290505615,
+            "screen_name": "PropaneCaucus"
+          },
+          {
+            "name": "Tom Reed",
+            "indices": [
+              55,
+              66
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          },
+          {
+            "name": "Rep. Chris Collins",
+            "indices": [
+              73,
+              89
+            ],
+            "id_str": "1058256326",
+            "id": 1058256326,
+            "screen_name": "RepChrisCollins"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "809352228",
+        "id": 809352228
+      },
+      "favorited": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Support the @PropaneCaucus and follow our #NY members: @RepTomReed &amp; @RepChrisCollins #PropaneDelivers",
+      "lang": "en",
+      "created_at": "Wed Jul 29 18:07:13 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626459069574983681,
+    "id_str": "626459069574983681",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NY",
+          "indices": [
+            59,
+            62
+          ]
+        },
+        {
+          "text": "PropaneDelivers",
+          "indices": [
+            107,
+            123
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "NPGA",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "809352228",
+          "id": 809352228,
+          "screen_name": "NPGAPropane"
+        },
+        {
+          "name": "Propane Caucus",
+          "indices": [
+            29,
+            43
+          ],
+          "id_str": "3290505615",
+          "id": 3290505615,
+          "screen_name": "PropaneCaucus"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            72,
+            83
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        },
+        {
+          "name": "Rep. Chris Collins",
+          "indices": [
+            90,
+            106
+          ],
+          "id_str": "1058256326",
+          "id": 1058256326,
+          "screen_name": "RepChrisCollins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NPGAPropane: Support the @PropaneCaucus and follow our #NY members: @RepTomReed &amp; @RepChrisCollins #PropaneDelivers",
+    "lang": "en",
+    "created_at": "2015-07-29 18:27:35+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626398282365841410,
+      "id_str": "626398282365841410",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/3KikyBH4II",
+            "indices": [
+              68,
+              90
+            ],
+            "display_url": "riponadvance.com/stories/510630\u2026",
+            "expanded_url": "http://riponadvance.com/stories/510630669-reed-s-manufacturing-jobs-stimulus-act-bears-first-investment-fruit"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              91,
+              102
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1613575663",
+        "id": 1613575663
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Reed's manufacturing-jobs stimulus act bears first investment fruit http://t.co/3KikyBH4II @RepTomReed",
+      "lang": "en",
+      "created_at": "Wed Jul 29 14:26:03 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626399038737354753,
+    "id_str": "626399038737354753",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3KikyBH4II",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "riponadvance.com/stories/510630\u2026",
+          "expanded_url": "http://riponadvance.com/stories/510630669-reed-s-manufacturing-jobs-stimulus-act-bears-first-investment-fruit"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ripon Advance",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "1613575663",
+          "id": 1613575663,
+          "screen_name": "RiponAdvance"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            109,
+            120
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RiponAdvance: Reed's manufacturing-jobs stimulus act bears first investment fruit http://t.co/3KikyBH4II @RepTomReed",
+    "lang": "en",
+    "created_at": "2015-07-29 14:29:03+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625831958472470528,
+      "id_str": "625831958472470528",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "ROC",
+            "indices": [
+              109,
+              113
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/O7JX4yqMK2",
+            "media_url": "http://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+            "expanded_url": "http://twitter.com/SenatorFunke/status/625831958472470528/photo/1",
+            "id_str": "625831957008654336",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 390
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 688
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1175
+              }
+            },
+            "display_url": "pic.twitter.com/O7JX4yqMK2",
+            "id": 625831957008654336
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              2,
+              13
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          },
+          {
+            "name": "Vice President Biden",
+            "indices": [
+              26,
+              29
+            ],
+            "id_str": "325830217",
+            "id": 325830217,
+            "screen_name": "VP"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2384190900",
+        "id": 2384190900
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/O7JX4yqMK2",
+            "media_url": "http://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+            "expanded_url": "http://twitter.com/SenatorFunke/status/625831958472470528/photo/1",
+            "id_str": "625831957008654336",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 390
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 688
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1175
+              }
+            },
+            "display_url": "pic.twitter.com/O7JX4yqMK2",
+            "id": 625831957008654336
+          }
+        ]
+      },
+      "text": "W/@RepTomReed for today's @VP announcement about the creation of an institute for innovation in photonics in #ROC. http://t.co/O7JX4yqMK2",
+      "lang": "en",
+      "created_at": "Tue Jul 28 00:55:40 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2384190900,
+          "media_url": "http://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+          "source_user_id_str": "2384190900",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/O7JX4yqMK2",
+          "expanded_url": "http://twitter.com/SenatorFunke/status/625831958472470528/photo/1",
+          "url": "http://t.co/O7JX4yqMK2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+          "source_status_id_str": "625831958472470528",
+          "id_str": "625831957008654336",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 390
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 688
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1175
+            }
+          },
+          "id": 625831957008654336,
+          "source_status_id": 625831958472470528
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626024588862976000,
+    "id_str": "626024588862976000",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            127,
+            131
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2384190900,
+          "media_url": "http://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+          "source_user_id_str": "2384190900",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/O7JX4yqMK2",
+          "expanded_url": "http://twitter.com/SenatorFunke/status/625831958472470528/photo/1",
+          "url": "http://t.co/O7JX4yqMK2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK9m2V6WoAACozH.jpg",
+          "source_status_id_str": "625831958472470528",
+          "id_str": "625831957008654336",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 390
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 688
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1175
+            }
+          },
+          "id": 625831957008654336,
+          "source_status_id": 625831958472470528
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rich Funke ",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "2384190900",
+          "id": 2384190900,
+          "screen_name": "SenatorFunke"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            20,
+            31
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        },
+        {
+          "name": "Vice President Biden",
+          "indices": [
+            44,
+            47
+          ],
+          "id_str": "325830217",
+          "id": 325830217,
+          "screen_name": "VP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenatorFunke: W/@RepTomReed for today's @VP announcement about the creation of an institute for innovation in photonics in #ROC. http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 13:41:07+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "17022537",
+      "id": 625753555887095808,
+      "id_str": "625753555887095808",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/ecXgbEekR8",
+            "media_url": "http://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+            "expanded_url": "http://twitter.com/sdowdphoto/status/625753555887095808/photo/1",
+            "id_str": "625753555257978881",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 249
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 439
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 750
+              }
+            },
+            "display_url": "pic.twitter.com/ecXgbEekR8",
+            "id": 625753555257978881
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rochester D and C",
+            "indices": [
+              0,
+              6
+            ],
+            "id_str": "17022537",
+            "id": 17022537,
+            "screen_name": "DandC"
+          },
+          {
+            "name": "Bennett Loudon",
+            "indices": [
+              16,
+              30
+            ],
+            "id_str": "47813440",
+            "id": 47813440,
+            "screen_name": "BennettLoudon"
+          },
+          {
+            "name": "Tom Reed",
+            "indices": [
+              42,
+              53
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "47744763",
+        "id": 47744763
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 17022537,
+      "in_reply_to_screen_name": "DandC",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/ecXgbEekR8",
+            "media_url": "http://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+            "expanded_url": "http://twitter.com/sdowdphoto/status/625753555887095808/photo/1",
+            "id_str": "625753555257978881",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 249
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 439
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 750
+              }
+            },
+            "display_url": "pic.twitter.com/ecXgbEekR8",
+            "id": 625753555257978881
+          }
+        ]
+      },
+      "text": "@DandC reporter @BennettLoudon interviews @RepTomReed following VP Biden's remarks at Photonics event in Greece. http://t.co/ecXgbEekR8",
+      "lang": "en",
+      "created_at": "Mon Jul 27 19:44:08 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 47744763,
+          "media_url": "http://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+          "source_user_id_str": "47744763",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/ecXgbEekR8",
+          "expanded_url": "http://twitter.com/sdowdphoto/status/625753555887095808/photo/1",
+          "url": "http://t.co/ecXgbEekR8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+          "source_status_id_str": "625753555887095808",
+          "id_str": "625753555257978881",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 249
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 439
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 750
+            }
+          },
+          "id": 625753555257978881,
+          "source_status_id": 625753555887095808
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625776694226485249,
+    "id_str": "625776694226485249",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 47744763,
+          "media_url": "http://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+          "source_user_id_str": "47744763",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/ecXgbEekR8",
+          "expanded_url": "http://twitter.com/sdowdphoto/status/625753555887095808/photo/1",
+          "url": "http://t.co/ecXgbEekR8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8fiwoW8AEpSTf.jpg",
+          "source_status_id_str": "625753555887095808",
+          "id_str": "625753555257978881",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 249
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 439
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 750
+            }
+          },
+          "id": 625753555257978881,
+          "source_status_id": 625753555887095808
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Shawn Dowd",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "47744763",
+          "id": 47744763,
+          "screen_name": "sdowdphoto"
+        },
+        {
+          "name": "Rochester D and C",
+          "indices": [
+            16,
+            22
+          ],
+          "id_str": "17022537",
+          "id": 17022537,
+          "screen_name": "DandC"
+        },
+        {
+          "name": "Bennett Loudon",
+          "indices": [
+            32,
+            46
+          ],
+          "id_str": "47813440",
+          "id": 47813440,
+          "screen_name": "BennettLoudon"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            58,
+            69
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sdowdphoto: @DandC reporter @BennettLoudon interviews @RepTomReed following VP Biden's remarks at Photonics event in Greece. http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 21:16:04+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "252819323",
+      "id": 625694808586223616,
+      "id_str": "625694808586223616",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "Alzheimers",
+            "indices": [
+              99,
+              110
+            ]
+          },
+          {
+            "text": "endalz",
+            "indices": [
+              112,
+              119
+            ]
+          },
+          {
+            "text": "alzheimersawareness",
+            "indices": [
+              120,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              0,
+              11
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "82245988",
+        "id": 82245988
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 252819323,
+      "in_reply_to_screen_name": "RepTomReed",
+      "retweeted": false,
+      "text": "@RepTomReed Thank you 4 sponsoring the Hope 4 Alzheimer's Act. This will help w/ care planning for #Alzheimers. #endalz #alzheimersawareness",
+      "lang": "en",
+      "created_at": "Mon Jul 27 15:50:41 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625776625007919104,
+    "id_str": "625776625007919104",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Alzheimers",
+          "indices": [
+            119,
+            130
+          ]
+        },
+        {
+          "text": "endalz",
+          "indices": [
+            132,
+            139
+          ]
+        },
+        {
+          "text": "alzheimersawareness",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "AlzRochesterNY",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "82245988",
+          "id": 82245988,
+          "screen_name": "AlzRochesterNY"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            20,
+            31
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AlzRochesterNY: @RepTomReed Thank you 4 sponsoring the Hope 4 Alzheimer's Act. This will help w/ care planning for #Alzheimers. #endalz\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 21:15:48+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625688253308383232,
+      "id_str": "625688253308383232",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/WIIzDfEjEO",
+            "indices": [
+              54,
+              76
+            ],
+            "display_url": "youtu.be/X_sdA-WLTBc",
+            "expanded_url": "http://youtu.be/X_sdA-WLTBc"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "VPROC",
+            "indices": [
+              47,
+              53
+            ]
+          },
+          {
+            "text": "WeAreBroadcasters",
+            "indices": [
+              77,
+              95
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              1,
+              12
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16469116",
+        "id": 16469116
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepTomReed speaks at today's photonics event #VPROC http://t.co/WIIzDfEjEO #WeAreBroadcasters",
+      "lang": "en",
+      "created_at": "Mon Jul 27 15:24:38 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625694307744391168,
+    "id_str": "625694307744391168",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WIIzDfEjEO",
+          "indices": [
+            69,
+            91
+          ],
+          "display_url": "youtu.be/X_sdA-WLTBc",
+          "expanded_url": "http://youtu.be/X_sdA-WLTBc"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VPROC",
+          "indices": [
+            62,
+            68
+          ]
+        },
+        {
+          "text": "WeAreBroadcasters",
+          "indices": [
+            92,
+            110
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "news10nbc",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "16469116",
+          "id": 16469116,
+          "screen_name": "news10nbc"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            16,
+            27
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @news10nbc: .@RepTomReed speaks at today's photonics event #VPROC http://t.co/WIIzDfEjEO #WeAreBroadcasters",
+    "lang": "en",
+    "created_at": "2015-07-27 15:48:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625689922113028097,
+      "id_str": "625689922113028097",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "ROC",
+            "indices": [
+              16,
+              20
+            ]
+          },
+          {
+            "text": "Optics",
+            "indices": [
+              56,
+              63
+            ]
+          },
+          {
+            "text": "photonics",
+            "indices": [
+              105,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/u7zDVji7Pb",
+            "media_url": "http://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+            "expanded_url": "http://twitter.com/OpticalSociety/status/625689922113028097/photo/1",
+            "id_str": "625689921651511296",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 200,
+                "resize": "fit",
+                "h": 209
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 200,
+                "resize": "fit",
+                "h": 209
+              },
+              "large": {
+                "w": 200,
+                "resize": "fit",
+                "h": 209
+              }
+            },
+            "display_url": "pic.twitter.com/u7zDVji7Pb",
+            "id": 625689921651511296
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              24,
+              35
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20547416",
+        "id": 20547416
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/u7zDVji7Pb",
+            "media_url": "http://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+            "expanded_url": "http://twitter.com/OpticalSociety/status/625689922113028097/photo/1",
+            "id_str": "625689921651511296",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 200,
+                "resize": "fit",
+                "h": 209
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 200,
+                "resize": "fit",
+                "h": 209
+              },
+              "large": {
+                "w": 200,
+                "resize": "fit",
+                "h": 209
+              }
+            },
+            "display_url": "pic.twitter.com/u7zDVji7Pb",
+            "id": 625689921651511296
+          }
+        ]
+      },
+      "text": "Here with us in #ROC is @RepTomReed, an OSA Advocate of #Optics, thank you for your continued support of #photonics http://t.co/u7zDVji7Pb",
+      "lang": "en",
+      "created_at": "Mon Jul 27 15:31:16 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 20547416,
+          "media_url": "http://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+          "source_user_id_str": "20547416",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/u7zDVji7Pb",
+          "expanded_url": "http://twitter.com/OpticalSociety/status/625689922113028097/photo/1",
+          "url": "http://t.co/u7zDVji7Pb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+          "source_status_id_str": "625689922113028097",
+          "id_str": "625689921651511296",
+          "sizes": {
+            "small": {
+              "w": 200,
+              "resize": "fit",
+              "h": 209
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 200,
+              "resize": "fit",
+              "h": 209
+            },
+            "large": {
+              "w": 200,
+              "resize": "fit",
+              "h": 209
+            }
+          },
+          "id": 625689921651511296,
+          "source_status_id": 625689922113028097
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625694156954947584,
+    "id_str": "625694156954947584",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            36,
+            40
+          ]
+        },
+        {
+          "text": "Optics",
+          "indices": [
+            76,
+            83
+          ]
+        },
+        {
+          "text": "photonics",
+          "indices": [
+            125,
+            135
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 20547416,
+          "media_url": "http://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+          "source_user_id_str": "20547416",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/u7zDVji7Pb",
+          "expanded_url": "http://twitter.com/OpticalSociety/status/625689922113028097/photo/1",
+          "url": "http://t.co/u7zDVji7Pb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7lqy-UkAATG4h.jpg",
+          "source_status_id_str": "625689922113028097",
+          "id_str": "625689921651511296",
+          "sizes": {
+            "small": {
+              "w": 200,
+              "resize": "fit",
+              "h": 209
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 200,
+              "resize": "fit",
+              "h": 209
+            },
+            "large": {
+              "w": 200,
+              "resize": "fit",
+              "h": 209
+            }
+          },
+          "id": 625689921651511296,
+          "source_status_id": 625689922113028097
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "OSA",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "20547416",
+          "id": 20547416,
+          "screen_name": "OpticalSociety"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            44,
+            55
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @OpticalSociety: Here with us in #ROC is @RepTomReed, an OSA Advocate of #Optics, thank you for your continued support of #photonics htt\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 15:48:06+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624229137872494592,
+      "id_str": "624229137872494592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NNMI",
+            "indices": [
+              38,
+              43
+            ]
+          },
+          {
+            "text": "manufacturing",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              73,
+              84
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1969664672",
+        "id": 1969664672
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Great to see NY awarded the photonics #NNMI institute - especially since @RepTomReed has been an NNMI champion in the House. #manufacturing",
+      "lang": "en",
+      "created_at": "Thu Jul 23 14:46:38 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624238269056856064,
+    "id_str": "624238269056856064",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NNMI",
+          "indices": [
+            55,
+            60
+          ]
+        },
+        {
+          "text": "manufacturing",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Ken Schramko",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "1969664672",
+          "id": 1969664672,
+          "screen_name": "KenSchramko"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            90,
+            101
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @KenSchramko: Great to see NY awarded the photonics #NNMI institute - especially since @RepTomReed has been an NNMI champion in the Hous\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 15:22:55+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623955028445892608,
+    "id_str": "623955028445892608",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HfphQkxmjX",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "tinyurl.com/oqtetqd",
+          "expanded_url": "http://tinyurl.com/oqtetqd"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Manufacturing",
+          "indices": [
+            63,
+            77
+          ]
+        },
+        {
+          "text": "photonics",
+          "indices": [
+            90,
+            100
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Breaking News: Western NY will become home to first Center for #Manufacturing Innovation! #photonics  http://t.co/HfphQkxmjX",
+    "lang": "en",
+    "created_at": "2015-07-22 20:37:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621775314453184512,
+    "id_str": "621775314453184512",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Chattanooga",
+          "indices": [
+            82,
+            94
+          ]
+        },
+        {
+          "text": "Marines",
+          "indices": [
+            102,
+            110
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "U.S. Marines",
+          "indices": [
+            35,
+            40
+          ],
+          "id_str": "10126672",
+          "id": 10126672,
+          "screen_name": "USMC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Our thoughts and prayers go out to @USMC and everyone affected by the shooting in #Chattanooga. These #Marines are American heroes.",
+    "lang": "en",
+    "created_at": "2015-07-16 20:16:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621699931850543104,
+    "id_str": "621699931850543104",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ALS",
+          "indices": [
+            75,
+            79
+          ]
+        },
+        {
+          "text": "NoWhiteFlags",
+          "indices": [
+            81,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/THMHDwQFJh",
+          "media_url": "http://pbs.twimg.com/media/CKC4yzCW8AUnzqN.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKC4yzCW8AUnzqN.png",
+          "expanded_url": "http://twitter.com/RepTomReed/status/621699931850543104/photo/1",
+          "id_str": "621699931410198533",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 314
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/THMHDwQFJh",
+          "id": 621699931410198533
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/THMHDwQFJh",
+          "media_url": "http://pbs.twimg.com/media/CKC4yzCW8AUnzqN.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKC4yzCW8AUnzqN.png",
+          "expanded_url": "http://twitter.com/RepTomReed/status/621699931850543104/photo/1",
+          "id_str": "621699931410198533",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 314
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/THMHDwQFJh",
+          "id": 621699931410198533
+        }
+      ]
+    },
+    "text": "The House passed the Steve Gleason Act, a victory for everyone affected by #ALS! #NoWhiteFlags http://t.co/THMHDwQFJh",
+    "lang": "en",
+    "created_at": "2015-07-16 15:16:29+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621368154644709376,
+    "id_str": "621368154644709376",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/8l0VFINx15",
+          "media_url": "http://pbs.twimg.com/media/CJ-LC04WIAAfx7k.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ-LC04WIAAfx7k.jpg",
+          "expanded_url": "http://twitter.com/RepTomReed/status/621368154644709376/photo/1",
+          "id_str": "621368154271391744",
+          "indices": [
+            48,
+            70
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "large": {
+              "w": 797,
+              "resize": "fit",
+              "h": 562
+            }
+          },
+          "display_url": "pic.twitter.com/8l0VFINx15",
+          "id": 621368154271391744
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4r953E1Mjf",
+          "indices": [
+            24,
+            47
+          ],
+          "display_url": "instagram.com/rep.tomreed/",
+          "expanded_url": "https://instagram.com/rep.tomreed/"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8l0VFINx15",
+          "media_url": "http://pbs.twimg.com/media/CJ-LC04WIAAfx7k.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ-LC04WIAAfx7k.jpg",
+          "expanded_url": "http://twitter.com/RepTomReed/status/621368154644709376/photo/1",
+          "id_str": "621368154271391744",
+          "indices": [
+            48,
+            70
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "large": {
+              "w": 797,
+              "resize": "fit",
+              "h": 562
+            }
+          },
+          "display_url": "pic.twitter.com/8l0VFINx15",
+          "id": 621368154271391744
+        }
+      ]
+    },
+    "text": "Follow me on Instagram! https://t.co/4r953E1Mjf http://t.co/8l0VFINx15",
+    "lang": "en",
+    "created_at": "2015-07-15 17:18:07+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621016387775938562,
+      "id_str": "621016387775938562",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/YCf4mRJIvk",
+            "indices": [
+              63,
+              85
+            ],
+            "display_url": "bit.ly/1fG6Bw8",
+            "expanded_url": "http://bit.ly/1fG6Bw8"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Tom Reed",
+            "indices": [
+              50,
+              61
+            ],
+            "id_str": "252819323",
+            "id": 252819323,
+            "screen_name": "RepTomReed"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2396506303",
+        "id": 2396506303
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "PODCAST: \"Reforming Regulatory Takings\" featuring @RepTomReed. http://t.co/YCf4mRJIvk",
+      "lang": "en",
+      "created_at": "Tue Jul 14 18:00:19 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621027787172892672,
+    "id_str": "621027787172892672",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/YCf4mRJIvk",
+          "indices": [
+            80,
+            102
+          ],
+          "display_url": "bit.ly/1fG6Bw8",
+          "expanded_url": "http://bit.ly/1fG6Bw8"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Cato Daily Podcast",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "2396506303",
+          "id": 2396506303,
+          "screen_name": "CatoPodcast"
+        },
+        {
+          "name": "Tom Reed",
+          "indices": [
+            67,
+            78
+          ],
+          "id_str": "252819323",
+          "id": 252819323,
+          "screen_name": "RepTomReed"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "252819323",
+      "screen_name": "reptomreed",
+      "id": 252819323
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CatoPodcast: PODCAST: \"Reforming Regulatory Takings\" featuring @RepTomReed. http://t.co/YCf4mRJIvk",
+    "lang": "en",
+    "created_at": "2015-07-14 18:45:37+00:00"
+  }
+]

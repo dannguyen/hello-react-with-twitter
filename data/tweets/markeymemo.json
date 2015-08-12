@@ -1,0 +1,57 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 568800179681402880,
+    "id_str": "568800179681402880",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "MarkeyMemo",
+          "indices": [
+            1,
+            12
+          ],
+          "id_str": "3047090620",
+          "id": 3047090620,
+          "screen_name": "MARKEYMEMO"
+        },
+        {
+          "name": "Ed Markey",
+          "indices": [
+            99,
+            109
+          ],
+          "id_str": "21406834",
+          "id": 21406834,
+          "screen_name": "SenMarkey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3047090620",
+      "screen_name": "markeymemo",
+      "id": 3047090620
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@MarkeyMemo followers, please note that the official account for Senator Markey has relaunched as @SenMarkey. Please let others know!",
+    "lang": "en",
+    "created_at": "2015-02-20 15:51:45+00:00"
+  }
+]

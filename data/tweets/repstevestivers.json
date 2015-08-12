@@ -1,0 +1,2067 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 8,
+      "favorite_count": 11,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wT5FPPhEdp",
+            "media_url": "http://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+            "expanded_url": "http://twitter.com/FisherOSU/status/629371524210913281/photo/1",
+            "id_str": "629371517026086912",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/wT5FPPhEdp",
+            "id": 629371517026086912
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 629371524210913281,
+      "id_str": "629371524210913281",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/wT5FPPhEdp",
+            "media_url": "http://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+            "expanded_url": "http://twitter.com/FisherOSU/status/629371524210913281/photo/1",
+            "id_str": "629371517026086912",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/wT5FPPhEdp",
+            "id": 629371517026086912
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Export",
+            "indices": [
+              26,
+              33
+            ]
+          },
+          {
+            "text": "oeipshowcase",
+            "indices": [
+              101,
+              114
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "18846918",
+            "indices": [
+              68,
+              78
+            ],
+            "name": "OhioState",
+            "id": 18846918,
+            "screen_name": "OhioState"
+          },
+          {
+            "id_str": "104876976",
+            "indices": [
+              83,
+              99
+            ],
+            "name": "Youngstown State",
+            "id": 104876976,
+            "screen_name": "youngstownstate"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "57655127",
+        "id": 57655127
+      },
+      "text": "Congrats to the 2015 Ohio #Export Internship Program graduates from @OhioState and @youngstownstate. #oeipshowcase http://t.co/wT5FPPhEdp",
+      "lang": "en",
+      "created_at": "Thu Aug 06 19:20:39 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 57655127,
+          "media_url": "http://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+          "source_user_id_str": "57655127",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/wT5FPPhEdp",
+          "expanded_url": "http://twitter.com/FisherOSU/status/629371524210913281/photo/1",
+          "url": "http://t.co/wT5FPPhEdp",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+          "source_status_id_str": "629371524210913281",
+          "id_str": "629371517026086912",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 629371517026086912,
+          "source_status_id": 629371524210913281
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629402067359010816,
+    "id_str": "629402067359010816",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 57655127,
+          "media_url": "http://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+          "source_user_id_str": "57655127",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/wT5FPPhEdp",
+          "expanded_url": "http://twitter.com/FisherOSU/status/629371524210913281/photo/1",
+          "url": "http://t.co/wT5FPPhEdp",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLv6D2gWsAAqYQY.jpg",
+          "source_status_id_str": "629371524210913281",
+          "id_str": "629371517026086912",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 629371517026086912,
+          "source_status_id": 629371524210913281
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Export",
+          "indices": [
+            41,
+            48
+          ]
+        },
+        {
+          "text": "oeipshowcase",
+          "indices": [
+            116,
+            129
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "57655127",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "FisherOSU",
+          "id": 57655127,
+          "screen_name": "FisherOSU"
+        },
+        {
+          "id_str": "18846918",
+          "indices": [
+            83,
+            93
+          ],
+          "name": "OhioState",
+          "id": 18846918,
+          "screen_name": "OhioState"
+        },
+        {
+          "id_str": "104876976",
+          "indices": [
+            98,
+            114
+          ],
+          "name": "Youngstown State",
+          "id": 104876976,
+          "screen_name": "youngstownstate"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "text": "RT @FisherOSU: Congrats to the 2015 Ohio #Export Internship Program graduates from @OhioState and @youngstownstate. #oeipshowcase http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 21:22:01+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/EEZWpzilta",
+          "media_url": "http://pbs.twimg.com/media/CLwSxyIUkAU2Bub.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwSxyIUkAU2Bub.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/629399169325621248/photo/1",
+          "id_str": "629398694404591621",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/EEZWpzilta",
+          "id": 629398694404591621
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629399169325621248,
+    "id_str": "629399169325621248",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/EEZWpzilta",
+          "media_url": "http://pbs.twimg.com/media/CLwSxyIUkAU2Bub.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwSxyIUkAU2Bub.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/629399169325621248/photo/1",
+          "id_str": "629398694404591621",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/EEZWpzilta",
+          "id": 629398694404591621
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "OhioEIPShowcase",
+          "indices": [
+            21,
+            37
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "787684483",
+          "indices": [
+            63,
+            79
+          ],
+          "name": "Ohio Development",
+          "id": 787684483,
+          "screen_name": "OhioDevelopment"
+        },
+        {
+          "id_str": "57655127",
+          "indices": [
+            80,
+            90
+          ],
+          "name": "FisherOSU",
+          "id": 57655127,
+          "screen_name": "FisherOSU"
+        },
+        {
+          "id_str": "104876976",
+          "indices": [
+            91,
+            107
+          ],
+          "name": "Youngstown State",
+          "id": 104876976,
+          "screen_name": "youngstownstate"
+        },
+        {
+          "id_str": "1112608868",
+          "indices": [
+            108,
+            120
+          ],
+          "name": "Jim Tressel",
+          "id": 1112608868,
+          "screen_name": "JimTressel5"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "text": "Great crowd to honor #OhioEIPShowcase students &amp; exporters @OhioDevelopment @FisherOSU @youngstownstate @JimTressel5 http://t.co/EEZWpzilta",
+    "lang": "en",
+    "created_at": "2015-08-06 21:10:30+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/638irteQrP",
+          "media_url": "http://pbs.twimg.com/media/CLvsUfRWcAAXsaw.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvsUfRWcAAXsaw.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/629356410573332480/photo/1",
+          "id_str": "629356409684127744",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/638irteQrP",
+          "id": 629356409684127744
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629356410573332480,
+    "id_str": "629356410573332480",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/638irteQrP",
+          "media_url": "http://pbs.twimg.com/media/CLvsUfRWcAAXsaw.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvsUfRWcAAXsaw.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/629356410573332480/photo/1",
+          "id_str": "629356409684127744",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/638irteQrP",
+          "id": 629356409684127744
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "veterans",
+          "indices": [
+            86,
+            95
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "15304100",
+          "indices": [
+            27,
+            32
+          ],
+          "name": "10TV.com",
+          "id": 15304100,
+          "screen_name": "10TV"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "text": "Tune in to my interview on @10TV at 6 where I will discuss my new bill to help ensure #veterans get care they deserve http://t.co/638irteQrP",
+    "lang": "en",
+    "created_at": "2015-08-06 18:20:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/O9bNhF5CcE",
+          "media_url": "http://pbs.twimg.com/media/CLu3xVBVAAA8iE1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu3xVBVAAA8iE1.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/629298631980544000/photo/1",
+          "id_str": "629298631032504320",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/O9bNhF5CcE",
+          "id": 629298631032504320
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629298631980544000,
+    "id_str": "629298631980544000",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/O9bNhF5CcE",
+          "media_url": "http://pbs.twimg.com/media/CLu3xVBVAAA8iE1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu3xVBVAAA8iE1.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/629298631980544000/photo/1",
+          "id_str": "629298631032504320",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/O9bNhF5CcE",
+          "id": 629298631032504320
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Ohio",
+          "indices": [
+            8,
+            13
+          ]
+        },
+        {
+          "text": "exports",
+          "indices": [
+            36,
+            44
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            45,
+            50
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "57655127",
+          "indices": [
+            57,
+            67
+          ],
+          "name": "FisherOSU",
+          "id": 57655127,
+          "screen_name": "FisherOSU"
+        },
+        {
+          "id_str": "385385772",
+          "indices": [
+            68,
+            84
+          ],
+          "name": "Middle Market Center",
+          "id": 385385772,
+          "screen_name": "MidMarketCenter"
+        },
+        {
+          "id_str": "1531521632",
+          "indices": [
+            93,
+            103
+          ],
+          "name": "Joyce Beatty",
+          "id": 1531521632,
+          "screen_name": "RepBeatty"
+        },
+        {
+          "id_str": "912608010",
+          "indices": [
+            104,
+            114
+          ],
+          "name": "Rep. Pat Tiberi",
+          "id": 912608010,
+          "screen_name": "PatTiberi"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "text": "Central #Ohio delegation is talking #exports #jobs today @FisherOSU @MidMarketCenter Summit. @RepBeatty @PatTiberi http://t.co/O9bNhF5CcE",
+    "lang": "en",
+    "created_at": "2015-08-06 14:31:00+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628531547239514112",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "385385772",
+          "indices": [
+            34,
+            50
+          ],
+          "name": "Middle Market Center",
+          "id": 385385772,
+          "screen_name": "MidMarketCenter"
+        },
+        {
+          "id_str": "57655127",
+          "indices": [
+            58,
+            68
+          ],
+          "name": "FisherOSU",
+          "id": 57655127,
+          "screen_name": "FisherOSU"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/f6NRofsCqj",
+          "indices": [
+            123,
+            145
+          ],
+          "display_url": "bit.ly/1IPdYOm",
+          "expanded_url": "http://bit.ly/1IPdYOm"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628531547239514112,
+    "text": "I'm talking exports &amp; jobs at @MidMarketCenter \n&amp; @FisherOSU 's Middle Market Export Summit on Aug 6. To register: http://t.co/f6NRofsCqj",
+    "lang": "en",
+    "created_at": "2015-08-04 11:42:53+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628261329879613441,
+      "id_str": "628261329879613441",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "211420609",
+            "indices": [
+              27,
+              43
+            ],
+            "name": "Steve Stivers",
+            "id": 211420609,
+            "screen_name": "RepSteveStivers"
+          },
+          {
+            "id_str": "28523418",
+            "indices": [
+              44,
+              59
+            ],
+            "name": "TheRiversideCompany",
+            "id": 28523418,
+            "screen_name": "TheRiversideCo"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "PrivateEquity",
+            "indices": [
+              107,
+              121
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "335360731",
+        "id": 335360731
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Looking forward to hosting @RepSteveStivers @TheRiversideCo portfolio company ARCOS today in Columbus, OH. #PrivateEquity",
+      "lang": "en",
+      "created_at": "Mon Aug 03 17:49:08 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628283811332247553",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "335360731",
+          "indices": [
+            3,
+            15
+          ],
+          "name": "PEGCCouncil",
+          "id": 335360731,
+          "screen_name": "PEGCCouncil"
+        },
+        {
+          "id_str": "211420609",
+          "indices": [
+            44,
+            60
+          ],
+          "name": "Steve Stivers",
+          "id": 211420609,
+          "screen_name": "RepSteveStivers"
+        },
+        {
+          "id_str": "28523418",
+          "indices": [
+            61,
+            76
+          ],
+          "name": "TheRiversideCompany",
+          "id": 28523418,
+          "screen_name": "TheRiversideCo"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PrivateEquity",
+          "indices": [
+            124,
+            138
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628283811332247553,
+    "text": "RT @PEGCCouncil: Looking forward to hosting @RepSteveStivers @TheRiversideCo portfolio company ARCOS today in Columbus, OH. #PrivateEquity",
+    "lang": "en",
+    "created_at": "2015-08-03 19:18:28+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628279145223614464,
+    "id_str": "628279145223614464",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1531521632",
+          "indices": [
+            58,
+            68
+          ],
+          "name": "Joyce Beatty",
+          "id": 1531521632,
+          "screen_name": "RepBeatty"
+        },
+        {
+          "id_str": "912608010",
+          "indices": [
+            75,
+            85
+          ],
+          "name": "Rep. Pat Tiberi",
+          "id": 912608010,
+          "screen_name": "PatTiberi"
+        },
+        {
+          "id_str": "19916680",
+          "indices": [
+            94,
+            109
+          ],
+          "name": "Children's Hospital",
+          "id": 19916680,
+          "screen_name": "nationwidekids"
+        },
+        {
+          "id_str": "2308863146",
+          "indices": [
+            116,
+            129
+          ],
+          "name": "CelebrateOne",
+          "id": 2308863146,
+          "screen_name": "CelebrateOne"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "infantmortality",
+          "indices": [
+            25,
+            41
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Learned a lot at today's #infantmortality roundtable with @RepBeatty &amp; @PatTiberi  Thanks @nationwidekids &amp; @CelebrateOne for coordinating!",
+    "lang": "en",
+    "created_at": "2015-08-03 18:59:55+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/KdNovBu3rF",
+          "media_url": "http://pbs.twimg.com/media/CLWjlYgUsAAEiqw.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWjlYgUsAAEiqw.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/627587712548241408/photo/1",
+          "id_str": "627587585716563968",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/KdNovBu3rF",
+          "id": 627587585716563968
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627587712548241408,
+    "id_str": "627587712548241408",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/KdNovBu3rF",
+          "media_url": "http://pbs.twimg.com/media/CLWjlYgUsAAEiqw.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWjlYgUsAAEiqw.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/627587712548241408/photo/1",
+          "id_str": "627587585716563968",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/KdNovBu3rF",
+          "id": 627587585716563968
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "96831824",
+          "indices": [
+            22,
+            38
+          ],
+          "name": "Ohio National Guard",
+          "id": 96831824,
+          "screen_name": "OHNationalGuard"
+        },
+        {
+          "id_str": "107429985",
+          "indices": [
+            80,
+            89
+          ],
+          "name": "OH Dpt Veterans Svcs",
+          "id": 107429985,
+          "screen_name": "OhioVets"
+        },
+        {
+          "id_str": "599445337",
+          "indices": [
+            93,
+            108
+          ],
+          "name": "Gary Scherer",
+          "id": 599445337,
+          "screen_name": "RepGaryScherer"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "text": "Proud to support the \n@OHNationalGuard 811th EN Co\nFamily Readiness Group &amp; @OhioVets at @RepGaryScherer farm today. http://t.co/KdNovBu3rF",
+    "lang": "en",
+    "created_at": "2015-08-01 21:12:25+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "627240141745205248",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "161329769",
+          "indices": [
+            87,
+            95
+          ],
+          "name": "USACE HQ",
+          "id": 161329769,
+          "screen_name": "USACEHQ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "BuckeyeLake",
+          "indices": [
+            35,
+            47
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/GfMM5BaUfF",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "1.usa.gov/1DggEly",
+          "expanded_url": "http://1.usa.gov/1DggEly"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 627240141745205248,
+    "text": "Timeline's looking even better for #BuckeyeLake dam repairs with today\u2019s approval from @USACEHQ http://t.co/GfMM5BaUfF",
+    "lang": "en",
+    "created_at": "2015-07-31 22:11:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "627175727994114048",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/NpZR5ZNKPI",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "1.usa.gov/1ON5LsW",
+          "expanded_url": "http://1.usa.gov/1ON5LsW"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 627175727994114048,
+    "text": "Read my column about why I am working to pass legislation to establish a service dog training pilot program at the VA http://t.co/NpZR5ZNKPI",
+    "lang": "en",
+    "created_at": "2015-07-31 17:55:20+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627174931596472320,
+    "id_str": "627174931596472320",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "33600887",
+          "indices": [
+            103,
+            107
+          ],
+          "name": "#WWP",
+          "id": 33600887,
+          "screen_name": "wwp"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "veterans",
+          "indices": [
+            33,
+            42
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We can express our thanks to our #veterans by ensuring they get the care they need when they come home @wwp",
+    "lang": "en",
+    "created_at": "2015-07-31 17:52:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626871392529711105",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "107172099",
+          "indices": [
+            39,
+            49
+          ],
+          "name": "NASA Glenn Research",
+          "id": 107172099,
+          "screen_name": "NASAglenn"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/oesXFH2uW0",
+          "indices": [
+            119,
+            141
+          ],
+          "display_url": "1.usa.gov/1SPrNfd",
+          "expanded_url": "http://1.usa.gov/1SPrNfd"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626871392529711105,
+    "text": "Southeast Ohio is home to cutting edge @NASAglenn research &amp; jobs and we want to keep it that way. Read more here: http://t.co/oesXFH2uW0",
+    "lang": "en",
+    "created_at": "2015-07-30 21:46:01+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626769417158938624",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14662354",
+          "indices": [
+            22,
+            32
+          ],
+          "name": "The Washington Times",
+          "id": 14662354,
+          "screen_name": "WashTimes"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/HQJof8H9YM",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "bit.ly/1fLaK1c",
+          "expanded_url": "http://bit.ly/1fLaK1c"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626769417158938624,
+    "text": "Check out my op ed in @WashTimes about bringing some more Main Street common sense to government regulation: http://t.co/HQJof8H9YM",
+    "lang": "en",
+    "created_at": "2015-07-30 15:00:48+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Ly9qqQSnkM",
+          "media_url": "http://pbs.twimg.com/media/CLGWDR7VEAAfbfU.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGWDR7VEAAfbfU.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/626446807393021957/photo/1",
+          "id_str": "626446806277230592",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Ly9qqQSnkM",
+          "id": 626446806277230592
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626446807393021957,
+    "id_str": "626446807393021957",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/Ly9qqQSnkM",
+          "media_url": "http://pbs.twimg.com/media/CLGWDR7VEAAfbfU.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGWDR7VEAAfbfU.jpg",
+          "expanded_url": "http://twitter.com/RepSteveStivers/status/626446807393021957/photo/1",
+          "id_str": "626446806277230592",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Ly9qqQSnkM",
+          "id": 626446806277230592
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "jobcreation",
+          "indices": [
+            105,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "63787812",
+          "indices": [
+            17,
+            25
+          ],
+          "name": "NRFnews",
+          "id": 63787812,
+          "screen_name": "NRFnews"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "text": "Proud to receive @NRFnews Hero of Mail Street Award. Will keep working so the retail industry can foster #jobcreation http://t.co/Ly9qqQSnkM",
+    "lang": "en",
+    "created_at": "2015-07-29 17:38:52+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626127127729967104,
+    "id_str": "626127127729967104",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            4,
+            13
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The #REINSAct will ensure no major regulation will go into effect until Congress approves it, providing accountability to federal agencies",
+    "lang": "en",
+    "created_at": "2015-07-28 20:28:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626125832839413760,
+    "id_str": "626125832839413760",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            92,
+            101
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "This week, the House is voting to curb these regulations and lift the burden on our economy #REINSAct",
+    "lang": "en",
+    "created_at": "2015-07-28 20:23:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 17,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626125114866860032,
+    "id_str": "626125114866860032",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "businesses",
+          "indices": [
+            76,
+            87
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            89,
+            94
+          ]
+        },
+        {
+          "text": "families",
+          "indices": [
+            100,
+            109
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Overreaching government regulations have put incredible burdens on American #businesses, #jobs, and #families",
+    "lang": "en",
+    "created_at": "2015-07-28 20:20:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626002628514705408",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2730222072",
+          "indices": [
+            8,
+            22
+          ],
+          "name": "The Hill Events",
+          "id": 2730222072,
+          "screen_name": "TheHillEvents"
+        },
+        {
+          "id_str": "2953974395",
+          "indices": [
+            80,
+            94
+          ],
+          "name": "French Hill",
+          "id": 2953974395,
+          "screen_name": "RepFrenchHill"
+        },
+        {
+          "id_str": "15570213",
+          "indices": [
+            101,
+            112
+          ],
+          "name": "Kevin Cirilli",
+          "id": 15570213,
+          "screen_name": "kevcirilli"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "InsuranceRegsReform",
+          "indices": [
+            121,
+            141
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/L4tFfdK3AN",
+          "indices": [
+            45,
+            67
+          ],
+          "display_url": "bit.ly/1fAQjE8",
+          "expanded_url": "http://bit.ly/1fAQjE8"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626002628514705408,
+    "text": "Tune in @TheHillEvents this morning at 8:30: http://t.co/L4tFfdK3AN I'm joining @RepFrenchHill &amp; @kevcirilli to talk #InsuranceRegsReform",
+    "lang": "en",
+    "created_at": "2015-07-28 12:13:51+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "625697712047038464",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "211420609",
+            "indices": [
+              1,
+              17
+            ],
+            "name": "Steve Stivers",
+            "id": 211420609,
+            "screen_name": "RepSteveStivers"
+          },
+          {
+            "id_str": "2953974395",
+            "indices": [
+              24,
+              38
+            ],
+            "name": "French Hill",
+            "id": 2953974395,
+            "screen_name": "RepFrenchHill"
+          },
+          {
+            "id_str": "15570213",
+            "indices": [
+              72,
+              83
+            ],
+            "name": "Kevin Cirilli",
+            "id": 15570213,
+            "screen_name": "kevcirilli"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "InsuranceRegsForum",
+            "indices": [
+              107,
+              126
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/yXiEQTCUXN",
+            "indices": [
+              84,
+              106
+            ],
+            "display_url": "ow.ly/PXenp",
+            "expanded_url": "http://ow.ly/PXenp"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2730222072",
+        "id": 2730222072
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 625697712047038464,
+      "text": ".@RepSteveStivers &amp; @RepFrenchHill talk future of insurance regs w. @kevcirilli http://t.co/yXiEQTCUXN #InsuranceRegsForum",
+      "lang": "en",
+      "created_at": "Mon Jul 27 16:02:14 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "625767997668499456",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2730222072",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "The Hill Events",
+          "id": 2730222072,
+          "screen_name": "TheHillEvents"
+        },
+        {
+          "id_str": "211420609",
+          "indices": [
+            20,
+            36
+          ],
+          "name": "Steve Stivers",
+          "id": 211420609,
+          "screen_name": "RepSteveStivers"
+        },
+        {
+          "id_str": "2953974395",
+          "indices": [
+            43,
+            57
+          ],
+          "name": "French Hill",
+          "id": 2953974395,
+          "screen_name": "RepFrenchHill"
+        },
+        {
+          "id_str": "15570213",
+          "indices": [
+            91,
+            102
+          ],
+          "name": "Kevin Cirilli",
+          "id": 15570213,
+          "screen_name": "kevcirilli"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "InsuranceRegsForum",
+          "indices": [
+            126,
+            144
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/yXiEQTCUXN",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "ow.ly/PXenp",
+          "expanded_url": "http://ow.ly/PXenp"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 625767997668499456,
+    "text": "RT @TheHillEvents: .@RepSteveStivers &amp; @RepFrenchHill talk future of insurance regs w. @kevcirilli http://t.co/yXiEQTCUXN #InsuranceRegsFor\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 20:41:31+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "14412533",
+    "id": 624642752068874240,
+    "id_str": "624642752068874240",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14412533",
+          "indices": [
+            0,
+            7
+          ],
+          "name": "Chris Cillizza",
+          "id": 14412533,
+          "screen_name": "TheFix"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211420609",
+      "screen_name": "repstevestivers",
+      "id": 211420609
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 14412533,
+    "in_reply_to_screen_name": "TheFix",
+    "retweeted": false,
+    "text": "@TheFix Wishing you speedy recovery.",
+    "lang": "en",
+    "created_at": "2015-07-24 18:10:12+00:00"
+  }
+]

@@ -1,0 +1,2174 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629734945792126976,
+    "id_str": "629734945792126976",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Fair",
+          "indices": [
+            112,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/fG3uBzZA66",
+          "media_url": "http://pbs.twimg.com/media/CL1EmK8WIAAcN_V.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1EmK8WIAAcN_V.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/629734945792126976/photo/1",
+          "id_str": "629734945464918016",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/fG3uBzZA66",
+          "id": 629734945464918016
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Indiana State Fair",
+          "indices": [
+            9,
+            23
+          ],
+          "id_str": "44609264",
+          "id": 44609264,
+          "screen_name": "IndyStateFair"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/fG3uBzZA66",
+          "media_url": "http://pbs.twimg.com/media/CL1EmK8WIAAcN_V.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1EmK8WIAAcN_V.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/629734945792126976/photo/1",
+          "id_str": "629734945464918016",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/fG3uBzZA66",
+          "id": 629734945464918016
+        }
+      ]
+    },
+    "text": "It's the @IndyStateFair opening day! Very proud of of all the Hoosiers involved. Enjoy the rides, food and fun! #Fair http://t.co/fG3uBzZA66",
+    "lang": "en",
+    "created_at": "2015-08-07 19:24:45+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629035113926500352,
+    "id_str": "629035113926500352",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 57,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 59,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628932916312178688,
+      "id_str": "628932916312178688",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "celebrateIND",
+            "indices": [
+              107,
+              120
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/1y7HkyAXS5",
+            "media_url": "http://pbs.twimg.com/media/CLprJXmVEAMEkz0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLprJXmVEAMEkz0.jpg",
+            "expanded_url": "http://twitter.com/INDairport/status/628932916312178688/photo/1",
+            "id_str": "628932906669379587",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 368
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 650
+              },
+              "large": {
+                "w": 944,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/1y7HkyAXS5",
+            "id": 628932906669379587
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "58886669",
+        "id": 58886669
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/1y7HkyAXS5",
+            "media_url": "http://pbs.twimg.com/media/CLprJXmVEAMEkz0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLprJXmVEAMEkz0.jpg",
+            "expanded_url": "http://twitter.com/INDairport/status/628932916312178688/photo/1",
+            "id_str": "628932906669379587",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 368
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 650
+              },
+              "large": {
+                "w": 944,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/1y7HkyAXS5",
+            "id": 628932906669379587
+          }
+        ]
+      },
+      "text": "We're honored to receive Best Airport in North America again &amp; be inducted into the Roll of Excellence #celebrateIND http://t.co/1y7HkyAXS5",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:17:46 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/eB762Onb85",
+          "indices": [
+            93,
+            116
+          ],
+          "display_url": "twitter.com/INDairport/sta\u2026",
+          "expanded_url": "https://twitter.com/INDairport/status/628932916312178688"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CelebrateIND",
+          "indices": [
+            79,
+            92
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Indianapolis Airport",
+          "indices": [
+            16,
+            27
+          ],
+          "id_str": "58886669",
+          "id": 58886669,
+          "screen_name": "INDairport"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628932916312178688",
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 21:03:52+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to the @INDairport for being named the Best Airport in North America! #CelebrateIND https://t.co/eB762Onb85",
+    "lang": "en",
+    "quoted_status_id": 628932916312178688
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628965017275252737,
+      "id_str": "628965017275252737",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/E75lDoiyDa",
+            "indices": [
+              101,
+              123
+            ],
+            "display_url": "1.usa.gov/1MMTypZ",
+            "expanded_url": "http://1.usa.gov/1MMTypZ"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RecordOfSuccess",
+            "indices": [
+              77,
+              93
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Fred Upton",
+            "indices": [
+              19,
+              32
+            ],
+            "id_str": "124224165",
+            "id": 124224165,
+            "screen_name": "RepFredUpton"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "114756202",
+        "id": 114756202
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "BREAKING: Chairman @RepFredUpton releases new report on E&amp;C\u2019s impressive #RecordOfSuccess --&gt; http://t.co/E75lDoiyDa",
+      "lang": "en",
+      "created_at": "Wed Aug 05 16:25:20 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628996366375763968,
+    "id_str": "628996366375763968",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E75lDoiyDa",
+          "indices": [
+            120,
+            142
+          ],
+          "display_url": "1.usa.gov/1MMTypZ",
+          "expanded_url": "http://1.usa.gov/1MMTypZ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RecordOfSuccess",
+          "indices": [
+            96,
+            112
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Energy and Commerce",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "114756202",
+          "id": 114756202,
+          "screen_name": "HouseCommerce"
+        },
+        {
+          "name": "Fred Upton",
+          "indices": [
+            38,
+            51
+          ],
+          "id_str": "124224165",
+          "id": 124224165,
+          "screen_name": "RepFredUpton"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseCommerce: BREAKING: Chairman @RepFredUpton releases new report on E&amp;C\u2019s impressive #RecordOfSuccess --&gt; http://t.co/E75lDoiyDa",
+    "lang": "en",
+    "created_at": "2015-08-05 18:29:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628310032019537921,
+    "id_str": "628310032019537921",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 23,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 44,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627222250928783360,
+      "id_str": "627222250928783360",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "ColtsCamp",
+            "indices": [
+              69,
+              79
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/AUj07JdA1O",
+            "media_url": "http://pbs.twimg.com/media/CLRXUFwUwAA-LG6.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLRXUFwUwAA-LG6.jpg",
+            "expanded_url": "http://twitter.com/Colts/status/627222250928783360/photo/1",
+            "id_str": "627222250765205504",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 187
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 331
+              },
+              "large": {
+                "w": 759,
+                "resize": "fit",
+                "h": 420
+              }
+            },
+            "display_url": "pic.twitter.com/AUj07JdA1O",
+            "id": 627222250765205504
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/ZrUBxV2ia9",
+            "indices": [
+              91,
+              113
+            ],
+            "display_url": "indcolts.co/jihjcE",
+            "expanded_url": "http://indcolts.co/jihjcE"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "180884045",
+        "id": 180884045
+      },
+      "favorited": false,
+      "source": "<a href=\"http://adobe.com\" rel=\"nofollow\">Adobe\u00ae Social</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/AUj07JdA1O",
+            "media_url": "http://pbs.twimg.com/media/CLRXUFwUwAA-LG6.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLRXUFwUwAA-LG6.jpg",
+            "expanded_url": "http://twitter.com/Colts/status/627222250928783360/photo/1",
+            "id_str": "627222250765205504",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 187
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 331
+              },
+              "large": {
+                "w": 759,
+                "resize": "fit",
+                "h": 420
+              }
+            },
+            "display_url": "pic.twitter.com/AUj07JdA1O",
+            "id": 627222250765205504
+          }
+        ]
+      },
+      "text": "Here's everything you need to know if you plan to visit Anderson for #ColtsCamp.\n\nDETAILS: http://t.co/ZrUBxV2ia9 http://t.co/AUj07JdA1O",
+      "lang": "en",
+      "created_at": "Fri Jul 31 21:00:12 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/0BWxTrD53v",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "twitter.com/colts/status/6\u2026",
+          "expanded_url": "https://twitter.com/colts/status/627222250928783360"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IN05",
+          "indices": [
+            114,
+            119
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Indianapolis Colts",
+          "indices": [
+            24,
+            30
+          ],
+          "id_str": "180884045",
+          "id": 180884045,
+          "screen_name": "Colts"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "627222250928783360",
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "created_at": "2015-08-03 21:02:39+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "So great to welcome the @Colts back to Anderson for Training Camp! Training Camp is open &amp; free to the public #IN05  https://t.co/0BWxTrD53v",
+    "lang": "en",
+    "quoted_status_id": 627222250928783360
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625733674600951808,
+    "id_str": "625733674600951808",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625732809831878656,
+      "id_str": "625732809831878656",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "DigitalChallenge",
+            "indices": [
+              61,
+              78
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House GOP Women",
+            "indices": [
+              19,
+              29
+            ],
+            "id_str": "1322558402",
+            "id": 1322558402,
+            "screen_name": "LadiesGOP"
+          },
+          {
+            "name": "Susan W. Brooks ",
+            "indices": [
+              94,
+              107
+            ],
+            "id_str": "1074101017",
+            "id": 1074101017,
+            "screen_name": "SusanWBrooks"
+          },
+          {
+            "name": "Elise Stefanik",
+            "indices": [
+              108,
+              122
+            ],
+            "id_str": "109579534",
+            "id": 109579534,
+            "screen_name": "EliseStefanik"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1322558402",
+        "id": 1322558402
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Still time to help @LadiesGOP members in final round of 2015 #DigitalChallenge on Instagram - @SusanWBrooks @EliseStefanik @Rep_MimiWalters",
+      "lang": "en",
+      "created_at": "Mon Jul 27 18:21:42 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/2aocosoR09",
+          "indices": [
+            24,
+            47
+          ],
+          "display_url": "instagram.com/susanwbrooks/",
+          "expanded_url": "https://instagram.com/susanwbrooks/"
+        },
+        {
+          "url": "https://t.co/SlYpGvtYqV",
+          "indices": [
+            49,
+            72
+          ],
+          "display_url": "twitter.com/ladiesgop/stat\u2026",
+          "expanded_url": "https://twitter.com/ladiesgop/status/625732809831878656"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "625732809831878656",
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "created_at": "2015-07-27 18:25:08+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Follow me on Instagram: https://t.co/2aocosoR09  https://t.co/SlYpGvtYqV",
+    "lang": "en",
+    "quoted_status_id": 625732809831878656
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625452113808728064,
+    "id_str": "625452113808728064",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Instagram",
+          "indices": [
+            7,
+            17
+          ]
+        },
+        {
+          "text": "IN05",
+          "indices": [
+            100,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Etusa5u8vm",
+          "media_url": "http://pbs.twimg.com/media/CK4NXXEWsAAT83z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK4NXXEWsAAT83z.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/625452113808728064/photo/1",
+          "id_str": "625452093231509504",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "display_url": "pic.twitter.com/Etusa5u8vm",
+          "id": 625452093231509504
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Etusa5u8vm",
+          "media_url": "http://pbs.twimg.com/media/CK4NXXEWsAAT83z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK4NXXEWsAAT83z.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/625452113808728064/photo/1",
+          "id_str": "625452093231509504",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "display_url": "pic.twitter.com/Etusa5u8vm",
+          "id": 625452093231509504
+        }
+      ]
+    },
+    "text": "I'm on #Instagram! Follow me to see snapshots of what I do daily to serve Indiana's Fifth District. #IN05 http://t.co/Etusa5u8vm",
+    "lang": "en",
+    "created_at": "2015-07-26 23:46:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625439175265927168,
+    "id_str": "625439175265927168",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 46,
+      "favorite_count": 58,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625438194507513856,
+      "id_str": "625438194507513856",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "Brickyard400",
+            "indices": [
+              85,
+              98
+            ]
+          },
+          {
+            "text": "JeffKyle400",
+            "indices": [
+              99,
+              111
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Kyle Busch",
+            "indices": [
+              1,
+              11
+            ],
+            "id_str": "31442061",
+            "id": 31442061,
+            "screen_name": "KyleBusch"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18156714",
+        "id": 18156714
+      },
+      "favorited": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@KyleBusch sweeps the weekend at the Brickyard and wins 4/5 of the last cups races! #Brickyard400 #JeffKyle400",
+      "lang": "en",
+      "created_at": "Sun Jul 26 22:51:00 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/6sXwW87pkr",
+          "indices": [
+            38,
+            61
+          ],
+          "display_url": "twitter.com/ims/status/625\u2026",
+          "expanded_url": "https://twitter.com/ims/status/625438194507513856"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Brickyard400",
+          "indices": [
+            23,
+            36
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "625438194507513856",
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "created_at": "2015-07-26 22:54:54+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "What an exciting race! #Brickyard400  https://t.co/6sXwW87pkr",
+    "lang": "en",
+    "quoted_status_id": 625438194507513856
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624310353439010816,
+    "id_str": "624310353439010816",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NASA",
+          "indices": [
+            11,
+            16
+          ]
+        },
+        {
+          "text": "STEM",
+          "indices": [
+            54,
+            59
+          ]
+        },
+        {
+          "text": "WPISTEMFair",
+          "indices": [
+            93,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/29kMv1oo9A",
+          "media_url": "http://pbs.twimg.com/media/CKn-8ggUkAEY5xg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKn-8ggUkAEY5xg.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/624310353439010816/photo/1",
+          "id_str": "624310338838630401",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/29kMv1oo9A",
+          "id": 624310338838630401
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/29kMv1oo9A",
+          "media_url": "http://pbs.twimg.com/media/CKn-8ggUkAEY5xg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKn-8ggUkAEY5xg.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/624310353439010816/photo/1",
+          "id_str": "624310338838630401",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/29kMv1oo9A",
+          "id": 624310338838630401
+        }
+      ]
+    },
+    "text": "Women from #NASA and across public and private sector #STEM fields gathered yesterday at the #WPISTEMFair http://t.co/29kMv1oo9A",
+    "lang": "en",
+    "created_at": "2015-07-23 20:09:22+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624309665975812096,
+    "id_str": "624309665975812096",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/MRm3oRU7pe",
+          "indices": [
+            98,
+            121
+          ],
+          "display_url": "instagram.com/p/5dFeQkscIt/",
+          "expanded_url": "https://instagram.com/p/5dFeQkscIt/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "STEM",
+          "indices": [
+            62,
+            67
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Research has shown that girls might not be choosing to pursue #STEM fields due to the absence of\u2026 https://t.co/MRm3oRU7pe",
+    "lang": "en",
+    "created_at": "2015-07-23 20:06:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623125903690829824,
+    "id_str": "623125903690829824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/25NQzCU4IZ",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "indy.st/1Ly59r1",
+          "expanded_url": "http://indy.st/1Ly59r1"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Pike High School",
+          "indices": [
+            12,
+            27
+          ],
+          "id_str": "706214220",
+          "id": 706214220,
+          "screen_name": "PikeHighSchool"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to @PikeHighSchool's Lynna Irby on winning a gold medal at the u-17 World Youth Championships this weekend! http://t.co/25NQzCU4IZ",
+    "lang": "en",
+    "created_at": "2015-07-20 13:42:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622134795708067840,
+    "id_str": "622134795708067840",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "GirlScout",
+          "indices": [
+            20,
+            30
+          ]
+        },
+        {
+          "text": "PortraitsInLeadership",
+          "indices": [
+            86,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/YWObvHTdHZ",
+          "media_url": "http://pbs.twimg.com/media/CKJESipUEAAhFEW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKJESipUEAAhFEW.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/622134795708067840/photo/1",
+          "id_str": "622134783858970624",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/YWObvHTdHZ",
+          "id": 622134783858970624
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Girl Scouts",
+          "indices": [
+            74,
+            85
+          ],
+          "id_str": "103018203",
+          "id": 103018203,
+          "screen_name": "girlscouts"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/YWObvHTdHZ",
+          "media_url": "http://pbs.twimg.com/media/CKJESipUEAAhFEW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKJESipUEAAhFEW.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/622134795708067840/photo/1",
+          "id_str": "622134783858970624",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/YWObvHTdHZ",
+          "id": 622134783858970624
+        }
+      ]
+    },
+    "text": "Sat down w/ Sara, a #GirlScout Gold Award recipient, to tell my story for @girlscouts #PortraitsInLeadership project. http://t.co/YWObvHTdHZ",
+    "lang": "en",
+    "created_at": "2015-07-17 20:04:28+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621051588619190272,
+      "id_str": "621051588619190272",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "Iran",
+            "indices": [
+              32,
+              37
+            ]
+          },
+          {
+            "text": "terror",
+            "indices": [
+              69,
+              76
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Susan W. Brooks ",
+            "indices": [
+              115,
+              128
+            ],
+            "id_str": "1074101017",
+            "id": 1074101017,
+            "screen_name": "SusanWBrooks"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1322558402",
+        "id": 1322558402
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "$150 billon infusion of cash to #Iran in sanctions relief would fund #terror, no deal is better than a bad deal -- @SusanWBrooks",
+      "lang": "en",
+      "created_at": "Tue Jul 14 20:20:11 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621053624005840900,
+    "id_str": "621053624005840900",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            47,
+            52
+          ]
+        },
+        {
+          "text": "terror",
+          "indices": [
+            84,
+            91
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House GOP Women",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "1322558402",
+          "id": 1322558402,
+          "screen_name": "LadiesGOP"
+        },
+        {
+          "name": "Susan W. Brooks ",
+          "indices": [
+            130,
+            140
+          ],
+          "id_str": "1074101017",
+          "id": 1074101017,
+          "screen_name": "SusanWBrooks"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LadiesGOP: $150 billon infusion of cash to #Iran in sanctions relief would fund #terror, no deal is better than a bad deal -- @SusanWBr\u2026",
+    "lang": "en",
+    "created_at": "2015-07-14 20:28:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620720890402242561,
+    "id_str": "620720890402242561",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/i8hX1MkIKH",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "instagram.com/p/5F4IvkMcEQ/",
+          "expanded_url": "https://instagram.com/p/5F4IvkMcEQ/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Just learned our interns starred in a school play together! See this fun snapshot of them onstage and in the office https://t.co/i8hX1MkIKH",
+    "lang": "en",
+    "created_at": "2015-07-13 22:26:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 35,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 26,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619531409628209152,
+    "id_str": "619531409628209152",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Cures2015",
+          "indices": [
+            23,
+            33
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/9RkRUSA4po",
+          "media_url": "http://pbs.twimg.com/media/CJkEiLRWcAExGOz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJkEiLRWcAExGOz.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/619531409628209152/photo/1",
+          "id_str": "619531408927780865",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/9RkRUSA4po",
+          "id": 619531408927780865
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Energy and Commerce",
+          "indices": [
+            39,
+            53
+          ],
+          "id_str": "114756202",
+          "id": 114756202,
+          "screen_name": "HouseCommerce"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/9RkRUSA4po",
+          "media_url": "http://pbs.twimg.com/media/CJkEiLRWcAExGOz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJkEiLRWcAExGOz.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/619531409628209152/photo/1",
+          "id_str": "619531408927780865",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/9RkRUSA4po",
+          "id": 619531408927780865
+        }
+      ]
+    },
+    "text": "Celebrating passage of #Cures2015 with @HouseCommerce colleagues. Big win for patients across the nation! http://t.co/9RkRUSA4po",
+    "lang": "en",
+    "created_at": "2015-07-10 15:39:33+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619495377637634048,
+    "id_str": "619495377637634048",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WXKl5yQVFO",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "tiny.cc/22of0x",
+          "expanded_url": "http://tiny.cc/22of0x"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Cures2015",
+          "indices": [
+            11,
+            21
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Supporting #Cures2015 in honor of a dear friend who passed away on Sunday and those we hope to save in the future. http://t.co/WXKl5yQVFO",
+    "lang": "en",
+    "created_at": "2015-07-10 13:16:22+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619276170337624064,
+      "id_str": "619276170337624064",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "Cures2015",
+            "indices": [
+              64,
+              74
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Susan W. Brooks ",
+            "indices": [
+              2,
+              15
+            ],
+            "id_str": "1074101017",
+            "id": 1074101017,
+            "screen_name": "SusanWBrooks"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2469604452",
+        "id": 2469604452
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ". @SusanWBrooks: HR 6 will change lives and it will save lives. #Cures2015",
+      "lang": "en",
+      "created_at": "Thu Jul 09 22:45:19 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619277012105043969,
+    "id_str": "619277012105043969",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Cures2015",
+          "indices": [
+            77,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "EnergyCommerceCures",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "2469604452",
+          "id": 2469604452,
+          "screen_name": "ECcures"
+        },
+        {
+          "name": "Susan W. Brooks ",
+          "indices": [
+            15,
+            28
+          ],
+          "id_str": "1074101017",
+          "id": 1074101017,
+          "screen_name": "SusanWBrooks"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ECcures: . @SusanWBrooks: HR 6 will change lives and it will save lives. #Cures2015",
+    "lang": "en",
+    "created_at": "2015-07-09 22:48:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619261666258231296,
+    "id_str": "619261666258231296",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/99PJvOwdVT",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "c-span.org",
+          "expanded_url": "http://c-span.org"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Cures2015",
+          "indices": [
+            49,
+            59
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Headed to the house floor to speak in support of #Cures2015 early this evening. Watch live on http://t.co/99PJvOwdVT.",
+    "lang": "en",
+    "created_at": "2015-07-09 21:47:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619226673586786305,
+    "id_str": "619226673586786305",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/urKg3W96j8",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "tinyurl.com/o9ayoys",
+          "expanded_url": "http://tinyurl.com/o9ayoys"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Janice Hahn",
+          "indices": [
+            6,
+            21
+          ],
+          "id_str": "339852137",
+          "id": 339852137,
+          "screen_name": "Rep_JaniceHahn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today @Rep_JaniceHahn and I introduced a bill to award the WWII Merchant Marine with the Congressional Gold Medal: http://t.co/urKg3W96j8",
+    "lang": "en",
+    "created_at": "2015-07-09 19:28:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619153710019702785,
+    "id_str": "619153710019702785",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1sJmDc4BSl",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "tiny.cc/mw9d0x",
+          "expanded_url": "http://tiny.cc/mw9d0x"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Cures2015",
+          "indices": [
+            30,
+            40
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Here's 6 things to know about #Cures2015. So excited about this transformative effort to improve and save lives. http://t.co/1sJmDc4BSl",
+    "lang": "en",
+    "created_at": "2015-07-09 14:38:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 17,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 618915280660639744,
+    "id_str": "618915280660639744",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "2015NLC",
+          "indices": [
+            108,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/znShmnLeZg",
+          "media_url": "http://pbs.twimg.com/media/CJbUKeaW8AA63XN.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJbUKeaW8AA63XN.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/618915280660639744/photo/1",
+          "id_str": "618915275237421056",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/znShmnLeZg",
+          "id": 618915275237421056
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "National FCCLA",
+          "indices": [
+            92,
+            106
+          ],
+          "id_str": "56097977",
+          "id": 56097977,
+          "screen_name": "NationalFCCLA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1074101017",
+      "screen_name": "susanwbrooks",
+      "id": 1074101017
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/znShmnLeZg",
+          "media_url": "http://pbs.twimg.com/media/CJbUKeaW8AA63XN.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJbUKeaW8AA63XN.jpg",
+          "expanded_url": "http://twitter.com/SusanWBrooks/status/618915280660639744/photo/1",
+          "id_str": "618915275237421056",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/znShmnLeZg",
+          "id": 618915275237421056
+        }
+      ]
+    },
+    "text": "I had a great time meeting with these bright students from Carmel High School involved with @NationalFCCLA! #2015NLC http://t.co/znShmnLeZg",
+    "lang": "en",
+    "created_at": "2015-07-08 22:51:16+00:00",
+    "retweeted": false
+  }
+]

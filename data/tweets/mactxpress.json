@@ -1,0 +1,2795 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kAafJXhy7w",
+          "media_url": "http://pbs.twimg.com/media/CL0XMaUWIAA9CB5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XMaUWIAA9CB5.jpg",
+          "expanded_url": "http://twitter.com/MacTXPress/status/629685029229195264/photo/1",
+          "id_str": "629685024892264448",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 683
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kAafJXhy7w",
+          "id": 629685024892264448
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629685029229195264,
+    "id_str": "629685029229195264",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/kAafJXhy7w",
+          "media_url": "http://pbs.twimg.com/media/CL0XMaUWIAA9CB5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XMaUWIAA9CB5.jpg",
+          "expanded_url": "http://twitter.com/MacTXPress/status/629685029229195264/photo/1",
+          "id_str": "629685024892264448",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 683
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kAafJXhy7w",
+          "id": 629685024892264448
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "51100795",
+          "indices": [
+            13,
+            26
+          ],
+          "name": "Xcel Energy Texas",
+          "id": 51100795,
+          "screen_name": "XcelEnergyTX"
+        },
+        {
+          "id_str": "36953109",
+          "indices": [
+            86,
+            102
+          ],
+          "name": "EEI",
+          "id": 36953109,
+          "screen_name": "Edison_Electric"
+        },
+        {
+          "id_str": "107132070",
+          "indices": [
+            103,
+            114
+          ],
+          "name": "Xcel Energy",
+          "id": 107132070,
+          "screen_name": "xcelenergy"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "text": "Thank you to @XcelEnergyTX line workers  in Amarillo for speaking with Mac yesterday. @Edison_Electric @xcelenergy http://t.co/kAafJXhy7w",
+    "lang": "en",
+    "created_at": "2015-08-07 16:06:24+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628715117421576192,
+      "id_str": "628715117421576192",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              63,
+              74
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          },
+          {
+            "id_str": "1205297323",
+            "indices": [
+              122,
+              138
+            ],
+            "name": "Times Record News",
+            "id": 1205297323,
+            "screen_name": "timesrecordnews"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "manufacturer",
+            "indices": [
+              31,
+              44
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "317869049",
+        "id": 317869049
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Crazy busy day. 3 stories: new #manufacturer, global topics w/ @MacTXPress and land dispute. Also a column about phobias. @timesrecordnews",
+      "lang": "en",
+      "created_at": "Tue Aug 04 23:52:19 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628738125158871040",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "317869049",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "John_Ingle",
+          "id": 317869049,
+          "screen_name": "inglejohn1973"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            82,
+            93
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        },
+        {
+          "id_str": "1205297323",
+          "indices": [
+            139,
+            140
+          ],
+          "name": "Times Record News",
+          "id": 1205297323,
+          "screen_name": "timesrecordnews"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "manufacturer",
+          "indices": [
+            50,
+            63
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628738125158871040,
+    "text": "RT @inglejohn1973: Crazy busy day. 3 stories: new #manufacturer, global topics w/ @MacTXPress and land dispute. Also a column about phobias\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 01:23:45+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626380713353441280,
+      "id_str": "626380713353441280",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              10,
+              21
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          },
+          {
+            "id_str": "1367531",
+            "indices": [
+              25,
+              33
+            ],
+            "name": "Fox News",
+            "id": 1367531,
+            "screen_name": "FoxNews"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              42,
+              51
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20192403",
+        "id": 20192403
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Live Now: @MacTXPress on @FoxNews takling #IranDeal ahead of Full Committee hearing at 10 AM EST",
+      "lang": "en",
+      "created_at": "Wed Jul 29 13:16:14 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626380881729560576",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            31,
+            42
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        },
+        {
+          "id_str": "1367531",
+          "indices": [
+            46,
+            54
+          ],
+          "name": "Fox News",
+          "id": 1367531,
+          "screen_name": "FoxNews"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            63,
+            72
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626380881729560576,
+    "text": "RT @HASCRepublicans: Live Now: @MacTXPress on @FoxNews takling #IranDeal ahead of Full Committee hearing at 10 AM EST",
+    "lang": "en",
+    "created_at": "2015-07-29 13:16:54+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/GPwqoeOxmw",
+            "media_url": "http://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+            "expanded_url": "http://twitter.com/HASCRepublicans/status/626079614922788864/photo/1",
+            "id_str": "626079614507597824",
+            "indices": [
+              55,
+              77
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/GPwqoeOxmw",
+            "id": 626079614507597824
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 626079614922788864,
+      "id_str": "626079614922788864",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/GPwqoeOxmw",
+            "media_url": "http://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+            "expanded_url": "http://twitter.com/HASCRepublicans/status/626079614922788864/photo/1",
+            "id_str": "626079614507597824",
+            "indices": [
+              55,
+              77
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/GPwqoeOxmw",
+            "id": 626079614507597824
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              45,
+              54
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              9,
+              20
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          },
+          {
+            "id_str": "71294756",
+            "indices": [
+              24,
+              36
+            ],
+            "name": "Wolf Blitzer",
+            "id": 71294756,
+            "screen_name": "wolfblitzer"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "20192403",
+        "id": 20192403
+      },
+      "text": "Live Now @MacTXPress on @wolfblitzer talking #IranDeal http://t.co/GPwqoeOxmw",
+      "lang": "en",
+      "created_at": "Tue Jul 28 17:19:46 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 20192403,
+          "media_url": "http://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+          "source_user_id_str": "20192403",
+          "indices": [
+            76,
+            98
+          ],
+          "display_url": "pic.twitter.com/GPwqoeOxmw",
+          "expanded_url": "http://twitter.com/HASCRepublicans/status/626079614922788864/photo/1",
+          "url": "http://t.co/GPwqoeOxmw",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+          "source_status_id_str": "626079614922788864",
+          "id_str": "626079614507597824",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 626079614507597824,
+          "source_status_id": 626079614922788864
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626079749434163200,
+    "id_str": "626079749434163200",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 20192403,
+          "media_url": "http://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+          "source_user_id_str": "20192403",
+          "indices": [
+            76,
+            98
+          ],
+          "display_url": "pic.twitter.com/GPwqoeOxmw",
+          "expanded_url": "http://twitter.com/HASCRepublicans/status/626079614922788864/photo/1",
+          "url": "http://t.co/GPwqoeOxmw",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBIF5_WwAAnVp_.jpg",
+          "source_status_id_str": "626079614922788864",
+          "id_str": "626079614507597824",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 626079614507597824,
+          "source_status_id": 626079614922788864
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            66,
+            75
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            30,
+            41
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        },
+        {
+          "id_str": "71294756",
+          "indices": [
+            45,
+            57
+          ],
+          "name": "Wolf Blitzer",
+          "id": 71294756,
+          "screen_name": "wolfblitzer"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "text": "RT @HASCRepublicans: Live Now @MacTXPress on @wolfblitzer talking #IranDeal http://t.co/GPwqoeOxmw",
+    "lang": "en",
+    "created_at": "2015-07-28 17:20:18+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622052082950877184,
+      "id_str": "622052082950877184",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              10,
+              21
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          },
+          {
+            "id_str": "312800783",
+            "indices": [
+              46,
+              62
+            ],
+            "name": "America's Newsroom",
+            "id": 312800783,
+            "screen_name": "AmericaNewsroom"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20192403",
+        "id": 20192403
+      },
+      "favorited": false,
+      "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Coming up @MacTXPress sits down with Fox News @AmericaNewsroom to discuss the TN shooting of US Marines.",
+      "lang": "en",
+      "created_at": "Fri Jul 17 14:35:48 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "622052217953079296",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            31,
+            42
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        },
+        {
+          "id_str": "312800783",
+          "indices": [
+            67,
+            83
+          ],
+          "name": "America's Newsroom",
+          "id": 312800783,
+          "screen_name": "AmericaNewsroom"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 622052217953079296,
+    "text": "RT @HASCRepublicans: Coming up @MacTXPress sits down with Fox News @AmericaNewsroom to discuss the TN shooting of US Marines.",
+    "lang": "en",
+    "created_at": "2015-07-17 14:36:20+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "621735721859162112",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "227682918",
+            "indices": [
+              1,
+              4
+            ],
+            "name": "Bloomberg View",
+            "id": 227682918,
+            "screen_name": "BV"
+          },
+          {
+            "id_str": "19394188",
+            "indices": [
+              24,
+              38
+            ],
+            "name": "John McCain",
+            "id": 19394188,
+            "screen_name": "SenJohnMcCain"
+          },
+          {
+            "id_str": "377534571",
+            "indices": [
+              45,
+              56
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "NDAA",
+            "indices": [
+              79,
+              84
+            ]
+          },
+          {
+            "text": "Pentagon",
+            "indices": [
+              105,
+              114
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/IomY2huLjK",
+            "indices": [
+              116,
+              138
+            ],
+            "display_url": "bv.ms/1K9qWDL",
+            "expanded_url": "http://bv.ms/1K9qWDL"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "275572403",
+        "id": 275572403
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 621735721859162112,
+      "text": ".@BV editorial applauds @SenJohnMcCain &amp; @MacTXPress's historic reforms in #NDAA: \"Slimming Down the #Pentagon\" http://t.co/IomY2huLjK",
+      "lang": "en",
+      "created_at": "Thu Jul 16 17:38:42 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621744152083099648",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "275572403",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "SASC Majority",
+          "id": 275572403,
+          "screen_name": "SASCMajority"
+        },
+        {
+          "id_str": "227682918",
+          "indices": [
+            19,
+            22
+          ],
+          "name": "Bloomberg View",
+          "id": 227682918,
+          "screen_name": "BV"
+        },
+        {
+          "id_str": "19394188",
+          "indices": [
+            42,
+            56
+          ],
+          "name": "John McCain",
+          "id": 19394188,
+          "screen_name": "SenJohnMcCain"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            63,
+            74
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NDAA",
+          "indices": [
+            97,
+            102
+          ]
+        },
+        {
+          "text": "Pentagon",
+          "indices": [
+            123,
+            132
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/IomY2huLjK",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "bv.ms/1K9qWDL",
+          "expanded_url": "http://bv.ms/1K9qWDL"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621744152083099648,
+    "text": "RT @SASCMajority: .@BV editorial applauds @SenJohnMcCain &amp; @MacTXPress's historic reforms in #NDAA: \"Slimming Down the #Pentagon\" http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-16 18:12:11+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621738065057349636,
+      "id_str": "621738065057349636",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              78,
+              89
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18857664",
+        "id": 18857664
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Happy birthday to my congressman, House Armed Services Chair Mac Thornberry!  @MacTXPress",
+      "lang": "en",
+      "created_at": "Thu Jul 16 17:48:00 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621744132428578816",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "18857664",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "J. D. Clark",
+          "id": 18857664,
+          "screen_name": "JDClarkTX"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            93,
+            104
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621744132428578816,
+    "text": "RT @JDClarkTX: Happy birthday to my congressman, House Armed Services Chair Mac Thornberry!  @MacTXPress",
+    "lang": "en",
+    "created_at": "2015-07-16 18:12:07+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 18,
+      "favorite_count": 16,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "621743372131303425",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "227682918",
+            "indices": [
+              1,
+              4
+            ],
+            "name": "Bloomberg View",
+            "id": 227682918,
+            "screen_name": "BV"
+          },
+          {
+            "id_str": "377534571",
+            "indices": [
+              18,
+              29
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Pentagon",
+            "indices": [
+              71,
+              80
+            ]
+          },
+          {
+            "text": "NDAA",
+            "indices": [
+              141,
+              146
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/EtCFITbXV6",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "bloombergview.com/articles/2015-\u2026",
+            "expanded_url": "http://www.bloombergview.com/articles/2015-07-16/slimming-down-the-pentagon"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19394188",
+        "id": 19394188
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 621743372131303425,
+      "text": ".@BV editorial on @MacTXPress &amp; I pushing \"radical change\" to make #Pentagon more efficient &amp; save defense $: http://t.co/EtCFITbXV6 #NDAA",
+      "lang": "en",
+      "created_at": "Thu Jul 16 18:09:06 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 18,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621743945349992449",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "19394188",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "John McCain",
+          "id": 19394188,
+          "screen_name": "SenJohnMcCain"
+        },
+        {
+          "id_str": "227682918",
+          "indices": [
+            20,
+            23
+          ],
+          "name": "Bloomberg View",
+          "id": 227682918,
+          "screen_name": "BV"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            37,
+            48
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Pentagon",
+          "indices": [
+            90,
+            99
+          ]
+        },
+        {
+          "text": "NDAA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/EtCFITbXV6",
+          "indices": [
+            147,
+            148
+          ],
+          "display_url": "bloombergview.com/articles/2015-\u2026",
+          "expanded_url": "http://www.bloombergview.com/articles/2015-07-16/slimming-down-the-pentagon"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621743945349992449,
+    "text": "RT @SenJohnMcCain: .@BV editorial on @MacTXPress &amp; I pushing \"radical change\" to make #Pentagon more efficient &amp; save defense $: http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-07-16 18:11:22+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/DRKpVivebn",
+            "media_url": "http://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+            "expanded_url": "http://twitter.com/TexomasHomepage/status/621440342110404608/photo/1",
+            "id_str": "621440341246279681",
+            "indices": [
+              28,
+              50
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 690,
+                "resize": "fit",
+                "h": 460
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/DRKpVivebn",
+            "id": 621440341246279681
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 621440342110404608,
+      "id_str": "621440342110404608",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/DRKpVivebn",
+            "media_url": "http://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+            "expanded_url": "http://twitter.com/TexomasHomepage/status/621440342110404608/photo/1",
+            "id_str": "621440341246279681",
+            "indices": [
+              28,
+              50
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 690,
+                "resize": "fit",
+                "h": 460
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/DRKpVivebn",
+            "id": 621440341246279681
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              15,
+              26
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "41435071",
+        "id": 41435071
+      },
+      "text": "Happy Birthday @MacTXPress! http://t.co/DRKpVivebn",
+      "lang": "en",
+      "created_at": "Wed Jul 15 22:04:58 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 41435071,
+          "media_url": "http://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+          "source_user_id_str": "41435071",
+          "indices": [
+            49,
+            71
+          ],
+          "display_url": "pic.twitter.com/DRKpVivebn",
+          "expanded_url": "http://twitter.com/TexomasHomepage/status/621440342110404608/photo/1",
+          "url": "http://t.co/DRKpVivebn",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+          "source_status_id_str": "621440342110404608",
+          "id_str": "621440341246279681",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 690,
+              "resize": "fit",
+              "h": 460
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 621440341246279681,
+          "source_status_id": 621440342110404608
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621665408274276353,
+    "id_str": "621665408274276353",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 41435071,
+          "media_url": "http://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+          "source_user_id_str": "41435071",
+          "indices": [
+            49,
+            71
+          ],
+          "display_url": "pic.twitter.com/DRKpVivebn",
+          "expanded_url": "http://twitter.com/TexomasHomepage/status/621440342110404608/photo/1",
+          "url": "http://t.co/DRKpVivebn",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ_MsqUVAAEWcag.jpg",
+          "source_status_id_str": "621440342110404608",
+          "id_str": "621440341246279681",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 690,
+              "resize": "fit",
+              "h": 460
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 621440341246279681,
+          "source_status_id": 621440342110404608
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "41435071",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "TexomasHomepage.com",
+          "id": 41435071,
+          "screen_name": "TexomasHomepage"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            36,
+            47
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "text": "RT @TexomasHomepage: Happy Birthday @MacTXPress! http://t.co/DRKpVivebn",
+    "lang": "en",
+    "created_at": "2015-07-16 12:59:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/cRsV2vSCep",
+          "media_url": "http://pbs.twimg.com/media/CJ_LnO-UEAAEncM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ_LnO-UEAAEncM.jpg",
+          "expanded_url": "http://twitter.com/MacTXPress/status/621439149212569600/photo/1",
+          "id_str": "621439148495212544",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1161
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 680
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/cRsV2vSCep",
+          "id": 621439148495212544
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621439149212569600,
+    "id_str": "621439149212569600",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/cRsV2vSCep",
+          "media_url": "http://pbs.twimg.com/media/CJ_LnO-UEAAEncM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ_LnO-UEAAEncM.jpg",
+          "expanded_url": "http://twitter.com/MacTXPress/status/621439149212569600/photo/1",
+          "id_str": "621439148495212544",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1161
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 680
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/cRsV2vSCep",
+          "id": 621439148495212544
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "text": "Happy birthday to the boss! We stole 5 min. of his time today to have cupcakes. He even smiled for a second. http://t.co/cRsV2vSCep",
+    "lang": "en",
+    "created_at": "2015-07-15 22:00:13+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621312726044930048,
+      "id_str": "621312726044930048",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              24,
+              35
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          },
+          {
+            "id_str": "20192403",
+            "indices": [
+              70,
+              86
+            ],
+            "name": "HASC Republicans",
+            "id": 20192403,
+            "screen_name": "HASCRepublicans"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1209417007",
+        "id": 1209417007
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Happy Birthday Chairman @MacTXPress. Thank you for your leadership on @HASCRepublicans.",
+      "lang": "en",
+      "created_at": "Wed Jul 15 13:37:51 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621313508488159233",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1209417007",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "Rep. Steve Scalise",
+          "id": 1209417007,
+          "screen_name": "SteveScalise"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            42,
+            53
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        },
+        {
+          "id_str": "20192403",
+          "indices": [
+            88,
+            104
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621313508488159233,
+    "text": "RT @SteveScalise: Happy Birthday Chairman @MacTXPress. Thank you for your leadership on @HASCRepublicans.",
+    "lang": "en",
+    "created_at": "2015-07-15 13:40:58+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621254302569484288,
+      "id_str": "621254302569484288",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              35,
+              46
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2414942622",
+        "id": 2414942622
+      },
+      "favorited": false,
+      "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Happy birthday Rep. Mac Thornberry @MacTXPress!",
+      "lang": "en",
+      "created_at": "Wed Jul 15 09:45:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621304466428571649",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2414942622",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "Congress Birthdays",
+          "id": 2414942622,
+          "screen_name": "congressbdaybot"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            56,
+            67
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621304466428571649,
+    "text": "RT @congressbdaybot: Happy birthday Rep. Mac Thornberry @MacTXPress!",
+    "lang": "en",
+    "created_at": "2015-07-15 13:05:02+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "621303211991764993",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1080844782",
+    "id": 621304442319712256,
+    "id_str": "621304442319712256",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1080844782",
+          "indices": [
+            8,
+            18
+          ],
+          "name": "Kyrsten Sinema",
+          "id": 1080844782,
+          "screen_name": "RepSinema"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": 621303211991764993,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1080844782,
+    "in_reply_to_screen_name": "RepSinema",
+    "retweeted": false,
+    "text": "Thanks, @RepSinema. We'll pass it along to Mac.",
+    "lang": "en",
+    "created_at": "2015-07-15 13:04:56+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621303211991764993,
+      "id_str": "621303211991764993",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              20,
+              31
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1080844782",
+        "id": 1080844782
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Happy birthday Rep. @MacTXPress",
+      "lang": "en",
+      "created_at": "Wed Jul 15 13:00:03 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621304326196211713",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1080844782",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "Kyrsten Sinema",
+          "id": 1080844782,
+          "screen_name": "RepSinema"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            35,
+            46
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621304326196211713,
+    "text": "RT @RepSinema: Happy birthday Rep. @MacTXPress",
+    "lang": "en",
+    "created_at": "2015-07-15 13:04:29+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "621014242729312256",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              79,
+              90
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              94,
+              103
+            ]
+          },
+          {
+            "text": "HASC",
+            "indices": [
+              104,
+              109
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/TVUQeIYsJ4",
+            "indices": [
+              110,
+              133
+            ],
+            "display_url": "youtu.be/XrV3BpaTdkY",
+            "expanded_url": "https://youtu.be/XrV3BpaTdkY"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20192403",
+        "id": 20192403
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 621014242729312256,
+      "text": "\"Keeping that pressure on, showing some strategic patience is a better option\" @MacTXPress\non #IranDeal #HASC https://t.co/TVUQeIYsJ4",
+      "lang": "en",
+      "created_at": "Tue Jul 14 17:51:48 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621039451356176384",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            100,
+            111
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            115,
+            124
+          ]
+        },
+        {
+          "text": "HASC",
+          "indices": [
+            125,
+            130
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/TVUQeIYsJ4",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "youtu.be/XrV3BpaTdkY",
+          "expanded_url": "https://youtu.be/XrV3BpaTdkY"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621039451356176384,
+    "text": "RT @HASCRepublicans: \"Keeping that pressure on, showing some strategic patience is a better option\" @MacTXPress\non #IranDeal #HASC https://\u2026",
+    "lang": "en",
+    "created_at": "2015-07-14 19:31:58+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "614043788407906304",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              9,
+              20
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "HASC",
+            "indices": [
+              125,
+              130
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/mjXhtIlb3r",
+            "indices": [
+              102,
+              124
+            ],
+            "display_url": "armedservices.house.gov/index.cfm/pres\u2026",
+            "expanded_url": "http://armedservices.house.gov/index.cfm/press-releases?ContentRecord_id=B2D102FB-01A5-4720-8C70-EFAA95CD6987&ContentType_id=E0C7B822-826F-493D-8CEF-1E21AA53E12A&Group_id=12580721-af41-4987-849c-c25b730d096d"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20192403",
+        "id": 20192403
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 614043788407906304,
+      "text": "Chairman @MacTXPress Previews today's Full Committee Hearing \"Nuclear Deterrence in the 21st Century\" http://t.co/mjXhtIlb3r #HASC 10AM",
+      "lang": "en",
+      "created_at": "Thu Jun 25 12:13:42 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "614044160908238848",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            30,
+            41
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "HASC",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/mjXhtIlb3r",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "armedservices.house.gov/index.cfm/pres\u2026",
+          "expanded_url": "http://armedservices.house.gov/index.cfm/press-releases?ContentRecord_id=B2D102FB-01A5-4720-8C70-EFAA95CD6987&ContentType_id=E0C7B822-826F-493D-8CEF-1E21AA53E12A&Group_id=12580721-af41-4987-849c-c25b730d096d"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 614044160908238848,
+    "text": "RT @HASCRepublicans: Chairman @MacTXPress Previews today's Full Committee Hearing \"Nuclear Deterrence in the 21st Century\" http://t.co/mjXh\u2026",
+    "lang": "en",
+    "created_at": "2015-06-25 12:15:11+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "613371075062329348",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              122,
+              133
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "http://t.co/QI5jDQ4XmX",
+            "indices": [
+              94,
+              116
+            ],
+            "display_url": "militarytimes.com/story/military\u2026",
+            "expanded_url": "http://www.militarytimes.com/story/military/capitol-hill/2015/06/23/thornberry-obama-veto-threat-undermines-us-position-in-world/29154187/"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16547587",
+        "id": 16547587
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 613371075062329348,
+      "text": "HASC chair: Obama's veto threats are \"political hysteria\" and dangerous for American security http://t.co/QI5jDQ4XmX From @MacTXPress speech",
+      "lang": "en",
+      "created_at": "Tue Jun 23 15:40:34 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "613371389194727425",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "16547587",
+          "indices": [
+            3,
+            12
+          ],
+          "name": "Leo Shane III",
+          "id": 16547587,
+          "screen_name": "LeoShane"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            136,
+            140
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/QI5jDQ4XmX",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "militarytimes.com/story/military\u2026",
+          "expanded_url": "http://www.militarytimes.com/story/military/capitol-hill/2015/06/23/thornberry-obama-veto-threat-undermines-us-position-in-world/29154187/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 613371389194727425,
+    "text": "RT @LeoShane: HASC chair: Obama's veto threats are \"political hysteria\" and dangerous for American security http://t.co/QI5jDQ4XmX From @Ma\u2026",
+    "lang": "en",
+    "created_at": "2015-06-23 15:41:49+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 8,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 613348489104207873,
+      "id_str": "613348489104207873",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              60,
+              71
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ACStrategy",
+            "indices": [
+              94,
+              105
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20192403",
+        "id": 20192403
+      },
+      "favorited": false,
+      "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry\u00ae</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"We have to be better engaged in the battlefield of ideas.\" @MacTXPress on propaganda efforts #ACStrategy",
+      "lang": "en",
+      "created_at": "Tue Jun 23 14:10:49 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "613350854901542912",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "20192403",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "HASC Republicans",
+          "id": 20192403,
+          "screen_name": "HASCRepublicans"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            81,
+            92
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ACStrategy",
+          "indices": [
+            115,
+            126
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 613350854901542912,
+    "text": "RT @HASCRepublicans: \"We have to be better engaged in the battlefield of ideas.\" @MacTXPress on propaganda efforts #ACStrategy",
+    "lang": "en",
+    "created_at": "2015-06-23 14:20:13+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 613349102441644032,
+      "id_str": "613349102441644032",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              1,
+              12
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          },
+          {
+            "id_str": "30313925",
+            "indices": [
+              19,
+              30
+            ],
+            "name": "The White House",
+            "id": 30313925,
+            "screen_name": "WhiteHouse"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "109431937",
+        "id": 109431937
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@MacTXPress calls @WhiteHouse veto threat of NDAA \"just political hysterics\"",
+      "lang": "en",
+      "created_at": "Tue Jun 23 14:13:16 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "613350784932167680",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "109431937",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "Molly O'Toole",
+          "id": 109431937,
+          "screen_name": "mollymotoole"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            19,
+            30
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        },
+        {
+          "id_str": "30313925",
+          "indices": [
+            37,
+            48
+          ],
+          "name": "The White House",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 613350784932167680,
+    "text": "RT @mollymotoole: .@MacTXPress calls @WhiteHouse veto threat of NDAA \"just political hysterics\"",
+    "lang": "en",
+    "created_at": "2015-06-23 14:19:57+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 613340052542787584,
+      "id_str": "613340052542787584",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "377534571",
+            "indices": [
+              106,
+              117
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ACStrategy",
+            "indices": [
+              118,
+              129
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "191298624",
+        "id": 191298624
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"We are asking the military to do too much because other bureaucracies are unable to pull their weight\" - @MacTXPress #ACStrategy",
+      "lang": "en",
+      "created_at": "Tue Jun 23 13:37:18 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "613341203543793664",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "191298624",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "Robbie Gramer",
+          "id": 191298624,
+          "screen_name": "RobbieGramer"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            124,
+            135
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ACStrategy",
+          "indices": [
+            136,
+            140
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "377534571",
+      "screen_name": "mactxpress",
+      "id": 377534571
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 613341203543793664,
+    "text": "RT @RobbieGramer: \"We are asking the military to do too much because other bureaucracies are unable to pull their weight\" - @MacTXPress #AC\u2026",
+    "lang": "en",
+    "created_at": "2015-06-23 13:41:52+00:00",
+    "retweeted": false
+  }
+]

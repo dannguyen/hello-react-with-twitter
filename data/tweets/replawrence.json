@@ -1,0 +1,2248 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630516550840270848,
+    "id_str": "630516550840270848",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "CSPAN",
+          "indices": [
+            6,
+            12
+          ],
+          "id_str": "15675138",
+          "id": 15675138,
+          "screen_name": "cspan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI @cspan covers my first year in Congress, my work as a Senior Whip, and my many years as Mayor of Southfield.",
+    "lang": "en",
+    "created_at": "2015-08-09 23:10:34+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630356463538565121,
+      "id_str": "630356463538565121",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "MI14",
+            "indices": [
+              4,
+              9
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/2tOgpBLXLR",
+            "media_url": "http://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+            "expanded_url": "http://twitter.com/CraigCaplan/status/630356463538565121/photo/1",
+            "id_str": "630356462708129792",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/2tOgpBLXLR",
+            "id": 630356462708129792
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/jAcpQZMqVY",
+            "indices": [
+              92,
+              114
+            ],
+            "display_url": "c-span.org/video/?327392-\u2026",
+            "expanded_url": "http://www.c-span.org/video/?327392-1/conversation-freshman-representative-brenda-lawrence-dmi"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Brenda Lawrence",
+            "indices": [
+              10,
+              22
+            ],
+            "id_str": "2863006655",
+            "id": 2863006655,
+            "screen_name": "RepLawrence"
+          },
+          {
+            "name": "CSPAN",
+            "indices": [
+              115,
+              121
+            ],
+            "id_str": "15675138",
+            "id": 15675138,
+            "screen_name": "cspan"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "317980134",
+        "id": 317980134
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/2tOgpBLXLR",
+            "media_url": "http://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+            "expanded_url": "http://twitter.com/CraigCaplan/status/630356463538565121/photo/1",
+            "id_str": "630356462708129792",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/2tOgpBLXLR",
+            "id": 630356462708129792
+          }
+        ]
+      },
+      "text": "New #MI14 @RepLawrence (D) on her 1st year in Congress &amp; work as Senior Democratic Whip http://t.co/jAcpQZMqVY @cspan http://t.co/2tOgpBLXLR",
+      "lang": "en",
+      "created_at": "Sun Aug 09 12:34:27 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 317980134,
+          "media_url": "http://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+          "source_user_id_str": "317980134",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/2tOgpBLXLR",
+          "expanded_url": "http://twitter.com/CraigCaplan/status/630356463538565121/photo/1",
+          "url": "http://t.co/2tOgpBLXLR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+          "source_status_id_str": "630356463538565121",
+          "id_str": "630356462708129792",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 630356462708129792,
+          "source_status_id": 630356463538565121
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630356766304415744,
+    "id_str": "630356766304415744",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MI14",
+          "indices": [
+            21,
+            26
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 317980134,
+          "media_url": "http://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+          "source_user_id_str": "317980134",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/2tOgpBLXLR",
+          "expanded_url": "http://twitter.com/CraigCaplan/status/630356463538565121/photo/1",
+          "url": "http://t.co/2tOgpBLXLR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL953PGXAAAG27B.jpg",
+          "source_status_id_str": "630356463538565121",
+          "id_str": "630356462708129792",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 630356462708129792,
+          "source_status_id": 630356463538565121
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/jAcpQZMqVY",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "c-span.org/video/?327392-\u2026",
+          "expanded_url": "http://www.c-span.org/video/?327392-1/conversation-freshman-representative-brenda-lawrence-dmi"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Craig Caplan",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "317980134",
+          "id": 317980134,
+          "screen_name": "CraigCaplan"
+        },
+        {
+          "name": "Brenda Lawrence",
+          "indices": [
+            27,
+            39
+          ],
+          "id_str": "2863006655",
+          "id": 2863006655,
+          "screen_name": "RepLawrence"
+        },
+        {
+          "name": "CSPAN",
+          "indices": [
+            132,
+            138
+          ],
+          "id_str": "15675138",
+          "id": 15675138,
+          "screen_name": "cspan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CraigCaplan: New #MI14 @RepLawrence (D) on her 1st year in Congress &amp; work as Senior Democratic Whip http://t.co/jAcpQZMqVY @cspan http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-09 12:35:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630048664413712384,
+    "id_str": "630048664413712384",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/15mIx8DIyh",
+          "indices": [
+            100,
+            123
+          ],
+          "display_url": "instagram.com/p/6IO0x3Hv-9/",
+          "expanded_url": "https://instagram.com/p/6IO0x3Hv-9/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The City of Southfield says good bye to Fire Chief Rowley today, but he will live on in our hearts\u2026 https://t.co/15mIx8DIyh",
+    "lang": "en",
+    "created_at": "2015-08-08 16:11:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629743766862213120,
+    "id_str": "629743766862213120",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "pets",
+          "indices": [
+            135,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Facebook",
+          "indices": [
+            36,
+            45
+          ],
+          "id_str": "2425151",
+          "id": 2425151,
+          "screen_name": "facebook"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you haven't yet, please go to my @facebook page and vote for the \"Furst\" Annual 14th Congressional District Cutest Pet Pic Contest! #pets",
+    "lang": "en",
+    "created_at": "2015-08-07 19:59:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629741239282364416,
+    "id_str": "629741239282364416",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/URYtOYt1iX",
+          "indices": [
+            53,
+            75
+          ],
+          "display_url": "detne.ws/1SYN0sn",
+          "expanded_url": "http://detne.ws/1SYN0sn"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Detroit News",
+          "indices": [
+            80,
+            92
+          ],
+          "id_str": "16543775",
+          "id": 16543775,
+          "screen_name": "detroitnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "$8.9M in disaster relief funds for Detroit announced http://t.co/URYtOYt1iX via @detroitnews",
+    "lang": "en",
+    "created_at": "2015-08-07 19:49:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": "15764644",
+    "id": 629680601554112512,
+    "id_str": "629680601554112512",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "womeninleadership",
+          "indices": [
+            103,
+            121
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Nancy Pelosi ",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "15764644",
+          "id": 15764644,
+          "screen_name": "NancyPelosi"
+        },
+        {
+          "name": "PORTER magazine",
+          "indices": [
+            44,
+            59
+          ],
+          "id_str": "1731691897",
+          "id": 1731691897,
+          "screen_name": "PORTERmagazine"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 15764644,
+    "in_reply_to_screen_name": "NancyPelosi",
+    "retweeted": false,
+    "text": "@NancyPelosi  Love the photos and interview @PORTERmagazine! \"America's real superpower -- its women.\" #womeninleadership",
+    "lang": "en",
+    "created_at": "2015-08-07 15:48:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629665679722086400,
+    "id_str": "629665679722086400",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 149,
+      "favorite_count": 157,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629650509603991557,
+      "id_str": "629650509603991557",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              78,
+              84
+            ]
+          },
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15764644",
+        "id": 15764644
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Fri Aug 07 13:49:14 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/8DWz90fR5V",
+          "indices": [
+            81,
+            104
+          ],
+          "display_url": "twitter.com/NancyPelosi/st\u2026",
+          "expanded_url": "https://twitter.com/NancyPelosi/status/629650509603991557"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            64,
+            78
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629650509603991557",
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 14:49:31+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I stand with my Democratic colleagues in the call for action to #RestoreTheVRA!  https://t.co/8DWz90fR5V",
+    "lang": "en",
+    "quoted_status_id": 629650509603991557
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629655993736134656,
+    "id_str": "629655993736134656",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 55,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 22,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629630807376838656,
+      "id_str": "629630807376838656",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/aVhuar6aGw",
+            "indices": [
+              73,
+              95
+            ],
+            "display_url": "bloom.bg/1MVvoJa",
+            "expanded_url": "http://bloom.bg/1MVvoJa"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "34713362",
+        "id": 34713362
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "BREAKING: Payrolls in U.S. increased 215,000 in July in broad-based gain http://t.co/aVhuar6aGw",
+      "lang": "en",
+      "created_at": "Fri Aug 07 12:30:57 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/riMD1SBIqY",
+          "indices": [
+            114,
+            137
+          ],
+          "display_url": "twitter.com/business/statu\u2026",
+          "expanded_url": "https://twitter.com/business/status/629630807376838656"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "jobs",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "economy",
+          "indices": [
+            104,
+            112
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629630807376838656",
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 14:11:02+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The addition of more than 200,000 jobs in July is great news, but there is still much to be done! #jobs #economy  https://t.co/riMD1SBIqY",
+    "lang": "en",
+    "quoted_status_id": 629630807376838656
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629358618735980544,
+    "id_str": "629358618735980544",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/K9gu2qnNbp",
+          "indices": [
+            99,
+            122
+          ],
+          "display_url": "instagram.com/p/6DVB11nv2-/",
+          "expanded_url": "https://instagram.com/p/6DVB11nv2-/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Love my pictures and thank you card from Running Start and the Young Women's Political Leadership\u2026 https://t.co/K9gu2qnNbp",
+    "lang": "en",
+    "created_at": "2015-08-06 18:29:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629311351505186816,
+    "id_str": "629311351505186816",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/RWtnYN6yKZ",
+          "indices": [
+            90,
+            113
+          ],
+          "display_url": "lawrence.house.gov/media-center/p\u2026",
+          "expanded_url": "https://lawrence.house.gov/media-center/press-releases/congresswoman-lawrence-commemorates-50th-anniversary-vra"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            75,
+            89
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On this 50th Anniversary of the Voting Rights Act, Congress must commit to #RestoreTheVRA https://t.co/RWtnYN6yKZ",
+    "lang": "en",
+    "created_at": "2015-08-06 15:21:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629255986071642113,
+    "id_str": "629255986071642113",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 30,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 20,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629250757527793664,
+      "id_str": "629250757527793664",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/vmx3J4y2jj",
+            "media_url": "http://pbs.twimg.com/media/CLuMOtYWEAArnS9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuMOtYWEAArnS9.jpg",
+            "expanded_url": "http://twitter.com/NBCNews/status/629250757527793664/photo/1",
+            "id_str": "629250757276078080",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 194
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 560,
+                "resize": "fit",
+                "h": 320
+              },
+              "large": {
+                "w": 560,
+                "resize": "fit",
+                "h": 320
+              }
+            },
+            "display_url": "pic.twitter.com/vmx3J4y2jj",
+            "id": 629250757276078080
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/4wrjQESn6d",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "nbcnews.to/1KSxWFA",
+            "expanded_url": "http://nbcnews.to/1KSxWFA"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14173315",
+        "id": 14173315
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/vmx3J4y2jj",
+            "media_url": "http://pbs.twimg.com/media/CLuMOtYWEAArnS9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuMOtYWEAArnS9.jpg",
+            "expanded_url": "http://twitter.com/NBCNews/status/629250757527793664/photo/1",
+            "id_str": "629250757276078080",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 194
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 560,
+                "resize": "fit",
+                "h": 320
+              },
+              "large": {
+                "w": 560,
+                "resize": "fit",
+                "h": 320
+              }
+            },
+            "display_url": "pic.twitter.com/vmx3J4y2jj",
+            "id": 629250757276078080
+          }
+        ]
+      },
+      "text": "Tennessee theater attacker said to have schizophrenia, according to police report http://t.co/4wrjQESn6d http://t.co/vmx3J4y2jj",
+      "lang": "en",
+      "created_at": "Thu Aug 06 11:20:46 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/SR6Hw8KUZF",
+          "indices": [
+            102,
+            125
+          ],
+          "display_url": "twitter.com/nbcnews/status\u2026",
+          "expanded_url": "https://twitter.com/nbcnews/status/629250757527793664"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "mentalhealth",
+          "indices": [
+            16,
+            29
+          ]
+        },
+        {
+          "text": "guncontrol",
+          "indices": [
+            79,
+            90
+          ]
+        },
+        {
+          "text": "gunsense",
+          "indices": [
+            91,
+            100
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629250757527793664",
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 11:41:32+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We must address #mentalhealth and responsible gun control and ownership needs. #guncontrol #gunsense  https://t.co/SR6Hw8KUZF",
+    "lang": "en",
+    "quoted_status_id": 629250757527793664
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629028285335400448,
+    "id_str": "629028285335400448",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/D9fqPwMnaz",
+          "indices": [
+            59,
+            81
+          ],
+          "display_url": "mlive.com/opinion/index.\u2026",
+          "expanded_url": "http://www.mlive.com/opinion/index.ssf/2015/08/clean_power_plan_will_protect.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            43,
+            58
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "MLive ",
+          "indices": [
+            26,
+            32
+          ],
+          "id_str": "12952842",
+          "id": 12952842,
+          "screen_name": "MLive"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            36,
+            42
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Check out my latest op-ed @MLive on @POTUS #CleanPowerPlan http://t.co/D9fqPwMnaz",
+    "lang": "en",
+    "created_at": "2015-08-05 20:36:44+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 71,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 36,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628996871743217664,
+      "id_str": "628996871743217664",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/g6B1JQjvti",
+            "indices": [
+              104,
+              126
+            ],
+            "display_url": "ow.ly/i/cdbob",
+            "expanded_url": "http://ow.ly/i/cdbob"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "JohnCrawford",
+            "indices": [
+              24,
+              37
+            ]
+          },
+          {
+            "text": "JusticeSummer",
+            "indices": [
+              89,
+              103
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "44988185",
+        "id": 44988185
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Remembering the life of #JohnCrawford. This is why we march. Your death was not in vain. #JusticeSummer http://t.co/g6B1JQjvti",
+      "lang": "en",
+      "created_at": "Wed Aug 05 18:31:55 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 71,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629002378642067456,
+    "id_str": "629002378642067456",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/g6B1JQjvti",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "ow.ly/i/cdbob",
+          "expanded_url": "http://ow.ly/i/cdbob"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "JohnCrawford",
+          "indices": [
+            35,
+            48
+          ]
+        },
+        {
+          "text": "JusticeSummer",
+          "indices": [
+            100,
+            114
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "  NAACP",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "44988185",
+          "id": 44988185,
+          "screen_name": "NAACP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NAACP: Remembering the life of #JohnCrawford. This is why we march. Your death was not in vain. #JusticeSummer http://t.co/g6B1JQjvti",
+    "lang": "en",
+    "created_at": "2015-08-05 18:53:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628941009586622464,
+    "id_str": "628941009586622464",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/5wWULHoLXu",
+          "indices": [
+            111,
+            134
+          ],
+          "display_url": "lawrence.house.gov/media-center/p\u2026",
+          "expanded_url": "https://lawrence.house.gov/media-center/press-releases/congresswoman-lawrence-introduces-teach-our-teachers-act"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "education",
+          "indices": [
+            55,
+            65
+          ]
+        },
+        {
+          "text": "EducationForAll",
+          "indices": [
+            66,
+            82
+          ]
+        },
+        {
+          "text": "STEMeducation",
+          "indices": [
+            83,
+            97
+          ]
+        },
+        {
+          "text": "STEM",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "STEAM",
+          "indices": [
+            104,
+            110
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to announce HR 3366, The Teach our Teachers Act. #education #EducationForAll #STEMeducation #STEM #STEAM https://t.co/5wWULHoLXu",
+    "lang": "en",
+    "created_at": "2015-08-05 14:49:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628934448122339328,
+    "id_str": "628934448122339328",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 337,
+      "favorite_count": 159,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628903659523457025,
+      "id_str": "628903659523457025",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              124,
+              138
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Republicans",
+            "indices": [
+              94,
+              103
+            ],
+            "id_str": "15207668",
+            "id": 15207668,
+            "screen_name": "HouseGOP"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "188019606",
+        "id": 188019606
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The strength of our democracy rests upon the participation of every citizen. RT if you agree: @HouseGOP should join Dems to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Wed Aug 05 12:21:31 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/23yKCWqAHG",
+          "indices": [
+            72,
+            95
+          ],
+          "display_url": "twitter.com/Clyburn/status\u2026",
+          "expanded_url": "https://twitter.com/Clyburn/status/628903659523457025"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            56,
+            70
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628903659523457025",
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 14:23:52+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If we are to be the world's greatest democracy, we must #RestoreTheVRA  https://t.co/23yKCWqAHG",
+    "lang": "en",
+    "quoted_status_id": 628903659523457025
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 627,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 630,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628275045480202240,
+      "id_str": "628275045480202240",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              97,
+              112
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/FNxerX9Nkj",
+            "media_url": "http://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/628275045480202240/photo/1",
+            "id_str": "628275016115728385",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 683
+              }
+            },
+            "display_url": "pic.twitter.com/FNxerX9Nkj",
+            "id": 628275016115728385
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              90,
+              96
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FNxerX9Nkj",
+            "media_url": "http://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/628275045480202240/photo/1",
+            "id_str": "628275016115728385",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 683
+              }
+            },
+            "display_url": "pic.twitter.com/FNxerX9Nkj",
+            "id": 628275016115728385
+          }
+        ]
+      },
+      "text": "\"This is our moment to leave something better for our kids...let\u2019s make the most of it.\" \u2014@POTUS #CleanPowerPlan http://t.co/FNxerX9Nkj",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:43:38 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 627,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/FNxerX9Nkj",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/628275045480202240/photo/1",
+          "url": "http://t.co/FNxerX9Nkj",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+          "source_status_id_str": "628275045480202240",
+          "id_str": "628275016115728385",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 683
+            }
+          },
+          "id": 628275016115728385,
+          "source_status_id": 628275045480202240
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628890188790538240,
+    "id_str": "628890188790538240",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            113,
+            128
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/FNxerX9Nkj",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/628275045480202240/photo/1",
+          "url": "http://t.co/FNxerX9Nkj",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgUzGTUsAEa_MW.jpg",
+          "source_status_id_str": "628275045480202240",
+          "id_str": "628275016115728385",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 683
+            }
+          },
+          "id": 628275016115728385,
+          "source_status_id": 628275045480202240
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "The White House",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            106,
+            112
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WhiteHouse: \"This is our moment to leave something better for our kids...let\u2019s make the most of it.\" \u2014@POTUS #CleanPowerPlan http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 11:27:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628698958655848449,
+    "id_str": "628698958655848449",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/5pBbs3FtlA",
+          "indices": [
+            75,
+            98
+          ],
+          "display_url": "shar.es/1tWZc3",
+          "expanded_url": "https://shar.es/1tWZc3"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WXYZ Detroit",
+          "indices": [
+            103,
+            115
+          ],
+          "id_str": "19778050",
+          "id": 19778050,
+          "screen_name": "wxyzdetroit"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "MI woman dies from Legionnaires' disease, family says it happened suddenly https://t.co/5pBbs3FtlA via @wxyzdetroit",
+    "lang": "en",
+    "created_at": "2015-08-04 22:48:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628680788570177536,
+    "id_str": "628680788570177536",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "USCG",
+          "indices": [
+            86,
+            91
+          ]
+        },
+        {
+          "text": "uscg225th",
+          "indices": [
+            92,
+            102
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "USCG (Official)",
+          "indices": [
+            21,
+            26
+          ],
+          "id_str": "15113565",
+          "id": 15113565,
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy 225th Birthday @USCG! Thank you for your service and here's to many more years! #USCG #uscg225th",
+    "lang": "en",
+    "created_at": "2015-08-04 21:35:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628665519730728960,
+    "id_str": "628665519730728960",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/S5X8S77d0X",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "detne.ws/1SHXxrS",
+          "expanded_url": "http://detne.ws/1SHXxrS"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Flint",
+          "indices": [
+            24,
+            30
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "General Motors",
+          "indices": [
+            16,
+            19
+          ],
+          "id_str": "10850192",
+          "id": 10850192,
+          "screen_name": "GM"
+        },
+        {
+          "name": "The Detroit News",
+          "indices": [
+            99,
+            111
+          ],
+          "id_str": "16543775",
+          "id": 16543775,
+          "screen_name": "detroitnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congratulations @GM AND #Flint. GM to invest $877M in Flint truck plant http://t.co/S5X8S77d0X via @detroitnews",
+    "lang": "en",
+    "created_at": "2015-08-04 20:35:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628656118814871553,
+    "id_str": "628656118814871553",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 73,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 80,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628636811871399937,
+      "id_str": "628636811871399937",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/us4hTvfGmb",
+            "indices": [
+              52,
+              74
+            ],
+            "display_url": "cnn.it/1Honzo2",
+            "expanded_url": "http://cnn.it/1Honzo2"
+          },
+          {
+            "url": "https://t.co/GxPT13LxCW",
+            "indices": [
+              75,
+              98
+            ],
+            "display_url": "amp.twimg.com/v/230a0d6a-181\u2026",
+            "expanded_url": "https://amp.twimg.com/v/230a0d6a-181c-40af-8dc8-c27d6a87a0e7"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "happybirthday",
+            "indices": [
+              15,
+              29
+            ]
+          },
+          {
+            "text": "44turns54",
+            "indices": [
+              41,
+              51
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              33,
+              39
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "13850422",
+        "id": 13850422
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "On his 54th, a #happybirthday to @POTUS. #44turns54 http://t.co/us4hTvfGmb\nhttps://t.co/GxPT13LxCW",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:41:10 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/A5cdggifmt",
+          "indices": [
+            40,
+            63
+          ],
+          "display_url": "twitter.com/cnnpolitics/st\u2026",
+          "expanded_url": "https://twitter.com/cnnpolitics/status/628636811871399937"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            32,
+            38
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628636811871399937",
+    "user": {
+      "id_str": "2863006655",
+      "screen_name": "replawrence",
+      "id": 2863006655
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 19:57:53+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy 54th B-day Mr. President! @POTUS  https://t.co/A5cdggifmt",
+    "lang": "en",
+    "quoted_status_id": 628636811871399937
+  }
+]

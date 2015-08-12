@@ -1,39 +1,15 @@
-
-
-
-var TwitterUser = React.createClass({
-  render: function(){
-    var screen_name = this.props.screen_name;
-    return (
-      <div className="twitter-user">
-        <div className="naming">
-          <h5><strong>{this.props.name}</strong></h5>
-          <span className="screen_name">
-            <a target="_blank" href="https://twitter.com/{screen_name}">@{screen_name}</a>
-          </span>
-        </div>
-        <div className="description">
-          {this.props.description}
-        </div>
-      </div>
-    );
-  }
-})
-
-
 var TwitterList = React.createClass({
   render: function(){
     var tweets = this.props.data.map(function(datum){
       return(
         <div className="col-sm-4" key={datum.id}>
-          <TwitterUser {...datum} />
-
+          <Tweet {...datum} />
         </div>
       );
     })
     return(
       <div className="twitter-list">
-        <h5>Users: {this.props.data.length}</h5>
+        <h5>Tweets: {this.props.data.length}</h5>
         <div className="row">
           {tweets}
         </div>
@@ -108,6 +84,6 @@ var FilterBox = React.createClass({
 
 
 React.render(
-  <MyTwitterApp url="/data/whitehouse-friends.json"/>,
+  <MyTwitterApp url="/data/tweet-stream.json"/>,
   document.getElementById('mah-twitter-app')
 );

@@ -1,0 +1,2887 @@
+[
+  {
+    "in_reply_to_status_id_str": "630271713507282944",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "NL",
+      "full_name": "Haarlemmermeer, Noord-Holland",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.5505577,
+              52.2144875
+            ],
+            [
+              4.8191001,
+              52.2144875
+            ],
+            [
+              4.8191001,
+              52.3863713
+            ],
+            [
+              4.5505577,
+              52.3863713
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/cd003ebe3a96fcc6.json",
+      "name": "Haarlemmermeer",
+      "country": "Nederland",
+      "place_type": "city",
+      "id": "cd003ebe3a96fcc6"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": "16367986",
+    "id": 630282081902403584,
+    "id_str": "630282081902403584",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "BLM",
+          "indices": [
+            11,
+            15
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Laura Ferejohn",
+          "indices": [
+            0,
+            9
+          ],
+          "id_str": "16367986",
+          "id": 16367986,
+          "screen_name": "FereJohn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 630271713507282944,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": 16367986,
+    "in_reply_to_screen_name": "FereJohn",
+    "retweeted": false,
+    "text": "@FereJohn, #BLM isn't picking on Bernie. They may feel that he is the only one willing to listen. I counsel patience.",
+    "lang": "en",
+    "created_at": "2015-08-09 07:38:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "630240500402892800",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "NL",
+      "full_name": "Haarlemmermeer, Noord-Holland",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              4.5505577,
+              52.2144875
+            ],
+            [
+              4.8191001,
+              52.2144875
+            ],
+            [
+              4.8191001,
+              52.3863713
+            ],
+            [
+              4.5505577,
+              52.3863713
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/cd003ebe3a96fcc6.json",
+      "name": "Haarlemmermeer",
+      "country": "Nederland",
+      "place_type": "city",
+      "id": "cd003ebe3a96fcc6"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": "16367986",
+    "id": 630260360587644928,
+    "id_str": "630260360587644928",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Laura Ferejohn",
+          "indices": [
+            0,
+            9
+          ],
+          "id_str": "16367986",
+          "id": 16367986,
+          "screen_name": "FereJohn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 630240500402892800,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": 16367986,
+    "in_reply_to_screen_name": "FereJohn",
+    "retweeted": false,
+    "text": "@FereJohn, simple matter of outraged people wanting to be heard. I'm just justifying, just explaining.",
+    "lang": "en",
+    "created_at": "2015-08-09 06:12:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629991682159702016,
+    "id_str": "629991682159702016",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/gJz8FQW8v5",
+          "indices": [
+            50,
+            72
+          ],
+          "display_url": "NYTimes.com",
+          "expanded_url": "http://NYTimes.com"
+        },
+        {
+          "url": "http://t.co/LsxpVdjaFG",
+          "indices": [
+            73,
+            95
+          ],
+          "display_url": "mobile.nytimes.com/2015/08/09/nyr\u2026",
+          "expanded_url": "http://mobile.nytimes.com/2015/08/09/nyregion/linda-sarsour-is-a-brooklyn-homegirl-in-a-hijab.html?referrer=&_r=0"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Linda Sarsour Is a Brooklyn Homegirl in a Hijab - http://t.co/gJz8FQW8v5 http://t.co/LsxpVdjaFG",
+    "lang": "en",
+    "created_at": "2015-08-08 12:24:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 27,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Minneapolis, MN",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -93.329148,
+              44.889964
+            ],
+            [
+              -93.194578,
+              44.889964
+            ],
+            [
+              -93.194578,
+              45.051257
+            ],
+            [
+              -93.329148,
+              45.051257
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/8e9665cec9370f0f.json",
+      "name": "Minneapolis",
+      "country": "United States",
+      "place_type": "city",
+      "id": "8e9665cec9370f0f"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629730385421733888,
+    "id_str": "629730385421733888",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/BNj8RrHKBh",
+          "indices": [
+            66,
+            88
+          ],
+          "display_url": "detroitnews.com/story/news/pol\u2026",
+          "expanded_url": "http://www.detroitnews.com/story/news/politics/2015/08/06/first-gop-debate-touches-mosque-monitoring/31255435/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "You don't protect Americans by profiling one religious community. http://t.co/BNj8RrHKBh",
+    "lang": "en",
+    "created_at": "2015-08-07 19:06:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 67,
+    "favorite_count": 43,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629679999151407104,
+    "id_str": "629679999151407104",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On the 50th anniversary of the Voting Rights Act, nobody on the GOP debate stage mentioned voting rights.",
+    "lang": "en",
+    "created_at": "2015-08-07 15:46:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 32,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629650228707241984,
+    "id_str": "629650228707241984",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/4AjvNDCTaM",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "mobile.nytimes.com/2015/08/07/mag\u2026",
+          "expanded_url": "http://mobile.nytimes.com/2015/08/07/magazine/do-the-democrats-understand-americas-new-racial-politics.html?referrer="
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Dismantling structural racism &amp; fostering justice starts with understanding &amp; an honest conversation about race. http://t.co/4AjvNDCTaM",
+    "lang": "en",
+    "created_at": "2015-08-07 13:48:07+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 22,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629468634402848771,
+      "id_str": "629468634402848771",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              0,
+              14
+            ]
+          },
+          {
+            "text": "VRA50",
+            "indices": [
+              15,
+              21
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/n5R0iY4Gx2",
+            "media_url": "http://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+            "expanded_url": "http://twitter.com/AAOP_MN/status/629468634402848771/photo/1",
+            "id_str": "629468631219372032",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 604
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 576,
+                "resize": "fit",
+                "h": 1024
+              },
+              "large": {
+                "w": 576,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/n5R0iY4Gx2",
+            "id": 629468631219372032
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              44,
+              57
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2202197606",
+        "id": 2202197606
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/n5R0iY4Gx2",
+            "media_url": "http://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+            "expanded_url": "http://twitter.com/AAOP_MN/status/629468634402848771/photo/1",
+            "id_str": "629468631219372032",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 604
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 576,
+                "resize": "fit",
+                "h": 1024
+              },
+              "large": {
+                "w": 576,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/n5R0iY4Gx2",
+            "id": 629468631219372032
+          }
+        ]
+      },
+      "text": "#RestoreTheVRA #VRA50 Thank you Congressman @keithellison for being a champion of the Voting Rights Act. http://t.co/n5R0iY4Gx2",
+      "lang": "en",
+      "created_at": "Fri Aug 07 01:46:32 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2202197606,
+          "media_url": "http://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+          "source_user_id_str": "2202197606",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/n5R0iY4Gx2",
+          "expanded_url": "http://twitter.com/AAOP_MN/status/629468634402848771/photo/1",
+          "url": "http://t.co/n5R0iY4Gx2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+          "source_status_id_str": "629468634402848771",
+          "id_str": "629468631219372032",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629468631219372032,
+          "source_status_id": 629468634402848771
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629469931650682880,
+    "id_str": "629469931650682880",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            13,
+            27
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            28,
+            34
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2202197606,
+          "media_url": "http://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+          "source_user_id_str": "2202197606",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/n5R0iY4Gx2",
+          "expanded_url": "http://twitter.com/AAOP_MN/status/629468634402848771/photo/1",
+          "url": "http://t.co/n5R0iY4Gx2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxSYpEVAAAO2Rf.jpg",
+          "source_status_id_str": "629468634402848771",
+          "id_str": "629468631219372032",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629468631219372032,
+          "source_status_id": 629468634402848771
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "AAOP",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "2202197606",
+          "id": 2202197606,
+          "screen_name": "AAOP_MN"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            57,
+            70
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AAOP_MN: #RestoreTheVRA #VRA50 Thank you Congressman @keithellison for being a champion of the Voting Rights Act. http://t.co/n5R0iY4Gx2",
+    "lang": "en",
+    "created_at": "2015-08-07 01:51:41+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "14135426",
+      "id": 629439189516300288,
+      "id_str": "629439189516300288",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/m04hQirgir",
+            "indices": [
+              31,
+              54
+            ],
+            "display_url": "andrecymone.bandcamp.com/track/give-pea\u2026",
+            "expanded_url": "https://andrecymone.bandcamp.com/track/give-peace-a-chance-2015"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "peace",
+            "indices": [
+              24,
+              30
+            ]
+          },
+          {
+            "text": "eliminatenukes",
+            "indices": [
+              56,
+              71
+            ]
+          },
+          {
+            "text": "70years",
+            "indices": [
+              72,
+              80
+            ]
+          },
+          {
+            "text": "Supportdiplomacy",
+            "indices": [
+              81,
+              98
+            ]
+          },
+          {
+            "text": "Irandeal",
+            "indices": [
+              99,
+              108
+            ]
+          },
+          {
+            "text": "givepeaceachance",
+            "indices": [
+              109,
+              126
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              0,
+              13
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "99547903",
+        "id": 99547903
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 14135426,
+      "in_reply_to_screen_name": "keithellison",
+      "retweeted": false,
+      "text": "@keithellison music for #peace https://t.co/m04hQirgir\u2026 #eliminatenukes #70years #Supportdiplomacy #Irandeal #givepeaceachance",
+      "lang": "en",
+      "created_at": "Thu Aug 06 23:49:31 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629455230019612672,
+    "id_str": "629455230019612672",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/m04hQirgir",
+          "indices": [
+            48,
+            71
+          ],
+          "display_url": "andrecymone.bandcamp.com/track/give-pea\u2026",
+          "expanded_url": "https://andrecymone.bandcamp.com/track/give-peace-a-chance-2015"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "peace",
+          "indices": [
+            41,
+            47
+          ]
+        },
+        {
+          "text": "eliminatenukes",
+          "indices": [
+            73,
+            88
+          ]
+        },
+        {
+          "text": "70years",
+          "indices": [
+            89,
+            97
+          ]
+        },
+        {
+          "text": "Supportdiplomacy",
+          "indices": [
+            98,
+            115
+          ]
+        },
+        {
+          "text": "Irandeal",
+          "indices": [
+            116,
+            125
+          ]
+        },
+        {
+          "text": "givepeaceachance",
+          "indices": [
+            126,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Andr\u00e9 Cymone",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "99547903",
+          "id": 99547903,
+          "screen_name": "andrecymone"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @andrecymone: @keithellison music for #peace https://t.co/m04hQirgir\u2026 #eliminatenukes #70years #Supportdiplomacy #Irandeal #givepeaceach\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 00:53:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "949424383",
+    "id": 629398470323912704,
+    "id_str": "629398470323912704",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/PXaixRVOca",
+          "media_url": "http://pbs.twimg.com/media/CLwSku8UMAA9gpc.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwSku8UMAA9gpc.jpg",
+          "expanded_url": "http://twitter.com/keithellison/status/629398470323912704/photo/1",
+          "id_str": "629398470210629632",
+          "indices": [
+            82,
+            104
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/PXaixRVOca",
+          "id": 629398470210629632
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Sondra",
+          "indices": [
+            0,
+            14
+          ],
+          "id_str": "949424383",
+          "id": 949424383,
+          "screen_name": "SondraSamuels"
+        },
+        {
+          "name": "City of Mpls CPED",
+          "indices": [
+            19,
+            31
+          ],
+          "id_str": "2321021869",
+          "id": 2321021869,
+          "screen_name": "Growingmpls"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": 949424383,
+    "in_reply_to_screen_name": "SondraSamuels",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/PXaixRVOca",
+          "media_url": "http://pbs.twimg.com/media/CLwSku8UMAA9gpc.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwSku8UMAA9gpc.jpg",
+          "expanded_url": "http://twitter.com/keithellison/status/629398470323912704/photo/1",
+          "id_str": "629398470210629632",
+          "indices": [
+            82,
+            104
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/PXaixRVOca",
+          "id": 629398470210629632
+        }
+      ]
+    },
+    "text": "@SondraSamuels and @Growingmpls at Secretary Castro's visit to north Minneapolis. http://t.co/PXaixRVOca",
+    "lang": "en",
+    "created_at": "2015-08-06 21:07:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629389942037180416,
+    "id_str": "629389942037180416",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/3CdEogD9oF",
+          "media_url": "http://pbs.twimg.com/media/CLwK0QaUkAA0fOl.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwK0QaUkAA0fOl.jpg",
+          "expanded_url": "http://twitter.com/keithellison/status/629389942037180416/photo/1",
+          "id_str": "629389940799868928",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/3CdEogD9oF",
+          "id": 629389940799868928
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Betsy Hodges",
+          "indices": [
+            7,
+            19
+          ],
+          "id_str": "118719917",
+          "id": 118719917,
+          "screen_name": "MayorHodges"
+        },
+        {
+          "name": "Juli\u00e1n Castro",
+          "indices": [
+            28,
+            44
+          ],
+          "id_str": "2695663285",
+          "id": 2695663285,
+          "screen_name": "SecretaryCastro"
+        },
+        {
+          "name": "Cookie Cart",
+          "indices": [
+            98,
+            110
+          ],
+          "id_str": "223558565",
+          "id": 223558565,
+          "screen_name": "CookieCart1"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/3CdEogD9oF",
+          "media_url": "http://pbs.twimg.com/media/CLwK0QaUkAA0fOl.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwK0QaUkAA0fOl.jpg",
+          "expanded_url": "http://twitter.com/keithellison/status/629389942037180416/photo/1",
+          "id_str": "629389940799868928",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/3CdEogD9oF",
+          "id": 629389940799868928
+        }
+      ]
+    },
+    "text": "Me and @MayorHodges showing @SecretaryCastro around the North Minneapolis Promise Zone. 1st stop: @CookieCart1! http://t.co/3CdEogD9oF",
+    "lang": "en",
+    "created_at": "2015-08-06 20:33:50+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 19,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629383127228551169,
+      "id_str": "629383127228551169",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/V5mXY9U1e7",
+            "media_url": "http://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+            "expanded_url": "http://twitter.com/MayorHodges/status/629383127228551169/photo/1",
+            "id_str": "629383127027183617",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/V5mXY9U1e7",
+            "id": 629383127027183617
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Breaking Bread Foods",
+            "indices": [
+              3,
+              19
+            ],
+            "id_str": "3051063524",
+            "id": 3051063524,
+            "screen_name": "BreakingBreadMN"
+          },
+          {
+            "name": "Juli\u00e1n Castro",
+            "indices": [
+              25,
+              41
+            ],
+            "id_str": "2695663285",
+            "id": 2695663285,
+            "screen_name": "SecretaryCastro"
+          },
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              48,
+              61
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "118719917",
+        "id": 118719917
+      },
+      "favorited": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/V5mXY9U1e7",
+            "media_url": "http://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+            "expanded_url": "http://twitter.com/MayorHodges/status/629383127228551169/photo/1",
+            "id_str": "629383127027183617",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/V5mXY9U1e7",
+            "id": 629383127027183617
+          }
+        ]
+      },
+      "text": "At @BreakingBreadMN with @SecretaryCastro &amp; @keithellison to highlight what we can do w our Promise Zone designation http://t.co/V5mXY9U1e7",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:06:45 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 118719917,
+          "media_url": "http://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+          "source_user_id_str": "118719917",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/V5mXY9U1e7",
+          "expanded_url": "http://twitter.com/MayorHodges/status/629383127228551169/photo/1",
+          "url": "http://t.co/V5mXY9U1e7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+          "source_status_id_str": "629383127228551169",
+          "id_str": "629383127027183617",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629383127027183617,
+          "source_status_id": 629383127228551169
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629389181186215936,
+    "id_str": "629389181186215936",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 118719917,
+          "media_url": "http://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+          "source_user_id_str": "118719917",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/V5mXY9U1e7",
+          "expanded_url": "http://twitter.com/MayorHodges/status/629383127228551169/photo/1",
+          "url": "http://t.co/V5mXY9U1e7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwEnpIUcAElR_L.jpg",
+          "source_status_id_str": "629383127228551169",
+          "id_str": "629383127027183617",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629383127027183617,
+          "source_status_id": 629383127228551169
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Betsy Hodges",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "118719917",
+          "id": 118719917,
+          "screen_name": "MayorHodges"
+        },
+        {
+          "name": "Breaking Bread Foods",
+          "indices": [
+            20,
+            36
+          ],
+          "id_str": "3051063524",
+          "id": 3051063524,
+          "screen_name": "BreakingBreadMN"
+        },
+        {
+          "name": "Juli\u00e1n Castro",
+          "indices": [
+            42,
+            58
+          ],
+          "id_str": "2695663285",
+          "id": 2695663285,
+          "screen_name": "SecretaryCastro"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            65,
+            78
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MayorHodges: At @BreakingBreadMN with @SecretaryCastro &amp; @keithellison to highlight what we can do w our Promise Zone designation http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 20:30:48+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 11,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629366575527759872,
+      "id_str": "629366575527759872",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              13,
+              26
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2695663285",
+        "id": 2695663285
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Joining Rep. @KeithEllison in Minneapolis today where the community is working to turn obstacles into opportunities through Promise Zones.",
+      "lang": "en",
+      "created_at": "Thu Aug 06 19:00:59 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629388990806822912,
+    "id_str": "629388990806822912",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Juli\u00e1n Castro",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2695663285",
+          "id": 2695663285,
+          "screen_name": "SecretaryCastro"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            34,
+            47
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SecretaryCastro: Joining Rep. @KeithEllison in Minneapolis today where the community is working to turn obstacles into opportunities th\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 20:30:03+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629311261340078080,
+      "id_str": "629311261340078080",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NABJ40",
+            "indices": [
+              74,
+              81
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              42,
+              55
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "9744332",
+        "id": 9744332
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Best place to talk about race in America? @keithellison says \"everywhere\" #NABJ40",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:21:11 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629352140104953856,
+    "id_str": "629352140104953856",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NABJ40",
+          "indices": [
+            89,
+            96
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Stefanie Cargill",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "9744332",
+          "id": 9744332,
+          "screen_name": "cybergrrl"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            57,
+            70
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @cybergrrl: Best place to talk about race in America? @keithellison says \"everywhere\" #NABJ40",
+    "lang": "en",
+    "created_at": "2015-08-06 18:03:37+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "49698134",
+      "id": 629307961005838336,
+      "id_str": "629307961005838336",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "NABJ40",
+            "indices": [
+              51,
+              58
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/qpSNgeybLY",
+            "media_url": "http://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+            "expanded_url": "http://twitter.com/cybergrrl/status/629307961005838336/photo/1",
+            "id_str": "629307954164961280",
+            "indices": [
+              59,
+              81
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/qpSNgeybLY",
+            "id": 629307954164961280
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Joy Reid",
+            "indices": [
+              0,
+              11
+            ],
+            "id_str": "49698134",
+            "id": 49698134,
+            "screen_name": "JoyAnnReid"
+          },
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              12,
+              25
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          },
+          {
+            "name": "James E. Clyburn",
+            "indices": [
+              26,
+              34
+            ],
+            "id_str": "188019606",
+            "id": 188019606,
+            "screen_name": "Clyburn"
+          },
+          {
+            "name": "Malcolm Graham",
+            "indices": [
+              35,
+              50
+            ],
+            "id_str": "114548995",
+            "id": 114548995,
+            "screen_name": "SenatorMGraham"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "9744332",
+        "id": 9744332
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 49698134,
+      "in_reply_to_screen_name": "JoyAnnReid",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/qpSNgeybLY",
+            "media_url": "http://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+            "expanded_url": "http://twitter.com/cybergrrl/status/629307961005838336/photo/1",
+            "id_str": "629307954164961280",
+            "indices": [
+              59,
+              81
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/qpSNgeybLY",
+            "id": 629307954164961280
+          }
+        ]
+      },
+      "text": "@JoyAnnReid @keithellison @Clyburn @SenatorMGraham #NABJ40 http://t.co/qpSNgeybLY",
+      "lang": "und",
+      "created_at": "Thu Aug 06 15:08:04 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 9744332,
+          "media_url": "http://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+          "source_user_id_str": "9744332",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "pic.twitter.com/qpSNgeybLY",
+          "expanded_url": "http://twitter.com/cybergrrl/status/629307961005838336/photo/1",
+          "url": "http://t.co/qpSNgeybLY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+          "source_status_id_str": "629307961005838336",
+          "id_str": "629307954164961280",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629307954164961280,
+          "source_status_id": 629307961005838336
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629352117317275648,
+    "id_str": "629352117317275648",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NABJ40",
+          "indices": [
+            66,
+            73
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 9744332,
+          "media_url": "http://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+          "source_user_id_str": "9744332",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "pic.twitter.com/qpSNgeybLY",
+          "expanded_url": "http://twitter.com/cybergrrl/status/629307961005838336/photo/1",
+          "url": "http://t.co/qpSNgeybLY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvAQAZUkAATE4J.jpg",
+          "source_status_id_str": "629307961005838336",
+          "id_str": "629307954164961280",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629307954164961280,
+          "source_status_id": 629307961005838336
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Stefanie Cargill",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "9744332",
+          "id": 9744332,
+          "screen_name": "cybergrrl"
+        },
+        {
+          "name": "Joy Reid",
+          "indices": [
+            15,
+            26
+          ],
+          "id_str": "49698134",
+          "id": 49698134,
+          "screen_name": "JoyAnnReid"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            27,
+            40
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        },
+        {
+          "name": "James E. Clyburn",
+          "indices": [
+            41,
+            49
+          ],
+          "id_str": "188019606",
+          "id": 188019606,
+          "screen_name": "Clyburn"
+        },
+        {
+          "name": "Malcolm Graham",
+          "indices": [
+            50,
+            65
+          ],
+          "id_str": "114548995",
+          "id": 114548995,
+          "screen_name": "SenatorMGraham"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @cybergrrl: @JoyAnnReid @keithellison @Clyburn @SenatorMGraham #NABJ40 http://t.co/qpSNgeybLY",
+    "lang": "und",
+    "created_at": "2015-08-06 18:03:32+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629311603486392320,
+      "id_str": "629311603486392320",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NABJ40",
+            "indices": [
+              55,
+              62
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              41,
+              54
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3243012611",
+        "id": 3243012611
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\u201cThe bottom line is we're all in this..\u201d\u2014@keithellison #NABJ40",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:22:32 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629352082290667520,
+    "id_str": "629352082290667520",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NABJ40",
+          "indices": [
+            70,
+            77
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Tariq Rashid",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "3243012611",
+          "id": 3243012611,
+          "screen_name": "RiqTweets"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            56,
+            69
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RiqTweets: \u201cThe bottom line is we're all in this..\u201d\u2014@keithellison #NABJ40",
+    "lang": "en",
+    "created_at": "2015-08-06 18:03:23+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629308102635032576,
+      "id_str": "629308102635032576",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "NABJ40Race",
+            "indices": [
+              96,
+              107
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/rV2HEzBtBl",
+            "media_url": "http://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+            "expanded_url": "http://twitter.com/emarvelous/status/629308102635032576/photo/1",
+            "id_str": "629308085387956224",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/rV2HEzBtBl",
+            "id": 629308085387956224
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16187815",
+        "id": 16187815
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/rV2HEzBtBl",
+            "media_url": "http://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+            "expanded_url": "http://twitter.com/emarvelous/status/629308102635032576/photo/1",
+            "id_str": "629308085387956224",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/rV2HEzBtBl",
+            "id": 629308085387956224
+          }
+        ]
+      },
+      "text": ".@keithellison quotes Kerner Commission report; says black journos bring important perspective. #NABJ40Race http://t.co/rV2HEzBtBl",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:08:38 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16187815,
+          "media_url": "http://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+          "source_user_id_str": "16187815",
+          "indices": [
+            124,
+            140
+          ],
+          "display_url": "pic.twitter.com/rV2HEzBtBl",
+          "expanded_url": "http://twitter.com/emarvelous/status/629308102635032576/photo/1",
+          "url": "http://t.co/rV2HEzBtBl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+          "source_status_id_str": "629308102635032576",
+          "id_str": "629308085387956224",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629308085387956224,
+          "source_status_id": 629308102635032576
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629352030096723969,
+    "id_str": "629352030096723969",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NABJ40Race",
+          "indices": [
+            112,
+            123
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 16187815,
+          "media_url": "http://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+          "source_user_id_str": "16187815",
+          "indices": [
+            124,
+            140
+          ],
+          "display_url": "pic.twitter.com/rV2HEzBtBl",
+          "expanded_url": "http://twitter.com/emarvelous/status/629308102635032576/photo/1",
+          "url": "http://t.co/rV2HEzBtBl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvAXpPUkAAQpMI.jpg",
+          "source_status_id_str": "629308102635032576",
+          "id_str": "629308085387956224",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629308085387956224,
+          "source_status_id": 629308102635032576
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "errin haines whack",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "16187815",
+          "id": 16187815,
+          "screen_name": "emarvelous"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @emarvelous: .@keithellison quotes Kerner Commission report; says black journos bring important perspective. #NABJ40Race http://t.co/rV2\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 18:03:11+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "14135426",
+      "id": 629311975009337344,
+      "id_str": "629311975009337344",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "nabj40race",
+            "indices": [
+              116,
+              127
+            ]
+          },
+          {
+            "text": "NABJ15",
+            "indices": [
+              128,
+              135
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              0,
+              13
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15916612",
+        "id": 15916612
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 14135426,
+      "in_reply_to_screen_name": "keithellison",
+      "retweeted": false,
+      "text": "@keithellison get beyond blame and shame when talking about race.  Write about the history and the laws, the myths. #nabj40race #NABJ15",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:24:01 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629351959045255168,
+    "id_str": "629351959045255168",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "nabj40race",
+          "indices": [
+            131,
+            140
+          ]
+        },
+        {
+          "text": "NABJ15",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "June Cross",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "15916612",
+          "id": 15916612,
+          "screen_name": "junecross"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            15,
+            28
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @junecross: @keithellison get beyond blame and shame when talking about race.  Write about the history and the laws, the myths. #nabj40r\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 18:02:54+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "14135426",
+      "id": 629312391143129089,
+      "id_str": "629312391143129089",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NABJ40race",
+            "indices": [
+              128,
+              139
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              0,
+              13
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3243012611",
+        "id": 3243012611
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 14135426,
+      "in_reply_to_screen_name": "keithellison",
+      "retweeted": false,
+      "text": "@keithellison cites Native American Removal Act as an example as he beckons journalists to cover all narratives concerning PoC. #NABJ40race",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:25:40 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629351898722738179,
+    "id_str": "629351898722738179",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NABJ40race",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Tariq Rashid",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "3243012611",
+          "id": 3243012611,
+          "screen_name": "RiqTweets"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            15,
+            28
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RiqTweets: @keithellison cites Native American Removal Act as an example as he beckons journalists to cover all narratives concerning P\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 18:02:40+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629313165298266112,
+      "id_str": "629313165298266112",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NABJ40",
+            "indices": [
+              83,
+              90
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              4,
+              17
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16306735",
+        "id": 16306735
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Rep @keithellison says conversations about racism needs to start at kitchen tables #NABJ40",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:28:45 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629351822424154113,
+    "id_str": "629351822424154113",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NABJ40",
+          "indices": [
+            99,
+            106
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Cathy Arnst",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "16306735",
+          "id": 16306735,
+          "screen_name": "cathyarnst"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            20,
+            33
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @cathyarnst: Rep @keithellison says conversations about racism needs to start at kitchen tables #NABJ40",
+    "lang": "en",
+    "created_at": "2015-08-06 18:02:21+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629311577599135744,
+      "id_str": "629311577599135744",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NABJ40race",
+            "indices": [
+              86,
+              97
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Keith Ellison",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "14135426",
+            "id": 14135426,
+            "screen_name": "keithellison"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "58623522",
+        "id": 58623522
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@keithellison \"Racism didn't happen to black people, it happened to all of America.\" #NABJ40race",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:22:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629351771777957888,
+    "id_str": "629351771777957888",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NABJ40race",
+          "indices": [
+            104,
+            115
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Crystal Lewis Brown",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "58623522",
+          "id": 58623522,
+          "screen_name": "c_lewisbrown"
+        },
+        {
+          "name": "Rep. Keith Ellison",
+          "indices": [
+            19,
+            32
+          ],
+          "id_str": "14135426",
+          "id": 14135426,
+          "screen_name": "keithellison"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14135426",
+      "screen_name": "keithellison",
+      "id": 14135426
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @c_lewisbrown: .@keithellison \"Racism didn't happen to black people, it happened to all of America.\" #NABJ40race",
+    "lang": "en",
+    "created_at": "2015-08-06 18:02:09+00:00"
+  }
+]

@@ -1,0 +1,2114 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 101,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 67,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Indiana, USA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -88.097892,
+                37.771743
+              ],
+              [
+                -84.78458,
+                37.771743
+              ],
+              [
+                -84.78458,
+                41.761368
+              ],
+              [
+                -88.097892,
+                41.761368
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json",
+        "name": "Indiana",
+        "country": "United States",
+        "place_type": "admin",
+        "id": "1010ecfa7d3a40f8"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629628072719839232,
+      "id_str": "629628072719839232",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "PurpleHeart",
+            "indices": [
+              57,
+              69
+            ]
+          },
+          {
+            "text": "PurpleHeartDay",
+            "indices": [
+              101,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/v0F7R7JA8G",
+            "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+            "id_str": "629628072120074240",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 333,
+                "resize": "fit",
+                "h": 680
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              },
+              "large": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              }
+            },
+            "display_url": "pic.twitter.com/v0F7R7JA8G",
+            "id": 629628072120074240
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "27048645",
+        "id": 27048645
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/v0F7R7JA8G",
+            "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+            "id_str": "629628072120074240",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 333,
+                "resize": "fit",
+                "h": 680
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              },
+              "large": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              }
+            },
+            "display_url": "pic.twitter.com/v0F7R7JA8G",
+            "id": 629628072120074240
+          }
+        ]
+      },
+      "text": "Today is set aside to honor those who have ever earned a #PurpleHeart. Thank you for your sacrifice. #PurpleHeartDay http://t.co/v0F7R7JA8G",
+      "lang": "en",
+      "created_at": "Fri Aug 07 12:20:05 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 101,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 27048645,
+          "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+          "source_user_id_str": "27048645",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/v0F7R7JA8G",
+          "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+          "url": "http://t.co/v0F7R7JA8G",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+          "source_status_id_str": "629628072719839232",
+          "id_str": "629628072120074240",
+          "sizes": {
+            "small": {
+              "w": 333,
+              "resize": "fit",
+              "h": 680
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 578,
+              "resize": "fit",
+              "h": 1180
+            },
+            "large": {
+              "w": 578,
+              "resize": "fit",
+              "h": 1180
+            }
+          },
+          "id": 629628072120074240,
+          "source_status_id": 629628072719839232
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629631048771629056,
+    "id_str": "629631048771629056",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeart",
+          "indices": [
+            77,
+            89
+          ]
+        },
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            121,
+            136
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 27048645,
+          "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+          "source_user_id_str": "27048645",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/v0F7R7JA8G",
+          "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+          "url": "http://t.co/v0F7R7JA8G",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+          "source_status_id_str": "629628072719839232",
+          "id_str": "629628072120074240",
+          "sizes": {
+            "small": {
+              "w": 333,
+              "resize": "fit",
+              "h": 680
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 578,
+              "resize": "fit",
+              "h": 1180
+            },
+            "large": {
+              "w": 578,
+              "resize": "fit",
+              "h": 1180
+            }
+          },
+          "id": 629628072120074240,
+          "source_status_id": 629628072719839232
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "The American Legion ",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "27048645",
+          "id": 27048645,
+          "screen_name": "AmericanLegion"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AmericanLegion: Today is set aside to honor those who have ever earned a #PurpleHeart. Thank you for your sacrifice. #PurpleHeartDay ht\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 12:31:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629394770587074560,
+    "id_str": "629394770587074560",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "GOPDebate",
+          "indices": [
+            95,
+            105
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "WPG Talk Radio 1450",
+          "indices": [
+            12,
+            20
+          ],
+          "id_str": "876839550",
+          "id": 876839550,
+          "screen_name": "WPG1450"
+        },
+        {
+          "name": "Harry Hurley",
+          "indices": [
+            58,
+            70
+          ],
+          "id_str": "375718964",
+          "id": 375718964,
+          "screen_name": "HarryHurley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Stopping by @WPG1450 for monthly \"Ask the Congressman\" w/ @HarryHurley at 5pm before tonight's #GOPDebate. Welcome your thoughts, questions",
+    "lang": "en",
+    "created_at": "2015-08-06 20:53:01+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629291046384611328,
+      "id_str": "629291046384611328",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/9J4YVOkh8E",
+            "indices": [
+              89,
+              111
+            ],
+            "display_url": "wpg1450.com/ask-the-congre\u2026",
+            "expanded_url": "http://wpg1450.com/ask-the-congressman-with-u-s-rep-frank-lobiondo-august-2015/"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "WPGAskTheCongressman",
+            "indices": [
+              57,
+              78
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Frank LoBiondo",
+            "indices": [
+              8,
+              20
+            ],
+            "id_str": "241207373",
+            "id": 241207373,
+            "screen_name": "RepLoBiondo"
+          },
+          {
+            "name": "Harry Hurley",
+            "indices": [
+              112,
+              124
+            ],
+            "id_str": "375718964",
+            "id": 375718964,
+            "screen_name": "HarryHurley"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "876839550",
+        "id": 876839550
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Talk to @RepLoBiondo this evening at 5:00 on our monthly #WPGAskTheCongressman program - http://t.co/9J4YVOkh8E @HarryHurley",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:00:51 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629325919820357632,
+    "id_str": "629325919820357632",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/9J4YVOkh8E",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "wpg1450.com/ask-the-congre\u2026",
+          "expanded_url": "http://wpg1450.com/ask-the-congressman-with-u-s-rep-frank-lobiondo-august-2015/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WPGAskTheCongressman",
+          "indices": [
+            70,
+            91
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "WPG Talk Radio 1450",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "876839550",
+          "id": 876839550,
+          "screen_name": "WPG1450"
+        },
+        {
+          "name": "Frank LoBiondo",
+          "indices": [
+            21,
+            33
+          ],
+          "id_str": "241207373",
+          "id": 241207373,
+          "screen_name": "RepLoBiondo"
+        },
+        {
+          "name": "Harry Hurley",
+          "indices": [
+            125,
+            137
+          ],
+          "id_str": "375718964",
+          "id": 375718964,
+          "screen_name": "HarryHurley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WPG1450: Talk to @RepLoBiondo this evening at 5:00 on our monthly #WPGAskTheCongressman program - http://t.co/9J4YVOkh8E @HarryHurley",
+    "lang": "en",
+    "created_at": "2015-08-06 16:19:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629258956846854144,
+    "id_str": "629258956846854144",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            119,
+            131
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "NEWS TALK 1400 WOND",
+          "indices": [
+            8,
+            17
+          ],
+          "id_str": "33534171",
+          "id": 33534171,
+          "screen_name": "1400WOND"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joining @1400WOND Don Williams in-studio for the 8am hour. Listen LIVE &amp; call with your questions. Happy to answer #SouthJersey",
+    "lang": "en",
+    "created_at": "2015-08-06 11:53:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628998583925252098,
+    "id_str": "628998583925252098",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/aWCi68aHQF",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "nj.com/salem/index.ss\u2026",
+          "expanded_url": "http://www.nj.com/salem/index.ssf/2015/08/the_heartbeat_of_america_the_salem_county_fair_off.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            70,
+            82
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Had great time (as always) at Salem County Fair last night. Encourage #SouthJersey residents to stop by &amp; enjoy! http://t.co/aWCi68aHQF",
+    "lang": "en",
+    "created_at": "2015-08-05 18:38:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628675761717805056,
+    "id_str": "628675761717805056",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            54,
+            66
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Headed to Salem County Fair. Opening night of a great #SouthJersey tradition. Come up &amp; say hi... And RT if I will see you there!",
+    "lang": "en",
+    "created_at": "2015-08-04 21:15:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628670484348030976,
+    "id_str": "628670484348030976",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/kcktrx1HBc",
+          "media_url": "http://pbs.twimg.com/media/CLl8eWgWUAAkPSS.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl8eWgWUAAkPSS.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/628670484348030976/photo/1",
+          "id_str": "628670483874074624",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/kcktrx1HBc",
+          "id": 628670483874074624
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kcktrx1HBc",
+          "media_url": "http://pbs.twimg.com/media/CLl8eWgWUAAkPSS.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl8eWgWUAAkPSS.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/628670484348030976/photo/1",
+          "id_str": "628670483874074624",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/kcktrx1HBc",
+          "id": 628670483874074624
+        }
+      ]
+    },
+    "text": "Getting firsthand view of completed work on $10M Oakwood Beach construction project from Elsinboro Mayor Sean Elwell http://t.co/kcktrx1HBc",
+    "lang": "en",
+    "created_at": "2015-08-04 20:54:58+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628603074576281600,
+    "id_str": "628603074576281600",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            78,
+            90
+          ]
+        },
+        {
+          "text": "CG225th",
+          "indices": [
+            139,
+            147
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "U.S. Coast Guard",
+          "indices": [
+            28,
+            41
+          ],
+          "id_str": "17409240",
+          "id": 17409240,
+          "screen_name": "uscoastguard"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Very special HAPPY BIRTHDAY @uscoastguard &amp; dedicated \"Coasties\" who call #SouthJersey home. Thank you &amp; families for your service #CG225th",
+    "lang": "en",
+    "created_at": "2015-08-04 16:27:06+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 481,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 514,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628535897286311936,
+      "id_str": "628535897286311936",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "CG225th",
+            "indices": [
+              45,
+              53
+            ]
+          },
+          {
+            "text": "225th",
+            "indices": [
+              54,
+              60
+            ]
+          },
+          {
+            "text": "USCG",
+            "indices": [
+              61,
+              66
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/QDxyeCXkUS",
+            "media_url": "http://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+            "expanded_url": "http://twitter.com/DeptofDefense/status/628535897286311936/photo/1",
+            "id_str": "628245986834407424",
+            "indices": [
+              67,
+              89
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1023,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/QDxyeCXkUS",
+            "id": 628245986834407424
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "U.S. Coast Guard",
+            "indices": [
+              28,
+              41
+            ],
+            "id_str": "17409240",
+            "id": 17409240,
+            "screen_name": "uscoastguard"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "66369181",
+        "id": 66369181
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/QDxyeCXkUS",
+            "media_url": "http://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+            "expanded_url": "http://twitter.com/DeptofDefense/status/628535897286311936/photo/1",
+            "id_str": "628245986834407424",
+            "indices": [
+              67,
+              89
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1023,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/QDxyeCXkUS",
+            "id": 628245986834407424
+          }
+        ]
+      },
+      "text": "Happy 225th Birthday to the @uscoastguard!!! #CG225th #225th #USCG http://t.co/QDxyeCXkUS",
+      "lang": "en",
+      "created_at": "Tue Aug 04 12:00:10 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 481,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 66369181,
+          "media_url": "http://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+          "source_user_id_str": "66369181",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "pic.twitter.com/QDxyeCXkUS",
+          "expanded_url": "http://twitter.com/DeptofDefense/status/628535897286311936/photo/1",
+          "url": "http://t.co/QDxyeCXkUS",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+          "source_status_id_str": "628535897286311936",
+          "id_str": "628245986834407424",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1023,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 628245986834407424,
+          "source_status_id": 628535897286311936
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628602704269549568,
+    "id_str": "628602704269549568",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CG225th",
+          "indices": [
+            64,
+            72
+          ]
+        },
+        {
+          "text": "225th",
+          "indices": [
+            73,
+            79
+          ]
+        },
+        {
+          "text": "USCG",
+          "indices": [
+            80,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 66369181,
+          "media_url": "http://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+          "source_user_id_str": "66369181",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "pic.twitter.com/QDxyeCXkUS",
+          "expanded_url": "http://twitter.com/DeptofDefense/status/628535897286311936/photo/1",
+          "url": "http://t.co/QDxyeCXkUS",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf6ZXzUYAAHXG9.jpg",
+          "source_status_id_str": "628535897286311936",
+          "id_str": "628245986834407424",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1023,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 628245986834407424,
+          "source_status_id": 628535897286311936
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "U.S. Dept of Defense",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "66369181",
+          "id": 66369181,
+          "screen_name": "DeptofDefense"
+        },
+        {
+          "name": "U.S. Coast Guard",
+          "indices": [
+            47,
+            60
+          ],
+          "id_str": "17409240",
+          "id": 17409240,
+          "screen_name": "uscoastguard"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @DeptofDefense: Happy 225th Birthday to the @uscoastguard!!! #CG225th #225th #USCG http://t.co/QDxyeCXkUS",
+    "lang": "en",
+    "created_at": "2015-08-04 16:25:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628568965854400512,
+    "id_str": "628568965854400512",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            57,
+            69
+          ]
+        },
+        {
+          "text": "JerseyShore",
+          "indices": [
+            76,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/WB0P6BbIdj",
+          "media_url": "http://pbs.twimg.com/media/CLkgI65WcAAnZ6c.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkgI65WcAAnZ6c.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/628568965854400512/photo/1",
+          "id_str": "628568960615739392",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/WB0P6BbIdj",
+          "id": 628568960615739392
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Paramount Air",
+          "indices": [
+            9,
+            23
+          ],
+          "id_str": "1040227189",
+          "id": 1040227189,
+          "screen_name": "Paramount_Air"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/WB0P6BbIdj",
+          "media_url": "http://pbs.twimg.com/media/CLkgI65WcAAnZ6c.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkgI65WcAAnZ6c.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/628568965854400512/photo/1",
+          "id_str": "628568960615739392",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/WB0P6BbIdj",
+          "id": 628568960615739392
+        }
+      ]
+    },
+    "text": "CONGRATS @Paramount_Air on 70 years of flying high above #SouthJersey &amp; #JerseyShore visitors! http://t.co/WB0P6BbIdj",
+    "lang": "en",
+    "created_at": "2015-08-04 14:11:34+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628278161181155328,
+    "id_str": "628278161181155328",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            86,
+            98
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Look forward to opening night of Salem County Fair tomorrow in Woodstown. One of best #SouthJersey summer traditions. Hope to see many there",
+    "lang": "en",
+    "created_at": "2015-08-03 18:56:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627535647939629056,
+    "id_str": "627535647939629056",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/lTxCmhWnI6",
+          "media_url": "http://pbs.twimg.com/media/CLV0UwxUEAAvPwj.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLV0UwxUEAAvPwj.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/627535647939629056/photo/1",
+          "id_str": "627535623125995520",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/lTxCmhWnI6",
+          "id": 627535623125995520
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/lTxCmhWnI6",
+          "media_url": "http://pbs.twimg.com/media/CLV0UwxUEAAvPwj.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLV0UwxUEAAvPwj.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/627535647939629056/photo/1",
+          "id_str": "627535623125995520",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 576,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/lTxCmhWnI6",
+          "id": 627535623125995520
+        }
+      ]
+    },
+    "text": "Applaud SJ Building Trades for donating all construction labor time &amp; effort for Absecon's 9/11 Memorial http://t.co/lTxCmhWnI6",
+    "lang": "en",
+    "created_at": "2015-08-01 17:45:32+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627079804513320960,
+    "id_str": "627079804513320960",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            8,
+            20
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Morning #SouthJersey - let's have a productive Friday and a GREAT weekend!",
+    "lang": "en",
+    "created_at": "2015-07-31 11:34:10+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627079448911872000,
+      "id_str": "627079448911872000",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/jVs5EOqm5Y",
+            "media_url": "http://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+            "expanded_url": "http://twitter.com/ACPressSkeldon/status/627079448911872000/photo/1",
+            "id_str": "627079448139935745",
+            "indices": [
+              78,
+              100
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 960
+              }
+            },
+            "display_url": "pic.twitter.com/jVs5EOqm5Y",
+            "id": 627079448139935745
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29748622",
+        "id": 29748622
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/jVs5EOqm5Y",
+            "media_url": "http://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+            "expanded_url": "http://twitter.com/ACPressSkeldon/status/627079448911872000/photo/1",
+            "id_str": "627079448139935745",
+            "indices": [
+              78,
+              100
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 960
+              }
+            },
+            "display_url": "pic.twitter.com/jVs5EOqm5Y",
+            "id": 627079448139935745
+          }
+        ]
+      },
+      "text": "Nice sunrise over the South Jersey salt marshes this morning by George Elmer. http://t.co/jVs5EOqm5Y",
+      "lang": "en",
+      "created_at": "Fri Jul 31 11:32:45 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 29748622,
+          "media_url": "http://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+          "source_user_id_str": "29748622",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "pic.twitter.com/jVs5EOqm5Y",
+          "expanded_url": "http://twitter.com/ACPressSkeldon/status/627079448911872000/photo/1",
+          "url": "http://t.co/jVs5EOqm5Y",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+          "source_status_id_str": "627079448911872000",
+          "id_str": "627079448139935745",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "id": 627079448139935745,
+          "source_status_id": 627079448911872000
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627079584002015232,
+    "id_str": "627079584002015232",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 29748622,
+          "media_url": "http://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+          "source_user_id_str": "29748622",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "pic.twitter.com/jVs5EOqm5Y",
+          "expanded_url": "http://twitter.com/ACPressSkeldon/status/627079448911872000/photo/1",
+          "url": "http://t.co/jVs5EOqm5Y",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLPVb4hUMAEghXm.jpg",
+          "source_status_id_str": "627079448911872000",
+          "id_str": "627079448139935745",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "id": 627079448139935745,
+          "source_status_id": 627079448911872000
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Dan Skeldon",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "29748622",
+          "id": 29748622,
+          "screen_name": "ACPressSkeldon"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ACPressSkeldon: Nice sunrise over the South Jersey salt marshes this morning by George Elmer. http://t.co/jVs5EOqm5Y",
+    "lang": "en",
+    "created_at": "2015-07-31 11:33:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626781003286081536,
+    "id_str": "626781003286081536",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            126,
+            138
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "SNJ Today",
+          "indices": [
+            54,
+            63
+          ],
+          "id_str": "2196081535",
+          "id": 2196081535,
+          "screen_name": "SNJToday"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "While missed inaugural show, look forward to catching @SNJToday news broadcast - welcome addition covering what's going on in #SouthJersey!",
+    "lang": "en",
+    "created_at": "2015-07-30 15:46:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626780432533692416,
+    "id_str": "626780432533692416",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/wT5nk2oNwN",
+          "indices": [
+            110,
+            133
+          ],
+          "display_url": "lobiondo.house.gov/schedule-meeti\u2026",
+          "expanded_url": "https://lobiondo.house.gov/schedule-meeting"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            15,
+            27
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Headed back to #SouthJersey. Lots of public events on schedule - remember to invite me to YOUR group's event: https://t.co/wT5nk2oNwN",
+    "lang": "en",
+    "created_at": "2015-07-30 15:44:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "626519529753985024",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "114332930",
+    "id": 626533818586001408,
+    "id_str": "626533818586001408",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            70,
+            82
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Travis Hughes",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "114332930",
+          "id": 114332930,
+          "screen_name": "TravisSBN"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 626519529753985024,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": 114332930,
+    "in_reply_to_screen_name": "TravisSBN",
+    "retweeted": false,
+    "text": "@TravisSBN My Facebook is two-way communication w/ my constituents in #SouthJersey. My office can assist you in contacting DC del if like",
+    "lang": "en",
+    "created_at": "2015-07-29 23:24:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626483963960426496,
+    "id_str": "626483963960426496",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zU0oRfwemw",
+          "indices": [
+            107,
+            129
+          ],
+          "display_url": "lobiondo.house.gov/iran-deal-not-\u2026",
+          "expanded_url": "http://lobiondo.house.gov/iran-deal-not-just-bad-deal-its-dangerous-deal"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            9,
+            21
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Heads up #SouthJersey ...my latest op-ed is online: \"IRAN DEAL NOT JUST A BAD DEAL, IT'S A DANGEROUS DEAL\" http://t.co/zU0oRfwemw",
+    "lang": "en",
+    "created_at": "2015-07-29 20:06:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626113033048199169,
+    "id_str": "626113033048199169",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            12,
+            24
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/PXLcgFuAck",
+          "media_url": "http://pbs.twimg.com/media/CLBmfCmWwAEBg4_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBmfCmWwAEBg4_.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/626113033048199169/photo/1",
+          "id_str": "626113031664222209",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/PXLcgFuAck",
+          "id": 626113031664222209
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/PXLcgFuAck",
+          "media_url": "http://pbs.twimg.com/media/CLBmfCmWwAEBg4_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBmfCmWwAEBg4_.jpg",
+          "expanded_url": "http://twitter.com/RepLoBiondo/status/626113033048199169/photo/1",
+          "id_str": "626113031664222209",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/PXLcgFuAck",
+          "id": 626113031664222209
+        }
+      ]
+    },
+    "text": "Raved about #SouthJersey 3 unique refuges at today's event. Proud to co-chair Congressional Wildlife Refuge Caucus http://t.co/PXLcgFuAck",
+    "lang": "en",
+    "created_at": "2015-07-28 19:32:34+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626041292603179008,
+    "id_str": "626041292603179008",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SouthJersey",
+          "indices": [
+            9,
+            21
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "241207373",
+      "screen_name": "replobiondo",
+      "id": 241207373
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "CONGRATS #SouthJersey's Noah Dellas for Gold Medal in triathlon at Special Olympics World Games. Perseverance get results &amp; all very proud!",
+    "lang": "en",
+    "created_at": "2015-07-28 14:47:30+00:00"
+  }
+]

@@ -1,0 +1,3370 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "15032862",
+      "id": 630150721829257216,
+      "id_str": "630150721829257216",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "politics",
+            "indices": [
+              51,
+              60
+            ]
+          },
+          {
+            "text": "violence",
+            "indices": [
+              65,
+              74
+            ]
+          },
+          {
+            "text": "BudBillikenParade",
+            "indices": [
+              82,
+              100
+            ]
+          },
+          {
+            "text": "BacktoSchool",
+            "indices": [
+              101,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/KB7d5Oda9J",
+            "media_url": "http://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+            "expanded_url": "http://twitter.com/mrpr/status/630150721829257216/photo/1",
+            "id_str": "630150721283883008",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 604
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 1066
+              },
+              "large": {
+                "w": 900,
+                "resize": "fit",
+                "h": 1600
+              }
+            },
+            "display_url": "pic.twitter.com/KB7d5Oda9J",
+            "id": 630150721283883008
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "CBS Chicago",
+            "indices": [
+              0,
+              11
+            ],
+            "id_str": "15032862",
+            "id": 15032862,
+            "screen_name": "cbschicago"
+          },
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              24,
+              38
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16620872",
+        "id": 16620872
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 15032862,
+      "in_reply_to_screen_name": "cbschicago",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/KB7d5Oda9J",
+            "media_url": "http://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+            "expanded_url": "http://twitter.com/mrpr/status/630150721829257216/photo/1",
+            "id_str": "630150721283883008",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 604
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 1066
+              },
+              "large": {
+                "w": 900,
+                "resize": "fit",
+                "h": 1600
+              }
+            },
+            "display_url": "pic.twitter.com/KB7d5Oda9J",
+            "id": 630150721283883008
+          }
+        ]
+      },
+      "text": "@cbschicago speaks with @RepDannyDavis today about #politics and #violence at the #BudBillikenParade #BacktoSchool http://t.co/KB7d5Oda9J",
+      "lang": "en",
+      "created_at": "Sat Aug 08 22:56:54 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16620872,
+          "media_url": "http://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+          "source_user_id_str": "16620872",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/KB7d5Oda9J",
+          "expanded_url": "http://twitter.com/mrpr/status/630150721829257216/photo/1",
+          "url": "http://t.co/KB7d5Oda9J",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+          "source_status_id_str": "630150721829257216",
+          "id_str": "630150721283883008",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 1066
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 1600
+            }
+          },
+          "id": 630150721283883008,
+          "source_status_id": 630150721829257216
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630196970817200128,
+    "id_str": "630196970817200128",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "politics",
+          "indices": [
+            61,
+            70
+          ]
+        },
+        {
+          "text": "violence",
+          "indices": [
+            75,
+            84
+          ]
+        },
+        {
+          "text": "BudBillikenParade",
+          "indices": [
+            92,
+            110
+          ]
+        },
+        {
+          "text": "BacktoSchool",
+          "indices": [
+            111,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 16620872,
+          "media_url": "http://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+          "source_user_id_str": "16620872",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/KB7d5Oda9J",
+          "expanded_url": "http://twitter.com/mrpr/status/630150721829257216/photo/1",
+          "url": "http://t.co/KB7d5Oda9J",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL6-vgkVAAAaxPI.jpg",
+          "source_status_id_str": "630150721829257216",
+          "id_str": "630150721283883008",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 604
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 1066
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 1600
+            }
+          },
+          "id": 630150721283883008,
+          "source_status_id": 630150721829257216
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "A.C. McLean",
+          "indices": [
+            3,
+            8
+          ],
+          "id_str": "16620872",
+          "id": 16620872,
+          "screen_name": "mrpr"
+        },
+        {
+          "name": "CBS Chicago",
+          "indices": [
+            10,
+            21
+          ],
+          "id_str": "15032862",
+          "id": 15032862,
+          "screen_name": "cbschicago"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            34,
+            48
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @mrpr: @cbschicago speaks with @RepDannyDavis today about #politics and #violence at the #BudBillikenParade #BacktoSchool http://t.co/KB\u2026",
+    "lang": "en",
+    "created_at": "2015-08-09 02:00:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629452093431132160,
+    "id_str": "629452093431132160",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/XDQG2dqIdo",
+          "media_url": "http://pbs.twimg.com/media/CLxDVmNUYAApyrD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxDVmNUYAApyrD.jpg",
+          "expanded_url": "http://twitter.com/RepDannyDavis/status/629452093431132160/photo/1",
+          "id_str": "629452086237749248",
+          "indices": [
+            71,
+            93
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 603
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/XDQG2dqIdo",
+          "id": 629452086237749248
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/XDQG2dqIdo",
+          "media_url": "http://pbs.twimg.com/media/CLxDVmNUYAApyrD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxDVmNUYAApyrD.jpg",
+          "expanded_url": "http://twitter.com/RepDannyDavis/status/629452093431132160/photo/1",
+          "id_str": "629452086237749248",
+          "indices": [
+            71,
+            93
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 603
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/XDQG2dqIdo",
+          "id": 629452086237749248
+        },
+        {
+          "url": "http://t.co/XDQG2dqIdo",
+          "media_url": "http://pbs.twimg.com/media/CLxDVmOVEAAm_NM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxDVmOVEAAm_NM.jpg",
+          "expanded_url": "http://twitter.com/RepDannyDavis/status/629452093431132160/photo/1",
+          "id_str": "629452086241988608",
+          "indices": [
+            71,
+            93
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 603
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            },
+            "large": {
+              "w": 577,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/XDQG2dqIdo",
+          "id": 629452086241988608
+        }
+      ]
+    },
+    "text": "Glad to be celebrating the 50th anniversary of Medicare &amp; Medicaid http://t.co/XDQG2dqIdo",
+    "lang": "en",
+    "created_at": "2015-08-07 00:40:48+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 6976,
+      "favorite_count": 11605,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629341526439653377,
+      "id_str": "629341526439653377",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1536791610",
+        "id": 1536791610
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "50 years ago today, President Johnson signed the Voting Rights Act into law, securing the right to vote for millions of African Americans.",
+      "lang": "en",
+      "created_at": "Thu Aug 06 17:21:27 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6976,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629387801578991616,
+    "id_str": "629387801578991616",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @POTUS: 50 years ago today, President Johnson signed the Voting Rights Act into law, securing the right to vote for millions of African \u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 20:25:20+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "789244177",
+      "id": 629279517278781440,
+      "id_str": "629279517278781440",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoretheVRA",
+            "indices": [
+              84,
+              98
+            ]
+          },
+          {
+            "text": "JusticeSummer",
+            "indices": [
+              100,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/MjgIpNCEt9",
+            "media_url": "http://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+            "expanded_url": "http://twitter.com/Unite4Democracy/status/629279517278781440/photo/1",
+            "id_str": "629031307465506816",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              }
+            },
+            "display_url": "pic.twitter.com/MjgIpNCEt9",
+            "id": 629031307465506816
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2327617195",
+        "id": 2327617195
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": 789244177,
+      "in_reply_to_screen_name": "RepDannyDavis",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/MjgIpNCEt9",
+            "media_url": "http://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+            "expanded_url": "http://twitter.com/Unite4Democracy/status/629279517278781440/photo/1",
+            "id_str": "629031307465506816",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              }
+            },
+            "display_url": "pic.twitter.com/MjgIpNCEt9",
+            "id": 629031307465506816
+          }
+        ]
+      },
+      "text": "@RepDannyDavis Please RT! Commemorate 50th anniversary of VRA signing and commit to #RestoretheVRA. #JusticeSummer http://t.co/MjgIpNCEt9",
+      "lang": "en",
+      "created_at": "Thu Aug 06 13:15:03 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2327617195,
+          "media_url": "http://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+          "source_user_id_str": "2327617195",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/MjgIpNCEt9",
+          "expanded_url": "http://twitter.com/Unite4Democracy/status/629279517278781440/photo/1",
+          "url": "http://t.co/MjgIpNCEt9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+          "source_status_id_str": "629279517278781440",
+          "id_str": "629031307465506816",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "id": 629031307465506816,
+          "source_status_id": 629279517278781440
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629326362059350017,
+    "id_str": "629326362059350017",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            105,
+            119
+          ]
+        },
+        {
+          "text": "JusticeSummer",
+          "indices": [
+            121,
+            135
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2327617195,
+          "media_url": "http://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+          "source_user_id_str": "2327617195",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/MjgIpNCEt9",
+          "expanded_url": "http://twitter.com/Unite4Democracy/status/629279517278781440/photo/1",
+          "url": "http://t.co/MjgIpNCEt9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrEpDIUwAAhZgn.jpg",
+          "source_status_id_str": "629279517278781440",
+          "id_str": "629031307465506816",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "id": 629031307465506816,
+          "source_status_id": 629279517278781440
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Democracy Initiative",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2327617195",
+          "id": 2327617195,
+          "screen_name": "Unite4Democracy"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            21,
+            35
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Unite4Democracy: @RepDannyDavis Please RT! Commemorate 50th anniversary of VRA signing and commit to #RestoretheVRA. #JusticeSummer htt\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 16:21:11+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -87.762641,
+          41.872032
+        ]
+      },
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -87.940033,
+                41.644102
+              ],
+              [
+                -87.523993,
+                41.644102
+              ],
+              [
+                -87.523993,
+                42.0230669
+              ],
+              [
+                -87.940033,
+                42.0230669
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+        "name": "Chicago",
+        "country": "United States",
+        "place_type": "city",
+        "id": "1d9a5370a355ab0c"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          41.872032,
+          -87.762641
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 629313545914740736,
+      "id_str": "629313545914740736",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/SWGoZMj7oY",
+            "media_url": "http://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+            "expanded_url": "http://twitter.com/CarmenzaAARP/status/629313545914740736/photo/1",
+            "id_str": "629313545797283840",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 499
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 880
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1503
+              }
+            },
+            "display_url": "pic.twitter.com/SWGoZMj7oY",
+            "id": 629313545797283840
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "AARP Illinois",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "114511353",
+            "id": 114511353,
+            "screen_name": "aarpillinois"
+          },
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              18,
+              32
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          },
+          {
+            "name": "AARP Illinois",
+            "indices": [
+              80,
+              93
+            ],
+            "id_str": "114511353",
+            "id": 114511353,
+            "screen_name": "aarpillinois"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "300487353",
+        "id": 300487353
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/SWGoZMj7oY",
+            "media_url": "http://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+            "expanded_url": "http://twitter.com/CarmenzaAARP/status/629313545914740736/photo/1",
+            "id_str": "629313545797283840",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 499
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 880
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1503
+              }
+            },
+            "display_url": "pic.twitter.com/SWGoZMj7oY",
+            "id": 629313545797283840
+          }
+        ]
+      },
+      "text": ".@aarpillinois at @repDannyDavis Medicare 50-year celebration press conference. @aarpillinois http://t.co/SWGoZMj7oY",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:30:16 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 300487353,
+          "media_url": "http://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+          "source_user_id_str": "300487353",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "pic.twitter.com/SWGoZMj7oY",
+          "expanded_url": "http://twitter.com/CarmenzaAARP/status/629313545914740736/photo/1",
+          "url": "http://t.co/SWGoZMj7oY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+          "source_status_id_str": "629313545914740736",
+          "id_str": "629313545797283840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 499
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 880
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1503
+            }
+          },
+          "id": 629313545797283840,
+          "source_status_id": 629313545914740736
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629326313090850816,
+    "id_str": "629326313090850816",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 300487353,
+          "media_url": "http://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+          "source_user_id_str": "300487353",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "pic.twitter.com/SWGoZMj7oY",
+          "expanded_url": "http://twitter.com/CarmenzaAARP/status/629313545914740736/photo/1",
+          "url": "http://t.co/SWGoZMj7oY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvFVe2WsAAudqj.jpg",
+          "source_status_id_str": "629313545914740736",
+          "id_str": "629313545797283840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 499
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 880
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1503
+            }
+          },
+          "id": 629313545797283840,
+          "source_status_id": 629313545914740736
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Carmenza Millan",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "300487353",
+          "id": 300487353,
+          "screen_name": "CarmenzaAARP"
+        },
+        {
+          "name": "AARP Illinois",
+          "indices": [
+            19,
+            32
+          ],
+          "id_str": "114511353",
+          "id": 114511353,
+          "screen_name": "aarpillinois"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            36,
+            50
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        },
+        {
+          "name": "AARP Illinois",
+          "indices": [
+            98,
+            111
+          ],
+          "id_str": "114511353",
+          "id": 114511353,
+          "screen_name": "aarpillinois"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CarmenzaAARP: .@aarpillinois at @repDannyDavis Medicare 50-year celebration press conference. @aarpillinois http://t.co/SWGoZMj7oY",
+    "lang": "en",
+    "created_at": "2015-08-06 16:21:00+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628985440553541632,
+      "id_str": "628985440553541632",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "MakerChallenge",
+            "indices": [
+              78,
+              93
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/v5hoD6nJCU",
+            "media_url": "http://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+            "expanded_url": "http://twitter.com/cschoolsIL/status/628985440553541632/photo/1",
+            "id_str": "628985439777636353",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 201
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 355
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 606
+              }
+            },
+            "display_url": "pic.twitter.com/v5hoD6nJCU",
+            "id": 628985439777636353
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "littleBits",
+            "indices": [
+              45,
+              56
+            ],
+            "id_str": "236548159",
+            "id": 236548159,
+            "screen_name": "littleBits"
+          },
+          {
+            "name": "Motorola Mobility",
+            "indices": [
+              68,
+              77
+            ],
+            "id_str": "49753110",
+            "id": 49753110,
+            "screen_name": "Motorola"
+          },
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              99,
+              113
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "873800504",
+        "id": 873800504
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/v5hoD6nJCU",
+            "media_url": "http://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+            "expanded_url": "http://twitter.com/cschoolsIL/status/628985440553541632/photo/1",
+            "id_str": "628985439777636353",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 201
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 355
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 606
+              }
+            },
+            "display_url": "pic.twitter.com/v5hoD6nJCU",
+            "id": 628985439777636353
+          }
+        ]
+      },
+      "text": "Our Woodson scholars pitching their creative @littleBits inventions @Motorola #MakerChallenge with @RepDannyDavis!! http://t.co/v5hoD6nJCU",
+      "lang": "en",
+      "created_at": "Wed Aug 05 17:46:29 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 873800504,
+          "media_url": "http://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+          "source_user_id_str": "873800504",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/v5hoD6nJCU",
+          "expanded_url": "http://twitter.com/cschoolsIL/status/628985440553541632/photo/1",
+          "url": "http://t.co/v5hoD6nJCU",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+          "source_status_id_str": "628985440553541632",
+          "id_str": "628985439777636353",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 201
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 355
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 606
+            }
+          },
+          "id": 628985439777636353,
+          "source_status_id": 628985440553541632
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629123721891069952,
+    "id_str": "629123721891069952",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MakerChallenge",
+          "indices": [
+            94,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 873800504,
+          "media_url": "http://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+          "source_user_id_str": "873800504",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/v5hoD6nJCU",
+          "expanded_url": "http://twitter.com/cschoolsIL/status/628985440553541632/photo/1",
+          "url": "http://t.co/v5hoD6nJCU",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqa7MrWwAEnC78.jpg",
+          "source_status_id_str": "628985440553541632",
+          "id_str": "628985439777636353",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 201
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 355
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 606
+            }
+          },
+          "id": 628985439777636353,
+          "source_status_id": 628985440553541632
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Citizen Schools IL",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "873800504",
+          "id": 873800504,
+          "screen_name": "cschoolsIL"
+        },
+        {
+          "name": "littleBits",
+          "indices": [
+            61,
+            72
+          ],
+          "id_str": "236548159",
+          "id": 236548159,
+          "screen_name": "littleBits"
+        },
+        {
+          "name": "Motorola Mobility",
+          "indices": [
+            84,
+            93
+          ],
+          "id_str": "49753110",
+          "id": 49753110,
+          "screen_name": "Motorola"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            115,
+            129
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @cschoolsIL: Our Woodson scholars pitching their creative @littleBits inventions @Motorola #MakerChallenge with @RepDannyDavis!! http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 02:55:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628605762206625792,
+    "id_str": "628605762206625792",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            22,
+            28
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy Birthday to our @POTUS. I hope your day is filled with joy and laughter.",
+    "lang": "en",
+    "created_at": "2015-08-04 16:37:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628327137087520768,
+    "id_str": "628327137087520768",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "EqualityForward",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#EqualityForward bill honors values of our Founders who pledged \u2018life, liberty &amp; pursuit of happiness\u2019 for all Americans -- LGBT included!",
+    "lang": "en",
+    "created_at": "2015-08-03 22:10:37+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628287420572807170,
+      "id_str": "628287420572807170",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/CV2yokFWDy",
+            "indices": [
+              40,
+              62
+            ],
+            "display_url": "revolutionradionetwork.com/jeff-santos-sh\u2026",
+            "expanded_url": "http://revolutionradionetwork.com/jeff-santos-show-73115"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Jim Dean",
+            "indices": [
+              66,
+              77
+            ],
+            "id_str": "240376533",
+            "id": 240376533,
+            "screen_name": "TheJimDean"
+          },
+          {
+            "name": "DemocracyForAmerica",
+            "indices": [
+              78,
+              88
+            ],
+            "id_str": "57405911",
+            "id": 57405911,
+            "screen_name": "DFAaction"
+          },
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              90,
+              104
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          },
+          {
+            "name": "John Sapochetti",
+            "indices": [
+              134,
+              144
+            ],
+            "id_str": "445022622",
+            "id": 445022622,
+            "screen_name": "johnsap25"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "37469127",
+        "id": 37469127
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Friday 7/31 Podcast Now Available HERE: http://t.co/CV2yokFWDy w/ @theJimDean @DFAaction, @RepDannyDavis (D-IL) &amp; John Sapochetti @JohnSap25",
+      "lang": "en",
+      "created_at": "Mon Aug 03 19:32:48 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628296417195507715,
+    "id_str": "628296417195507715",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/CV2yokFWDy",
+          "indices": [
+            60,
+            82
+          ],
+          "display_url": "revolutionradionetwork.com/jeff-santos-sh\u2026",
+          "expanded_url": "http://revolutionradionetwork.com/jeff-santos-show-73115"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jeff Santos Show",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "37469127",
+          "id": 37469127,
+          "screen_name": "JeffSantosShow"
+        },
+        {
+          "name": "Jim Dean",
+          "indices": [
+            86,
+            97
+          ],
+          "id_str": "240376533",
+          "id": 240376533,
+          "screen_name": "TheJimDean"
+        },
+        {
+          "name": "DemocracyForAmerica",
+          "indices": [
+            98,
+            108
+          ],
+          "id_str": "57405911",
+          "id": 57405911,
+          "screen_name": "DFAaction"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            110,
+            124
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        },
+        {
+          "name": "John Sapochetti",
+          "indices": [
+            143,
+            144
+          ],
+          "id_str": "445022622",
+          "id": 445022622,
+          "screen_name": "johnsap25"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JeffSantosShow: Friday 7/31 Podcast Now Available HERE: http://t.co/CV2yokFWDy w/ @theJimDean @DFAaction, @RepDannyDavis (D-IL) &amp; John \u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 20:08:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628281936541294592,
+    "id_str": "628281936541294592",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RebuildRenew",
+          "indices": [
+            128,
+            141
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We need a robust, long-term bill that builds the safe, modern infrastructure that our country deserves &amp; our economy needs. #RebuildRenew",
+    "lang": "en",
+    "created_at": "2015-08-03 19:11:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628235240323072000,
+    "id_str": "628235240323072000",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ExIm4jobs",
+          "indices": [
+            114,
+            124
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It\u2019s been almost a month since the GOP dealt a body blow to American workers &amp; biz by refusing to reauthorize #ExIm4jobs. Let's get to work.",
+    "lang": "en",
+    "created_at": "2015-08-03 16:05:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628207667333451776,
+    "id_str": "628207667333451776",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/VSR7sjXos4",
+          "media_url": "http://pbs.twimg.com/media/CLfXi1pUEAA1uwq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfXi1pUEAA1uwq.jpg",
+          "expanded_url": "http://twitter.com/RepDannyDavis/status/628207667333451776/photo/1",
+          "id_str": "628207666557358080",
+          "indices": [
+            69,
+            91
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 245
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 432
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 738
+            }
+          },
+          "display_url": "pic.twitter.com/VSR7sjXos4",
+          "id": 628207666557358080
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/VSR7sjXos4",
+          "media_url": "http://pbs.twimg.com/media/CLfXi1pUEAA1uwq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfXi1pUEAA1uwq.jpg",
+          "expanded_url": "http://twitter.com/RepDannyDavis/status/628207667333451776/photo/1",
+          "id_str": "628207666557358080",
+          "indices": [
+            69,
+            91
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 245
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 432
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 738
+            }
+          },
+          "display_url": "pic.twitter.com/VSR7sjXos4",
+          "id": 628207666557358080
+        }
+      ]
+    },
+    "text": "Be sure to attend the town hall meetings going on throughout August. http://t.co/VSR7sjXos4",
+    "lang": "en",
+    "created_at": "2015-08-03 14:15:54+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628191230954971136,
+      "id_str": "628191230954971136",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "ENDALZ",
+            "indices": [
+              72,
+              79
+            ]
+          },
+          {
+            "text": "EndAlzheimers",
+            "indices": [
+              80,
+              94
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              10,
+              24
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "204905640",
+        "id": 204905640
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you @RepDannyDavis for cosponsoring the HOPE for Alzheimer's Act! #ENDALZ #EndAlzheimers",
+      "lang": "en",
+      "created_at": "Mon Aug 03 13:10:35 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628191972386320384,
+    "id_str": "628191972386320384",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ENDALZ",
+          "indices": [
+            87,
+            94
+          ]
+        },
+        {
+          "text": "EndAlzheimers",
+          "indices": [
+            95,
+            109
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "ALZ Impact Movement",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "204905640",
+          "id": 204905640,
+          "screen_name": "ALZIMPACT"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            25,
+            39
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ALZIMPACT: Thank you @RepDannyDavis for cosponsoring the HOPE for Alzheimer's Act! #ENDALZ #EndAlzheimers",
+    "lang": "en",
+    "created_at": "2015-08-03 13:13:32+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Chicago, IL",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -87.940033,
+                41.644102
+              ],
+              [
+                -87.523993,
+                41.644102
+              ],
+              [
+                -87.523993,
+                42.0230669
+              ],
+              [
+                -87.940033,
+                42.0230669
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/1d9a5370a355ab0c.json",
+        "name": "Chicago",
+        "country": "United States",
+        "place_type": "city",
+        "id": "1d9a5370a355ab0c"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627941824527773696,
+      "id_str": "627941824527773696",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/udZrtdqHvF",
+            "media_url": "http://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+            "expanded_url": "http://twitter.com/Chas719/status/627941824527773696/photo/1",
+            "id_str": "627941823734923264",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 260
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 460
+              },
+              "large": {
+                "w": 959,
+                "resize": "fit",
+                "h": 736
+              }
+            },
+            "display_url": "pic.twitter.com/udZrtdqHvF",
+            "id": 627941823734923264
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              19,
+              33
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1105624938",
+        "id": 1105624938
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/udZrtdqHvF",
+            "media_url": "http://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+            "expanded_url": "http://twitter.com/Chas719/status/627941824527773696/photo/1",
+            "id_str": "627941823734923264",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 260
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 460
+              },
+              "large": {
+                "w": 959,
+                "resize": "fit",
+                "h": 736
+              }
+            },
+            "display_url": "pic.twitter.com/udZrtdqHvF",
+            "id": 627941823734923264
+          }
+        ]
+      },
+      "text": "Supporting each of @RepDannyDavis' Town Halls in Aug, talking about the Affordable Care Act. Old habits die hard. http://t.co/udZrtdqHvF",
+      "lang": "en",
+      "created_at": "Sun Aug 02 20:39:32 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1105624938,
+          "media_url": "http://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+          "source_user_id_str": "1105624938",
+          "indices": [
+            127,
+            140
+          ],
+          "display_url": "pic.twitter.com/udZrtdqHvF",
+          "expanded_url": "http://twitter.com/Chas719/status/627941824527773696/photo/1",
+          "url": "http://t.co/udZrtdqHvF",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+          "source_status_id_str": "627941824527773696",
+          "id_str": "627941823734923264",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 260
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 460
+            },
+            "large": {
+              "w": 959,
+              "resize": "fit",
+              "h": 736
+            }
+          },
+          "id": 627941823734923264,
+          "source_status_id": 627941824527773696
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627974488815239169,
+    "id_str": "627974488815239169",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 1105624938,
+          "media_url": "http://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+          "source_user_id_str": "1105624938",
+          "indices": [
+            127,
+            140
+          ],
+          "display_url": "pic.twitter.com/udZrtdqHvF",
+          "expanded_url": "http://twitter.com/Chas719/status/627941824527773696/photo/1",
+          "url": "http://t.co/udZrtdqHvF",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLblwv9UwAATC-7.jpg",
+          "source_status_id_str": "627941824527773696",
+          "id_str": "627941823734923264",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 260
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 460
+            },
+            "large": {
+              "w": 959,
+              "resize": "fit",
+              "h": 736
+            }
+          },
+          "id": 627941823734923264,
+          "source_status_id": 627941824527773696
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Charles Watkins",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "1105624938",
+          "id": 1105624938,
+          "screen_name": "Chas719"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            32,
+            46
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Chas719: Supporting each of @RepDannyDavis' Town Halls in Aug, talking about the Affordable Care Act. Old habits die hard. http://t.co/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-02 22:49:19+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627261254772654080,
+      "id_str": "627261254772654080",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 34,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 27,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 627260208922951681,
+        "id_str": "627260208922951681",
+        "entities": {
+          "symbols": [],
+          "hashtags": [],
+          "media": [
+            {
+              "url": "http://t.co/Sms74PtdpL",
+              "media_url": "http://pbs.twimg.com/media/CLR51g3WsAAcNFg.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLR51g3WsAAcNFg.jpg",
+              "expanded_url": "http://twitter.com/thehill/status/627260208922951681/photo/1",
+              "id_str": "627260208373477376",
+              "indices": [
+                96,
+                118
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 191
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 337
+                },
+                "large": {
+                  "w": 645,
+                  "resize": "fit",
+                  "h": 363
+                }
+              },
+              "display_url": "pic.twitter.com/Sms74PtdpL",
+              "id": 627260208373477376
+            }
+          ],
+          "urls": [
+            {
+              "url": "http://t.co/Ee7dqq0bpC",
+              "indices": [
+                73,
+                95
+              ],
+              "display_url": "hill.cm/rp4UqTI",
+              "expanded_url": "http://hill.cm/rp4UqTI"
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "1917731",
+          "id": 1917731
+        },
+        "favorited": false,
+        "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "extended_entities": {
+          "media": [
+            {
+              "url": "http://t.co/Sms74PtdpL",
+              "media_url": "http://pbs.twimg.com/media/CLR51g3WsAAcNFg.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLR51g3WsAAcNFg.jpg",
+              "expanded_url": "http://twitter.com/thehill/status/627260208922951681/photo/1",
+              "id_str": "627260208373477376",
+              "indices": [
+                96,
+                118
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 191
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 337
+                },
+                "large": {
+                  "w": 645,
+                  "resize": "fit",
+                  "h": 363
+                }
+              },
+              "display_url": "pic.twitter.com/Sms74PtdpL",
+              "id": 627260208373477376
+            }
+          ]
+        },
+        "text": "Federal prisoners are now eligible for Pell Grants for higher education: http://t.co/Ee7dqq0bpC http://t.co/Sms74PtdpL",
+        "lang": "en",
+        "created_at": "Fri Jul 31 23:31:02 +0000 2015",
+        "retweeted": false
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/pF8zF2D3Bo",
+            "indices": [
+              67,
+              90
+            ],
+            "display_url": "twitter.com/thehill/status\u2026",
+            "expanded_url": "https://twitter.com/thehill/status/627260208922951681"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              51,
+              65
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "627260208922951681",
+      "user": {
+        "id_str": "754759177",
+        "id": 754759177
+      },
+      "favorited": false,
+      "created_at": "Fri Jul 31 23:35:11 +0000 2015",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you for being a champion on this tirelessly! @RepDannyDavis  https://t.co/pF8zF2D3Bo",
+      "lang": "en",
+      "quoted_status_id": 627260208922951681
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627270482153349120,
+    "id_str": "627270482153349120",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/pF8zF2D3Bo",
+          "indices": [
+            82,
+            105
+          ],
+          "display_url": "twitter.com/thehill/status\u2026",
+          "expanded_url": "https://twitter.com/thehill/status/627260208922951681"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Nicha Pitaya",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "754759177",
+          "id": 754759177,
+          "screen_name": "NichaPita"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            66,
+            80
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NichaPita: Thank you for being a champion on this tirelessly! @RepDannyDavis  https://t.co/pF8zF2D3Bo",
+    "lang": "en",
+    "created_at": "2015-08-01 00:11:51+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627199222220238849,
+      "id_str": "627199222220238849",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/T0kpQQKE02",
+            "indices": [
+              87,
+              109
+            ],
+            "display_url": "ow.ly/QlAYU",
+            "expanded_url": "http://ow.ly/QlAYU"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "2ndchances",
+            "indices": [
+              110,
+              121
+            ]
+          },
+          {
+            "text": "justicethatrestores",
+            "indices": [
+              122,
+              142
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Sensenbrenner Press",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "851621377",
+            "id": 851621377,
+            "screen_name": "JimPressOffice"
+          },
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              23,
+              37
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "45943164",
+        "id": 45943164
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@JimPressOffice &amp; @RepDannyDavis introduce the Second Chance Reauthorization Act: http://t.co/T0kpQQKE02 #2ndchances #justicethatrestores",
+      "lang": "en",
+      "created_at": "Fri Jul 31 19:28:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627219192002031616,
+    "id_str": "627219192002031616",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/T0kpQQKE02",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "ow.ly/QlAYU",
+          "expanded_url": "http://ow.ly/QlAYU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "2ndchances",
+          "indices": [
+            129,
+            140
+          ]
+        },
+        {
+          "text": "justicethatrestores",
+          "indices": [
+            141,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Justice Fellowship",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "45943164",
+          "id": 45943164,
+          "screen_name": "JusticeReform"
+        },
+        {
+          "name": "Sensenbrenner Press",
+          "indices": [
+            20,
+            35
+          ],
+          "id_str": "851621377",
+          "id": 851621377,
+          "screen_name": "JimPressOffice"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            42,
+            56
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JusticeReform: .@JimPressOffice &amp; @RepDannyDavis introduce the Second Chance Reauthorization Act: http://t.co/T0kpQQKE02 #2ndchances #j\u2026",
+    "lang": "en",
+    "created_at": "2015-07-31 20:48:03+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627195517865488384,
+      "id_str": "627195517865488384",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/svXkBK8A5y",
+            "indices": [
+              100,
+              122
+            ],
+            "display_url": "revolutionradionetwork.com",
+            "expanded_url": "http://www.revolutionradionetwork.com"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "IL",
+            "indices": [
+              36,
+              39
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              18,
+              32
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "37469127",
+        "id": 37469127
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Today 4:34pET: US @RepDannyDavis (D-#IL) will be talking with Jeff about an upcoming event! LISTEN: http://t.co/svXkBK8A5y CALL 844-372-6867",
+      "lang": "en",
+      "created_at": "Fri Jul 31 19:13:58 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627219184070561792,
+    "id_str": "627219184070561792",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/svXkBK8A5y",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "revolutionradionetwork.com",
+          "expanded_url": "http://www.revolutionradionetwork.com"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IL",
+          "indices": [
+            56,
+            59
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Jeff Santos Show",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "37469127",
+          "id": 37469127,
+          "screen_name": "JeffSantosShow"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            38,
+            52
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JeffSantosShow: Today 4:34pET: US @RepDannyDavis (D-#IL) will be talking with Jeff about an upcoming event! LISTEN: http://t.co/svXkBK8\u2026",
+    "lang": "en",
+    "created_at": "2015-07-31 20:48:01+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626837533163417600,
+      "id_str": "626837533163417600",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/wd89EQrPYv",
+            "media_url": "http://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+            "expanded_url": "http://twitter.com/naehomelessness/status/626837533163417600/photo/1",
+            "id_str": "626837532848709633",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 339,
+                "resize": "fit",
+                "h": 531
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 339,
+                "resize": "fit",
+                "h": 531
+              },
+              "large": {
+                "w": 339,
+                "resize": "fit",
+                "h": 531
+              }
+            },
+            "display_url": "pic.twitter.com/wd89EQrPYv",
+            "id": 626837532848709633
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Danny Davis",
+            "indices": [
+              77,
+              91
+            ],
+            "id_str": "789244177",
+            "id": 789244177,
+            "screen_name": "RepDannyDavis"
+          },
+          {
+            "name": "Adam Sensenbrenner",
+            "indices": [
+              98,
+              112
+            ],
+            "id_str": "30777928",
+            "id": 30777928,
+            "screen_name": "sensenbrenner"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "57113066",
+        "id": 57113066
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wd89EQrPYv",
+            "media_url": "http://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+            "expanded_url": "http://twitter.com/naehomelessness/status/626837533163417600/photo/1",
+            "id_str": "626837532848709633",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 339,
+                "resize": "fit",
+                "h": 531
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 339,
+                "resize": "fit",
+                "h": 531
+              },
+              "large": {
+                "w": 339,
+                "resize": "fit",
+                "h": 531
+              }
+            },
+            "display_url": "pic.twitter.com/wd89EQrPYv",
+            "id": 626837532848709633
+          }
+        ]
+      },
+      "text": "2nd Chance Reauthorization Act introduced in House by 14 Rep, 13 Dem. Thanks @repdannydavis &amp; @Sensenbrenner http://t.co/wd89EQrPYv",
+      "lang": "en",
+      "created_at": "Thu Jul 30 19:31:28 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 57113066,
+          "media_url": "http://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+          "source_user_id_str": "57113066",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/wd89EQrPYv",
+          "expanded_url": "http://twitter.com/naehomelessness/status/626837533163417600/photo/1",
+          "url": "http://t.co/wd89EQrPYv",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+          "source_status_id_str": "626837533163417600",
+          "id_str": "626837532848709633",
+          "sizes": {
+            "small": {
+              "w": 339,
+              "resize": "fit",
+              "h": 531
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 339,
+              "resize": "fit",
+              "h": 531
+            },
+            "large": {
+              "w": 339,
+              "resize": "fit",
+              "h": 531
+            }
+          },
+          "id": 626837532848709633,
+          "source_status_id": 626837533163417600
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626847502566858752,
+    "id_str": "626847502566858752",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 57113066,
+          "media_url": "http://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+          "source_user_id_str": "57113066",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/wd89EQrPYv",
+          "expanded_url": "http://twitter.com/naehomelessness/status/626837533163417600/photo/1",
+          "url": "http://t.co/wd89EQrPYv",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL5aj1UYAEIBUd.jpg",
+          "source_status_id_str": "626837533163417600",
+          "id_str": "626837532848709633",
+          "sizes": {
+            "small": {
+              "w": 339,
+              "resize": "fit",
+              "h": 531
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 339,
+              "resize": "fit",
+              "h": 531
+            },
+            "large": {
+              "w": 339,
+              "resize": "fit",
+              "h": 531
+            }
+          },
+          "id": 626837532848709633,
+          "source_status_id": 626837533163417600
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "End Homelessness",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "57113066",
+          "id": 57113066,
+          "screen_name": "naehomelessness"
+        },
+        {
+          "name": "Rep. Danny Davis",
+          "indices": [
+            98,
+            112
+          ],
+          "id_str": "789244177",
+          "id": 789244177,
+          "screen_name": "RepDannyDavis"
+        },
+        {
+          "name": "Adam Sensenbrenner",
+          "indices": [
+            119,
+            133
+          ],
+          "id_str": "30777928",
+          "id": 30777928,
+          "screen_name": "sensenbrenner"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @naehomelessness: 2nd Chance Reauthorization Act introduced in House by 14 Rep, 13 Dem. Thanks @repdannydavis &amp; @Sensenbrenner http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 20:11:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626841053446950912,
+    "id_str": "626841053446950912",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SecondChanceAct",
+          "indices": [
+            106,
+            122
+          ]
+        },
+        {
+          "text": "CJReform",
+          "indices": [
+            124,
+            133
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Dignity of work and a living wage makes a difference for many leaving prison. Time to support funding the #SecondChanceAct. #CJReform",
+    "lang": "en",
+    "created_at": "2015-07-30 19:45:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626834848053874692,
+    "id_str": "626834848053874692",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LqChqZ7w7H",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "bit.ly/SecondChanceAct",
+          "expanded_url": "http://bit.ly/SecondChanceAct"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SecondChanceAct",
+          "indices": [
+            76,
+            92
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "789244177",
+      "screen_name": "repdannydavis",
+      "id": 789244177
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "More than 40 percent of released offenders return to prison within 3 years. #SecondChanceAct reduces that number: http://t.co/LqChqZ7w7H",
+    "lang": "en",
+    "created_at": "2015-07-30 19:20:48+00:00"
+  }
+]

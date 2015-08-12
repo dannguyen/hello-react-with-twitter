@@ -1,0 +1,2469 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/0vGm4JLoA0",
+            "media_url": "http://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+            "expanded_url": "http://twitter.com/aarpillinois/status/630349712986607616/photo/1",
+            "id_str": "630349712516902912",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 194
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 585
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 343
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/0vGm4JLoA0",
+            "id": 630349712516902912
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 630349712986607616,
+      "id_str": "630349712986607616",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/0vGm4JLoA0",
+            "media_url": "http://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+            "expanded_url": "http://twitter.com/aarpillinois/status/630349712986607616/photo/1",
+            "id_str": "630349712516902912",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 194
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 585
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 343
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/0vGm4JLoA0",
+            "id": 630349712516902912
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Twill",
+            "indices": [
+              93,
+              99
+            ]
+          },
+          {
+            "text": "ParkRidge",
+            "indices": [
+              100,
+              110
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "24195214",
+            "indices": [
+              55,
+              69
+            ],
+            "name": "Jan Schakowsky",
+            "id": 24195214,
+            "screen_name": "janschakowsky"
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/cAfvT7IFIF",
+            "indices": [
+              70,
+              92
+            ],
+            "display_url": "bit.ly/1TgDhsl",
+            "expanded_url": "http://bit.ly/1TgDhsl"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.spredfast.com\" rel=\"nofollow\">Spredfast</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "114511353",
+        "id": 114511353
+      },
+      "text": "Events - 80th Anniversary Party for Social Security w/ @janschakowsky http://t.co/cAfvT7IFIF #Twill #ParkRidge http://t.co/0vGm4JLoA0",
+      "lang": "en",
+      "created_at": "Sun Aug 09 12:07:37 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 114511353,
+          "media_url": "http://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+          "source_user_id_str": "114511353",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/0vGm4JLoA0",
+          "expanded_url": "http://twitter.com/aarpillinois/status/630349712986607616/photo/1",
+          "url": "http://t.co/0vGm4JLoA0",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+          "source_status_id_str": "630349712986607616",
+          "id_str": "630349712516902912",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 194
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 585
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 343
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 630349712516902912,
+          "source_status_id": 630349712986607616
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630400523439636480,
+    "id_str": "630400523439636480",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 114511353,
+          "media_url": "http://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+          "source_user_id_str": "114511353",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/0vGm4JLoA0",
+          "expanded_url": "http://twitter.com/aarpillinois/status/630349712986607616/photo/1",
+          "url": "http://t.co/0vGm4JLoA0",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL9zuUrW8AABIlA.png",
+          "source_status_id_str": "630349712986607616",
+          "id_str": "630349712516902912",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 194
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 585
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 343
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 630349712516902912,
+          "source_status_id": 630349712986607616
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Twill",
+          "indices": [
+            111,
+            117
+          ]
+        },
+        {
+          "text": "ParkRidge",
+          "indices": [
+            118,
+            128
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "114511353",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "AARP Illinois",
+          "id": 114511353,
+          "screen_name": "aarpillinois"
+        },
+        {
+          "id_str": "24195214",
+          "indices": [
+            73,
+            87
+          ],
+          "name": "Jan Schakowsky",
+          "id": 24195214,
+          "screen_name": "janschakowsky"
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/cAfvT7IFIF",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "bit.ly/1TgDhsl",
+          "expanded_url": "http://bit.ly/1TgDhsl"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "text": "RT @aarpillinois: Events - 80th Anniversary Party for Social Security w/ @janschakowsky http://t.co/cAfvT7IFIF #Twill #ParkRidge http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-09 15:29:31+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629387233728958465",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14511951",
+          "indices": [
+            81,
+            96
+          ],
+          "name": "Huffington Post",
+          "id": 14511951,
+          "screen_name": "HuffingtonPost"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            38,
+            52
+          ]
+        },
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            121,
+            137
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/qbMwYf1XHf",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "goo.gl/0U4ZXk",
+          "expanded_url": "http://goo.gl/0U4ZXk"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629387233728958465,
+    "text": "As we mark the 50th Anniversary Let's #RestoreTheVRA. Please see my piece in the @HuffingtonPost: http://t.co/qbMwYf1XHf #VotingRightsAct",
+    "lang": "en",
+    "created_at": "2015-08-06 20:23:04+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/K54kGxgb3P",
+          "media_url": "http://pbs.twimg.com/media/CLvm1_nWwAA4KmY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvm1_nWwAA4KmY.jpg",
+          "expanded_url": "http://twitter.com/janschakowsky/status/629350389008199680/photo/1",
+          "id_str": "629350388232273920",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 456
+            },
+            "large": {
+              "w": 629,
+              "resize": "fit",
+              "h": 845
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 806
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/K54kGxgb3P",
+          "id": 629350388232273920
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629350389008199680,
+    "id_str": "629350389008199680",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/K54kGxgb3P",
+          "media_url": "http://pbs.twimg.com/media/CLvm1_nWwAA4KmY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvm1_nWwAA4KmY.jpg",
+          "expanded_url": "http://twitter.com/janschakowsky/status/629350389008199680/photo/1",
+          "id_str": "629350388232273920",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 456
+            },
+            "large": {
+              "w": 629,
+              "resize": "fit",
+              "h": 845
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 806
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/K54kGxgb3P",
+          "id": 629350388232273920
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SocialSecurity",
+          "indices": [
+            59,
+            74
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "288961109",
+          "indices": [
+            8,
+            24
+          ],
+          "name": "Park Ridge Park Dist",
+          "id": 288961109,
+          "screen_name": "ParkRidgePkDist"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "text": "Join us @ParkRidgePkDist Centennial Park to mark 80 yrs of #SocialSecurity never missing a check! 100 S. Western Ave. http://t.co/K54kGxgb3P",
+    "lang": "en",
+    "created_at": "2015-08-06 17:56:40+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1417,
+      "favorite_count": 1107,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/TBcsbgplSy",
+            "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+            "id_str": "629290879623131136",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 658
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 385
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/TBcsbgplSy",
+            "id": 629290879623131136
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 629290880512434176,
+      "id_str": "629290880512434176",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/TBcsbgplSy",
+            "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+            "id_str": "629290879623131136",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 658
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 385
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/TBcsbgplSy",
+            "id": 629290879623131136
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "text": "At this time 50 yrs ago today, the Voting Rights Act of 1965 was signed into law. http://t.co/TBcsbgplSy",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:00:12 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1417,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 29450962,
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_user_id_str": "29450962",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "url": "http://t.co/TBcsbgplSy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_status_id_str": "629290880512434176",
+          "id_str": "629290879623131136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 629290879623131136,
+          "source_status_id": 629290880512434176
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629310560258105344,
+    "id_str": "629310560258105344",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 29450962,
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_user_id_str": "29450962",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "url": "http://t.co/TBcsbgplSy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_status_id_str": "629290880512434176",
+          "id_str": "629290879623131136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 629290879623131136,
+          "source_status_id": 629290880512434176
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "29450962",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "John Lewis",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "text": "RT @repjohnlewis: At this time 50 yrs ago today, the Voting Rights Act of 1965 was signed into law. http://t.co/TBcsbgplSy",
+    "lang": "en",
+    "created_at": "2015-08-06 15:18:24+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629306683953692672,
+    "id_str": "629306683953692672",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "MedicareWorks",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#MedicareWorks for women. It provides reproductive care, counseling and screening services, &amp; financial protections to older women.",
+    "lang": "en",
+    "created_at": "2015-08-06 15:03:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629306379648503808,
+    "id_str": "629306379648503808",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            44,
+            53
+          ]
+        },
+        {
+          "text": "Medicaid",
+          "indices": [
+            58,
+            67
+          ]
+        },
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            117,
+            136
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "68% of dual eligible seniors are women\u2014both #Medicare and #Medicaid cover their complex and costly health care needs #MedicareMedicaid50",
+    "lang": "en",
+    "created_at": "2015-08-06 15:01:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 25,
+    "favorite_count": 21,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629289517896364032",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            102,
+            116
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/kd5ygNlSzt",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "goo.gl/8NGe7M",
+          "expanded_url": "http://goo.gl/8NGe7M"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629289517896364032,
+    "text": "Yesterday 5th Circuit struck \u2193 discriminatory voter ID laws in TX! Great win for democracy. Now let\u2019s #RestoreTheVRA! http://t.co/kd5ygNlSzt",
+    "lang": "en",
+    "created_at": "2015-08-06 13:54:47+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 151,
+      "favorite_count": 130,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/B4KxzbgL9g",
+            "media_url": "http://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+            "expanded_url": "http://twitter.com/AmbassadorPower/status/629020366887874561/photo/1",
+            "id_str": "629020366451671040",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/B4KxzbgL9g",
+            "id": 629020366451671040
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 629020366887874561,
+      "id_str": "629020366887874561",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/B4KxzbgL9g",
+            "media_url": "http://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+            "expanded_url": "http://twitter.com/AmbassadorPower/status/629020366887874561/photo/1",
+            "id_str": "629020366451671040",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/B4KxzbgL9g",
+            "id": 629020366451671040
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              16,
+              25
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "1536791610",
+            "indices": [
+              3,
+              9
+            ],
+            "name": "President Obama",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "1615463502",
+        "id": 1615463502
+      },
+      "text": "As @POTUS said, #IranDeal doesn't resolve all our problems w/Iran but achieves our most critical security objective http://t.co/B4KxzbgL9g",
+      "lang": "en",
+      "created_at": "Wed Aug 05 20:05:16 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 151,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1615463502,
+          "media_url": "http://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+          "source_user_id_str": "1615463502",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/B4KxzbgL9g",
+          "expanded_url": "http://twitter.com/AmbassadorPower/status/629020366887874561/photo/1",
+          "url": "http://t.co/B4KxzbgL9g",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+          "source_status_id_str": "629020366887874561",
+          "id_str": "629020366451671040",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 629020366451671040,
+          "source_status_id": 629020366887874561
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629289348886884352,
+    "id_str": "629289348886884352",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 1615463502,
+          "media_url": "http://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+          "source_user_id_str": "1615463502",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/B4KxzbgL9g",
+          "expanded_url": "http://twitter.com/AmbassadorPower/status/629020366887874561/photo/1",
+          "url": "http://t.co/B4KxzbgL9g",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq6sMrWgAAHGOq.jpg",
+          "source_status_id_str": "629020366887874561",
+          "id_str": "629020366451671040",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 629020366451671040,
+          "source_status_id": 629020366887874561
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            37,
+            46
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "1615463502",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "Samantha Power",
+          "id": 1615463502,
+          "screen_name": "AmbassadorPower"
+        },
+        {
+          "id_str": "1536791610",
+          "indices": [
+            24,
+            30
+          ],
+          "name": "President Obama",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "text": "RT @AmbassadorPower: As @POTUS said, #IranDeal doesn't resolve all our problems w/Iran but achieves our most critical security objective ht\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:54:07+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628684909444530176,
+    "id_str": "628684909444530176",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Medicaid",
+          "indices": [
+            14,
+            23
+          ]
+        },
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            108,
+            127
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Did you know: #Medicaid finances 46% of all births in the U.S. &amp; is the leading payer of maternity care #MedicareMedicaid50",
+    "lang": "en",
+    "created_at": "2015-08-04 21:52:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628684443738349568,
+    "id_str": "628684443738349568",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            7,
+            16
+          ]
+        },
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            117,
+            136
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "67% of #Medicare beneficiaries over the age of 85 are women. Medicare greatly helps meet aging women\u2019s health needs. #MedicareMedicaid50",
+    "lang": "en",
+    "created_at": "2015-08-04 21:50:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xgwcI7OUeH",
+          "media_url": "http://pbs.twimg.com/media/CLlfvVFUYAAvEBY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlfvVFUYAAvEBY.jpg",
+          "expanded_url": "http://twitter.com/janschakowsky/status/628638890304360449/photo/1",
+          "id_str": "628638889712836608",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xgwcI7OUeH",
+          "id": 628638889712836608
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628638890304360449,
+    "id_str": "628638890304360449",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/xgwcI7OUeH",
+          "media_url": "http://pbs.twimg.com/media/CLlfvVFUYAAvEBY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlfvVFUYAAvEBY.jpg",
+          "expanded_url": "http://twitter.com/janschakowsky/status/628638890304360449/photo/1",
+          "id_str": "628638889712836608",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xgwcI7OUeH",
+          "id": 628638889712836608
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            18,
+            33
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/5N9q7SRlWJ",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "go.wh.gov/CleanPowerPlan",
+          "expanded_url": "http://go.wh.gov/CleanPowerPlan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "text": "President Obama's #CleanPowerPlan will \u2193 carbon pollution from power plants by 32% by 2030 \u2192 http://t.co/5N9q7SRlWJ http://t.co/xgwcI7OUeH",
+    "lang": "en",
+    "created_at": "2015-08-04 18:49:25+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628638660133580801,
+    "id_str": "628638660133580801",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "GOPshutdown",
+          "indices": [
+            56,
+            68
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "This is ridiculous! Republicans are threatening another #GOPshutdown if services essential to women\u2019s health care are not cut off.",
+    "lang": "en",
+    "created_at": "2015-08-04 18:48:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628638217567399936,
+    "id_str": "628638217567399936",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            124,
+            138
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\u201cThe right to vote is the crown jewel of American liberties, and we will not see its luster diminished.\u201d \u2013 President Reagan #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-04 18:46:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628637881851084800,
+    "id_str": "628637881851084800",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "15207668",
+          "indices": [
+            78,
+            87
+          ],
+          "name": "House Republicans",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            102,
+            116
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The strength of our democracy rests on the participation of ALL our citizens. @HouseGOP, it\u2019s time to #RestoreTheVRA.",
+    "lang": "en",
+    "created_at": "2015-08-04 18:45:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628637759603929088,
+    "id_str": "628637759603929088",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "GOP",
+          "indices": [
+            97,
+            101
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            124,
+            138
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "This week our nation celebrates the progress we've made to improve voting rights. We call on the #GOP to join our effort to #RestoreTheVRA.",
+    "lang": "en",
+    "created_at": "2015-08-04 18:44:56+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 14,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "628559590465122304",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "retweet_count": 5,
+        "favorite_count": 4,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id_str": "628548965932232704",
+        "entities": {
+          "symbols": [],
+          "user_mentions": [
+            {
+              "id_str": "1339931490",
+              "indices": [
+                75,
+                89
+              ],
+              "name": "Robin Kelly",
+              "id": 1339931490,
+              "screen_name": "RepRobinKelly"
+            }
+          ],
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "http://t.co/cwgdl5510C",
+              "indices": [
+                91,
+                113
+              ],
+              "display_url": "roll.cl/1UiRR4Y",
+              "expanded_url": "http://roll.cl/1UiRR4Y"
+            }
+          ]
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "15922214",
+          "id": 15922214
+        },
+        "favorited": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "id": 628548965932232704,
+        "text": "Medicare and Medicaid: Achieving Health Equity In America | Commentary via @RepRobinKelly \nhttp://t.co/cwgdl5510C",
+        "lang": "en",
+        "created_at": "Tue Aug 04 12:52:06 +0000 2015",
+        "retweeted": false
+      },
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "15922214",
+            "indices": [
+              12,
+              21
+            ],
+            "name": "Roll Call",
+            "id": 15922214,
+            "screen_name": "rollcall"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCHealth",
+            "indices": [
+              106,
+              116
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/wBVw5Gn6Ap",
+            "indices": [
+              117,
+              140
+            ],
+            "display_url": "twitter.com/rollcall/statu\u2026",
+            "expanded_url": "https://twitter.com/rollcall/status/628548965932232704"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628548965932232704",
+      "user": {
+        "id_str": "1339931490",
+        "id": 1339931490
+      },
+      "favorited": false,
+      "created_at": "Tue Aug 04 13:34:19 +0000 2015",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 628559590465122304,
+      "text": "My op-ed in @rollcall on the role of Medicaid + Medicare in improving African Americans' health outcomes. #CBCHealth https://t.co/wBVw5Gn6Ap",
+      "lang": "en",
+      "quoted_status_id": 628548965932232704,
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628613446058291200",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1339931490",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "Robin Kelly",
+          "id": 1339931490,
+          "screen_name": "RepRobinKelly"
+        },
+        {
+          "id_str": "15922214",
+          "indices": [
+            31,
+            40
+          ],
+          "name": "Roll Call",
+          "id": 15922214,
+          "screen_name": "rollcall"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCHealth",
+          "indices": [
+            125,
+            135
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/wBVw5Gn6Ap",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "twitter.com/rollcall/statu\u2026",
+          "expanded_url": "https://twitter.com/rollcall/status/628548965932232704"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628613446058291200,
+    "text": "RT @RepRobinKelly: My op-ed in @rollcall on the role of Medicaid + Medicare in improving African Americans' health outcomes. #CBCHealth htt\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 17:08:19+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 225,
+      "favorite_count": 134,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628538226458951680,
+      "id_str": "628538226458951680",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              130,
+              144
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "193732179",
+        "id": 193732179
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "We have an obligation to ensure that every American citizen has the right to vote &amp; that every vote is counted as cast. Let's #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Tue Aug 04 12:09:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 225,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628557845986983936",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "193732179",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "Judy Chu",
+          "id": 193732179,
+          "screen_name": "RepJudyChu"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628557845986983936,
+    "text": "RT @RepJudyChu: We have an obligation to ensure that every American citizen has the right to vote &amp; that every vote is counted as cast. Let\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 13:27:23+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628554760015204352,
+    "id_str": "628554760015204352",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1536791610",
+          "indices": [
+            15,
+            21
+          ],
+          "name": "President Obama",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy Birthday @POTUS! Thank you for your leadership and have a great day with family and friends!",
+    "lang": "en",
+    "created_at": "2015-08-04 13:15:07+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 942,
+      "favorite_count": 832,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/ObjLPankgu",
+            "media_url": "http://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+            "expanded_url": "http://twitter.com/SenWarren/status/628300311858384896/photo/1",
+            "id_str": "628300311208304640",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/ObjLPankgu",
+            "id": 628300311208304640
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 628300311858384896,
+      "id_str": "628300311858384896",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/ObjLPankgu",
+            "media_url": "http://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+            "expanded_url": "http://twitter.com/SenWarren/status/628300311858384896/photo/1",
+            "id_str": "628300311208304640",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/ObjLPankgu",
+            "id": 628300311208304640
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "StandwithPP",
+            "indices": [
+              103,
+              115
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "970207298",
+        "id": 970207298
+      },
+      "text": "\u201cNo one may mention it at Thanksgiving or post it on FB for the world to know, but look at the facts.\u201d #StandwithPP http://t.co/ObjLPankgu",
+      "lang": "en",
+      "created_at": "Mon Aug 03 20:24:02 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 942,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 970207298,
+          "media_url": "http://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+          "source_user_id_str": "970207298",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/ObjLPankgu",
+          "expanded_url": "http://twitter.com/SenWarren/status/628300311858384896/photo/1",
+          "url": "http://t.co/ObjLPankgu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+          "source_status_id_str": "628300311858384896",
+          "id_str": "628300311208304640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628300311208304640,
+          "source_status_id": 628300311858384896
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628321284028542978,
+    "id_str": "628321284028542978",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 970207298,
+          "media_url": "http://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+          "source_user_id_str": "970207298",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/ObjLPankgu",
+          "expanded_url": "http://twitter.com/SenWarren/status/628300311858384896/photo/1",
+          "url": "http://t.co/ObjLPankgu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgrzd3WoAA0F-0.jpg",
+          "source_status_id_str": "628300311858384896",
+          "id_str": "628300311208304640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628300311208304640,
+          "source_status_id": 628300311858384896
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "StandwithPP",
+          "indices": [
+            118,
+            130
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "970207298",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "Elizabeth Warren",
+          "id": 970207298,
+          "screen_name": "SenWarren"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "text": "RT @SenWarren: \u201cNo one may mention it at Thanksgiving or post it on FB for the world to know, but look at the facts.\u201d #StandwithPP http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 21:47:22+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 746,
+      "favorite_count": 614,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/8KthIa9PnB",
+            "media_url": "http://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+            "expanded_url": "http://twitter.com/SenWarren/status/628300646408654848/photo/1",
+            "id_str": "628300645754359813",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/8KthIa9PnB",
+            "id": 628300645754359813
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 628300646408654848,
+      "id_str": "628300646408654848",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/8KthIa9PnB",
+            "media_url": "http://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+            "expanded_url": "http://twitter.com/SenWarren/status/628300646408654848/photo/1",
+            "id_str": "628300645754359813",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/8KthIa9PnB",
+            "id": 628300645754359813
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "402957663",
+            "indices": [
+              53,
+              58
+            ],
+            "name": "Planned Parenthood",
+            "id": 402957663,
+            "screen_name": "PPFA"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "970207298",
+        "id": 970207298
+      },
+      "text": "\"To be clear: Even though the abortions performed at @PPFA are safe &amp; legal, the federal gov isn't paying for them.\" http://t.co/8KthIa9PnB",
+      "lang": "en",
+      "created_at": "Mon Aug 03 20:25:22 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 746,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 970207298,
+          "media_url": "http://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+          "source_user_id_str": "970207298",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/8KthIa9PnB",
+          "expanded_url": "http://twitter.com/SenWarren/status/628300646408654848/photo/1",
+          "url": "http://t.co/8KthIa9PnB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+          "source_status_id_str": "628300646408654848",
+          "id_str": "628300645754359813",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628300645754359813,
+          "source_status_id": 628300646408654848
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628321129741029376,
+    "id_str": "628321129741029376",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 970207298,
+          "media_url": "http://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+          "source_user_id_str": "970207298",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/8KthIa9PnB",
+          "expanded_url": "http://twitter.com/SenWarren/status/628300646408654848/photo/1",
+          "url": "http://t.co/8KthIa9PnB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgsG8JWUAU38gT.jpg",
+          "source_status_id_str": "628300646408654848",
+          "id_str": "628300645754359813",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628300645754359813,
+          "source_status_id": 628300646408654848
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "970207298",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "Elizabeth Warren",
+          "id": 970207298,
+          "screen_name": "SenWarren"
+        },
+        {
+          "id_str": "402957663",
+          "indices": [
+            68,
+            73
+          ],
+          "name": "Planned Parenthood",
+          "id": 402957663,
+          "screen_name": "PPFA"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "24195214",
+      "screen_name": "janschakowsky",
+      "id": 24195214
+    },
+    "text": "RT @SenWarren: \"To be clear: Even though the abortions performed at @PPFA are safe &amp; legal, the federal gov isn't paying for them.\" http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 21:46:45+00:00",
+    "retweeted": false
+  }
+]

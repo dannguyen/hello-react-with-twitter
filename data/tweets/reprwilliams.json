@@ -1,0 +1,2287 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629739601238884353,
+    "id_str": "629739601238884353",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On this day in 1782 General George Washington created the Badge for Military Merit. Today it is referred to as the Purple Heart.",
+    "lang": "en",
+    "created_at": "2015-08-07 19:43:15+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629437833334226944,
+      "id_str": "629437833334226944",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "DefundPP",
+            "indices": [
+              99,
+              108
+            ]
+          },
+          {
+            "text": "txlege",
+            "indices": [
+              110,
+              117
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/y1L9u7M2wE",
+            "media_url": "http://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+            "expanded_url": "http://twitter.com/txvalues/status/629437833334226944/photo/1",
+            "id_str": "629437832507953153",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 720
+              }
+            },
+            "display_url": "pic.twitter.com/y1L9u7M2wE",
+            "id": 629437832507953153
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Roger Williams",
+            "indices": [
+              25,
+              38
+            ],
+            "id_str": "1077446982",
+            "id": 1077446982,
+            "screen_name": "RepRWilliams"
+          },
+          {
+            "name": "APRC",
+            "indices": [
+              73,
+              82
+            ],
+            "id_str": "341077779",
+            "id": 341077779,
+            "screen_name": "APRC2717"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "546120447",
+        "id": 546120447
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/y1L9u7M2wE",
+            "media_url": "http://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+            "expanded_url": "http://twitter.com/txvalues/status/629437833334226944/photo/1",
+            "id_str": "629437832507953153",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 720
+              }
+            },
+            "display_url": "pic.twitter.com/y1L9u7M2wE",
+            "id": 629437832507953153
+          }
+        ]
+      },
+      "text": "We were grateful to meet @RepRWilliams as he supported the great work of @APRC2717 &amp; called to #DefundPP! #txlege http://t.co/y1L9u7M2wE",
+      "lang": "en",
+      "created_at": "Thu Aug 06 23:44:08 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 546120447,
+          "media_url": "http://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+          "source_user_id_str": "546120447",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/y1L9u7M2wE",
+          "expanded_url": "http://twitter.com/txvalues/status/629437833334226944/photo/1",
+          "url": "http://t.co/y1L9u7M2wE",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+          "source_status_id_str": "629437833334226944",
+          "id_str": "629437832507953153",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "id": 629437832507953153,
+          "source_status_id": 629437833334226944
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629736883745091584,
+    "id_str": "629736883745091584",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "DefundPP",
+          "indices": [
+            113,
+            122
+          ]
+        },
+        {
+          "text": "txlege",
+          "indices": [
+            124,
+            131
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 546120447,
+          "media_url": "http://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+          "source_user_id_str": "546120447",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/y1L9u7M2wE",
+          "expanded_url": "http://twitter.com/txvalues/status/629437833334226944/photo/1",
+          "url": "http://t.co/y1L9u7M2wE",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLw2X67UEAE6ZfP.jpg",
+          "source_status_id_str": "629437833334226944",
+          "id_str": "629437832507953153",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "id": 629437832507953153,
+          "source_status_id": 629437833334226944
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Texas Values",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "546120447",
+          "id": 546120447,
+          "screen_name": "txvalues"
+        },
+        {
+          "name": "Rep. Roger Williams",
+          "indices": [
+            39,
+            52
+          ],
+          "id_str": "1077446982",
+          "id": 1077446982,
+          "screen_name": "RepRWilliams"
+        },
+        {
+          "name": "APRC",
+          "indices": [
+            87,
+            96
+          ],
+          "id_str": "341077779",
+          "id": 341077779,
+          "screen_name": "APRC2717"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @txvalues: We were grateful to meet @RepRWilliams as he supported the great work of @APRC2717 &amp; called to #DefundPP! #txlege http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 19:32:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629687800389074944,
+    "id_str": "629687800389074944",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/Z0dIOpTl0g",
+          "media_url": "http://pbs.twimg.com/media/CL0Zt8OWoAEunVa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0Zt8OWoAEunVa.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/629687800389074944/photo/1",
+          "id_str": "629687799952875521",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 657
+            }
+          },
+          "display_url": "pic.twitter.com/Z0dIOpTl0g",
+          "id": 629687799952875521
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Z0dIOpTl0g",
+          "media_url": "http://pbs.twimg.com/media/CL0Zt8OWoAEunVa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0Zt8OWoAEunVa.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/629687800389074944/photo/1",
+          "id_str": "629687799952875521",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 657
+            }
+          },
+          "display_url": "pic.twitter.com/Z0dIOpTl0g",
+          "id": 629687799952875521
+        }
+      ]
+    },
+    "text": "At the Copperas Cove Business Forum I discussed economic matters that affect Coryell County and Central Texas http://t.co/Z0dIOpTl0g",
+    "lang": "en",
+    "created_at": "2015-08-07 16:17:25+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629678682861404160,
+    "id_str": "629678682861404160",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/T1YyYUAOQE",
+          "media_url": "http://pbs.twimg.com/media/CL0RbOSUwAAmqSx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0RbOSUwAAmqSx.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/629678682861404160/photo/1",
+          "id_str": "629678682290831360",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 206
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 364
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 621
+            }
+          },
+          "display_url": "pic.twitter.com/T1YyYUAOQE",
+          "id": 629678682290831360
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/enJEfLPnKr",
+          "indices": [
+            80,
+            102
+          ],
+          "display_url": "goo.gl/FyI4BE",
+          "expanded_url": "http://goo.gl/FyI4BE"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Killeen Daily Herald",
+          "indices": [
+            71,
+            79
+          ],
+          "id_str": "31124797",
+          "id": 31124797,
+          "screen_name": "kdhnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/T1YyYUAOQE",
+          "media_url": "http://pbs.twimg.com/media/CL0RbOSUwAAmqSx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0RbOSUwAAmqSx.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/629678682861404160/photo/1",
+          "id_str": "629678682290831360",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 206
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 364
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 621
+            }
+          },
+          "display_url": "pic.twitter.com/T1YyYUAOQE",
+          "id": 629678682290831360
+        }
+      ]
+    },
+    "text": "It was an honor to be back in the home of the Great Place this morning @kdhnews http://t.co/enJEfLPnKr http://t.co/T1YyYUAOQE",
+    "lang": "en",
+    "created_at": "2015-08-07 15:41:11+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629401716463546370,
+    "id_str": "629401716463546370",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/c6lSk8bVG6",
+          "indices": [
+            85,
+            108
+          ],
+          "display_url": "youtube.com/watch?v=tubVPJ\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=tubVPJ6ve8M"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "APRC",
+          "indices": [
+            9,
+            18
+          ],
+          "id_str": "341077779",
+          "id": 341077779,
+          "screen_name": "APRC2717"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today at @APRC2717 I called for an end to all federal funding for Planned Parenthood https://t.co/c6lSk8bVG6",
+    "lang": "en",
+    "created_at": "2015-08-06 21:20:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629022189375909889,
+    "id_str": "629022189375909889",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/KdZVHDLj6W",
+          "media_url": "http://pbs.twimg.com/media/CLq8WRfUAAAAgZt.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq8WRfUAAAAgZt.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/629022189375909889/photo/1",
+          "id_str": "629022188809486336",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 186
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 484,
+              "resize": "fit",
+              "h": 265
+            },
+            "large": {
+              "w": 484,
+              "resize": "fit",
+              "h": 265
+            }
+          },
+          "display_url": "pic.twitter.com/KdZVHDLj6W",
+          "id": 629022188809486336
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/hJaeBNxxGJ",
+          "indices": [
+            87,
+            110
+          ],
+          "display_url": "goo.gl/ChcdLJ",
+          "expanded_url": "https://goo.gl/ChcdLJ"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/KdZVHDLj6W",
+          "media_url": "http://pbs.twimg.com/media/CLq8WRfUAAAAgZt.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq8WRfUAAAAgZt.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/629022189375909889/photo/1",
+          "id_str": "629022188809486336",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 186
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 484,
+              "resize": "fit",
+              "h": 265
+            },
+            "large": {
+              "w": 484,
+              "resize": "fit",
+              "h": 265
+            }
+          },
+          "display_url": "pic.twitter.com/KdZVHDLj6W",
+          "id": 629022188809486336
+        }
+      ]
+    },
+    "text": "Today the staff in my DC office commemorated our interns\u2019 final day with Team Williams https://t.co/hJaeBNxxGJ http://t.co/KdZVHDLj6W",
+    "lang": "en",
+    "created_at": "2015-08-05 20:12:31+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628228003802271744,
+    "id_str": "628228003802271744",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/CFoNxtVcx3",
+          "indices": [
+            120,
+            142
+          ],
+          "display_url": "goo.gl/pJReBz",
+          "expanded_url": "http://goo.gl/pJReBz"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Financial Services",
+          "indices": [
+            79,
+            93
+          ],
+          "id_str": "42924141",
+          "id": 42924141,
+          "screen_name": "FinancialCmte"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In my latest newsletter I touch on Dodd Frank, our service members' safety, my @FinancialCmte bill &amp; the Aug recess http://t.co/CFoNxtVcx3",
+    "lang": "en",
+    "created_at": "2015-08-03 15:36:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627132679272701952,
+    "id_str": "627132679272701952",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ThrowbackThursday",
+          "indices": [
+            14,
+            32
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/oCT0Xfg6Lu",
+          "media_url": "http://pbs.twimg.com/media/CLQF2U0WwAESOR9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQF2U0WwAESOR9.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/627132679272701952/photo/1",
+          "id_str": "627132678970720257",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 209
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 422,
+              "resize": "fit",
+              "h": 260
+            },
+            "large": {
+              "w": 422,
+              "resize": "fit",
+              "h": 260
+            }
+          },
+          "display_url": "pic.twitter.com/oCT0Xfg6Lu",
+          "id": 627132678970720257
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Horned Frogs",
+          "indices": [
+            114,
+            118
+          ],
+          "id_str": "15371292",
+          "id": 15371292,
+          "screen_name": "TCU"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/oCT0Xfg6Lu",
+          "media_url": "http://pbs.twimg.com/media/CLQF2U0WwAESOR9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQF2U0WwAESOR9.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/627132679272701952/photo/1",
+          "id_str": "627132678970720257",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 209
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 422,
+              "resize": "fit",
+              "h": 260
+            },
+            "large": {
+              "w": 422,
+              "resize": "fit",
+              "h": 260
+            }
+          },
+          "display_url": "pic.twitter.com/oCT0Xfg6Lu",
+          "id": 627132678970720257
+        }
+      ]
+    },
+    "text": "It may not be #ThrowbackThursday but I couldn't wait to share these photos from my playing &amp; coaching days at @TCU http://t.co/oCT0Xfg6Lu",
+    "lang": "en",
+    "created_at": "2015-07-31 15:04:16+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626803138058653697,
+    "id_str": "626803138058653697",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/iKN0gDDxHG",
+          "indices": [
+            61,
+            84
+          ],
+          "display_url": "youtube.com/watch?v=gkPuQE\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=gkPuQEmwk8k"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Guidance comes from the customer, not the federal government https://t.co/iKN0gDDxHG",
+    "lang": "en",
+    "created_at": "2015-07-30 17:14:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626503572029579264,
+    "id_str": "626503572029579264",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Num5qt0v7B",
+          "indices": [
+            72,
+            95
+          ],
+          "display_url": "goo.gl/JgrWph",
+          "expanded_url": "https://goo.gl/JgrWph"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Rep. Williams\u2019 \u201cLicensing Efficiency\u201d Bill Unanimously Passes Committee\nhttps://t.co/Num5qt0v7B",
+    "lang": "en",
+    "created_at": "2015-07-29 21:24:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626446553234935808,
+    "id_str": "626446553234935808",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/5NkUWN3xXy",
+          "media_url": "http://pbs.twimg.com/media/CLGV0haWoAEdKBa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGV0haWoAEdKBa.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/626446553234935808/photo/1",
+          "id_str": "626446552735850497",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 179
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 316
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/5NkUWN3xXy",
+          "id": 626446552735850497
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/4fLomDxUqY",
+          "indices": [
+            80,
+            103
+          ],
+          "display_url": "goo.gl/q4g1aF",
+          "expanded_url": "https://goo.gl/q4g1aF"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Financial Services",
+          "indices": [
+            11,
+            25
+          ],
+          "id_str": "42924141",
+          "id": 42924141,
+          "screen_name": "FinancialCmte"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/5NkUWN3xXy",
+          "media_url": "http://pbs.twimg.com/media/CLGV0haWoAEdKBa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGV0haWoAEdKBa.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/626446553234935808/photo/1",
+          "id_str": "626446552735850497",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 179
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 316
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/5NkUWN3xXy",
+          "id": 626446552735850497
+        }
+      ]
+    },
+    "text": "Today, the @FinancialCmte marked up my bill, the State Licensing Efficiency Act https://t.co/4fLomDxUqY http://t.co/5NkUWN3xXy",
+    "lang": "en",
+    "created_at": "2015-07-29 17:37:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626125066971934720,
+    "id_str": "626125066971934720",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/3U9q4GYEyQ",
+          "indices": [
+            120,
+            143
+          ],
+          "display_url": "goo.gl/NLDvFZ",
+          "expanded_url": "https://goo.gl/NLDvFZ"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Marc Thiessen",
+          "indices": [
+            106,
+            119
+          ],
+          "id_str": "27245742",
+          "id": 27245742,
+          "screen_name": "marcthiessen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Obama is gambling our nat security... based on secret agreements negotiated between the IAEA &amp; Iran\" @marcthiessen https://t.co/3U9q4GYEyQ",
+    "lang": "en",
+    "created_at": "2015-07-28 20:20:23+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625702230474276864,
+      "id_str": "625702230474276864",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/1RgNEOaocr",
+            "media_url": "http://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+            "expanded_url": "http://twitter.com/NPGAPropane/status/625702230474276864/photo/1",
+            "id_str": "625702230335856640",
+            "indices": [
+              92,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 400
+              }
+            },
+            "display_url": "pic.twitter.com/1RgNEOaocr",
+            "id": 625702230335856640
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Roger Williams",
+            "indices": [
+              10,
+              23
+            ],
+            "id_str": "1077446982",
+            "id": 1077446982,
+            "screen_name": "RepRWilliams"
+          },
+          {
+            "name": "Propane Caucus",
+            "indices": [
+              40,
+              54
+            ],
+            "id_str": "3290505615",
+            "id": 3290505615,
+            "screen_name": "PropaneCaucus"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "809352228",
+        "id": 809352228
+      },
+      "favorited": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/1RgNEOaocr",
+            "media_url": "http://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+            "expanded_url": "http://twitter.com/NPGAPropane/status/625702230474276864/photo/1",
+            "id_str": "625702230335856640",
+            "indices": [
+              92,
+              114
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 400
+              }
+            },
+            "display_url": "pic.twitter.com/1RgNEOaocr",
+            "id": 625702230335856640
+          }
+        ]
+      },
+      "text": "Thank you @RepRWilliams for joining the @propanecaucus and supporting the propane industry! http://t.co/1RgNEOaocr",
+      "lang": "en",
+      "created_at": "Mon Jul 27 16:20:11 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 809352228,
+          "media_url": "http://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+          "source_user_id_str": "809352228",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/1RgNEOaocr",
+          "expanded_url": "http://twitter.com/NPGAPropane/status/625702230474276864/photo/1",
+          "url": "http://t.co/1RgNEOaocr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+          "source_status_id_str": "625702230474276864",
+          "id_str": "625702230335856640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 400
+            }
+          },
+          "id": 625702230335856640,
+          "source_status_id": 625702230474276864
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625722700556857344,
+    "id_str": "625722700556857344",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 809352228,
+          "media_url": "http://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+          "source_user_id_str": "809352228",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/1RgNEOaocr",
+          "expanded_url": "http://twitter.com/NPGAPropane/status/625702230474276864/photo/1",
+          "url": "http://t.co/1RgNEOaocr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7w3QZWoAAOeP0.png",
+          "source_status_id_str": "625702230474276864",
+          "id_str": "625702230335856640",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 400
+            }
+          },
+          "id": 625702230335856640,
+          "source_status_id": 625702230474276864
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "NPGA",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "809352228",
+          "id": 809352228,
+          "screen_name": "NPGAPropane"
+        },
+        {
+          "name": "Rep. Roger Williams",
+          "indices": [
+            27,
+            40
+          ],
+          "id_str": "1077446982",
+          "id": 1077446982,
+          "screen_name": "RepRWilliams"
+        },
+        {
+          "name": "Propane Caucus",
+          "indices": [
+            57,
+            71
+          ],
+          "id_str": "3290505615",
+          "id": 3290505615,
+          "screen_name": "PropaneCaucus"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NPGAPropane: Thank you @RepRWilliams for joining the @propanecaucus and supporting the propane industry! http://t.co/1RgNEOaocr",
+    "lang": "en",
+    "created_at": "2015-07-27 17:41:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625676265064931328,
+    "id_str": "625676265064931328",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ZhRHCwX85W",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "goo.gl/GjBmsB",
+          "expanded_url": "http://goo.gl/GjBmsB"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Star-Telegram",
+          "indices": [
+            102,
+            115
+          ],
+          "id_str": "15615783",
+          "id": 15615783,
+          "screen_name": "startelegram"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I would like to remind this former constitutional law prof he will not trump 2nd Amndt under my watch @startelegram http://t.co/ZhRHCwX85W",
+    "lang": "en",
+    "created_at": "2015-07-27 14:37:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624647642275053568,
+    "id_str": "624647642275053568",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624326479359311872,
+      "id_str": "624326479359311872",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/5Icqwz99TN",
+            "indices": [
+              73,
+              95
+            ],
+            "display_url": "fb.me/3KCGxAsGW",
+            "expanded_url": "http://fb.me/3KCGxAsGW"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "31124797",
+        "id": 31124797
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Debate in Central Texas continues over arming soldiers at military sites http://t.co/5Icqwz99TN",
+      "lang": "en",
+      "created_at": "Thu Jul 23 21:13:26 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/pa5hKprxFj",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "twitter.com/kdhnews/status\u2026",
+          "expanded_url": "https://twitter.com/kdhnews/status/624326479359311872"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "624326479359311872",
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "created_at": "2015-07-24 18:29:37+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Williams, who also represents Ft Hood, said in statement he'll consider legislation that will arm soldiers on post\" https://t.co/pa5hKprxFj",
+    "lang": "en",
+    "quoted_status_id": 624326479359311872
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624329795883511813,
+    "id_str": "624329795883511813",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/efWaA3vNDp",
+          "indices": [
+            111,
+            134
+          ],
+          "display_url": "youtube.com/watch?v=yfAiGX\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=yfAiGXzccFU"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Under Pres. Obama, the risk of running a business is no longer worth the possible reward, and that\u2019s a problem https://t.co/efWaA3vNDp",
+    "lang": "en",
+    "created_at": "2015-07-23 21:26:37+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623906120000741376,
+      "id_str": "623906120000741376",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/QbIvIpKgSI",
+            "indices": [
+              100,
+              122
+            ],
+            "display_url": "bit.ly/1HS4Naa",
+            "expanded_url": "http://bit.ly/1HS4Naa"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Randy Neugebauer",
+            "indices": [
+              48,
+              64
+            ],
+            "id_str": "34340464",
+            "id": 34340464,
+            "screen_name": "RandyNeugebauer"
+          },
+          {
+            "name": "Rep. Roger Williams",
+            "indices": [
+              71,
+              84
+            ],
+            "id_str": "1077446982",
+            "id": 1077446982,
+            "screen_name": "RepRWilliams"
+          },
+          {
+            "name": "BankThink",
+            "indices": [
+              89,
+              99
+            ],
+            "id_str": "37945091",
+            "id": 37945091,
+            "screen_name": "BankThink"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14857739",
+        "id": 14857739
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Reform the CFPB to Better Protect Consumers, by @RandyNeugebauer &amp; @RepRWilliams via @BankThink http://t.co/QbIvIpKgSI",
+      "lang": "en",
+      "created_at": "Wed Jul 22 17:23:05 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624325631229079552,
+    "id_str": "624325631229079552",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/QbIvIpKgSI",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "bit.ly/1HS4Naa",
+          "expanded_url": "http://bit.ly/1HS4Naa"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "AmericanBankersAssn",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "14857739",
+          "id": 14857739,
+          "screen_name": "ABABankers"
+        },
+        {
+          "name": "Randy Neugebauer",
+          "indices": [
+            64,
+            80
+          ],
+          "id_str": "34340464",
+          "id": 34340464,
+          "screen_name": "RandyNeugebauer"
+        },
+        {
+          "name": "Rep. Roger Williams",
+          "indices": [
+            87,
+            100
+          ],
+          "id_str": "1077446982",
+          "id": 1077446982,
+          "screen_name": "RepRWilliams"
+        },
+        {
+          "name": "BankThink",
+          "indices": [
+            105,
+            115
+          ],
+          "id_str": "37945091",
+          "id": 37945091,
+          "screen_name": "BankThink"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ABABankers: Reform the CFPB to Better Protect Consumers, by @RandyNeugebauer &amp; @RepRWilliams via @BankThink http://t.co/QbIvIpKgSI",
+    "lang": "en",
+    "created_at": "2015-07-23 21:10:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 39,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624290178501378048,
+    "id_str": "624290178501378048",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/mk1i9ZiMSA",
+          "media_url": "http://pbs.twimg.com/media/CKnsm-HXAAAWrPT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnsm-HXAAAWrPT.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/624290178501378048/photo/1",
+          "id_str": "624290177620574208",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 203
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 358
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 612
+            }
+          },
+          "display_url": "pic.twitter.com/mk1i9ZiMSA",
+          "id": 624290177620574208
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Texas FFA",
+          "indices": [
+            11,
+            20
+          ],
+          "id_str": "36406881",
+          "id": 36406881,
+          "screen_name": "TexasFFA"
+        },
+        {
+          "name": "National FFA",
+          "indices": [
+            101,
+            113
+          ],
+          "id_str": "14261617",
+          "id": 14261617,
+          "screen_name": "NationalFFA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/mk1i9ZiMSA",
+          "media_url": "http://pbs.twimg.com/media/CKnsm-HXAAAWrPT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnsm-HXAAAWrPT.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/624290178501378048/photo/1",
+          "id_str": "624290177620574208",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 203
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 358
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 612
+            }
+          },
+          "display_url": "pic.twitter.com/mk1i9ZiMSA",
+          "id": 624290177620574208
+        }
+      ]
+    },
+    "text": "I met with @TexasFFA student officers, Jason of Burnet &amp; Brice of Hamilton who are in DC for the @nationalffa conf http://t.co/mk1i9ZiMSA",
+    "lang": "en",
+    "created_at": "2015-07-23 18:49:11+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623969008035983361,
+    "id_str": "623969008035983361",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/R9AKUZd1cn",
+          "media_url": "http://pbs.twimg.com/media/CKjIgZ_WIAAUyUm.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjIgZ_WIAAUyUm.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/623969008035983361/photo/1",
+          "id_str": "623969007448760320",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/R9AKUZd1cn",
+          "id": 623969007448760320
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/R9AKUZd1cn",
+          "media_url": "http://pbs.twimg.com/media/CKjIgZ_WIAAUyUm.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjIgZ_WIAAUyUm.jpg",
+          "expanded_url": "http://twitter.com/RepRWilliams/status/623969008035983361/photo/1",
+          "id_str": "623969007448760320",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/R9AKUZd1cn",
+          "id": 623969007448760320
+        }
+      ]
+    },
+    "text": "A member of my staff brought water to Operation Hero Guard as they watch over a Cleburne military recruiting center http://t.co/R9AKUZd1cn",
+    "lang": "en",
+    "created_at": "2015-07-22 21:32:58+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623902704545464320,
+      "id_str": "623902704545464320",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Y226Y9S5sq",
+            "indices": [
+              119,
+              141
+            ],
+            "display_url": "bit.ly/1g5AyWs",
+            "expanded_url": "http://bit.ly/1g5AyWs"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CFPB",
+            "indices": [
+              46,
+              51
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Randy Neugebauer",
+            "indices": [
+              1,
+              17
+            ],
+            "id_str": "34340464",
+            "id": 34340464,
+            "screen_name": "RandyNeugebauer"
+          },
+          {
+            "name": "Rep. Roger Williams",
+            "indices": [
+              24,
+              37
+            ],
+            "id_str": "1077446982",
+            "id": 1077446982,
+            "screen_name": "RepRWilliams"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "26755480",
+        "id": 26755480
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RandyNeugebauer &amp; @RepRWilliams: Reform #CFPB to Protect Consumers (e.g.: increase accountability, transparency)\nhttp://t.co/Y226Y9S5sq",
+      "lang": "en",
+      "created_at": "Wed Jul 22 17:09:30 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623968073398263808,
+    "id_str": "623968073398263808",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Y226Y9S5sq",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "bit.ly/1g5AyWs",
+          "expanded_url": "http://bit.ly/1g5AyWs"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CFPB",
+          "indices": [
+            62,
+            67
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "American Banker",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "26755480",
+          "id": 26755480,
+          "screen_name": "AmerBanker"
+        },
+        {
+          "name": "Randy Neugebauer",
+          "indices": [
+            17,
+            33
+          ],
+          "id_str": "34340464",
+          "id": 34340464,
+          "screen_name": "RandyNeugebauer"
+        },
+        {
+          "name": "Rep. Roger Williams",
+          "indices": [
+            40,
+            53
+          ],
+          "id_str": "1077446982",
+          "id": 1077446982,
+          "screen_name": "RepRWilliams"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1077446982",
+      "screen_name": "reprwilliams",
+      "id": 1077446982
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AmerBanker: .@RandyNeugebauer &amp; @RepRWilliams: Reform #CFPB to Protect Consumers (e.g.: increase accountability, transparency)\nhttp://t\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 21:29:16+00:00"
+  }
+]

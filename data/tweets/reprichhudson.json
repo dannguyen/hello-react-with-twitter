@@ -1,0 +1,1746 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630216391241670656,
+    "id_str": "630216391241670656",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "UNC Charlotte",
+          "indices": [
+            28,
+            41
+          ],
+          "id_str": "281285283",
+          "id": 281285283,
+          "screen_name": "unccharlotte"
+        },
+        {
+          "name": "Charlotte Athletics",
+          "indices": [
+            102,
+            117
+          ],
+          "id_str": "18083344",
+          "id": 18083344,
+          "screen_name": "Charlotte49ers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Renee and I join the entire @unccharlotte family in praying for Coach Ratliff and his family tonight. @Charlotte49ers",
+    "lang": "en",
+    "created_at": "2015-08-09 03:17:51+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 70,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 34,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630086699884789760,
+      "id_str": "630086699884789760",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/osZCFBr3if",
+            "media_url": "http://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+            "expanded_url": "http://twitter.com/kylepetty/status/630086699884789760/photo/1",
+            "id_str": "630086699180122112",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 210
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 580,
+                "resize": "fit",
+                "h": 359
+              },
+              "large": {
+                "w": 580,
+                "resize": "fit",
+                "h": 359
+              }
+            },
+            "display_url": "pic.twitter.com/osZCFBr3if",
+            "id": 630086699180122112
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Watkins Glen Int'l",
+            "indices": [
+              59,
+              63
+            ],
+            "id_str": "16874201",
+            "id": 16874201,
+            "screen_name": "WGI"
+          },
+          {
+            "name": "NBC Sports",
+            "indices": [
+              84,
+              94
+            ],
+            "id_str": "11856342",
+            "id": 11856342,
+            "screen_name": "NBCSports"
+          },
+          {
+            "name": "NASCAR on NBC",
+            "indices": [
+              95,
+              107
+            ],
+            "id_str": "1615420753",
+            "id": 1615420753,
+            "screen_name": "NASCARonNBC"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "25298289",
+        "id": 25298289
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/osZCFBr3if",
+            "media_url": "http://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+            "expanded_url": "http://twitter.com/kylepetty/status/630086699884789760/photo/1",
+            "id_str": "630086699180122112",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 210
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 580,
+                "resize": "fit",
+                "h": 359
+              },
+              "large": {
+                "w": 580,
+                "resize": "fit",
+                "h": 359
+              }
+            },
+            "display_url": "pic.twitter.com/osZCFBr3if",
+            "id": 630086699180122112
+          }
+        ]
+      },
+      "text": "RT if you\u2019ll be watching or attending the race tomorrow at @WGI. I\u2019ll be there with @NBCSports @NASCARonNBC! http://t.co/osZCFBr3if",
+      "lang": "en",
+      "created_at": "Sat Aug 08 18:42:30 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 70,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 25298289,
+          "media_url": "http://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+          "source_user_id_str": "25298289",
+          "indices": [
+            124,
+            140
+          ],
+          "display_url": "pic.twitter.com/osZCFBr3if",
+          "expanded_url": "http://twitter.com/kylepetty/status/630086699884789760/photo/1",
+          "url": "http://t.co/osZCFBr3if",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+          "source_status_id_str": "630086699884789760",
+          "id_str": "630086699180122112",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 580,
+              "resize": "fit",
+              "h": 359
+            },
+            "large": {
+              "w": 580,
+              "resize": "fit",
+              "h": 359
+            }
+          },
+          "id": 630086699180122112,
+          "source_status_id": 630086699884789760
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630087550342950912,
+    "id_str": "630087550342950912",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 25298289,
+          "media_url": "http://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+          "source_user_id_str": "25298289",
+          "indices": [
+            124,
+            140
+          ],
+          "display_url": "pic.twitter.com/osZCFBr3if",
+          "expanded_url": "http://twitter.com/kylepetty/status/630086699884789760/photo/1",
+          "url": "http://t.co/osZCFBr3if",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL6Eg7pUYAAgFdM.jpg",
+          "source_status_id_str": "630086699884789760",
+          "id_str": "630086699180122112",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 580,
+              "resize": "fit",
+              "h": 359
+            },
+            "large": {
+              "w": 580,
+              "resize": "fit",
+              "h": 359
+            }
+          },
+          "id": 630086699180122112,
+          "source_status_id": 630086699884789760
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Kyle Petty",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "25298289",
+          "id": 25298289,
+          "screen_name": "kylepetty"
+        },
+        {
+          "name": "Watkins Glen Int'l",
+          "indices": [
+            74,
+            78
+          ],
+          "id_str": "16874201",
+          "id": 16874201,
+          "screen_name": "WGI"
+        },
+        {
+          "name": "NBC Sports",
+          "indices": [
+            99,
+            109
+          ],
+          "id_str": "11856342",
+          "id": 11856342,
+          "screen_name": "NBCSports"
+        },
+        {
+          "name": "NASCAR on NBC",
+          "indices": [
+            110,
+            122
+          ],
+          "id_str": "1615420753",
+          "id": 1615420753,
+          "screen_name": "NASCARonNBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @kylepetty: RT if you\u2019ll be watching or attending the race tomorrow at @WGI. I\u2019ll be there with @NBCSports @NASCARonNBC! http://t.co/osZ\u2026",
+    "lang": "en",
+    "created_at": "2015-08-08 18:45:53+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 53,
+      "favorite_count": 214,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629031039600607232,
+      "id_str": "629031039600607232",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "109975247",
+        "id": 109975247
+      },
+      "favorited": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The free gift of Grace is offered to all who wish to partake.",
+      "lang": "en",
+      "created_at": "Wed Aug 05 20:47:41 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 53,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630079461468340224,
+    "id_str": "630079461468340224",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Webb Simpson",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "109975247",
+          "id": 109975247,
+          "screen_name": "webbsimpson1"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @webbsimpson1: The free gift of Grace is offered to all who wish to partake.",
+    "lang": "en",
+    "created_at": "2015-08-08 18:13:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629752174378151936,
+    "id_str": "629752174378151936",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CLT",
+          "indices": [
+            54,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/NT8jDACjBI",
+          "media_url": "http://pbs.twimg.com/media/CL1UQtCWsAAD3Dk.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1UQtCWsAAD3Dk.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/629752174378151936/photo/1",
+          "id_str": "629752168845848576",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/NT8jDACjBI",
+          "id": 629752168845848576
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "CPI Security Systems",
+          "indices": [
+            22,
+            35
+          ],
+          "id_str": "26844147",
+          "id": 26844147,
+          "screen_name": "cpi_security"
+        },
+        {
+          "name": "Pat McCrory",
+          "indices": [
+            88,
+            101
+          ],
+          "id_str": "66602794",
+          "id": 66602794,
+          "screen_name": "PatMcCroryNC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/NT8jDACjBI",
+          "media_url": "http://pbs.twimg.com/media/CL1UQtCWsAAD3Dk.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1UQtCWsAAD3Dk.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/629752174378151936/photo/1",
+          "id_str": "629752168845848576",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/NT8jDACjBI",
+          "id": 629752168845848576
+        }
+      ]
+    },
+    "text": "Breaking ground today @cpi_security's new facility in #CLT. Who did it better, Governor @PatMcCroryNC or me? http://t.co/NT8jDACjBI",
+    "lang": "en",
+    "created_at": "2015-08-07 20:33:13+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629693091155472384,
+      "id_str": "629693091155472384",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/m7Cmo5ufCx",
+            "indices": [
+              90,
+              112
+            ],
+            "display_url": "1.usa.gov/1KVNdrX",
+            "expanded_url": "http://1.usa.gov/1KVNdrX"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Ozone",
+            "indices": [
+              47,
+              53
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Richard Hudson",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "935033864",
+            "id": 935033864,
+            "screen_name": "RepRichHudson"
+          },
+          {
+            "name": "Charlotte Observer",
+            "indices": [
+              70,
+              82
+            ],
+            "id_str": "8695932",
+            "id": 8695932,
+            "screen_name": "theobserver"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "114756202",
+        "id": 114756202
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepRichHudson offers Tar Heel perspective on #Ozone regulations via @theobserver --&gt; http://t.co/m7Cmo5ufCx",
+      "lang": "en",
+      "created_at": "Fri Aug 07 16:38:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629712139410927617,
+    "id_str": "629712139410927617",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/m7Cmo5ufCx",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "1.usa.gov/1KVNdrX",
+          "expanded_url": "http://1.usa.gov/1KVNdrX"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Ozone",
+          "indices": [
+            66,
+            72
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Energy and Commerce",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "114756202",
+          "id": 114756202,
+          "screen_name": "HouseCommerce"
+        },
+        {
+          "name": "Richard Hudson",
+          "indices": [
+            20,
+            34
+          ],
+          "id_str": "935033864",
+          "id": 935033864,
+          "screen_name": "RepRichHudson"
+        },
+        {
+          "name": "Charlotte Observer",
+          "indices": [
+            89,
+            101
+          ],
+          "id_str": "8695932",
+          "id": 8695932,
+          "screen_name": "theobserver"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseCommerce: .@RepRichHudson offers Tar Heel perspective on #Ozone regulations via @theobserver --&gt; http://t.co/m7Cmo5ufCx",
+    "lang": "en",
+    "created_at": "2015-08-07 17:54:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629709033537183744,
+    "id_str": "629709033537183744",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NC",
+          "indices": [
+            114,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/3tP52bi4nR",
+          "media_url": "http://pbs.twimg.com/media/CL0tBPdUYAAvBih.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0tBPdUYAAvBih.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/629709033537183744/photo/1",
+          "id_str": "629709022254358528",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/3tP52bi4nR",
+          "id": 629709022254358528
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Pat McCrory",
+          "indices": [
+            14,
+            27
+          ],
+          "id_str": "66602794",
+          "id": 66602794,
+          "screen_name": "PatMcCroryNC"
+        },
+        {
+          "name": "CPI Security Systems",
+          "indices": [
+            36,
+            49
+          ],
+          "id_str": "26844147",
+          "id": 26844147,
+          "screen_name": "cpi_security"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/3tP52bi4nR",
+          "media_url": "http://pbs.twimg.com/media/CL0tBPdUYAAvBih.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0tBPdUYAAvBih.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/629709033537183744/photo/1",
+          "id_str": "629709022254358528",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/3tP52bi4nR",
+          "id": 629709022254358528
+        }
+      ]
+    },
+    "text": "Great to join @PatMcCroryNC to help @cpi_security break ground on its expansion that will bring 100s more jobs to #NC http://t.co/3tP52bi4nR",
+    "lang": "en",
+    "created_at": "2015-08-07 17:41:47+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629389614311079936,
+    "id_str": "629389614311079936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/CL7o9DR4lC",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "charlotteobserver.com/opinion/op-ed/\u2026",
+          "expanded_url": "http://www.charlotteobserver.com/opinion/op-ed/article30180606.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Charlotte Observer",
+          "indices": [
+            29,
+            41
+          ],
+          "id_str": "8695932",
+          "id": 8695932,
+          "screen_name": "theobserver"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: Check out my op-ed in @theobserver about POTUS\u2019s ozone regulations that will hamper our economy and cost jobs.\nhttp://t.co/CL7o9DR4lC",
+    "lang": "en",
+    "created_at": "2015-08-06 20:32:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629364370859008001,
+    "id_str": "629364370859008001",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NC08",
+          "indices": [
+            101,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/GtbppvOCGZ",
+          "media_url": "http://pbs.twimg.com/media/CLvzjzDW8AAFiBg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvzjzDW8AAFiBg.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/629364370859008001/photo/1",
+          "id_str": "629364369273581568",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/GtbppvOCGZ",
+          "id": 629364369273581568
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Congressional Award",
+          "indices": [
+            38,
+            47
+          ],
+          "id_str": "34402366",
+          "id": 34402366,
+          "screen_name": "theaward"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/GtbppvOCGZ",
+          "media_url": "http://pbs.twimg.com/media/CLvzjzDW8AAFiBg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvzjzDW8AAFiBg.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/629364370859008001/photo/1",
+          "id_str": "629364369273581568",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/GtbppvOCGZ",
+          "id": 629364369273581568
+        }
+      ]
+    },
+    "text": "Proud to present Parker Garrison with @theaward. He spent more than 400 hours serving our community! #NC08 http://t.co/GtbppvOCGZ",
+    "lang": "en",
+    "created_at": "2015-08-06 18:52:13+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "628951472957444096",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2841332339",
+    "id": 629041494167539713,
+    "id_str": "629041494167539713",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "casey mauney",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "2841332339",
+          "id": 2841332339,
+          "screen_name": "cmauney28"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628951472957444096,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 2841332339,
+    "in_reply_to_screen_name": "cmauney28",
+    "retweeted": false,
+    "text": "@cmauney28 I am 100% opposed to the president's nuclear deal with Iran and will do everything I can to stop it and keep our country safe.",
+    "lang": "en",
+    "created_at": "2015-08-05 21:29:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 20,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629036895750778881,
+    "id_str": "629036895750778881",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/8cearRe1H6",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "hudson.house.gov/press-releases\u2026",
+          "expanded_url": "http://hudson.house.gov/press-releases/hudson-defends-chattanooga-navy-commander/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Lt. Cmdr. White, an American patriot, should be applauded - not shamed and reprimanded for his heroic actions. http://t.co/8cearRe1H6",
+    "lang": "en",
+    "created_at": "2015-08-05 21:10:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 20,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629036783049809920,
+    "id_str": "629036783049809920",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "When I heard reports the Navy would for a second consider charging LCDR White for protecting his fellow service members, my blood boiled.",
+    "lang": "en",
+    "created_at": "2015-08-05 21:10:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 29,
+    "favorite_count": 19,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629036745703727104,
+    "id_str": "629036745703727104",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to defend LCDR White &amp; send a ltr to POTUS to strongly urge the Navy not to charge him for using a firearm against a terrorist in TN.",
+    "lang": "en",
+    "created_at": "2015-08-05 21:10:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628749827556438016,
+    "id_str": "628749827556438016",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Tb4a9oDjH9",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "dailycaller.com/2015/08/04/cli\u2026",
+          "expanded_url": "http://dailycaller.com/2015/08/04/climate-scientists-rip-apart-epas-global-warming-rule/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Climate Scientists Rip Apart EPA\u2019s Global Warming Rule | The Daily Caller http://t.co/Tb4a9oDjH9",
+    "lang": "en",
+    "created_at": "2015-08-05 02:10:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628747983371272193",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "464758759",
+    "id": 628749473297092609,
+    "id_str": "628749473297092609",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Nervegna",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "464758759",
+          "id": 464758759,
+          "screen_name": "ENMusic712"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628747983371272193,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": 464758759,
+    "in_reply_to_screen_name": "ENMusic712",
+    "retweeted": false,
+    "text": "@ENMusic712 I've told him my concerns which include we need to be more bold. We need to focus on big reforms and talk about what we're for.",
+    "lang": "en",
+    "created_at": "2015-08-05 02:08:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628720784224206848",
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "464758759",
+    "id": 628747672753696768,
+    "id_str": "628747672753696768",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/TqSyo62E6y",
+          "indices": [
+            63,
+            85
+          ],
+          "display_url": "politico.com/story/2015/07/\u2026",
+          "expanded_url": "http://www.politico.com/story/2015/07/house-conservative-john-boehner-ouster-120742.html?hp=t4_r"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Nervegna",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "464758759",
+          "id": 464758759,
+          "screen_name": "ENMusic712"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628720784224206848,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": 464758759,
+    "in_reply_to_screen_name": "ENMusic712",
+    "retweeted": false,
+    "text": "@ENMusic712 Mark said he didn't want a vote, just a discussion http://t.co/TqSyo62E6y",
+    "lang": "en",
+    "created_at": "2015-08-05 02:01:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628596871741767685,
+    "id_str": "628596871741767685",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As a defender of our constitutional rights, I'll continue to do all that I can to protect religious liberty &amp; stand up for our right to pray",
+    "lang": "en",
+    "created_at": "2015-08-04 16:02:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628596550915235840,
+    "id_str": "628596550915235840",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Prayer",
+          "indices": [
+            0,
+            7
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            137,
+            142
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#Prayer has been an integral part of our government, uniting us across diverse backgrounds, party lines &amp; seemingly impossible odds. #tcot",
+    "lang": "en",
+    "created_at": "2015-08-04 16:01:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628596297356967938,
+    "id_str": "628596297356967938",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "prayer",
+          "indices": [
+            59,
+            66
+          ]
+        },
+        {
+          "text": "NC08",
+          "indices": [
+            83,
+            88
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            89,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/52nP0tF29z",
+          "media_url": "http://pbs.twimg.com/media/CLk5AGFUwAIeFvg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk5AGFUwAIeFvg.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/628596297356967938/photo/1",
+          "id_str": "628596296790622210",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 169
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 298
+            },
+            "large": {
+              "w": 751,
+              "resize": "fit",
+              "h": 374
+            }
+          },
+          "display_url": "pic.twitter.com/52nP0tF29z",
+          "id": 628596296790622210
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/p1Tu0RRbjB",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "hudson.house.gov/press-releases\u2026",
+          "expanded_url": "http://hudson.house.gov/press-releases/hudson-leads-bipartisan-effort-to-defend-prayer-in-rowan-county/"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/52nP0tF29z",
+          "media_url": "http://pbs.twimg.com/media/CLk5AGFUwAIeFvg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk5AGFUwAIeFvg.jpg",
+          "expanded_url": "http://twitter.com/RepRichHudson/status/628596297356967938/photo/1",
+          "id_str": "628596296790622210",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 169
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 298
+            },
+            "large": {
+              "w": 751,
+              "resize": "fit",
+              "h": 374
+            }
+          },
+          "display_url": "pic.twitter.com/52nP0tF29z",
+          "id": 628596296790622210
+        }
+      ]
+    },
+    "text": "I'm proud to lead my colleagues to defend the tradition of #prayer in Rowan County #NC08 #tcot http://t.co/p1Tu0RRbjB http://t.co/52nP0tF29z",
+    "lang": "en",
+    "created_at": "2015-08-04 16:00:10+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628590087702495232,
+      "id_str": "628590087702495232",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/ZGXvPLR5eh",
+            "indices": [
+              64,
+              86
+            ],
+            "display_url": "thesnaponline.com/news/hudson-le\u2026",
+            "expanded_url": "http://www.thesnaponline.com/news/hudson-leads-bipartisan-effort-to-defend-prayer-in-rowan-county/article_570f5f8a-3abb-11e5-9e05-63a401491074.html"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "122937367",
+        "id": 122937367
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.thesnaponline.com\" rel=\"nofollow\">stanlynewspress</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Hudson Leads Bipartisan Effort to Defend Prayer in Rowan County http://t.co/ZGXvPLR5eh",
+      "lang": "en",
+      "created_at": "Tue Aug 04 15:35:30 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628595960877330432,
+    "id_str": "628595960877330432",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ZGXvPLR5eh",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "thesnaponline.com/news/hudson-le\u2026",
+          "expanded_url": "http://www.thesnaponline.com/news/hudson-leads-bipartisan-effort-to-defend-prayer-in-rowan-county/article_570f5f8a-3abb-11e5-9e05-63a401491074.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Stanly News & Press",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "122937367",
+          "id": 122937367,
+          "screen_name": "stanlynewspress"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @stanlynewspress: Hudson Leads Bipartisan Effort to Defend Prayer in Rowan County http://t.co/ZGXvPLR5eh",
+    "lang": "en",
+    "created_at": "2015-08-04 15:58:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628337932282241024,
+    "id_str": "628337932282241024",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WTIpH3Gz8b",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "hudson.house.gov/press-releases\u2026",
+          "expanded_url": "http://hudson.house.gov/press-releases/hudson-rebukes-obamas-plan-to-raise-nc-energy-prices"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "935033864",
+      "screen_name": "reprichhudson",
+      "id": 935033864
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "POTUS's doubled-down war on energy will raise prices &amp; cost jobs without having a measurable impact on CO2 emissions http://t.co/WTIpH3Gz8b",
+    "lang": "en",
+    "created_at": "2015-08-03 22:53:31+00:00"
+  }
+]

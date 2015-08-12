@@ -1,0 +1,1686 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629751484754882560,
+    "id_str": "629751484754882560",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/nFNMTV9pXu",
+          "indices": [
+            38,
+            60
+          ],
+          "display_url": "on.wwltv.com/1T0gtSS",
+          "expanded_url": "http://on.wwltv.com/1T0gtSS"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Gator makes surprise visit in LaPlace http://t.co/nFNMTV9pXu",
+    "lang": "en",
+    "created_at": "2015-08-07 20:30:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629704806312058880,
+    "id_str": "629704806312058880",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 42,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 89,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629636477853413376,
+      "id_str": "629636477853413376",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "LSUgrad",
+            "indices": [
+              55,
+              63
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/pBTo9VERGX",
+            "media_url": "http://pbs.twimg.com/media/CLzrCB-UcAAbXRz.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzrCB-UcAAbXRz.jpg",
+            "expanded_url": "http://twitter.com/lsu/status/629636477853413376/photo/1",
+            "id_str": "629636468047114240",
+            "indices": [
+              64,
+              86
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/pBTo9VERGX",
+            "id": 629636468047114240
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "44156044",
+        "id": 44156044
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/pBTo9VERGX",
+            "media_url": "http://pbs.twimg.com/media/CLzrCB-UcAAbXRz.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzrCB-UcAAbXRz.jpg",
+            "expanded_url": "http://twitter.com/lsu/status/629636477853413376/photo/1",
+            "id_str": "629636468047114240",
+            "indices": [
+              64,
+              86
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/pBTo9VERGX",
+            "id": 629636468047114240
+          }
+        ]
+      },
+      "text": "Good morning tigers, it's a beautiful day to graduate! #LSUgrad http://t.co/pBTo9VERGX",
+      "lang": "en",
+      "created_at": "Fri Aug 07 12:53:29 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/vHlqfJJyOc",
+          "indices": [
+            39,
+            62
+          ],
+          "display_url": "twitter.com/lsu/status/629\u2026",
+          "expanded_url": "https://twitter.com/lsu/status/629636477853413376"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "LSU",
+          "indices": [
+            20,
+            24
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629636477853413376",
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 17:24:59+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to all the #LSU grads today!  https://t.co/vHlqfJJyOc",
+    "lang": "en",
+    "quoted_status_id": 629636477853413376
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629700860847726593,
+    "id_str": "629700860847726593",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/nK9ofcGfco",
+          "indices": [
+            63,
+            85
+          ],
+          "display_url": "aol.com/article/2015/0\u2026",
+          "expanded_url": "http://www.aol.com/article/2015/08/07/purple-heart-day-celebrates-the-creation-of-the-humbling-award/21219399/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PurpleHeart",
+          "indices": [
+            0,
+            12
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#PurpleHeart Day celebrates the creation of the humbling award http://t.co/nK9ofcGfco",
+    "lang": "en",
+    "created_at": "2015-08-07 17:09:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629700555309469696,
+    "id_str": "629700555309469696",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NationalPurpleHeartDay",
+          "indices": [
+            9,
+            32
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today is #NationalPurpleHeartDay, a day that commemorates the creation of the award given to soldiers who were injured or killed in combat.",
+    "lang": "en",
+    "created_at": "2015-08-07 17:08:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628961866719567872,
+    "id_str": "628961866719567872",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Louisiana",
+          "indices": [
+            69,
+            79
+          ]
+        },
+        {
+          "text": "NationalOysterDay",
+          "indices": [
+            80,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Qr8Ucavos2",
+          "media_url": "http://pbs.twimg.com/media/CLqFe0aUcAAl7xD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqFe0aUcAAl7xD.jpg",
+          "expanded_url": "http://twitter.com/RepGarretGraves/status/628961866719567872/photo/1",
+          "id_str": "628961862483210240",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 414,
+              "resize": "fit",
+              "h": 276
+            },
+            "large": {
+              "w": 414,
+              "resize": "fit",
+              "h": 276
+            }
+          },
+          "display_url": "pic.twitter.com/Qr8Ucavos2",
+          "id": 628961862483210240
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Qr8Ucavos2",
+          "media_url": "http://pbs.twimg.com/media/CLqFe0aUcAAl7xD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqFe0aUcAAl7xD.jpg",
+          "expanded_url": "http://twitter.com/RepGarretGraves/status/628961866719567872/photo/1",
+          "id_str": "628961862483210240",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 414,
+              "resize": "fit",
+              "h": 276
+            },
+            "large": {
+              "w": 414,
+              "resize": "fit",
+              "h": 276
+            }
+          },
+          "display_url": "pic.twitter.com/Qr8Ucavos2",
+          "id": 628961862483210240
+        }
+      ]
+    },
+    "text": "Oyster processing and production accounts for close to 5,000 jobs in #Louisiana #NationalOysterDay http://t.co/Qr8Ucavos2",
+    "lang": "en",
+    "created_at": "2015-08-05 16:12:49+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628638142673866752,
+    "id_str": "628638142673866752",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/i6QUIsNYij",
+          "indices": [
+            90,
+            112
+          ],
+          "display_url": "dailyjournal.net/view/story/9b4\u2026",
+          "expanded_url": "http://www.dailyjournal.net/view/story/9b458ee17ee14fc698bea8caa46912aa/LA--Rail-Terminal"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "jobs",
+          "indices": [
+            67,
+            72
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Daily Journal",
+          "indices": [
+            117,
+            133
+          ],
+          "id_str": "158366063",
+          "id": 158366063,
+          "screen_name": "DailyJournalNet"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Florida Fuel Connection to invest $75 mil in new project. = 50 new #jobs in E. Feliciana  http://t.co/i6QUIsNYij via @dailyjournalnet",
+    "lang": "en",
+    "created_at": "2015-08-04 18:46:27+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 9,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628615463384293380,
+      "id_str": "628615463384293380",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "ACCaugust",
+            "indices": [
+              107,
+              117
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/ETzoU6NlTG",
+            "media_url": "http://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+            "expanded_url": "http://twitter.com/AmChemistry/status/628615463384293380/photo/1",
+            "id_str": "628615463149375488",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 210
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 371
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 634
+              }
+            },
+            "display_url": "pic.twitter.com/ETzoU6NlTG",
+            "id": 628615463149375488
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Garret Graves",
+            "indices": [
+              1,
+              17
+            ],
+            "id_str": "2951574214",
+            "id": 2951574214,
+            "screen_name": "RepGarretGraves"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16666748",
+        "id": 16666748
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/ETzoU6NlTG",
+            "media_url": "http://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+            "expanded_url": "http://twitter.com/AmChemistry/status/628615463384293380/photo/1",
+            "id_str": "628615463149375488",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 210
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 371
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 634
+              }
+            },
+            "display_url": "pic.twitter.com/ETzoU6NlTG",
+            "id": 628615463149375488
+          }
+        ]
+      },
+      "text": ".@RepGarretGraves joking around with Hexion employees in LA. Too bad all the good chemistry jokes ARGON ;) #ACCaugust http://t.co/ETzoU6NlTG",
+      "lang": "en",
+      "created_at": "Tue Aug 04 17:16:20 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16666748,
+          "media_url": "http://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+          "source_user_id_str": "16666748",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/ETzoU6NlTG",
+          "expanded_url": "http://twitter.com/AmChemistry/status/628615463384293380/photo/1",
+          "url": "http://t.co/ETzoU6NlTG",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+          "source_status_id_str": "628615463384293380",
+          "id_str": "628615463149375488",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 371
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 634
+            }
+          },
+          "id": 628615463149375488,
+          "source_status_id": 628615463384293380
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628615558477574144,
+    "id_str": "628615558477574144",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ACCaugust",
+          "indices": [
+            124,
+            134
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 16666748,
+          "media_url": "http://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+          "source_user_id_str": "16666748",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/ETzoU6NlTG",
+          "expanded_url": "http://twitter.com/AmChemistry/status/628615463384293380/photo/1",
+          "url": "http://t.co/ETzoU6NlTG",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlKbuVWEAAdlxa.jpg",
+          "source_status_id_str": "628615463384293380",
+          "id_str": "628615463149375488",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 371
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 634
+            }
+          },
+          "id": 628615463149375488,
+          "source_status_id": 628615463384293380
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "American Chemistry",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "16666748",
+          "id": 16666748,
+          "screen_name": "AmChemistry"
+        },
+        {
+          "name": "Rep. Garret Graves",
+          "indices": [
+            18,
+            34
+          ],
+          "id_str": "2951574214",
+          "id": 2951574214,
+          "screen_name": "RepGarretGraves"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AmChemistry: .@RepGarretGraves joking around with Hexion employees in LA. Too bad all the good chemistry jokes ARGON ;) #ACCaugust http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 17:16:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628179241537040384,
+    "id_str": "628179241537040384",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ak27GM5Rrv",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "theadvocate.com/sports/preps/1\u2026",
+          "expanded_url": "http://theadvocate.com/sports/preps/13040537-128/as-he-nears-300-career"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "football",
+          "indices": [
+            33,
+            42
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Advocate",
+          "indices": [
+            125,
+            139
+          ],
+          "id_str": "3983511",
+          "id": 3983511,
+          "screen_name": "theadvocatebr"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As he nears 300 career wins, CHS #football coach Dale Weiner makes sure it\u2019s still about the team http://t.co/ak27GM5Rrv via @theadvocatebr",
+    "lang": "en",
+    "created_at": "2015-08-03 12:22:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627231096648925184,
+    "id_str": "627231096648925184",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/y1sSmJbROq",
+          "indices": [
+            58,
+            81
+          ],
+          "display_url": "instagram.com/p/50FiAhDf4-/?\u2026",
+          "expanded_url": "https://instagram.com/p/50FiAhDf4-/?taken-by=instagravesla"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Instagram",
+          "indices": [
+            13,
+            23
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Follow me on #Instagram so you don't miss gems like this: https://t.co/y1sSmJbROq",
+    "lang": "en",
+    "created_at": "2015-07-31 21:35:21+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627226880685420545,
+      "id_str": "627226880685420545",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/HmDWzGcKYD",
+            "indices": [
+              112,
+              134
+            ],
+            "display_url": "dlvr.it/BjBqVG",
+            "expanded_url": "http://dlvr.it/BjBqVG"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "557464813",
+        "id": 557464813
+      },
+      "favorited": false,
+      "source": "<a href=\"http://dlvr.it\" rel=\"nofollow\">dlvr.it</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Land acquired for memory care facility at Perkins and Pecue: Two Georgia companies plan to build a memory care\u2026 http://t.co/HmDWzGcKYD",
+      "lang": "en",
+      "created_at": "Fri Jul 31 21:18:36 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627230743945715712,
+    "id_str": "627230743945715712",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HmDWzGcKYD",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "dlvr.it/BjBqVG",
+          "expanded_url": "http://dlvr.it/BjBqVG"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Daily Baton Rouge",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "557464813",
+          "id": 557464813,
+          "screen_name": "dailybatonrouge"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @dailybatonrouge: Land acquired for memory care facility at Perkins and Pecue: Two Georgia companies plan to build a memory care\u2026 http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-07-31 21:33:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626924950243405824,
+    "id_str": "626924950243405824",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "teamgleason",
+          "indices": [
+            17,
+            29
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/CyFV1KQmei",
+          "media_url": "http://pbs.twimg.com/media/CLNI66wWwAESXN2.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLNI66wWwAESXN2.jpg",
+          "expanded_url": "http://twitter.com/RepGarretGraves/status/626924950243405824/photo/1",
+          "id_str": "626924950176317441",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 451
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 770
+            }
+          },
+          "display_url": "pic.twitter.com/CyFV1KQmei",
+          "id": 626924950176317441
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/abex3dMZXY",
+          "indices": [
+            81,
+            103
+          ],
+          "display_url": "nola.com/politics/index\u2026",
+          "expanded_url": "http://www.nola.com/politics/index.ssf/2015/07/obama_signs_steve_gleason_act.html"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/CyFV1KQmei",
+          "media_url": "http://pbs.twimg.com/media/CLNI66wWwAESXN2.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLNI66wWwAESXN2.jpg",
+          "expanded_url": "http://twitter.com/RepGarretGraves/status/626924950243405824/photo/1",
+          "id_str": "626924950176317441",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 451
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 770
+            }
+          },
+          "display_url": "pic.twitter.com/CyFV1KQmei",
+          "id": 626924950176317441
+        }
+      ]
+    },
+    "text": "Congratulations, #teamgleason: President Obama signs Steve Gleason Act into law  http://t.co/abex3dMZXY http://t.co/CyFV1KQmei",
+    "lang": "en",
+    "created_at": "2015-07-31 01:18:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626824889090109440,
+    "id_str": "626824889090109440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/CgtCyJimEo",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "thehill.com/policy/energy-\u2026",
+          "expanded_url": "http://thehill.com/policy/energy-environment/249616-270-business-groups-ask-obama-to-scuttle-ozone-rule"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            78,
+            82
+          ]
+        },
+        {
+          "text": "ozone",
+          "indices": [
+            83,
+            89
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Nearly 300 business groups reiterate what has been clear since the start. The #EPA #ozone rule needs to be scrapped http://t.co/CgtCyJimEo",
+    "lang": "en",
+    "created_at": "2015-07-30 18:41:14+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626775829108797440,
+      "id_str": "626775829108797440",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/XnTS34BRyM",
+            "indices": [
+              104,
+              126
+            ],
+            "display_url": "abqjournal.com/619857/opinion\u2026",
+            "expanded_url": "http://www.abqjournal.com/619857/opinion/lower-ozone-limits-defy-sense-and-nature.html"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ozone",
+            "indices": [
+              61,
+              67
+            ]
+          },
+          {
+            "text": "ozone",
+            "indices": [
+              127,
+              133
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2906265794",
+        "id": 2906265794
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"there are many areas where the naturally occurring level of #ozone is above EPA\u2019s...proposed standard\" http://t.co/XnTS34BRyM #ozone",
+      "lang": "en",
+      "created_at": "Thu Jul 30 15:26:17 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626824547325513728,
+    "id_str": "626824547325513728",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/XnTS34BRyM",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "abqjournal.com/619857/opinion\u2026",
+          "expanded_url": "http://www.abqjournal.com/619857/opinion/lower-ozone-limits-defy-sense-and-nature.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ozone",
+          "indices": [
+            74,
+            80
+          ]
+        },
+        {
+          "text": "ozone",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Aileen Yeung",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "2906265794",
+          "id": 2906265794,
+          "screen_name": "a_yeung"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @a_yeung: \"there are many areas where the naturally occurring level of #ozone is above EPA\u2019s...proposed standard\" http://t.co/XnTS34BRyM\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 18:39:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626731523908214784,
+    "id_str": "626731523908214784",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Talk 107.3",
+          "indices": [
+            32,
+            41
+          ],
+          "id_str": "277176734",
+          "id": 277176734,
+          "screen_name": "talk1073"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happening now: catching up with @talk1073 ... Tune in!",
+    "lang": "en",
+    "created_at": "2015-07-30 12:30:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626173208832667648,
+    "id_str": "626173208832667648",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3RONKeWwkv",
+          "indices": [
+            70,
+            92
+          ],
+          "display_url": "forbes.com/sites/waynecre\u2026",
+          "expanded_url": "http://www.forbes.com/sites/waynecrews/2015/07/28/the-problem-with-the-white-house-threat-to-veto-the-reins-act/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Louisiana",
+          "indices": [
+            23,
+            33
+          ]
+        },
+        {
+          "text": "economy",
+          "indices": [
+            61,
+            69
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "These regs are hurting #Louisiana business, families and our #economy http://t.co/3RONKeWwkv",
+    "lang": "en",
+    "created_at": "2015-07-28 23:31:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626173003454353412,
+    "id_str": "626173003454353412",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/fbCp0NDdbJ",
+          "indices": [
+            97,
+            120
+          ],
+          "display_url": "garretgraves.house.gov/media-center/p\u2026",
+          "expanded_url": "https://garretgraves.house.gov/media-center/press-releases/rep-graves-votes-end-unilateral-executive-over-regulation"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It\u2019s estimated that the cost of complying with federal regulations is approaching $1.75 trillion\nhttps://t.co/fbCp0NDdbJ",
+    "lang": "en",
+    "created_at": "2015-07-28 23:30:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626121937526390785,
+    "id_str": "626121937526390785",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "REINSACT",
+          "indices": [
+            97,
+            106
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Federal Regs are hurting Americans. It's time to hold the government accountable and support the #REINSACT",
+    "lang": "en",
+    "created_at": "2015-07-28 20:07:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626054487900352512,
+    "id_str": "626054487900352512",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/WnhOEfwCIJ",
+          "indices": [
+            51,
+            74
+          ],
+          "display_url": "nrf.com/media/press-re\u2026",
+          "expanded_url": "https://nrf.com/media/press-releases/national-retail-federation-names-heroes-of-main-street"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NFR",
+          "indices": [
+            20,
+            24
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "NRFnews",
+          "indices": [
+            79,
+            87
+          ],
+          "id_str": "63787812",
+          "id": 63787812,
+          "screen_name": "NRFnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Honored to be among #NFR's \u2018Heroes of Main Street\u2019 https://t.co/WnhOEfwCIJ via @NRFnews",
+    "lang": "en",
+    "created_at": "2015-07-28 15:39:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626045850943418368,
+    "id_str": "626045850943418368",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ph04Ud0IUU",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "theadvocate.com/news/12982708-\u2026",
+          "expanded_url": "http://theadvocate.com/news/12982708-123/report-baton-rouge-new-orleans"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "traffic",
+          "indices": [
+            111,
+            119
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "38 percent of the roads in Louisiana\u2019s capital are rated as poor based on federal data. http://t.co/ph04Ud0IUU #traffic",
+    "lang": "en",
+    "created_at": "2015-07-28 15:05:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626045684324671488,
+    "id_str": "626045684324671488",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "BatonRouge",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "traffic",
+          "indices": [
+            121,
+            129
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2951574214",
+      "screen_name": "repgarretgraves",
+      "id": 2951574214
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#BatonRouge has 11th-worst roads among mid-sized cities in America.Fixing this is critical for long term competitiveness #traffic",
+    "lang": "en",
+    "created_at": "2015-07-28 15:04:57+00:00"
+  }
+]

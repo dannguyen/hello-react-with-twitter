@@ -1,0 +1,1693 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630276476256915456,
+    "id_str": "630276476256915456",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 48,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630276096680800257,
+      "id_str": "630276096680800257",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/9359aES2ET",
+            "media_url": "http://pbs.twimg.com/media/CL8tFnsWEAAtLfv.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL8tFnsWEAAtLfv.png",
+            "expanded_url": "http://twitter.com/haaretzcom/status/630276096680800257/photo/1",
+            "id_str": "630272047432732672",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 513
+              }
+            },
+            "display_url": "pic.twitter.com/9359aES2ET",
+            "id": 630272047432732672
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/REP9KZtWrl",
+            "indices": [
+              93,
+              115
+            ],
+            "display_url": "htz.li/37Y",
+            "expanded_url": "http://htz.li/37Y"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Fareed Zakaria",
+            "indices": [
+              78,
+              92
+            ],
+            "id_str": "41814169",
+            "id": 41814169,
+            "screen_name": "FareedZakaria"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "24506246",
+        "id": 24506246
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/9359aES2ET",
+            "media_url": "http://pbs.twimg.com/media/CL8tFnsWEAAtLfv.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL8tFnsWEAAtLfv.png",
+            "expanded_url": "http://twitter.com/haaretzcom/status/630276096680800257/photo/1",
+            "id_str": "630272047432732672",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 513
+              }
+            },
+            "display_url": "pic.twitter.com/9359aES2ET",
+            "id": 630272047432732672
+          }
+        ]
+      },
+      "text": "Obama hints Netanyahu's interference in U.S. is unprecedented in interview to @FareedZakaria http://t.co/REP9KZtWrl http://t.co/9359aES2ET",
+      "lang": "en",
+      "created_at": "Sun Aug 09 07:15:06 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Vrohs7w2Af",
+          "indices": [
+            58,
+            81
+          ],
+          "display_url": "twitter.com/haaretzcom/sta\u2026",
+          "expanded_url": "https://twitter.com/haaretzcom/status/630276096680800257"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "630276096680800257",
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "created_at": "2015-08-09 07:16:36+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "How about his interest in preserving the State of Israel? https://t.co/Vrohs7w2Af",
+    "lang": "en",
+    "quoted_status_id": 630276096680800257
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630258456172179456,
+    "id_str": "630258456172179456",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/slLR68PO89",
+          "indices": [
+            58,
+            80
+          ],
+          "display_url": "goo.gl/alerts/L8OU",
+          "expanded_url": "http://goo.gl/alerts/L8OU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GoogleAlerts",
+          "indices": [
+            81,
+            94
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "NRA-backed bill aims to keep guns from the mentally ill - http://t.co/slLR68PO89 #GoogleAlerts",
+    "lang": "en",
+    "created_at": "2015-08-09 06:05:00+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 22,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630194988761026560,
+      "id_str": "630194988761026560",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "sunset",
+            "indices": [
+              48,
+              55
+            ]
+          },
+          {
+            "text": "txwx",
+            "indices": [
+              79,
+              84
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/9xj46zjctC",
+            "media_url": "http://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+            "expanded_url": "http://twitter.com/MackAttackWX/status/630194988761026560/photo/1",
+            "id_str": "630194982704406529",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/9xj46zjctC",
+            "id": 630194982704406529
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "NWS Amarillo",
+            "indices": [
+              86,
+              98
+            ],
+            "id_str": "599281894",
+            "id": 599281894,
+            "screen_name": "NWSAmarillo"
+          },
+          {
+            "name": "Texas Storm Chasers",
+            "indices": [
+              99,
+              114
+            ],
+            "id_str": "27557391",
+            "id": 27557391,
+            "screen_name": "TxStormChasers"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "144262696",
+        "id": 144262696
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/9xj46zjctC",
+            "media_url": "http://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+            "expanded_url": "http://twitter.com/MackAttackWX/status/630194988761026560/photo/1",
+            "id_str": "630194982704406529",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/9xj46zjctC",
+            "id": 630194982704406529
+          },
+          {
+            "url": "http://t.co/9xj46zjctC",
+            "media_url": "http://pbs.twimg.com/media/CL7nAHKUcAAEDvc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL7nAHKUcAAEDvc.jpg",
+            "expanded_url": "http://twitter.com/MackAttackWX/status/630194988761026560/photo/1",
+            "id_str": "630194986986795008",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/9xj46zjctC",
+            "id": 630194986986795008
+          }
+        ]
+      },
+      "text": "Outflow boundary visible along with a beautiful #sunset. I love the Panhandle. #txwx  @NWSAmarillo @TxStormChasers http://t.co/9xj46zjctC",
+      "lang": "en",
+      "created_at": "Sun Aug 09 01:52:48 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 144262696,
+          "media_url": "http://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+          "source_user_id_str": "144262696",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/9xj46zjctC",
+          "expanded_url": "http://twitter.com/MackAttackWX/status/630194988761026560/photo/1",
+          "url": "http://t.co/9xj46zjctC",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+          "source_status_id_str": "630194988761026560",
+          "id_str": "630194982704406529",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 630194982704406529,
+          "source_status_id": 630194988761026560
+        },
+        {
+          "source_user_id": 144262696,
+          "media_url": "http://pbs.twimg.com/media/CL7nAHKUcAAEDvc.jpg",
+          "source_user_id_str": "144262696",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/9xj46zjctC",
+          "expanded_url": "http://twitter.com/MackAttackWX/status/630194988761026560/photo/1",
+          "url": "http://t.co/9xj46zjctC",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL7nAHKUcAAEDvc.jpg",
+          "source_status_id_str": "630194988761026560",
+          "id_str": "630194986986795008",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 630194986986795008,
+          "source_status_id": 630194988761026560
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630195133510631424,
+    "id_str": "630195133510631424",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "sunset",
+          "indices": [
+            66,
+            73
+          ]
+        },
+        {
+          "text": "txwx",
+          "indices": [
+            97,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 144262696,
+          "media_url": "http://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+          "source_user_id_str": "144262696",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/9xj46zjctC",
+          "expanded_url": "http://twitter.com/MackAttackWX/status/630194988761026560/photo/1",
+          "url": "http://t.co/9xj46zjctC",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL7m_3NUYAEN4Fd.jpg",
+          "source_status_id_str": "630194988761026560",
+          "id_str": "630194982704406529",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 630194982704406529,
+          "source_status_id": 630194988761026560
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Mack Morris",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "144262696",
+          "id": 144262696,
+          "screen_name": "MackAttackWX"
+        },
+        {
+          "name": "NWS Amarillo",
+          "indices": [
+            104,
+            116
+          ],
+          "id_str": "599281894",
+          "id": 599281894,
+          "screen_name": "NWSAmarillo"
+        },
+        {
+          "name": "Texas Storm Chasers",
+          "indices": [
+            117,
+            132
+          ],
+          "id_str": "27557391",
+          "id": 27557391,
+          "screen_name": "TxStormChasers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MackAttackWX: Outflow boundary visible along with a beautiful #sunset. I love the Panhandle. #txwx  @NWSAmarillo @TxStormChasers http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-09 01:53:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630194174743019520,
+    "id_str": "630194174743019520",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2A0lqf56Ui",
+          "indices": [
+            60,
+            82
+          ],
+          "display_url": "rollcall.com/news/white_hou\u2026",
+          "expanded_url": "http://www.rollcall.com/news/white_house_up_to_senate_democrats_whether_to_dump_chuck_schumer-243220-1.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "White House: Up to Senate Democrats Whether to Dump Chuck\u2026  http://t.co/2A0lqf56Ui",
+    "lang": "en",
+    "created_at": "2015-08-09 01:49:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630082103065997312,
+    "id_str": "630082103065997312",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/54v65kS3SX",
+          "indices": [
+            47,
+            69
+          ],
+          "display_url": "freebeacon.com/issues/record-\u2026",
+          "expanded_url": "http://freebeacon.com/issues/record-93770000-americans-not-in-labor-force-participation-rate-remains-at-38-year-low/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Record 93,770,000 Americans Not in Labor Force http://t.co/54v65kS3SX",
+    "lang": "en",
+    "created_at": "2015-08-08 18:24:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630077923005870080,
+    "id_str": "630077923005870080",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/pYbwAz4GPa",
+          "indices": [
+            50,
+            72
+          ],
+          "display_url": "tws.io/1Mct1kw",
+          "expanded_url": "http://tws.io/1Mct1kw"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Obama and the 'Amen Corner' | The Weekly Standard http://t.co/pYbwAz4GPa",
+    "lang": "en",
+    "created_at": "2015-08-08 18:07:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629905854108557312,
+    "id_str": "629905854108557312",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/YFoEjVi70p",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "nytimes.com/2015/08/08/wor\u2026",
+          "expanded_url": "http://www.nytimes.com/2015/08/08/world/middleeast/fears-of-lasting-rift-as-obama-battles-pro-israel-group-on-iran.html?smprod=nytcore-iphone&smid=nytcore-iphone-share"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The New York Times",
+          "indices": [
+            69,
+            77
+          ],
+          "id_str": "807095",
+          "id": 807095,
+          "screen_name": "nytimes"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Fears of Lasting Rift as Obama Battles Pro-Israel Group on Iran, via @nytimes http://t.co/YFoEjVi70p",
+    "lang": "en",
+    "created_at": "2015-08-08 06:43:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629804489944338432,
+    "id_str": "629804489944338432",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ovuuJAol3D",
+          "indices": [
+            83,
+            105
+          ],
+          "display_url": "yahoonewsdigest-us.tumblr.com/126119981484",
+          "expanded_url": "http://yahoonewsdigest-us.tumblr.com/126119981484"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            66,
+            71
+          ]
+        },
+        {
+          "text": "Russia",
+          "indices": [
+            74,
+            81
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "U.S. concerned about reports of Iran Quds chief's visit to Russia #Iran / #Russia. http://t.co/ovuuJAol3D",
+    "lang": "en",
+    "created_at": "2015-08-08 00:01:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 20,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629773850851414016,
+    "id_str": "629773850851414016",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/hKb2555EyG",
+          "media_url": "http://pbs.twimg.com/media/CL1n-mwUEAAEApO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1n-mwUEAAEApO.jpg",
+          "expanded_url": "http://twitter.com/JohnCornyn/status/629773850851414016/photo/1",
+          "id_str": "629773848154476544",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 243
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 428
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 732
+            }
+          },
+          "display_url": "pic.twitter.com/hKb2555EyG",
+          "id": 629773848154476544
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/hKb2555EyG",
+          "media_url": "http://pbs.twimg.com/media/CL1n-mwUEAAEApO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1n-mwUEAAEApO.jpg",
+          "expanded_url": "http://twitter.com/JohnCornyn/status/629773850851414016/photo/1",
+          "id_str": "629773848154476544",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 243
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 428
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 732
+            }
+          },
+          "display_url": "pic.twitter.com/hKb2555EyG",
+          "id": 629773848154476544
+        }
+      ]
+    },
+    "text": "To those who\u2019ve earned our nation\u2019s oldest military decoration, the Purple Heart, thank you from a grateful nation http://t.co/hKb2555EyG",
+    "lang": "en",
+    "created_at": "2015-08-07 21:59:21+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629689284023422976,
+    "id_str": "629689284023422976",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/BbN7Xxo0kz",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "washex.am/1MapZgx",
+          "expanded_url": "http://washex.am/1MapZgx"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Washington Examiner",
+          "indices": [
+            122,
+            133
+          ],
+          "id_str": "18956073",
+          "id": 18956073,
+          "screen_name": "dcexaminer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "And Democrats who oppose the bad deal? Obama stands by comparison of GOP to Iranian hardliners http://t.co/BbN7Xxo0kz via @DCExaminer",
+    "lang": "en",
+    "created_at": "2015-08-07 16:23:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629688590134550528,
+    "id_str": "629688590134550528",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EvYbaXUZSx",
+          "indices": [
+            67,
+            89
+          ],
+          "display_url": "washex.am/1MapNOq",
+          "expanded_url": "http://washex.am/1MapNOq"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Washington Examiner",
+          "indices": [
+            94,
+            105
+          ],
+          "id_str": "18956073",
+          "id": 18956073,
+          "screen_name": "dcexaminer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "State Department demands Hillary aides return all copies of emails http://t.co/EvYbaXUZSx via @DCExaminer",
+    "lang": "en",
+    "created_at": "2015-08-07 16:20:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629636340141948929,
+    "id_str": "629636340141948929",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/MtDXy6M4TH",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "pjmedia.com/instapundit/21\u2026",
+          "expanded_url": "http://pjmedia.com/instapundit/212027/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "JAMES TARANTO: Obama goes \u201cFull Orwell.\u201d He\u2019s been full Orwell for many years now, but Taranto\u2019s rig\u2026 http://t.co/MtDXy6M4TH",
+    "lang": "en",
+    "created_at": "2015-08-07 12:52:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 12,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629635080948981760,
+    "id_str": "629635080948981760",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Krauthammer again: \"Snapback sanctions? Everyone knows that once the international sanctions are lifted, they are never coming back.\"",
+    "lang": "en",
+    "created_at": "2015-08-07 12:47:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 12,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629634866930425856,
+    "id_str": "629634866930425856",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Krauthammer: \"New York restaurants, observed Jackie Mason, get more intrusive inspections than the Iranian nuclear program.\"",
+    "lang": "en",
+    "created_at": "2015-08-07 12:47:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629629270537670656,
+    "id_str": "629629270537670656",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Bfhx4O4qPF",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "freebeacon.com/national-secur\u2026",
+          "expanded_url": "http://freebeacon.com/national-security/senators-state-department-heartless-lacks-integrity-after-politicized-human-trafficking-report/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Senators: State Department \u2018Heartless,\u2019 Lacks \u2018Integrity\u2019 After Politicized Human Trafficking Report http://t.co/Bfhx4O4qPF",
+    "lang": "en",
+    "created_at": "2015-08-07 12:24:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629628259723005952,
+    "id_str": "629628259723005952",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/xSmA3G3R9d",
+          "indices": [
+            90,
+            112
+          ],
+          "display_url": "lawfareblog.com/iranian-terror\u2026",
+          "expanded_url": "http://www.lawfareblog.com/iranian-terrorism-victims-ask-court-block-release-iranian-assets-under-nuclear-deal"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Iranian Terrorism Victims Ask Court to Block Release of Iranian Assets Under Nuclear Deal http://t.co/xSmA3G3R9d",
+    "lang": "en",
+    "created_at": "2015-08-07 12:20:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629621548186472449,
+    "id_str": "629621548186472449",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Schumer: \"Iran will not change, and... will \u2026 achieve its ...goals of eliminating sanctions &amp; retaining its nuclear and non-nuclear power.\u201d",
+    "lang": "en",
+    "created_at": "2015-08-07 11:54:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629605749090590720,
+      "id_str": "629605749090590720",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/4UHoVmNqsi",
+            "media_url": "http://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+            "expanded_url": "http://twitter.com/statesman/status/629605749090590720/photo/1",
+            "id_str": "629605748398387200",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 223
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 393
+              },
+              "large": {
+                "w": 715,
+                "resize": "fit",
+                "h": 469
+              }
+            },
+            "display_url": "pic.twitter.com/4UHoVmNqsi",
+            "id": 629605748398387200
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/gKpeY2mAdu",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "atxne.ws/1M9Xr6P",
+            "expanded_url": "http://atxne.ws/1M9Xr6P"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "5692542",
+        "id": 5692542
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/4UHoVmNqsi",
+            "media_url": "http://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+            "expanded_url": "http://twitter.com/statesman/status/629605749090590720/photo/1",
+            "id_str": "629605748398387200",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 223
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 393
+              },
+              "large": {
+                "w": 715,
+                "resize": "fit",
+                "h": 469
+              }
+            },
+            "display_url": "pic.twitter.com/4UHoVmNqsi",
+            "id": 629605748398387200
+          }
+        ]
+      },
+      "text": "It starts today! Texans expected to save $87 million on tax-free shopping weekend http://t.co/gKpeY2mAdu http://t.co/4UHoVmNqsi",
+      "lang": "en",
+      "created_at": "Fri Aug 07 10:51:22 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 5692542,
+          "media_url": "http://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+          "source_user_id_str": "5692542",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/4UHoVmNqsi",
+          "expanded_url": "http://twitter.com/statesman/status/629605749090590720/photo/1",
+          "url": "http://t.co/4UHoVmNqsi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+          "source_status_id_str": "629605749090590720",
+          "id_str": "629605748398387200",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 223
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 393
+            },
+            "large": {
+              "w": 715,
+              "resize": "fit",
+              "h": 469
+            }
+          },
+          "id": 629605748398387200,
+          "source_status_id": 629605749090590720
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629615774718656512,
+    "id_str": "629615774718656512",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 5692542,
+          "media_url": "http://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+          "source_user_id_str": "5692542",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/4UHoVmNqsi",
+          "expanded_url": "http://twitter.com/statesman/status/629605749090590720/photo/1",
+          "url": "http://t.co/4UHoVmNqsi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLzPF6XUcAAtAxb.jpg",
+          "source_status_id_str": "629605749090590720",
+          "id_str": "629605748398387200",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 223
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 393
+            },
+            "large": {
+              "w": 715,
+              "resize": "fit",
+              "h": 469
+            }
+          },
+          "id": 629605748398387200,
+          "source_status_id": 629605749090590720
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/gKpeY2mAdu",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "atxne.ws/1M9Xr6P",
+          "expanded_url": "http://atxne.ws/1M9Xr6P"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Austin Statesman",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "5692542",
+          "id": 5692542,
+          "screen_name": "statesman"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @statesman: It starts today! Texans expected to save $87 million on tax-free shopping weekend http://t.co/gKpeY2mAdu http://t.co/4UHoVmN\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 11:31:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629615406760755200,
+    "id_str": "629615406760755200",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/SSwLpbs8eO",
+          "indices": [
+            69,
+            91
+          ],
+          "display_url": "nyti.ms/1OUg2D1",
+          "expanded_url": "http://nyti.ms/1OUg2D1"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Chuck Schumer Opposes Iran Nuclear Deal, Shaking Democratic Firewall http://t.co/SSwLpbs8eO",
+    "lang": "en",
+    "created_at": "2015-08-07 11:29:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629613935218528257,
+    "id_str": "629613935218528257",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/V5PAnNmtbF",
+          "indices": [
+            62,
+            84
+          ],
+          "display_url": "forbes.com/sites/frankmin\u2026",
+          "expanded_url": "http://www.forbes.com/sites/frankminiter/2015/08/06/heres-the-question-gop-candidates-should-be-asked-about-guns/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "13218102",
+      "screen_name": "johncornyn",
+      "id": 13218102
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Here's The Question GOP Candidates Should Be Asked About Guns http://t.co/V5PAnNmtbF",
+    "lang": "en",
+    "created_at": "2015-08-07 11:23:54+00:00"
+  }
+]

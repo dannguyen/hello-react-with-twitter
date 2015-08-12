@@ -1,0 +1,2669 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629649699138629632,
+    "id_str": "629649699138629632",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/GLG4Znvgr6",
+          "media_url": "http://pbs.twimg.com/media/CLz3EK7WIAAzWnl.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz3EK7WIAAzWnl.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/629649699138629632/photo/1",
+          "id_str": "629649698949832704",
+          "indices": [
+            82,
+            104
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/GLG4Znvgr6",
+          "id": 629649698949832704
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/e8D0GYnils",
+          "indices": [
+            59,
+            81
+          ],
+          "display_url": "j.mp/1KUuF8C",
+          "expanded_url": "http://j.mp/1KUuF8C"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/GLG4Znvgr6",
+          "media_url": "http://pbs.twimg.com/media/CLz3EK7WIAAzWnl.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz3EK7WIAAzWnl.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/629649699138629632/photo/1",
+          "id_str": "629649698949832704",
+          "indices": [
+            82,
+            104
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/GLG4Znvgr6",
+          "id": 629649698949832704
+        }
+      ]
+    },
+    "text": "Looking forward to upcoming town hall meetings! RSVP here: http://t.co/e8D0GYnils http://t.co/GLG4Znvgr6",
+    "lang": "en",
+    "created_at": "2015-08-07 13:46:01+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629648126585008128,
+    "id_str": "629648126585008128",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629631667435622401,
+      "id_str": "629631667435622401",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "JobsDay",
+            "indices": [
+              91,
+              99
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "549516077",
+        "id": 549516077
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The economy added 215,000 jobs in July, and the unemployment rate remained at 5.3 percent. #JobsDay",
+      "lang": "en",
+      "created_at": "Fri Aug 07 12:34:22 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/GR3B8xJJKO",
+          "indices": [
+            111,
+            134
+          ],
+          "display_url": "twitter.com/CAPeconomy/sta\u2026",
+          "expanded_url": "https://twitter.com/CAPeconomy/status/629631667435622401"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "infrastructure",
+          "indices": [
+            52,
+            67
+          ]
+        },
+        {
+          "text": "jobs",
+          "indices": [
+            68,
+            73
+          ]
+        },
+        {
+          "text": "raisethewage",
+          "indices": [
+            74,
+            87
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629631667435622401",
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 13:39:46+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Consistent growth good, but action from Congress on #infrastructure #jobs #raisethewage would be even better.  https://t.co/GR3B8xJJKO",
+    "lang": "en",
+    "quoted_status_id": 629631667435622401
+  },
+  {
+    "in_reply_to_status_id_str": "629510633134891008",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "43473209",
+    "id": 629511357751234561,
+    "id_str": "629511357751234561",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jay Riestenberg",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "43473209",
+          "id": 43473209,
+          "screen_name": "JayRiestenberg"
+        },
+        {
+          "name": "Bruce Springsteen",
+          "indices": [
+            21,
+            33
+          ],
+          "id_str": "43383705",
+          "id": 43383705,
+          "screen_name": "springsteen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629510633134891008,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": 43473209,
+    "in_reply_to_screen_name": "JayRiestenberg",
+    "retweeted": false,
+    "text": "@JayRiestenberg\nHuge @springsteen fan",
+    "lang": "en",
+    "created_at": "2015-08-07 04:36:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629510081227419648,
+    "id_str": "629510081227419648",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "JonStewart",
+          "indices": [
+            63,
+            74
+          ]
+        },
+        {
+          "text": "JonVoyage",
+          "indices": [
+            130,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Dreams will not be thwarted; faith will be rewarded.\" PERFECT #JonStewart send off. See you in the Land of Hope and Dreams, Jon.\n#JonVoyage",
+    "lang": "en",
+    "created_at": "2015-08-07 04:31:13+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 508,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 589,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629391564104568832,
+      "id_str": "629391564104568832",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              107,
+              113
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/03r2cBgDLP",
+            "media_url": "http://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+            "expanded_url": "http://twitter.com/VP/status/629391564104568832/photo/1",
+            "id_str": "629391562770755584",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 228
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 402
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 537
+              }
+            },
+            "display_url": "pic.twitter.com/03r2cBgDLP",
+            "id": 629391562770755584
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "325830217",
+        "id": 325830217
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/03r2cBgDLP",
+            "media_url": "http://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+            "expanded_url": "http://twitter.com/VP/status/629391564104568832/photo/1",
+            "id_str": "629391562770755584",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 228
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 402
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 537
+              }
+            },
+            "display_url": "pic.twitter.com/03r2cBgDLP",
+            "id": 629391562770755584
+          }
+        ]
+      },
+      "text": "Medgar Evers. Fannie Lou Hamer. Bob Moses. James Chaney. Andrew Goodman. Michael Schwerner. We salute you. #VRA50 http://t.co/03r2cBgDLP",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:40:17 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 508,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 325830217,
+          "media_url": "http://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+          "source_user_id_str": "325830217",
+          "indices": [
+            122,
+            140
+          ],
+          "display_url": "pic.twitter.com/03r2cBgDLP",
+          "expanded_url": "http://twitter.com/VP/status/629391564104568832/photo/1",
+          "url": "http://t.co/03r2cBgDLP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+          "source_status_id_str": "629391564104568832",
+          "id_str": "629391562770755584",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 228
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 402
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "id": 629391562770755584,
+          "source_status_id": 629391564104568832
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629446726043176960,
+    "id_str": "629446726043176960",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            115,
+            121
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 325830217,
+          "media_url": "http://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+          "source_user_id_str": "325830217",
+          "indices": [
+            122,
+            140
+          ],
+          "display_url": "pic.twitter.com/03r2cBgDLP",
+          "expanded_url": "http://twitter.com/VP/status/629391564104568832/photo/1",
+          "url": "http://t.co/03r2cBgDLP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwMSquUMAAZ98e.jpg",
+          "source_status_id_str": "629391564104568832",
+          "id_str": "629391562770755584",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 228
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 402
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "id": 629391562770755584,
+          "source_status_id": 629391564104568832
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Vice President Biden",
+          "indices": [
+            3,
+            6
+          ],
+          "id_str": "325830217",
+          "id": 325830217,
+          "screen_name": "VP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @VP: Medgar Evers. Fannie Lou Hamer. Bob Moses. James Chaney. Andrew Goodman. Michael Schwerner. We salute you. #VRA50 http://t.co/03r2c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 00:19:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629310556399382529,
+    "id_str": "629310556399382529",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/IXwIrabiWw",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "j.mp/1DwutN0",
+          "expanded_url": "http://j.mp/1DwutN0"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            33,
+            37
+          ]
+        },
+        {
+          "text": "womenshealth",
+          "indices": [
+            76,
+            89
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Planned Parenthood",
+          "indices": [
+            11,
+            16
+          ],
+          "id_str": "402957663",
+          "id": 402957663,
+          "screen_name": "PPFA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Attacks on @PPFA nothing new. So #TBT to 1 of many times I've had to defend #womenshealth funding http://t.co/IXwIrabiWw",
+    "lang": "en",
+    "created_at": "2015-08-06 15:18:23+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629258392251596801,
+    "id_str": "629258392251596801",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreVRA",
+          "indices": [
+            102,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/l8HvOpyKEO",
+          "media_url": "http://pbs.twimg.com/media/CLuTLGuWcAAycDM.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuTLGuWcAAycDM.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/629258392251596801/photo/1",
+          "id_str": "629258391941181440",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "display_url": "pic.twitter.com/l8HvOpyKEO",
+          "id": 629258391941181440
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            78,
+            87
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/l8HvOpyKEO",
+          "media_url": "http://pbs.twimg.com/media/CLuTLGuWcAAycDM.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuTLGuWcAAycDM.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/629258392251596801/photo/1",
+          "id_str": "629258391941181440",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "display_url": "pic.twitter.com/l8HvOpyKEO",
+          "id": 629258391941181440
+        }
+      ]
+    },
+    "text": "Brave citizens risked lives for Voting Rights Act signed by LBJ 50 years ago. @HouseGOP: lets vote to #RestoreVRA! http://t.co/l8HvOpyKEO",
+    "lang": "en",
+    "created_at": "2015-08-06 11:51:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629140621610098688,
+    "id_str": "629140621610098688",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreVRA",
+          "indices": [
+            101,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/sw1sUhFqit",
+          "media_url": "http://pbs.twimg.com/media/CLsoD8-W8AA1Bir.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLsoD8-W8AA1Bir.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/629140621610098688/photo/1",
+          "id_str": "629140621320712192",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "display_url": "pic.twitter.com/sw1sUhFqit",
+          "id": 629140621320712192
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/sw1sUhFqit",
+          "media_url": "http://pbs.twimg.com/media/CLsoD8-W8AA1Bir.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLsoD8-W8AA1Bir.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/629140621610098688/photo/1",
+          "id_str": "629140621320712192",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "display_url": "pic.twitter.com/sw1sUhFqit",
+          "id": 629140621320712192
+        }
+      ]
+    },
+    "text": "It's 8/6/15: 50 years ago LBJ signed Voting Rights Act. Shameful to mark anniversary with no vote to #RestoreVRA http://t.co/sw1sUhFqit",
+    "lang": "en",
+    "created_at": "2015-08-06 04:03:07+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 16,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628764143760355328,
+    "id_str": "628764143760355328",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/GGTBFP2zOm",
+          "media_url": "http://pbs.twimg.com/media/CLnRqEhWgAAamHL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLnRqEhWgAAamHL.jpg",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628764143760355328/photo/1",
+          "id_str": "628764143693234176",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 88
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 156
+            },
+            "large": {
+              "w": 639,
+              "resize": "fit",
+              "h": 167
+            }
+          },
+          "display_url": "pic.twitter.com/GGTBFP2zOm",
+          "id": 628764143693234176
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/gLlGZMGRTl",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "j.mp/1g6ucFD",
+          "expanded_url": "http://j.mp/1g6ucFD"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Sun Sentinel",
+          "indices": [
+            24,
+            36
+          ],
+          "id_str": "12699932",
+          "id": 12699932,
+          "screen_name": "SunSentinel"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/GGTBFP2zOm",
+          "media_url": "http://pbs.twimg.com/media/CLnRqEhWgAAamHL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLnRqEhWgAAamHL.jpg",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628764143760355328/photo/1",
+          "id_str": "628764143693234176",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 88
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 156
+            },
+            "large": {
+              "w": 639,
+              "resize": "fit",
+              "h": 167
+            }
+          },
+          "display_url": "pic.twitter.com/GGTBFP2zOm",
+          "id": 628764143693234176
+        }
+      ]
+    },
+    "text": "EXCLUSIVE in tomorrow's @SunSentinel: my op-ed on 10 years in public life &amp; the Iran deal. http://t.co/gLlGZMGRTl http://t.co/GGTBFP2zOm",
+    "lang": "en",
+    "created_at": "2015-08-05 03:07:08+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628725401267867648,
+    "id_str": "628725401267867648",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 6239,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8712,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628676133572100097,
+      "id_str": "628676133572100097",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/a6O17dlEh4",
+            "indices": [
+              52,
+              75
+            ],
+            "display_url": "twitter.com/SabrinaSiddiqu\u2026",
+            "expanded_url": "https://twitter.com/SabrinaSiddiqui/status/628662331254378496"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Jeb Bush",
+            "indices": [
+              1,
+              9
+            ],
+            "id_str": "113047940",
+            "id": 113047940,
+            "screen_name": "JebBush"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628662331254378496",
+      "user": {
+        "id_str": "1339835893",
+        "id": 1339835893
+      },
+      "favorited": false,
+      "created_at": "Tue Aug 04 21:17:25 +0000 2015",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@JebBush: You are absolutely, unequivocally wrong. https://t.co/a6O17dlEh4",
+      "lang": "en",
+      "quoted_status_id": 628662331254378496
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/iiaSP4mHfF",
+          "indices": [
+            114,
+            137
+          ],
+          "display_url": "twitter.com/HillaryClinton\u2026",
+          "expanded_url": "https://twitter.com/HillaryClinton/status/628676133572100097"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628676133572100097",
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 00:33:11+00:00",
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "we should spend MORE on women's health Jeb! reducing unwanted pregnancy, catching cancer, guaranteeing paid leave https://t.co/iiaSP4mHfF",
+    "lang": "en",
+    "quoted_status_id": 628676133572100097
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 38,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 32,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628718826306314240,
+    "id_str": "628718826306314240",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/IOkf6CC8Z3",
+          "media_url": "http://pbs.twimg.com/media/CLmocPWWUAEHQ3a.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmocPWWUAEHQ3a.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628718826306314240/photo/1",
+          "id_str": "628718826104967169",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/IOkf6CC8Z3",
+          "id": 628718826104967169
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/BkkO6PuoMG",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "j.mp/1SKr8ky",
+          "expanded_url": "http://j.mp/1SKr8ky"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Sun Sentinel",
+          "indices": [
+            24,
+            36
+          ],
+          "id_str": "12699932",
+          "id": 12699932,
+          "screen_name": "SunSentinel"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/IOkf6CC8Z3",
+          "media_url": "http://pbs.twimg.com/media/CLmocPWWUAEHQ3a.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmocPWWUAEHQ3a.png",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628718826306314240/photo/1",
+          "id_str": "628718826104967169",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/IOkf6CC8Z3",
+          "id": 628718826104967169
+        }
+      ]
+    },
+    "text": "ONLINE NOW: My op-ed in @SunSentinel tomorrow: \"10 Years in Public Life and the Iran Deal\" http://t.co/BkkO6PuoMG http://t.co/IOkf6CC8Z3",
+    "lang": "en",
+    "created_at": "2015-08-05 00:07:03+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": "628675762774798336",
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 17,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "10929352",
+      "id": 628676006598082560,
+      "id_str": "628676006598082560",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "BREAKING",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "IranDeal",
+            "indices": [
+              83,
+              92
+            ]
+          }
+        ],
+        "media": [
+          {
+            "source_user_id": 137794015,
+            "media_url": "http://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+            "source_user_id_str": "137794015",
+            "indices": [
+              117,
+              139
+            ],
+            "display_url": "pic.twitter.com/S6Nuekdpth",
+            "expanded_url": "http://twitter.com/RepTedDeutch/status/628671489143885824/photo/1",
+            "url": "http://t.co/S6Nuekdpth",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+            "source_status_id_str": "628671489143885824",
+            "id_str": "628671488837726208",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 274
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 477,
+                "resize": "fit",
+                "h": 386
+              },
+              "large": {
+                "w": 477,
+                "resize": "fit",
+                "h": 386
+              }
+            },
+            "id": 628671488837726208,
+            "source_status_id": 628671489143885824
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/PVZZPZ7OQ7",
+            "indices": [
+              94,
+              116
+            ],
+            "display_url": "j.mp/deutchiranoped",
+            "expanded_url": "http://j.mp/deutchiranoped"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Ted Deutch",
+            "indices": [
+              11,
+              24
+            ],
+            "id_str": "137794015",
+            "id": 137794015,
+            "screen_name": "RepTedDeutch"
+          }
+        ]
+      },
+      "in_reply_to_status_id": 628675762774798336,
+      "contributors": null,
+      "user": {
+        "id_str": "10929352",
+        "id": 10929352
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 10929352,
+      "in_reply_to_screen_name": "Daroff",
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 137794015,
+            "media_url": "http://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+            "source_user_id_str": "137794015",
+            "indices": [
+              117,
+              139
+            ],
+            "display_url": "pic.twitter.com/S6Nuekdpth",
+            "expanded_url": "http://twitter.com/RepTedDeutch/status/628671489143885824/photo/1",
+            "url": "http://t.co/S6Nuekdpth",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+            "source_status_id_str": "628671489143885824",
+            "id_str": "628671488837726208",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 274
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 477,
+                "resize": "fit",
+                "h": 386
+              },
+              "large": {
+                "w": 477,
+                "resize": "fit",
+                "h": 386
+              }
+            },
+            "id": 628671488837726208,
+            "source_status_id": 628671489143885824
+          }
+        ]
+      },
+      "text": "#BREAKING: @RepTedDeutch - top Foreign Affairs Cmte Democrat: \"I will vote against #IranDeal\" http://t.co/PVZZPZ7OQ7 http://t.co/S6Nuekdpth",
+      "lang": "en",
+      "created_at": "Tue Aug 04 21:16:54 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 137794015,
+          "media_url": "http://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "source_user_id_str": "137794015",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/S6Nuekdpth",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628671489143885824/photo/1",
+          "url": "http://t.co/S6Nuekdpth",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "source_status_id_str": "628671489143885824",
+          "id_str": "628671488837726208",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            },
+            "large": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            }
+          },
+          "id": 628671488837726208,
+          "source_status_id": 628671489143885824
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628678123530399744,
+    "id_str": "628678123530399744",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "BREAKING",
+          "indices": [
+            12,
+            21
+          ]
+        },
+        {
+          "text": "IranDeal",
+          "indices": [
+            95,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 137794015,
+          "media_url": "http://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "source_user_id_str": "137794015",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/S6Nuekdpth",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628671489143885824/photo/1",
+          "url": "http://t.co/S6Nuekdpth",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "source_status_id_str": "628671489143885824",
+          "id_str": "628671488837726208",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            },
+            "large": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            }
+          },
+          "id": 628671488837726208,
+          "source_status_id": 628671489143885824
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/PVZZPZ7OQ7",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "j.mp/deutchiranoped",
+          "expanded_url": "http://j.mp/deutchiranoped"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "William Daroff",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "10929352",
+          "id": 10929352,
+          "screen_name": "Daroff"
+        },
+        {
+          "name": "Rep. Ted Deutch",
+          "indices": [
+            23,
+            36
+          ],
+          "id_str": "137794015",
+          "id": 137794015,
+          "screen_name": "RepTedDeutch"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Daroff: #BREAKING: @RepTedDeutch - top Foreign Affairs Cmte Democrat: \"I will vote against #IranDeal\" http://t.co/PVZZPZ7OQ7 http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 21:25:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 21,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628671489143885824,
+    "id_str": "628671489143885824",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/CHJX7HQfW0",
+          "media_url": "http://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628671489143885824/photo/1",
+          "id_str": "628671488837726208",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            },
+            "large": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            }
+          },
+          "display_url": "pic.twitter.com/CHJX7HQfW0",
+          "id": 628671488837726208
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/xPXg2uQdT5",
+          "indices": [
+            76,
+            98
+          ],
+          "display_url": "j.mp/deutchiranoped",
+          "expanded_url": "http://j.mp/deutchiranoped"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Sun Sentinel",
+          "indices": [
+            13,
+            25
+          ],
+          "id_str": "12699932",
+          "id": 12699932,
+          "screen_name": "SunSentinel"
+        },
+        {
+          "name": "JTA | Jewish news",
+          "indices": [
+            99,
+            107
+          ],
+          "id_str": "14276734",
+          "id": 14276734,
+          "screen_name": "JTAnews"
+        },
+        {
+          "name": "Jewish Daily Forward",
+          "indices": [
+            108,
+            118
+          ],
+          "id_str": "47436923",
+          "id": 47436923,
+          "screen_name": "jdforward"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/CHJX7HQfW0",
+          "media_url": "http://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl9Y2SWsAAsW7y.jpg",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628671489143885824/photo/1",
+          "id_str": "628671488837726208",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            },
+            "large": {
+              "w": 477,
+              "resize": "fit",
+              "h": 386
+            }
+          },
+          "display_url": "pic.twitter.com/CHJX7HQfW0",
+          "id": 628671488837726208
+        }
+      ]
+    },
+    "text": "EXCLUSIVE My @SunSentinel op-ed:10 Years in Public Life &amp; the Iran deal http://t.co/xPXg2uQdT5 @JTAnews @jdforward http://t.co/CHJX7HQfW0",
+    "lang": "en",
+    "created_at": "2015-08-04 20:58:57+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 68,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 55,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628667330407567360,
+    "id_str": "628667330407567360",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/xPXg2uQdT5",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "j.mp/deutchiranoped",
+          "expanded_url": "http://j.mp/deutchiranoped"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"This deal includes unwarranted giveaways to Iran that threaten the security of the Middle East.\" Read my op-ed: http://t.co/xPXg2uQdT5",
+    "lang": "en",
+    "created_at": "2015-08-04 20:42:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 47,
+    "favorite_count": 38,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628665199428542464,
+    "id_str": "628665199428542464",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sun Sentinel",
+          "indices": [
+            73,
+            85
+          ],
+          "id_str": "12699932",
+          "id": 12699932,
+          "screen_name": "SunSentinel"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "BREAKING: On 10 Years in Public Life and the Iran Deal - my piece in the @SunSentinel on why I will not be supporting this agreement.",
+    "lang": "en",
+    "created_at": "2015-08-04 20:33:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628662183774302208,
+    "id_str": "628662183774302208",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628661123953377281,
+      "id_str": "628661123953377281",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Iran",
+            "indices": [
+              57,
+              62
+            ]
+          },
+          {
+            "text": "nuclear",
+            "indices": [
+              63,
+              71
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/8EHkxIYkfY",
+            "media_url": "http://pbs.twimg.com/media/CLlz9hvXAAgrtWb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlz9hvXAAgrtWb.jpg",
+            "expanded_url": "http://twitter.com/ConsumerDan/status/628661123953377281/photo/1",
+            "id_str": "628661123861118984",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 450
+              }
+            },
+            "display_url": "pic.twitter.com/8EHkxIYkfY",
+            "id": 628661123861118984
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/oIFAGhA3aJ",
+            "indices": [
+              78,
+              100
+            ],
+            "display_url": "buff.ly/1SJUiQO",
+            "expanded_url": "http://buff.ly/1SJUiQO"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Ted Deutch",
+            "indices": [
+              15,
+              28
+            ],
+            "id_str": "137794015",
+            "id": 137794015,
+            "screen_name": "RepTedDeutch"
+          },
+          {
+            "name": "Barack Obama",
+            "indices": [
+              44,
+              56
+            ],
+            "id_str": "813286",
+            "id": 813286,
+            "screen_name": "BarackObama"
+          },
+          {
+            "name": "Rosemary O'Hara",
+            "indices": [
+              101,
+              117
+            ],
+            "id_str": "17744939",
+            "id": 17744939,
+            "screen_name": "RosemaryOHara14"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18925538",
+        "id": 18925538
+      },
+      "favorited": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/8EHkxIYkfY",
+            "media_url": "http://pbs.twimg.com/media/CLlz9hvXAAgrtWb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlz9hvXAAgrtWb.jpg",
+            "expanded_url": "http://twitter.com/ConsumerDan/status/628661123953377281/photo/1",
+            "id_str": "628661123861118984",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 450
+              }
+            },
+            "display_url": "pic.twitter.com/8EHkxIYkfY",
+            "id": 628661123861118984
+          }
+        ]
+      },
+      "text": "Exclusive: Why @RepTedDeutch won't vote for @BarackObama #Iran #nuclear deal: http://t.co/oIFAGhA3aJ @RosemaryOHara14 http://t.co/8EHkxIYkfY",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:17:46 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/24dHfAniaO",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "buff.ly/1SJUiQO",
+          "expanded_url": "http://buff.ly/1SJUiQO"
+        },
+        {
+          "url": "https://t.co/vvb3yVtlwv",
+          "indices": [
+            112,
+            135
+          ],
+          "display_url": "twitter.com/ConsumerDan/st\u2026",
+          "expanded_url": "https://twitter.com/ConsumerDan/status/628661123953377281"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sun Sentinel",
+          "indices": [
+            75,
+            87
+          ],
+          "id_str": "12699932",
+          "id": 12699932,
+          "screen_name": "SunSentinel"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628661123953377281",
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 20:21:59+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "BREAKING: My 10 Years in Public Life &amp; the Iran Deal. Read my piece in @SunSentinel: http://t.co/24dHfAniaO https://t.co/vvb3yVtlwv",
+    "lang": "en",
+    "quoted_status_id": 628661123953377281
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 208,
+      "favorite_count": 95,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628182643507654656,
+      "id_str": "628182643507654656",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoretheVRA",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3018670151",
+        "id": 3018670151
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "There are too many places across America where citizens are denied the right to be heard at the ballot box. RT if you agree: #RestoretheVRA!",
+      "lang": "en",
+      "created_at": "Mon Aug 03 12:36:27 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 208,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628398648574013440,
+    "id_str": "628398648574013440",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Pete Aguilar",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "3018670151",
+          "id": 3018670151,
+          "screen_name": "RepPeteAguilar"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepPeteAguilar: There are too many places across America where citizens are denied the right to be heard at the ballot box. RT if you a\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 02:54:47+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 46,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 23,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628255637286293505,
+      "id_str": "628255637286293505",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/ABatnOySJp",
+            "indices": [
+              108,
+              130
+            ],
+            "display_url": "wsj.com/articles/jim-h\u2026",
+            "expanded_url": "http://www.wsj.com/articles/jim-harbaugh-huddles-with-the-supreme-court-1438620279"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Coach Harbaugh",
+            "indices": [
+              3,
+              15
+            ],
+            "id_str": "2955596087",
+            "id": 2955596087,
+            "screen_name": "CoachJim4UM"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "50446226",
+        "id": 50446226
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "So @CoachJim4UM decided to walk into the Supreme Court and he met five justices because that's how he rolls http://t.co/ABatnOySJp",
+      "lang": "en",
+      "created_at": "Mon Aug 03 17:26:31 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 46,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628304165983363072,
+    "id_str": "628304165983363072",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ABatnOySJp",
+          "indices": [
+            127,
+            140
+          ],
+          "display_url": "wsj.com/articles/jim-h\u2026",
+          "expanded_url": "http://www.wsj.com/articles/jim-harbaugh-huddles-with-the-supreme-court-1438620279"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jonathan Chait",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "50446226",
+          "id": 50446226,
+          "screen_name": "jonathanchait"
+        },
+        {
+          "name": "Coach Harbaugh",
+          "indices": [
+            22,
+            34
+          ],
+          "id_str": "2955596087",
+          "id": 2955596087,
+          "screen_name": "CoachJim4UM"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @jonathanchait: So @CoachJim4UM decided to walk into the Supreme Court and he met five justices because that's how he rolls http://t.co/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 20:39:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628257801001955329,
+    "id_str": "628257801001955329",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/DD8Ng2Fj1x",
+          "media_url": "http://pbs.twimg.com/media/CLgFJCtXAAA20JW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgFJCtXAAA20JW.jpg",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628257801001955329/photo/1",
+          "id_str": "628257800922267648",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 211
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 372
+            },
+            "large": {
+              "w": 612,
+              "resize": "fit",
+              "h": 380
+            }
+          },
+          "display_url": "pic.twitter.com/DD8Ng2Fj1x",
+          "id": 628257800922267648
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/wP2KT20gb8",
+          "indices": [
+            90,
+            112
+          ],
+          "display_url": "j.mp/1DlbgxT",
+          "expanded_url": "http://j.mp/1DlbgxT"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Amy Schumer",
+          "indices": [
+            1,
+            12
+          ],
+          "id_str": "55117855",
+          "id": 55117855,
+          "screen_name": "amyschumer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/DD8Ng2Fj1x",
+          "media_url": "http://pbs.twimg.com/media/CLgFJCtXAAA20JW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgFJCtXAAA20JW.jpg",
+          "expanded_url": "http://twitter.com/RepTedDeutch/status/628257801001955329/photo/1",
+          "id_str": "628257800922267648",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 211
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 372
+            },
+            "large": {
+              "w": 612,
+              "resize": "fit",
+              "h": 380
+            }
+          },
+          "display_url": "pic.twitter.com/DD8Ng2Fj1x",
+          "id": 628257800922267648
+        }
+      ]
+    },
+    "text": ".@amyschumer is right. We CAN stop dangerous people from getting guns, killing innocents. http://t.co/wP2KT20gb8 http://t.co/DD8Ng2Fj1x",
+    "lang": "en",
+    "created_at": "2015-08-03 17:35:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 24,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 18,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627990657706102789,
+    "id_str": "627990657706102789",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 76,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 70,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627947434652626944,
+      "id_str": "627947434652626944",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "CitizensUnited",
+            "indices": [
+              19,
+              34
+            ]
+          },
+          {
+            "text": "GetMoneyOut",
+            "indices": [
+              47,
+              59
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/Qs9k7BJra7",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CLbq3TtUcAAZZCa.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CLbq3TtUcAAZZCa.png",
+            "expanded_url": "http://twitter.com/StampStampede/status/627947434652626944/photo/1",
+            "id_str": "627947433968824320",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 190
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 336
+              },
+              "large": {
+                "w": 699,
+                "resize": "fit",
+                "h": 392
+              }
+            },
+            "display_url": "pic.twitter.com/Qs9k7BJra7",
+            "id": 627947433968824320
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/9GD17EfwWw",
+            "indices": [
+              73,
+              95
+            ],
+            "display_url": "ow.ly/Qli80",
+            "expanded_url": "http://ow.ly/Qli80"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Doris Kearns Goodwin",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "610922415",
+            "id": 610922415,
+            "screen_name": "DorisKGoodwin"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "755716560",
+        "id": 755716560
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Qs9k7BJra7",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CLbq3TtUcAAZZCa.png",
+            "type": "animated_gif",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CLbq3TtUcAAZZCa.png",
+            "expanded_url": "http://twitter.com/StampStampede/status/627947434652626944/photo/1",
+            "video_info": {
+              "variants": [
+                {
+                  "url": "https://pbs.twimg.com/tweet_video/CLbq3TtUcAAZZCa.mp4",
+                  "bitrate": 0,
+                  "content_type": "video/mp4"
+                }
+              ],
+              "aspect_ratio": [
+                25,
+                14
+              ]
+            },
+            "id_str": "627947433968824320",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 190
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 336
+              },
+              "large": {
+                "w": 699,
+                "resize": "fit",
+                "h": 392
+              }
+            },
+            "display_url": "pic.twitter.com/Qs9k7BJra7",
+            "id": 627947433968824320
+          }
+        ]
+      },
+      "text": ".@doriskgoodwin on #CitizensUnited. Yep--let's #GetMoneyOut of politics! http://t.co/9GD17EfwWw http://t.co/Qs9k7BJra7",
+      "lang": "en",
+      "created_at": "Sun Aug 02 21:01:49 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/mlPG18TUMR",
+          "indices": [
+            60,
+            83
+          ],
+          "display_url": "twitter.com/stampstampede/\u2026",
+          "expanded_url": "https://twitter.com/stampstampede/status/627947434652626944"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DemocracyForAllAmendment",
+          "indices": [
+            21,
+            46
+          ]
+        },
+        {
+          "text": "GetMoneyOut",
+          "indices": [
+            47,
+            59
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "627947434652626944",
+    "user": {
+      "id_str": "137794015",
+      "screen_name": "repteddeutch",
+      "id": 137794015
+    },
+    "favorited": false,
+    "created_at": "2015-08-02 23:53:34+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Yes!  We can do it!  #DemocracyForAllAmendment #GetMoneyOut https://t.co/mlPG18TUMR",
+    "lang": "en",
+    "quoted_status_id": 627947434652626944
+  }
+]

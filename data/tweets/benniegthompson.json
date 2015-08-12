@@ -1,0 +1,3993 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "url": "https://api.twitter.com/1.1/geo/id/33d41d156b557913.json",
+        "country_code": "US",
+        "full_name": "Herndon, VA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.413471,
+                38.953006
+              ],
+              [
+                -77.364481,
+                38.953006
+              ],
+              [
+                -77.364481,
+                38.988444
+              ],
+              [
+                -77.413471,
+                38.988444
+              ]
+            ]
+          ]
+        },
+        "attributes": {},
+        "name": "Herndon",
+        "country": "United States",
+        "place_type": "city",
+        "id": "33d41d156b557913"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628621530268835840,
+      "id_str": "628621530268835840",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "82453460",
+            "indices": [
+              2,
+              18
+            ],
+            "name": "RepBThompson",
+            "id": 82453460,
+            "screen_name": "BennieGThompson"
+          },
+          {
+            "id_str": "278582590",
+            "indices": [
+              34,
+              47
+            ],
+            "name": "CBC Institute",
+            "id": 278582590,
+            "screen_name": "CBCInstitute"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "239974061",
+        "id": 239974061
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "! @BennieGThompson said topics at @CBCInstitute policy meeting in MS to include voting rights, criminal justice reform, student loans, HBCUs",
+      "lang": "en",
+      "created_at": "Tue Aug 04 17:40:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628652552163323906",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "239974061",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "Deborah Berry ",
+          "id": 239974061,
+          "screen_name": "dberrygannett"
+        },
+        {
+          "id_str": "82453460",
+          "indices": [
+            21,
+            37
+          ],
+          "name": "RepBThompson",
+          "id": 82453460,
+          "screen_name": "BennieGThompson"
+        },
+        {
+          "id_str": "278582590",
+          "indices": [
+            53,
+            66
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628652552163323906,
+    "text": "RT @dberrygannett: ! @BennieGThompson said topics at @CBCInstitute policy meeting in MS to include voting rights, criminal justice reform, \u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 19:43:42+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626023266889650176",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            80,
+            93
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/RVW2v5wan5",
+          "indices": [
+            100,
+            123
+          ],
+          "display_url": "instagram.com/p/5roST-CQDX/",
+          "expanded_url": "https://instagram.com/p/5roST-CQDX/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626023266889650176,
+    "text": "I'm very proud of this year's class of emerging leaders who participated in the @cbcinstitute Boot\u2026 https://t.co/RVW2v5wan5",
+    "lang": "en",
+    "created_at": "2015-07-28 13:35:52+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624261854471319552,
+      "id_str": "624261854471319552",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "82453460",
+            "indices": [
+              2,
+              18
+            ],
+            "name": "RepBThompson",
+            "id": 82453460,
+            "screen_name": "BennieGThompson"
+          },
+          {
+            "id_str": "813286",
+            "indices": [
+              29,
+              41
+            ],
+            "name": "Barack Obama",
+            "id": 813286,
+            "screen_name": "BarackObama"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "239974061",
+        "id": 239974061
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "! @BennieGThompson will join @BarackObama on his trip this week to Kenya and Ethiopia",
+      "lang": "en",
+      "created_at": "Thu Jul 23 16:56:38 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "624263449070190593",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "239974061",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "Deborah Berry ",
+          "id": 239974061,
+          "screen_name": "dberrygannett"
+        },
+        {
+          "id_str": "82453460",
+          "indices": [
+            21,
+            37
+          ],
+          "name": "RepBThompson",
+          "id": 82453460,
+          "screen_name": "BennieGThompson"
+        },
+        {
+          "id_str": "813286",
+          "indices": [
+            48,
+            60
+          ],
+          "name": "Barack Obama",
+          "id": 813286,
+          "screen_name": "BarackObama"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 624263449070190593,
+    "text": "RT @dberrygannett: ! @BennieGThompson will join @BarackObama on his trip this week to Kenya and Ethiopia",
+    "lang": "en",
+    "created_at": "2015-07-23 17:02:59+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/DnFhjLxj0R",
+            "media_url": "http://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623918517738455041/photo/1",
+            "id_str": "623918511199494144",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/DnFhjLxj0R",
+            "id": 623918511199494144
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 623918517738455041,
+      "id_str": "623918517738455041",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/DnFhjLxj0R",
+            "media_url": "http://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623918517738455041/photo/1",
+            "id_str": "623918511199494144",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/DnFhjLxj0R",
+            "id": 623918511199494144
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              91,
+              108
+            ]
+          },
+          {
+            "text": "HillDay",
+            "indices": [
+              109,
+              117
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "381152398",
+            "indices": [
+              74,
+              89
+            ],
+            "name": "Rep. Terri A. Sewell",
+            "id": 381152398,
+            "screen_name": "RepTerriSewell"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "\"Find something you're passionate about and ADVOCATE ADVOCATE ADVOCATE!\" -@RepTerriSewell \n#CBCIBootCamp2015 #HillDay http://t.co/DnFhjLxj0R",
+      "lang": "en",
+      "created_at": "Wed Jul 22 18:12:21 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/DnFhjLxj0R",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623918517738455041/photo/1",
+          "url": "http://t.co/DnFhjLxj0R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+          "source_status_id_str": "623918517738455041",
+          "id_str": "623918511199494144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623918511199494144,
+          "source_status_id": 623918517738455041
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624009601948733442,
+    "id_str": "624009601948733442",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/DnFhjLxj0R",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623918517738455041/photo/1",
+          "url": "http://t.co/DnFhjLxj0R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKialIzWIAAk7HR.jpg",
+          "source_status_id_str": "623918517738455041",
+          "id_str": "623918511199494144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623918511199494144,
+          "source_status_id": 623918517738455041
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            109,
+            126
+          ]
+        },
+        {
+          "text": "HillDay",
+          "indices": [
+            127,
+            135
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        },
+        {
+          "id_str": "381152398",
+          "indices": [
+            92,
+            107
+          ],
+          "name": "Rep. Terri A. Sewell",
+          "id": 381152398,
+          "screen_name": "RepTerriSewell"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: \"Find something you're passionate about and ADVOCATE ADVOCATE ADVOCATE!\" -@RepTerriSewell \n#CBCIBootCamp2015 #HillDay htt\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 00:14:17+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/gCDnCWBzH1",
+            "media_url": "http://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623884782754242560/photo/1",
+            "id_str": "623884776999645184",
+            "indices": [
+              85,
+              107
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/gCDnCWBzH1",
+            "id": 623884776999645184
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": "199325935",
+      "id": 623884782754242560,
+      "id_str": "623884782754242560",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/gCDnCWBzH1",
+            "media_url": "http://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623884782754242560/photo/1",
+            "id_str": "623884776999645184",
+            "indices": [
+              85,
+              107
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/gCDnCWBzH1",
+            "id": 623884776999645184
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              58,
+              75
+            ]
+          },
+          {
+            "text": "HillDay",
+            "indices": [
+              76,
+              84
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "199325935",
+            "indices": [
+              0,
+              15
+            ],
+            "name": "Andr\u00e9 Carson",
+            "id": 199325935,
+            "screen_name": "RepAndreCarson"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 199325935,
+      "in_reply_to_screen_name": "RepAndreCarson",
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "@RepAndreCarson talking about the power of relationships.\n#CBCIBootCamp2015 #HillDay http://t.co/gCDnCWBzH1",
+      "lang": "en",
+      "created_at": "Wed Jul 22 15:58:18 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "pic.twitter.com/gCDnCWBzH1",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623884782754242560/photo/1",
+          "url": "http://t.co/gCDnCWBzH1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+          "source_status_id_str": "623884782754242560",
+          "id_str": "623884776999645184",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623884776999645184,
+          "source_status_id": 623884782754242560
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624009579513413632,
+    "id_str": "624009579513413632",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "pic.twitter.com/gCDnCWBzH1",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623884782754242560/photo/1",
+          "url": "http://t.co/gCDnCWBzH1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKh75jHWcAAJDe5.jpg",
+          "source_status_id_str": "623884782754242560",
+          "id_str": "623884776999645184",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623884776999645184,
+          "source_status_id": 623884782754242560
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            76,
+            93
+          ]
+        },
+        {
+          "text": "HillDay",
+          "indices": [
+            94,
+            102
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        },
+        {
+          "id_str": "199325935",
+          "indices": [
+            18,
+            33
+          ],
+          "name": "Andr\u00e9 Carson",
+          "id": 199325935,
+          "screen_name": "RepAndreCarson"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: @RepAndreCarson talking about the power of relationships.\n#CBCIBootCamp2015 #HillDay http://t.co/gCDnCWBzH1",
+    "lang": "en",
+    "created_at": "2015-07-23 00:14:11+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/9xZmWA6xTh",
+            "media_url": "http://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623877577107767296/photo/1",
+            "id_str": "623877572590469120",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/9xZmWA6xTh",
+            "id": 623877572590469120
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 623877577107767296,
+      "id_str": "623877577107767296",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/9xZmWA6xTh",
+            "media_url": "http://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623877577107767296/photo/1",
+            "id_str": "623877572590469120",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/9xZmWA6xTh",
+            "id": 623877572590469120
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              86,
+              103
+            ]
+          },
+          {
+            "text": "HillDay",
+            "indices": [
+              104,
+              112
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "249410485",
+            "indices": [
+              70,
+              84
+            ],
+            "name": "Sanford Bishop, Jr.",
+            "id": 249410485,
+            "screen_name": "SanfordBishop"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "\"Politics is nothing but who gets what, when, and how!\" - Congressman @SanfordBishop \n#CBCIBootCamp2015 #HillDay http://t.co/9xZmWA6xTh",
+      "lang": "en",
+      "created_at": "Wed Jul 22 15:29:40 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/9xZmWA6xTh",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623877577107767296/photo/1",
+          "url": "http://t.co/9xZmWA6xTh",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+          "source_status_id_str": "623877577107767296",
+          "id_str": "623877572590469120",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623877572590469120,
+          "source_status_id": 623877577107767296
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624009554301452288,
+    "id_str": "624009554301452288",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/9xZmWA6xTh",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623877577107767296/photo/1",
+          "url": "http://t.co/9xZmWA6xTh",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKh1WMmWgAAuoPg.jpg",
+          "source_status_id_str": "623877577107767296",
+          "id_str": "623877572590469120",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623877572590469120,
+          "source_status_id": 623877577107767296
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            104,
+            121
+          ]
+        },
+        {
+          "text": "HillDay",
+          "indices": [
+            122,
+            130
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        },
+        {
+          "id_str": "249410485",
+          "indices": [
+            88,
+            102
+          ],
+          "name": "Sanford Bishop, Jr.",
+          "id": 249410485,
+          "screen_name": "SanfordBishop"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: \"Politics is nothing but who gets what, when, and how!\" - Congressman @SanfordBishop \n#CBCIBootCamp2015 #HillDay http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 00:14:05+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/vBuAKx8Cx8",
+            "media_url": "http://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623870719152259072/photo/1",
+            "id_str": "623870710939840512",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/vBuAKx8Cx8",
+            "id": 623870710939840512
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 623870719152259072,
+      "id_str": "623870719152259072",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/vBuAKx8Cx8",
+            "media_url": "http://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/623870719152259072/photo/1",
+            "id_str": "623870710939840512",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/vBuAKx8Cx8",
+            "id": 623870710939840512
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCI",
+            "indices": [
+              30,
+              35
+            ]
+          },
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              75,
+              92
+            ]
+          },
+          {
+            "text": "CapitolHill",
+            "indices": [
+              94,
+              106
+            ]
+          },
+          {
+            "text": "HillDay",
+            "indices": [
+              107,
+              115
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "82453460",
+            "indices": [
+              57,
+              73
+            ],
+            "name": "RepBThompson",
+            "id": 82453460,
+            "screen_name": "BennieGThompson"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "\"Never forget who you are!\" - #CBCI Chairman Congressman @BennieGThompson \n#CBCIBootCamp2015 \n#CapitolHill #HillDay http://t.co/vBuAKx8Cx8",
+      "lang": "en",
+      "created_at": "Wed Jul 22 15:02:25 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/vBuAKx8Cx8",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623870719152259072/photo/1",
+          "url": "http://t.co/vBuAKx8Cx8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+          "source_status_id_str": "623870719152259072",
+          "id_str": "623870710939840512",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623870710939840512,
+          "source_status_id": 623870719152259072
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623871373887336449,
+    "id_str": "623871373887336449",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/vBuAKx8Cx8",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/623870719152259072/photo/1",
+          "url": "http://t.co/vBuAKx8Cx8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKhvGy9W8AAQ7ZP.jpg",
+          "source_status_id_str": "623870719152259072",
+          "id_str": "623870710939840512",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623870710939840512,
+          "source_status_id": 623870719152259072
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCI",
+          "indices": [
+            48,
+            53
+          ]
+        },
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            93,
+            110
+          ]
+        },
+        {
+          "text": "CapitolHill",
+          "indices": [
+            112,
+            124
+          ]
+        },
+        {
+          "text": "HillDay",
+          "indices": [
+            125,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        },
+        {
+          "id_str": "82453460",
+          "indices": [
+            75,
+            91
+          ],
+          "name": "RepBThompson",
+          "id": 82453460,
+          "screen_name": "BennieGThompson"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: \"Never forget who you are!\" - #CBCI Chairman Congressman @BennieGThompson \n#CBCIBootCamp2015 \n#CapitolHill #HillDay http:\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 15:05:01+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "623104388681347073",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              22,
+              39
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/gpIrRF9Fg4",
+            "indices": [
+              101,
+              124
+            ],
+            "display_url": "instagram.com/p/5W47jERxD2/",
+            "expanded_url": "https://instagram.com/p/5W47jERxD2/"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29478766",
+        "id": 29478766
+      },
+      "favorited": false,
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 623104388681347073,
+      "text": "Time for Day 2 of the #CBCIBootCamp2015 ...the calm before the storm. Woke up this morning ready to\u2026 https://t.co/gpIrRF9Fg4",
+      "lang": "en",
+      "created_at": "Mon Jul 20 12:17:17 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "623104608181817344",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "29478766",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "Trey Baker",
+          "id": 29478766,
+          "screen_name": "Trey_Baker"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            38,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gpIrRF9Fg4",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "instagram.com/p/5W47jERxD2/",
+          "expanded_url": "https://instagram.com/p/5W47jERxD2/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 623104608181817344,
+    "text": "RT @Trey_Baker: Time for Day 2 of the #CBCIBootCamp2015 ...the calm before the storm. Woke up this morning ready to\u2026 https://t.co/gpIrRF9Fg4",
+    "lang": "en",
+    "created_at": "2015-07-20 12:18:09+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622764059109294080,
+      "id_str": "622764059109294080",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "CBCIBootcamp2015",
+            "indices": [
+              0,
+              17
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#CBCIBootcamp2015",
+      "lang": "und",
+      "created_at": "Sun Jul 19 13:44:56 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "623087012535508992",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootcamp2015",
+          "indices": [
+            18,
+            35
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 623087012535508992,
+    "text": "RT @CBCInstitute: #CBCIBootcamp2015",
+    "lang": "und",
+    "created_at": "2015-07-20 11:08:14+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/E98ZCIDidk",
+            "media_url": "http://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622797083339300865/photo/1",
+            "id_str": "622797075550486528",
+            "indices": [
+              61,
+              83
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/E98ZCIDidk",
+            "id": 622797075550486528
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 622797083339300865,
+      "id_str": "622797083339300865",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/E98ZCIDidk",
+            "media_url": "http://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622797083339300865/photo/1",
+            "id_str": "622797075550486528",
+            "indices": [
+              61,
+              83
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/E98ZCIDidk",
+            "id": 622797075550486528
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              43,
+              60
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "Meet and greet w/ this year's boot campers #CBCIBootCamp2015 http://t.co/E98ZCIDidk",
+      "lang": "en",
+      "created_at": "Sun Jul 19 15:56:10 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "pic.twitter.com/E98ZCIDidk",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622797083339300865/photo/1",
+          "url": "http://t.co/E98ZCIDidk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+          "source_status_id_str": "622797083339300865",
+          "id_str": "622797075550486528",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622797075550486528,
+          "source_status_id": 622797083339300865
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623086987352875008,
+    "id_str": "623086987352875008",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "pic.twitter.com/E98ZCIDidk",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622797083339300865/photo/1",
+          "url": "http://t.co/E98ZCIDidk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKSeo_dWwAAT0Ek.jpg",
+          "source_status_id_str": "622797083339300865",
+          "id_str": "622797075550486528",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622797075550486528,
+          "source_status_id": 622797083339300865
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            61,
+            78
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: Meet and greet w/ this year's boot campers #CBCIBootCamp2015 http://t.co/E98ZCIDidk",
+    "lang": "en",
+    "created_at": "2015-07-20 11:08:08+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wXDJ3BOeU1",
+            "media_url": "http://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622821469031137280/photo/1",
+            "id_str": "622821460424327168",
+            "indices": [
+              48,
+              70
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/wXDJ3BOeU1",
+            "id": 622821460424327168
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 622821469031137280,
+      "id_str": "622821469031137280",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/wXDJ3BOeU1",
+            "media_url": "http://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622821469031137280/photo/1",
+            "id_str": "622821460424327168",
+            "indices": [
+              48,
+              70
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/wXDJ3BOeU1",
+            "id": 622821460424327168
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              30,
+              47
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "Orientation is in full swing. #CBCIBootCamp2015 http://t.co/wXDJ3BOeU1",
+      "lang": "en",
+      "created_at": "Sun Jul 19 17:33:04 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            66,
+            88
+          ],
+          "display_url": "pic.twitter.com/wXDJ3BOeU1",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622821469031137280/photo/1",
+          "url": "http://t.co/wXDJ3BOeU1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+          "source_status_id_str": "622821469031137280",
+          "id_str": "622821460424327168",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622821460424327168,
+          "source_status_id": 622821469031137280
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623086968210083840,
+    "id_str": "623086968210083840",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            66,
+            88
+          ],
+          "display_url": "pic.twitter.com/wXDJ3BOeU1",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622821469031137280/photo/1",
+          "url": "http://t.co/wXDJ3BOeU1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKS00YMVAAACZ_t.jpg",
+          "source_status_id_str": "622821469031137280",
+          "id_str": "622821460424327168",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622821460424327168,
+          "source_status_id": 622821469031137280
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            48,
+            65
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: Orientation is in full swing. #CBCIBootCamp2015 http://t.co/wXDJ3BOeU1",
+    "lang": "en",
+    "created_at": "2015-07-20 11:08:04+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/uThG6MNlCY",
+            "media_url": "http://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622882722864869380/photo/1",
+            "id_str": "622882701121617921",
+            "indices": [
+              38,
+              60
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/uThG6MNlCY",
+            "id": 622882701121617921
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 622882722864869380,
+      "id_str": "622882722864869380",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/uThG6MNlCY",
+            "media_url": "http://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622882722864869380/photo/1",
+            "id_str": "622882701121617921",
+            "indices": [
+              38,
+              60
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/uThG6MNlCY",
+            "id": 622882701121617921
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              4,
+              21
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "The #CBCIBootCamp2015 survival guide. http://t.co/uThG6MNlCY",
+      "lang": "en",
+      "created_at": "Sun Jul 19 21:36:28 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            56,
+            78
+          ],
+          "display_url": "pic.twitter.com/uThG6MNlCY",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622882722864869380/photo/1",
+          "url": "http://t.co/uThG6MNlCY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+          "source_status_id_str": "622882722864869380",
+          "id_str": "622882701121617921",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622882701121617921,
+          "source_status_id": 622882722864869380
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623086953530060800,
+    "id_str": "623086953530060800",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            56,
+            78
+          ],
+          "display_url": "pic.twitter.com/uThG6MNlCY",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622882722864869380/photo/1",
+          "url": "http://t.co/uThG6MNlCY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKTshDkXAAEgVgd.jpg",
+          "source_status_id_str": "622882722864869380",
+          "id_str": "622882701121617921",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622882701121617921,
+          "source_status_id": 622882722864869380
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            22,
+            39
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: The #CBCIBootCamp2015 survival guide. http://t.co/uThG6MNlCY",
+    "lang": "en",
+    "created_at": "2015-07-20 11:08:00+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622890507123957760,
+      "id_str": "622890507123957760",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "14355312",
+            "indices": [
+              64,
+              80
+            ],
+            "name": "Wellstone Action",
+            "id": 14355312,
+            "screen_name": "wellstoneaction"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              81,
+              98
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"Take a risk, step out side of your comfort zone!\" - Naomi Long @wellstoneaction #CBCIBootCamp2015",
+      "lang": "en",
+      "created_at": "Sun Jul 19 22:07:24 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "623086940787765248",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        },
+        {
+          "id_str": "14355312",
+          "indices": [
+            82,
+            98
+          ],
+          "name": "Wellstone Action",
+          "id": 14355312,
+          "screen_name": "wellstoneaction"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            99,
+            116
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 623086940787765248,
+    "text": "RT @CBCInstitute: \"Take a risk, step out side of your comfort zone!\" - Naomi Long @wellstoneaction #CBCIBootCamp2015",
+    "lang": "en",
+    "created_at": "2015-07-20 11:07:57+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FiJT5pfRvX",
+            "media_url": "http://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622907741368119296/photo/1",
+            "id_str": "622907720002326528",
+            "indices": [
+              47,
+              69
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/FiJT5pfRvX",
+            "id": 622907720002326528
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 622907741368119296,
+      "id_str": "622907741368119296",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/FiJT5pfRvX",
+            "media_url": "http://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+            "expanded_url": "http://twitter.com/CBCInstitute/status/622907741368119296/photo/1",
+            "id_str": "622907720002326528",
+            "indices": [
+              47,
+              69
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/FiJT5pfRvX",
+            "id": 622907720002326528
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CBCIBootCamp2015",
+            "indices": [
+              29,
+              46
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "278582590",
+        "id": 278582590
+      },
+      "text": "What kind of leader are you? #CBCIBootCamp2015 http://t.co/FiJT5pfRvX",
+      "lang": "en",
+      "created_at": "Sun Jul 19 23:15:53 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "pic.twitter.com/FiJT5pfRvX",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622907741368119296/photo/1",
+          "url": "http://t.co/FiJT5pfRvX",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+          "source_status_id_str": "622907741368119296",
+          "id_str": "622907720002326528",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622907720002326528,
+          "source_status_id": 622907741368119296
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623086921389051905,
+    "id_str": "623086921389051905",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 278582590,
+          "media_url": "http://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+          "source_user_id_str": "278582590",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "pic.twitter.com/FiJT5pfRvX",
+          "expanded_url": "http://twitter.com/CBCInstitute/status/622907741368119296/photo/1",
+          "url": "http://t.co/FiJT5pfRvX",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKUDRWKWUAAkKeC.jpg",
+          "source_status_id_str": "622907741368119296",
+          "id_str": "622907720002326528",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 622907720002326528,
+          "source_status_id": 622907741368119296
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CBCIBootCamp2015",
+          "indices": [
+            47,
+            64
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "278582590",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "CBC Institute",
+          "id": 278582590,
+          "screen_name": "CBCInstitute"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @CBCInstitute: What kind of leader are you? #CBCIBootCamp2015 http://t.co/FiJT5pfRvX",
+    "lang": "en",
+    "created_at": "2015-07-20 11:07:53+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621819712712912896",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/4kLYq3uAVD",
+          "indices": [
+            102,
+            125
+          ],
+          "display_url": "instagram.com/p/5NwuzICQPG/",
+          "expanded_url": "https://instagram.com/p/5NwuzICQPG/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621819712712912896,
+    "text": "One of my summer interns, Laura Cooper, at tonight's CBCF Mock Congress. She is already an excellent\u2026 https://t.co/4kLYq3uAVD",
+    "lang": "en",
+    "created_at": "2015-07-16 23:12:27+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621359392550723584",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/rEVOWJ22Nt",
+          "indices": [
+            89,
+            112
+          ],
+          "display_url": "instagram.com/p/5KfZuqCQK-/",
+          "expanded_url": "https://instagram.com/p/5KfZuqCQK-/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621359392550723584,
+    "text": "Today, the House Committee on Homeland Security held a hearing on the rise of homegrown\u2026 https://t.co/rEVOWJ22Nt",
+    "lang": "en",
+    "created_at": "2015-07-15 16:43:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "619212651839791104",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/4D7zob8Xxj",
+          "indices": [
+            103,
+            126
+          ],
+          "display_url": "instagram.com/p/47PLSTCQEl/",
+          "expanded_url": "https://instagram.com/p/47PLSTCQEl/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 619212651839791104,
+    "text": "Standing with my Democratic colleagues discussing today's votes on the symbols of the confederacy. We\u2026 https://t.co/4D7zob8Xxj",
+    "lang": "en",
+    "created_at": "2015-07-09 18:32:55+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 20,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/AhAL3clvX1",
+            "media_url": "http://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+            "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+            "id_str": "619209963379011584",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/AhAL3clvX1",
+            "id": 619209963379011584
+          },
+          {
+            "url": "http://t.co/AhAL3clvX1",
+            "media_url": "http://pbs.twimg.com/media/CJfgLlYWwAAx9t9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfgLlYWwAAx9t9.jpg",
+            "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+            "id_str": "619209963404181504",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/AhAL3clvX1",
+            "id": 619209963404181504
+          },
+          {
+            "url": "http://t.co/AhAL3clvX1",
+            "media_url": "http://pbs.twimg.com/media/CJfgLldXAAAAlPJ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfgLldXAAAAlPJ.jpg",
+            "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+            "id_str": "619209963425169408",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/AhAL3clvX1",
+            "id": 619209963425169408
+          },
+          {
+            "url": "http://t.co/AhAL3clvX1",
+            "media_url": "http://pbs.twimg.com/media/CJfgLlkWoAAEZkT.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfgLlkWoAAEZkT.jpg",
+            "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+            "id_str": "619209963454504960",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/AhAL3clvX1",
+            "id": 619209963454504960
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 619209978889510913,
+      "id_str": "619209978889510913",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/AhAL3clvX1",
+            "media_url": "http://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+            "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+            "id_str": "619209963379011584",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/AhAL3clvX1",
+            "id": 619209963379011584
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "pelosi",
+            "indices": [
+              32,
+              39
+            ]
+          },
+          {
+            "text": "ConfederateFlag",
+            "indices": [
+              48,
+              64
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "82453460",
+            "indices": [
+              15,
+              31
+            ],
+            "name": "RepBThompson",
+            "id": 82453460,
+            "screen_name": "BennieGThompson"
+          },
+          {
+            "id_str": "18018355",
+            "indices": [
+              78,
+              89
+            ],
+            "name": "AprilDRyan",
+            "id": 18018355,
+            "screen_name": "AprilDRyan"
+          },
+          {
+            "id_str": "16116288",
+            "indices": [
+              90,
+              104
+            ],
+            "name": "rolandsmartin",
+            "id": 16116288,
+            "screen_name": "rolandsmartin"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "67194113",
+        "id": 67194113
+      },
+      "text": "Presser on the @BennieGThompson #pelosi amdt on #ConfederateFlag going on now @AprilDRyan @rolandsmartin http://t.co/AhAL3clvX1",
+      "lang": "en",
+      "created_at": "Thu Jul 09 18:22:17 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 20,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 67194113,
+          "media_url": "http://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+          "source_user_id_str": "67194113",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/AhAL3clvX1",
+          "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+          "url": "http://t.co/AhAL3clvX1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+          "source_status_id_str": "619209978889510913",
+          "id_str": "619209963379011584",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 619209963379011584,
+          "source_status_id": 619209978889510913
+        },
+        {
+          "source_user_id": 67194113,
+          "media_url": "http://pbs.twimg.com/media/CJfgLlYWwAAx9t9.jpg",
+          "source_user_id_str": "67194113",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/AhAL3clvX1",
+          "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+          "url": "http://t.co/AhAL3clvX1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfgLlYWwAAx9t9.jpg",
+          "source_status_id_str": "619209978889510913",
+          "id_str": "619209963404181504",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 619209963404181504,
+          "source_status_id": 619209978889510913
+        },
+        {
+          "source_user_id": 67194113,
+          "media_url": "http://pbs.twimg.com/media/CJfgLldXAAAAlPJ.jpg",
+          "source_user_id_str": "67194113",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/AhAL3clvX1",
+          "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+          "url": "http://t.co/AhAL3clvX1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfgLldXAAAAlPJ.jpg",
+          "source_status_id_str": "619209978889510913",
+          "id_str": "619209963425169408",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 619209963425169408,
+          "source_status_id": 619209978889510913
+        },
+        {
+          "source_user_id": 67194113,
+          "media_url": "http://pbs.twimg.com/media/CJfgLlkWoAAEZkT.jpg",
+          "source_user_id_str": "67194113",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/AhAL3clvX1",
+          "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+          "url": "http://t.co/AhAL3clvX1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfgLlkWoAAEZkT.jpg",
+          "source_status_id_str": "619209978889510913",
+          "id_str": "619209963454504960",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 619209963454504960,
+          "source_status_id": 619209978889510913
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 619210179469529088,
+    "id_str": "619210179469529088",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 67194113,
+          "media_url": "http://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+          "source_user_id_str": "67194113",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/AhAL3clvX1",
+          "expanded_url": "http://twitter.com/LVBurke/status/619209978889510913/photo/1",
+          "url": "http://t.co/AhAL3clvX1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfgLlSWsAAXTOt.jpg",
+          "source_status_id_str": "619209978889510913",
+          "id_str": "619209963379011584",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 619209963379011584,
+          "source_status_id": 619209978889510913
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "pelosi",
+          "indices": [
+            45,
+            52
+          ]
+        },
+        {
+          "text": "ConfederateFlag",
+          "indices": [
+            61,
+            77
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "67194113",
+          "indices": [
+            3,
+            11
+          ],
+          "name": "Lauren Victoria",
+          "id": 67194113,
+          "screen_name": "LVBurke"
+        },
+        {
+          "id_str": "82453460",
+          "indices": [
+            28,
+            44
+          ],
+          "name": "RepBThompson",
+          "id": 82453460,
+          "screen_name": "BennieGThompson"
+        },
+        {
+          "id_str": "18018355",
+          "indices": [
+            91,
+            102
+          ],
+          "name": "AprilDRyan",
+          "id": 18018355,
+          "screen_name": "AprilDRyan"
+        },
+        {
+          "id_str": "16116288",
+          "indices": [
+            103,
+            117
+          ],
+          "name": "rolandsmartin",
+          "id": 16116288,
+          "screen_name": "rolandsmartin"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @LVBurke: Presser on the @BennieGThompson #pelosi amdt on #ConfederateFlag going on now @AprilDRyan @rolandsmartin http://t.co/AhAL3clvX1",
+    "lang": "en",
+    "created_at": "2015-07-09 18:23:05+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619198584219676676,
+      "id_str": "619198584219676676",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "82453460",
+            "indices": [
+              73,
+              89
+            ],
+            "name": "RepBThompson",
+            "id": 82453460,
+            "screen_name": "BennieGThompson"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "DEMS",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "ConfederateFlag",
+            "indices": [
+              105,
+              121
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "67194113",
+        "id": 67194113
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#DEMS voting manually so res must be read outloud BREAKING Pelosi Offers @BennieGThompson Res to remove  #ConfederateFlag from USCap",
+      "lang": "en",
+      "created_at": "Thu Jul 09 17:37:01 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "619204366659158016",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "67194113",
+          "indices": [
+            3,
+            11
+          ],
+          "name": "Lauren Victoria",
+          "id": 67194113,
+          "screen_name": "LVBurke"
+        },
+        {
+          "id_str": "82453460",
+          "indices": [
+            86,
+            102
+          ],
+          "name": "RepBThompson",
+          "id": 82453460,
+          "screen_name": "BennieGThompson"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DEMS",
+          "indices": [
+            13,
+            18
+          ]
+        },
+        {
+          "text": "ConfederateFlag",
+          "indices": [
+            118,
+            134
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 619204366659158016,
+    "text": "RT @LVBurke: #DEMS voting manually so res must be read outloud BREAKING Pelosi Offers @BennieGThompson Res to remove  #ConfederateFlag from\u2026",
+    "lang": "en",
+    "created_at": "2015-07-09 17:59:59+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 44,
+      "favorite_count": 32,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Ep2ybH9or8",
+            "media_url": "http://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+            "expanded_url": "http://twitter.com/NBCNews/status/619202268760551425/photo/1",
+            "id_str": "619202268299177984",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 480,
+                "resize": "fit",
+                "h": 320
+              },
+              "medium": {
+                "w": 480,
+                "resize": "fit",
+                "h": 320
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/Ep2ybH9or8",
+            "id": 619202268299177984
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 619202268760551425,
+      "id_str": "619202268760551425",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/Ep2ybH9or8",
+            "media_url": "http://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+            "expanded_url": "http://twitter.com/NBCNews/status/619202268760551425/photo/1",
+            "id_str": "619202268299177984",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 480,
+                "resize": "fit",
+                "h": 320
+              },
+              "medium": {
+                "w": 480,
+                "resize": "fit",
+                "h": 320
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/Ep2ybH9or8",
+            "id": 619202268299177984
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/ieDAI2Yfye",
+            "indices": [
+              64,
+              86
+            ],
+            "display_url": "nbcnews.to/1LUl97i",
+            "expanded_url": "http://nbcnews.to/1LUl97i"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "14173315",
+        "id": 14173315
+      },
+      "text": "House GOP scraps vote on Confederate flag imagery amid backlash http://t.co/ieDAI2Yfye http://t.co/Ep2ybH9or8",
+      "lang": "en",
+      "created_at": "Thu Jul 09 17:51:39 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 44,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 14173315,
+          "media_url": "http://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+          "source_user_id_str": "14173315",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/Ep2ybH9or8",
+          "expanded_url": "http://twitter.com/NBCNews/status/619202268760551425/photo/1",
+          "url": "http://t.co/Ep2ybH9or8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+          "source_status_id_str": "619202268760551425",
+          "id_str": "619202268299177984",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 320
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 320
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 619202268299177984,
+          "source_status_id": 619202268760551425
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 619204039021076482,
+    "id_str": "619204039021076482",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 14173315,
+          "media_url": "http://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+          "source_user_id_str": "14173315",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/Ep2ybH9or8",
+          "expanded_url": "http://twitter.com/NBCNews/status/619202268760551425/photo/1",
+          "url": "http://t.co/Ep2ybH9or8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfZLq4WsAAINK6.jpg",
+          "source_status_id_str": "619202268760551425",
+          "id_str": "619202268299177984",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 320
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 320
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 619202268299177984,
+          "source_status_id": 619202268760551425
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "14173315",
+          "indices": [
+            3,
+            11
+          ],
+          "name": "NBC News",
+          "id": 14173315,
+          "screen_name": "NBCNews"
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/ieDAI2Yfye",
+          "indices": [
+            77,
+            99
+          ],
+          "display_url": "nbcnews.to/1LUl97i",
+          "expanded_url": "http://nbcnews.to/1LUl97i"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "82453460",
+      "screen_name": "benniegthompson",
+      "id": 82453460
+    },
+    "text": "RT @NBCNews: House GOP scraps vote on Confederate flag imagery amid backlash http://t.co/ieDAI2Yfye http://t.co/Ep2ybH9or8",
+    "lang": "en",
+    "created_at": "2015-07-09 17:58:41+00:00",
+    "retweeted": false
+  }
+]

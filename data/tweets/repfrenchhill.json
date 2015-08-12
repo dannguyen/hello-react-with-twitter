@@ -1,0 +1,2189 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629707932905668609,
+    "id_str": "629707932905668609",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/h8BuJcAi8V",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "edition.cnn.com/2015/08/06/pol\u2026",
+          "expanded_url": "http://edition.cnn.com/2015/08/06/politics/chuck-schumer-oppose-iran-nuclear-deal/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            60,
+            65
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Chuck Schumer",
+          "indices": [
+            47,
+            58
+          ],
+          "id_str": "17494010",
+          "id": 17494010,
+          "screen_name": "SenSchumer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A rare moment: I am in complete agreement with @SenSchumer. #Iran isn't deserving of our trust. http://t.co/h8BuJcAi8V",
+    "lang": "en",
+    "created_at": "2015-08-07 17:37:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629092835355140097,
+    "id_str": "629092835355140097",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Arkansas, USA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -94.61771,
+                33.004106
+              ],
+              [
+                -89.644838,
+                33.004106
+              ],
+              [
+                -89.644838,
+                36.499767
+              ],
+              [
+                -94.61771,
+                36.499767
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/e8ad2641c1cb666c.json",
+        "name": "Arkansas",
+        "country": "United States",
+        "place_type": "admin",
+        "id": "e8ad2641c1cb666c"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629013984574713856,
+      "id_str": "629013984574713856",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/T8mRKdyI94",
+            "media_url": "http://pbs.twimg.com/media/CLq04S8VEAABUr8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq04S8VEAABUr8.jpg",
+            "expanded_url": "http://twitter.com/ArkansasFederal/status/629013984574713856/photo/1",
+            "id_str": "629013977222156288",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 344
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 607
+              },
+              "large": {
+                "w": 711,
+                "resize": "fit",
+                "h": 720
+              }
+            },
+            "display_url": "pic.twitter.com/T8mRKdyI94",
+            "id": 629013977222156288
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "French Hill",
+            "indices": [
+              10,
+              24
+            ],
+            "id_str": "2953974395",
+            "id": 2953974395,
+            "screen_name": "RepFrenchHill"
+          },
+          {
+            "name": "Rodney Showmar",
+            "indices": [
+              80,
+              89
+            ],
+            "id_str": "134555676",
+            "id": 134555676,
+            "screen_name": "rshowmar"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "48128998",
+        "id": 48128998
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/T8mRKdyI94",
+            "media_url": "http://pbs.twimg.com/media/CLq04S8VEAABUr8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq04S8VEAABUr8.jpg",
+            "expanded_url": "http://twitter.com/ArkansasFederal/status/629013984574713856/photo/1",
+            "id_str": "629013977222156288",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 344
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 607
+              },
+              "large": {
+                "w": 711,
+                "resize": "fit",
+                "h": 720
+              }
+            },
+            "display_url": "pic.twitter.com/T8mRKdyI94",
+            "id": 629013977222156288
+          },
+          {
+            "url": "http://t.co/T8mRKdyI94",
+            "media_url": "http://pbs.twimg.com/media/CLq04S_UwAA7Lgv.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq04S_UwAA7Lgv.jpg",
+            "expanded_url": "http://twitter.com/ArkansasFederal/status/629013984574713856/photo/1",
+            "id_str": "629013977234718720",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 311
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 550
+              },
+              "large": {
+                "w": 600,
+                "resize": "fit",
+                "h": 550
+              }
+            },
+            "display_url": "pic.twitter.com/T8mRKdyI94",
+            "id": 629013977234718720
+          },
+          {
+            "url": "http://t.co/T8mRKdyI94",
+            "media_url": "http://pbs.twimg.com/media/CLq04TAUcAAQx2_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLq04TAUcAAQx2_.jpg",
+            "expanded_url": "http://twitter.com/ArkansasFederal/status/629013984574713856/photo/1",
+            "id_str": "629013977238892544",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 541
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 452,
+                "resize": "fit",
+                "h": 720
+              },
+              "large": {
+                "w": 452,
+                "resize": "fit",
+                "h": 720
+              }
+            },
+            "display_url": "pic.twitter.com/T8mRKdyI94",
+            "id": 629013977238892544
+          }
+        ]
+      },
+      "text": "Thanks to @RepFrenchHill for showing your support to AFCU and visiting with CEO @rshowmar. http://t.co/T8mRKdyI94",
+      "lang": "en",
+      "created_at": "Wed Aug 05 19:39:55 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/kkcRm063jt",
+          "indices": [
+            45,
+            68
+          ],
+          "display_url": "twitter.com/arkansasfedera\u2026",
+          "expanded_url": "https://twitter.com/arkansasfederal/status/629013984574713856"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629013984574713856",
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 00:53:14+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It was a great visit. Thanks for having us.  https://t.co/kkcRm063jt",
+    "lang": "en",
+    "quoted_status_id": 629013984574713856
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628959122030002180,
+    "id_str": "628959122030002180",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628956360961490944,
+      "id_str": "628956360961490944",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/SyLAp01owh",
+            "media_url": "http://pbs.twimg.com/media/CLqAeDfUEAA1ss9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqAeDfUEAA1ss9.jpg",
+            "expanded_url": "http://twitter.com/ASUBeebe/status/628956360961490944/photo/1",
+            "id_str": "628956351792680960",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 333
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 587
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1003
+              }
+            },
+            "display_url": "pic.twitter.com/SyLAp01owh",
+            "id": 628956351792680960
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "French Hill",
+            "indices": [
+              7,
+              21
+            ],
+            "id_str": "2953974395",
+            "id": 2953974395,
+            "screen_name": "RepFrenchHill"
+          },
+          {
+            "name": "ASU Beebe",
+            "indices": [
+              35,
+              44
+            ],
+            "id_str": "759493573",
+            "id": 759493573,
+            "screen_name": "ASUBeebe"
+          },
+          {
+            "name": "John Deere",
+            "indices": [
+              55,
+              65
+            ],
+            "id_str": "18726666",
+            "id": 18726666,
+            "screen_name": "JohnDeere"
+          },
+          {
+            "name": "John Deere Jobs",
+            "indices": [
+              83,
+              97
+            ],
+            "id_str": "819724806",
+            "id": 819724806,
+            "screen_name": "JohnDeereJobs"
+          },
+          {
+            "name": "Shane Broadway",
+            "indices": [
+              98,
+              112
+            ],
+            "id_str": "106139364",
+            "id": 106139364,
+            "screen_name": "shanebroadway"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "759493573",
+        "id": 759493573
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/SyLAp01owh",
+            "media_url": "http://pbs.twimg.com/media/CLqAeDfUEAA1ss9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqAeDfUEAA1ss9.jpg",
+            "expanded_url": "http://twitter.com/ASUBeebe/status/628956360961490944/photo/1",
+            "id_str": "628956351792680960",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 333
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 587
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1003
+              }
+            },
+            "display_url": "pic.twitter.com/SyLAp01owh",
+            "id": 628956351792680960
+          }
+        ]
+      },
+      "text": "Thanks @RepFrenchHill for visiting @ASUBeebe &amp; our @JohnDeere AG Tech Program. @JohnDeereJobs @shanebroadway http://t.co/SyLAp01owh",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:50:56 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/aDvHiqlzqo",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "twitter.com/ASUBeebe/statu\u2026",
+          "expanded_url": "https://twitter.com/ASUBeebe/status/628956360961490944"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AR",
+          "indices": [
+            43,
+            46
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628956360961490944",
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 16:01:54+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A top-notch program that gives students in #AR the technical skills needed to be successful in today's job market. https://t.co/aDvHiqlzqo",
+    "lang": "en",
+    "quoted_status_id": 628956360961490944
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628589281779449856,
+      "id_str": "628589281779449856",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "DoddFrank",
+            "indices": [
+              53,
+              63
+            ]
+          },
+          {
+            "text": "ARPX",
+            "indices": [
+              106,
+              111
+            ]
+          },
+          {
+            "text": "AR2",
+            "indices": [
+              112,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/zFwhTPbcWi",
+            "media_url": "http://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+            "expanded_url": "http://twitter.com/LT/status/628589281779449856/photo/1",
+            "id_str": "628589252239036416",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 660,
+                "resize": "fit",
+                "h": 440
+              }
+            },
+            "display_url": "pic.twitter.com/zFwhTPbcWi",
+            "id": 628589252239036416
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/BGCHayez9q",
+            "indices": [
+              83,
+              105
+            ],
+            "display_url": "bit.ly/1hht1UN",
+            "expanded_url": "http://bit.ly/1hht1UN"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "French Hill",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "2953974395",
+            "id": 2953974395,
+            "screen_name": "RepFrenchHill"
+          },
+          {
+            "name": "Stephen Fincher",
+            "indices": [
+              21,
+              36
+            ],
+            "id_str": "249219716",
+            "id": 249219716,
+            "screen_name": "RepFincherTN08"
+          },
+          {
+            "name": "Arkansas Business",
+            "indices": [
+              68,
+              80
+            ],
+            "id_str": "17288548",
+            "id": 17288548,
+            "screen_name": "ArkBusiness"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1013461",
+        "id": 1013461
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/zFwhTPbcWi",
+            "media_url": "http://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+            "expanded_url": "http://twitter.com/LT/status/628589281779449856/photo/1",
+            "id_str": "628589252239036416",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 660,
+                "resize": "fit",
+                "h": 440
+              }
+            },
+            "display_url": "pic.twitter.com/zFwhTPbcWi",
+            "id": 628589252239036416
+          }
+        ]
+      },
+      "text": ".@RepFrenchHill and .@RepFincherTN08 talk 5 years of #DoddFrank on .@ArkBusiness - http://t.co/BGCHayez9q #ARPX #AR2 http://t.co/zFwhTPbcWi",
+      "lang": "en",
+      "created_at": "Tue Aug 04 15:32:18 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1013461,
+          "media_url": "http://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+          "source_user_id_str": "1013461",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/zFwhTPbcWi",
+          "expanded_url": "http://twitter.com/LT/status/628589281779449856/photo/1",
+          "url": "http://t.co/zFwhTPbcWi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+          "source_status_id_str": "628589281779449856",
+          "id_str": "628589252239036416",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 660,
+              "resize": "fit",
+              "h": 440
+            }
+          },
+          "id": 628589252239036416,
+          "source_status_id": 628589281779449856
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628618219931222016,
+    "id_str": "628618219931222016",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "DoddFrank",
+          "indices": [
+            61,
+            71
+          ]
+        },
+        {
+          "text": "ARPX",
+          "indices": [
+            114,
+            119
+          ]
+        },
+        {
+          "text": "AR2",
+          "indices": [
+            120,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 1013461,
+          "media_url": "http://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+          "source_user_id_str": "1013461",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/zFwhTPbcWi",
+          "expanded_url": "http://twitter.com/LT/status/628589281779449856/photo/1",
+          "url": "http://t.co/zFwhTPbcWi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkymDFWEAAVcAe.jpg",
+          "source_status_id_str": "628589281779449856",
+          "id_str": "628589252239036416",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 660,
+              "resize": "fit",
+              "h": 440
+            }
+          },
+          "id": 628589252239036416,
+          "source_status_id": 628589281779449856
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/BGCHayez9q",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "bit.ly/1hht1UN",
+          "expanded_url": "http://bit.ly/1hht1UN"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Lance Turner",
+          "indices": [
+            3,
+            6
+          ],
+          "id_str": "1013461",
+          "id": 1013461,
+          "screen_name": "LT"
+        },
+        {
+          "name": "French Hill",
+          "indices": [
+            9,
+            23
+          ],
+          "id_str": "2953974395",
+          "id": 2953974395,
+          "screen_name": "RepFrenchHill"
+        },
+        {
+          "name": "Stephen Fincher",
+          "indices": [
+            29,
+            44
+          ],
+          "id_str": "249219716",
+          "id": 249219716,
+          "screen_name": "RepFincherTN08"
+        },
+        {
+          "name": "Arkansas Business",
+          "indices": [
+            76,
+            88
+          ],
+          "id_str": "17288548",
+          "id": 17288548,
+          "screen_name": "ArkBusiness"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LT: .@RepFrenchHill and .@RepFincherTN08 talk 5 years of #DoddFrank on .@ArkBusiness - http://t.co/BGCHayez9q #ARPX #AR2 http://t.co/zF\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 17:27:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628604140676059136,
+    "id_str": "628604140676059136",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/y7kqXVXwzC",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "arkansasbusiness.com/article/106351\u2026",
+          "expanded_url": "http://www.arkansasbusiness.com/article/106351/nightmare-on-main-street-us-reps-french-hill-and-stephen-fincher"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DoddFrank",
+          "indices": [
+            102,
+            112
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Stephen Fincher",
+          "indices": [
+            1,
+            16
+          ],
+          "id_str": "249219716",
+          "id": 249219716,
+          "screen_name": "RepFincherTN08"
+        },
+        {
+          "name": "Arkansas Business",
+          "indices": [
+            51,
+            63
+          ],
+          "id_str": "17288548",
+          "id": 17288548,
+          "screen_name": "ArkBusiness"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@RepFincherTN08 and I recently wrote an op-ed for @ArkBusiness about the 'Nightmare on Main Street.' #DoddFrank http://t.co/y7kqXVXwzC",
+    "lang": "en",
+    "created_at": "2015-08-04 16:31:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628587460214292480,
+    "id_str": "628587460214292480",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/0L0r28ztlr",
+          "indices": [
+            63,
+            86
+          ],
+          "display_url": "hill.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hill.house.gov/media-center/press-releases/hill-statement-calling-resignation-irs-commissioner"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IRS",
+          "indices": [
+            25,
+            29
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My statement calling for #IRS Commissioner Koskinen to resign: https://t.co/0L0r28ztlr",
+    "lang": "en",
+    "created_at": "2015-08-04 15:25:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628326728272900097,
+    "id_str": "628326728272900097",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/sZjPvQUjyB",
+          "indices": [
+            48,
+            71
+          ],
+          "display_url": "facebook.com/RepFrenchHill/\u2026",
+          "expanded_url": "https://www.facebook.com/RepFrenchHill/posts/832341190194513"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            31,
+            46
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts on the President's #CleanPowerPlan: https://t.co/sZjPvQUjyB",
+    "lang": "en",
+    "created_at": "2015-08-03 22:09:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628247605647179776,
+    "id_str": "628247605647179776",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oLXMwwt466",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "hillforms.house.gov/news/email/sho\u2026",
+          "expanded_url": "http://hillforms.house.gov/news/email/show.aspx?ID=MVPJ37CINC5RE"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VAAccountability",
+          "indices": [
+            16,
+            33
+          ]
+        },
+        {
+          "text": "Fannie",
+          "indices": [
+            38,
+            45
+          ]
+        },
+        {
+          "text": "Freddie",
+          "indices": [
+            50,
+            58
+          ]
+        },
+        {
+          "text": "GoldenFleeceAward",
+          "indices": [
+            95,
+            113
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Week in review: #VAAccountability and #Fannie and #Freddie bonuses for CEOs earns this month's #GoldenFleeceAward http://t.co/oLXMwwt466",
+    "lang": "en",
+    "created_at": "2015-08-03 16:54:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626842531884605440,
+    "id_str": "626842531884605440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/QvRIqK1OO1",
+          "indices": [
+            69,
+            92
+          ],
+          "display_url": "youtube.com/watch?v=_HwdFF\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=_HwdFF5reH8"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ICYMI",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "GoldenFleece",
+          "indices": [
+            47,
+            60
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#ICYMI: This AM's announcement of this month's #GoldenFleece winner. https://t.co/QvRIqK1OO1",
+    "lang": "en",
+    "created_at": "2015-07-30 19:51:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626779428601888768,
+    "id_str": "626779428601888768",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "GoldenFleeceOversight",
+          "indices": [
+            44,
+            66
+          ]
+        },
+        {
+          "text": "WhatAWaste",
+          "indices": [
+            75,
+            86
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/b1W8qnMa9I",
+          "media_url": "http://pbs.twimg.com/media/CLLEkatWgAA196S.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLEkatWgAA196S.png",
+          "expanded_url": "http://twitter.com/RepFrenchHill/status/626779428601888768/photo/1",
+          "id_str": "626779428081795072",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 173
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 306
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 522
+            }
+          },
+          "display_url": "pic.twitter.com/b1W8qnMa9I",
+          "id": 626779428081795072
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/U8mR5OZjEc",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "hill.house.gov/sites/hill.hou\u2026",
+          "expanded_url": "http://hill.house.gov/sites/hill.house.gov/files/wysiwyg_uploaded/GoldenFleece3.pdf"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "FHFA",
+          "indices": [
+            16,
+            21
+          ],
+          "id_str": "1223130229",
+          "id": 1223130229,
+          "screen_name": "FHFA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/b1W8qnMa9I",
+          "media_url": "http://pbs.twimg.com/media/CLLEkatWgAA196S.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLEkatWgAA196S.png",
+          "expanded_url": "http://twitter.com/RepFrenchHill/status/626779428601888768/photo/1",
+          "id_str": "626779428081795072",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 173
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 306
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 522
+            }
+          },
+          "display_url": "pic.twitter.com/b1W8qnMa9I",
+          "id": 626779428081795072
+        }
+      ]
+    },
+    "text": "Congratulations @FHFA! You are this month's #GoldenFleeceOversight winner. #WhatAWaste http://t.co/U8mR5OZjEc http://t.co/b1W8qnMa9I",
+    "lang": "en",
+    "created_at": "2015-07-30 15:40:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626526626818473985,
+    "id_str": "626526626818473985",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "breakingnews",
+          "indices": [
+            20,
+            33
+          ]
+        },
+        {
+          "text": "GoldenFleece",
+          "indices": [
+            93,
+            106
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Kevin Miller",
+          "indices": [
+            37,
+            50
+          ],
+          "id_str": "2737343300",
+          "id": 2737343300,
+          "screen_name": "kmilleronair"
+        },
+        {
+          "name": "Newsradio 102.9 KARN",
+          "indices": [
+            54,
+            68
+          ],
+          "id_str": "13684822",
+          "id": 13684822,
+          "screen_name": "newsradio1029"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I will deliver some #breakingnews to @kmilleronair on @newsradio1029 tomorrow at 7:07 AM CT. #GoldenFleece",
+    "lang": "en",
+    "created_at": "2015-07-29 22:56:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626520218957950976,
+    "id_str": "626520218957950976",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "accountability",
+          "indices": [
+            10,
+            25
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/cyimh0E6Kq",
+          "media_url": "http://pbs.twimg.com/media/CLHY0ZIUkAI_F3Z.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLHY0ZIUkAI_F3Z.png",
+          "expanded_url": "http://twitter.com/RepFrenchHill/status/626520218957950976/photo/1",
+          "id_str": "626520217791795202",
+          "indices": [
+            88,
+            110
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 314
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/cyimh0E6Kq",
+          "id": 626520217791795202
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SVkgOgAyFG",
+          "indices": [
+            64,
+            87
+          ],
+          "display_url": "hill.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hill.house.gov/media-center/press-releases/hill-votes-hold-poorly-performing-va-employees-accountable"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/cyimh0E6Kq",
+          "media_url": "http://pbs.twimg.com/media/CLHY0ZIUkAI_F3Z.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLHY0ZIUkAI_F3Z.png",
+          "expanded_url": "http://twitter.com/RepFrenchHill/status/626520218957950976/photo/1",
+          "id_str": "626520217791795202",
+          "indices": [
+            88,
+            110
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 314
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/cyimh0E6Kq",
+          "id": 626520217791795202
+        }
+      ]
+    },
+    "text": "Increased #accountability in government is always a good thing: https://t.co/SVkgOgAyFG http://t.co/cyimh0E6Kq",
+    "lang": "en",
+    "created_at": "2015-07-29 22:30:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626469813746012160,
+    "id_str": "626469813746012160",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FaithitForward",
+          "indices": [
+            92,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/bMnbIaHzOz",
+          "media_url": "http://pbs.twimg.com/media/CLGq-dlUsAE22NK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGq-dlUsAE22NK.jpg",
+          "expanded_url": "http://twitter.com/RepFrenchHill/status/626469813746012160/photo/1",
+          "id_str": "626469813250994177",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 326
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 523
+            }
+          },
+          "display_url": "pic.twitter.com/bMnbIaHzOz",
+          "id": 626469813250994177
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Air National Guard",
+          "indices": [
+            68,
+            81
+          ],
+          "id_str": "32007916",
+          "id": 32007916,
+          "screen_name": "AirNatlGuard"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/bMnbIaHzOz",
+          "media_url": "http://pbs.twimg.com/media/CLGq-dlUsAE22NK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGq-dlUsAE22NK.jpg",
+          "expanded_url": "http://twitter.com/RepFrenchHill/status/626469813746012160/photo/1",
+          "id_str": "626469813250994177",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 326
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 523
+            }
+          },
+          "display_url": "pic.twitter.com/bMnbIaHzOz",
+          "id": 626469813250994177
+        }
+      ]
+    },
+    "text": "Thinking of my former parish priest, Fr. Matt Garrison, an Arkansas @AirNatlGuard Chaplain. #FaithitForward http://t.co/bMnbIaHzOz",
+    "lang": "en",
+    "created_at": "2015-07-29 19:10:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626403424305848320,
+    "id_str": "626403424305848320",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/pcjGSezAIM",
+          "indices": [
+            61,
+            84
+          ],
+          "display_url": "hill.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hill.house.gov/media-center/press-releases/hill-votes-rein-regulatory-expansion"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: House votes to rein in harmful government regulation. https://t.co/pcjGSezAIM",
+    "lang": "en",
+    "created_at": "2015-07-29 14:46:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626162655380799488,
+    "id_str": "626162655380799488",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/pcjGSezAIM",
+          "indices": [
+            106,
+            129
+          ],
+          "display_url": "hill.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hill.house.gov/media-center/press-releases/hill-votes-rein-regulatory-expansion"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            130,
+            139
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Regulatory expansion hurts small business. Today the House voted to rein in government's burdensome regs. https://t.co/pcjGSezAIM #REINSAct",
+    "lang": "en",
+    "created_at": "2015-07-28 22:49:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626011748529741825,
+      "id_str": "626011748529741825",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "InsuranceRegsForum",
+            "indices": [
+              111,
+              130
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "French Hill",
+            "indices": [
+              96,
+              110
+            ],
+            "id_str": "2953974395",
+            "id": 2953974395,
+            "screen_name": "RepFrenchHill"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2730222072",
+        "id": 2730222072
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "A one size fits all model isn't the right fit...we need small, medium, and large institutions - @RepFrenchHill #InsuranceRegsForum",
+      "lang": "en",
+      "created_at": "Tue Jul 28 12:50:06 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626015202782396416,
+    "id_str": "626015202782396416",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "InsuranceRegsForum",
+          "indices": [
+            130,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Hill Events",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "2730222072",
+          "id": 2730222072,
+          "screen_name": "TheHillEvents"
+        },
+        {
+          "name": "French Hill",
+          "indices": [
+            115,
+            129
+          ],
+          "id_str": "2953974395",
+          "id": 2953974395,
+          "screen_name": "RepFrenchHill"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TheHillEvents: A one size fits all model isn't the right fit...we need small, medium, and large institutions - @RepFrenchHill #Insuranc\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 13:03:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625994049187618816,
+    "id_str": "625994049187618816",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jZTafyfvgL",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "thehill.com/video/events/2\u2026",
+          "expanded_url": "http://thehill.com/video/events/249301-does-one-size-fit-all-a-policy-discussion-on-insurance-regulation-the-american"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Steve Stivers",
+          "indices": [
+            47,
+            63
+          ],
+          "id_str": "211420609",
+          "id": 211420609,
+          "screen_name": "RepSteveStivers"
+        },
+        {
+          "name": "Kevin Cirilli",
+          "indices": [
+            68,
+            79
+          ],
+          "id_str": "15570213",
+          "id": 15570213,
+          "screen_name": "kevcirilli"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "At 7:30 AM CDT: I will be doing a Q&amp;A with @RepSteveStivers and @kevcirilli on insurance regulation. Watch live: http://t.co/jZTafyfvgL",
+    "lang": "en",
+    "created_at": "2015-07-28 11:39:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625724465285042176,
+    "id_str": "625724465285042176",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/C4ajR07gKI",
+          "indices": [
+            66,
+            88
+          ],
+          "display_url": "katv.com/clip/11712065/\u2026",
+          "expanded_url": "http://www.katv.com/clip/11712065/centers-for-youth-and-families"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Centers",
+          "indices": [
+            33,
+            46
+          ],
+          "id_str": "274687527",
+          "id": 274687527,
+          "screen_name": "TheCentersAR"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Fantastic time this past weekend @TheCentersAR's Family Fun Fest. http://t.co/C4ajR07gKI",
+    "lang": "en",
+    "created_at": "2015-07-27 17:48:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625679870874546176,
+    "id_str": "625679870874546176",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/nkWgSKbd7Y",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "commercialappeal.com/opinion/column\u2026",
+          "expanded_url": "http://www.commercialappeal.com/opinion/columnists/guest-column-doddfrank-is-a-nightmare-on-main-street_00595201"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DoddFrank",
+          "indices": [
+            83,
+            93
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Stephen Fincher",
+          "indices": [
+            40,
+            55
+          ],
+          "id_str": "249219716",
+          "id": 249219716,
+          "screen_name": "RepFincherTN08"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "'A nightmare on Main Street.' The op-ed @RepFincherTN08 and I wrote on the effects #DoddFrank is having on consumers: http://t.co/nkWgSKbd7Y",
+    "lang": "en",
+    "created_at": "2015-07-27 14:51:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624612862418227200,
+    "id_str": "624612862418227200",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/BToj76HvoZ",
+          "indices": [
+            62,
+            85
+          ],
+          "display_url": "instagram.com/jfrenchhill/",
+          "expanded_url": "https://instagram.com/jfrenchhill/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Instagram",
+          "indices": [
+            51,
+            61
+          ],
+          "id_str": "180505807",
+          "id": 180505807,
+          "screen_name": "instagram"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953974395",
+      "screen_name": "repfrenchhill",
+      "id": 2953974395
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you like pictures, then you should follow me on @instagram https://t.co/BToj76HvoZ",
+    "lang": "en",
+    "created_at": "2015-07-24 16:11:25+00:00"
+  }
+]

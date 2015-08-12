@@ -1,0 +1,3082 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629707582937137152,
+    "id_str": "629707582937137152",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629696652970958850,
+      "id_str": "629696652970958850",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/SSo2b8n6hB",
+            "indices": [
+              90,
+              113
+            ],
+            "display_url": "congress.gov/congressional-\u2026",
+            "expanded_url": "https://www.congress.gov/congressional-report/114th-congress/house-report/162/1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              16,
+              30
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          },
+          {
+            "name": "Homeland Security",
+            "indices": [
+              61,
+              68
+            ],
+            "id_str": "15647676",
+            "id": 15647676,
+            "screen_name": "DHSgov"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "125836382",
+        "id": 125836382
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Great bill from @HurdOnTheHill 2 identifiy duplicative IT at @DHSgov &amp; get rid of it: https://t.co/SSo2b8n6hB Will save $ &amp; enhance infosec.",
+      "lang": "en",
+      "created_at": "Fri Aug 07 16:52:35 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rX6jb4iq3g",
+          "indices": [
+            38,
+            60
+          ],
+          "display_url": "1.usa.gov/1KVThkh",
+          "expanded_url": "http://1.usa.gov/1KVThkh"
+        },
+        {
+          "url": "https://t.co/XzMeMTtf3A",
+          "indices": [
+            61,
+            84
+          ],
+          "display_url": "twitter.com/jerzcyber/stat\u2026",
+          "expanded_url": "https://twitter.com/jerzcyber/status/629696652970958850"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629696652970958850",
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 17:36:01+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My second bill to be signed into law! http://t.co/rX6jb4iq3g https://t.co/XzMeMTtf3A",
+    "lang": "en",
+    "quoted_status_id": 629696652970958850
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Terrell Hills, TX",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.460691,
+              29.468199
+            ],
+            [
+              -98.430363,
+              29.468199
+            ],
+            [
+              -98.430363,
+              29.484857
+            ],
+            [
+              -98.460691,
+              29.484857
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/076c0ba821befbbc.json",
+      "name": "Terrell Hills",
+      "country": "United States",
+      "place_type": "city",
+      "id": "076c0ba821befbbc"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629442459215380480,
+    "id_str": "629442459215380480",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629418812622811136,
+      "id_str": "629418812622811136",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2508224064",
+        "id": 2508224064
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@HurdOnTheHill says we need a 21st century infrastructure in US to handle trade volumes. Contrasts Eagle Pass roads with Piedras highways.",
+      "lang": "en",
+      "created_at": "Thu Aug 06 22:28:33 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/UrDkeXHe0P",
+          "indices": [
+            120,
+            143
+          ],
+          "display_url": "twitter.com/borderalliance\u2026",
+          "expanded_url": "https://twitter.com/borderalliance/status/629418812622811136"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "tx23",
+          "indices": [
+            82,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "BorderTradeAlliance",
+          "indices": [
+            88,
+            103
+          ],
+          "id_str": "2508224064",
+          "id": 2508224064,
+          "screen_name": "borderalliance"
+        },
+        {
+          "name": "Rep. Beto O'Rourke",
+          "indices": [
+            104,
+            119
+          ],
+          "id_str": "1134292500",
+          "id": 1134292500,
+          "screen_name": "RepBetoORourke"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629418812622811136",
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 00:02:31+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We can secure the border &amp; facilitate the movement of goods at the same time. #tx23 @borderalliance @RepBetoORourke https://t.co/UrDkeXHe0P",
+    "lang": "en",
+    "quoted_status_id": 629418812622811136
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629396397704413184,
+    "id_str": "629396397704413184",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/d7D2hOhDr9",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "ibtimes.com/inside-snapcha\u2026",
+          "expanded_url": "http://www.ibtimes.com/inside-snapchats-fox-gop-debate-live-stream-republicans-embrace-app-quest-post-tv-2042239"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "socialmedia",
+          "indices": [
+            86,
+            98
+          ]
+        },
+        {
+          "text": "GOPDebate",
+          "indices": [
+            99,
+            109
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Snapchat",
+          "indices": [
+            67,
+            76
+          ],
+          "id_str": "376502929",
+          "id": 376502929,
+          "screen_name": "Snapchat"
+        },
+        {
+          "name": "IBTimes",
+          "indices": [
+            77,
+            85
+          ],
+          "id_str": "78714922",
+          "id": 78714922,
+          "screen_name": "IBTimes"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you want to engage constituents, you need to be where they are. @Snapchat @IBTimes #socialmedia #GOPDebate http://t.co/d7D2hOhDr9",
+    "lang": "en",
+    "created_at": "2015-08-06 20:59:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "San Antonio, TX",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -98.778559,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.141956
+            ],
+            [
+              -98.302744,
+              29.693046
+            ],
+            [
+              -98.778559,
+              29.693046
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/3df4f427b5a60fea.json",
+      "name": "San Antonio",
+      "country": "United States",
+      "place_type": "city",
+      "id": "3df4f427b5a60fea"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629343452480843776,
+    "id_str": "629343452480843776",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629277002806206464,
+      "id_str": "629277002806206464",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/SfuKyo10Vm",
+            "indices": [
+              106,
+              128
+            ],
+            "display_url": "ow.ly/Qzj4p",
+            "expanded_url": "http://ow.ly/Qzj4p"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "TEEX",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "Veterans",
+            "indices": [
+              55,
+              64
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "A&M-San Antonio",
+            "indices": [
+              6,
+              21
+            ],
+            "id_str": "117274820",
+            "id": 117274820,
+            "screen_name": "TAMUSanAntonio"
+          },
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              28,
+              42
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22533647",
+        "id": 22533647
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#TEEX @TAMUSanAntonio &amp; @HurdOnTheHill are holding #Veterans Recognition Day event August 11th 2-4PM: http://t.co/SfuKyo10Vm",
+      "lang": "en",
+      "created_at": "Thu Aug 06 13:05:03 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/u2rSWpY1eI",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "twitter.com/teextweet/stat\u2026",
+          "expanded_url": "https://twitter.com/teextweet/status/629277002806206464"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VeteransRecognitionDay",
+          "indices": [
+            21,
+            44
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "A&M-San Antonio",
+          "indices": [
+            58,
+            73
+          ],
+          "id_str": "117274820",
+          "id": 117274820,
+          "screen_name": "TAMUSanAntonio"
+        },
+        {
+          "name": "VFW",
+          "indices": [
+            97,
+            101
+          ],
+          "id_str": "18688579",
+          "id": 18688579,
+          "screen_name": "VFW"
+        },
+        {
+          "name": "JointBaseSanAntonio",
+          "indices": [
+            102,
+            116
+          ],
+          "id_str": "1138167679",
+          "id": 1138167679,
+          "screen_name": "JBSA_Official"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629277002806206464",
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 17:29:06+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Honored to help host #VeteransRecognitionDay next Tuesday @TAMUSanAntonio. Hope you can join us! @VFW @JBSA_Official https://t.co/u2rSWpY1eI",
+    "lang": "en",
+    "quoted_status_id": 629277002806206464
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629037751103438848,
+    "id_str": "629037751103438848",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629035792388739073,
+      "id_str": "629035792388739073",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/n2IH1viaUh",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "j.mp/1MbDLB1",
+            "expanded_url": "http://j.mp/1MbDLB1"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              35,
+              49
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          },
+          {
+            "name": "Charles Rangel",
+            "indices": [
+              50,
+              59
+            ],
+            "id_str": "21312077",
+            "id": 21312077,
+            "screen_name": "cbrangel"
+          },
+          {
+            "name": "Rep. Ted Lieu",
+            "indices": [
+              60,
+              71
+            ],
+            "id_str": "3044993235",
+            "id": 3044993235,
+            "screen_name": "RepTedLieu"
+          },
+          {
+            "name": "Mimi Walters",
+            "indices": [
+              72,
+              87
+            ],
+            "id_str": "47798449",
+            "id": 47798449,
+            "screen_name": "RepMimiWalters"
+          },
+          {
+            "name": "Bill Johnson",
+            "indices": [
+              88,
+              103
+            ],
+            "id_str": "211530910",
+            "id": 211530910,
+            "screen_name": "RepBillJohnson"
+          },
+          {
+            "name": "Rep. Mike Honda",
+            "indices": [
+              104,
+              117
+            ],
+            "id_str": "16583468",
+            "id": 16583468,
+            "screen_name": "RepMikeHonda"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15113571",
+        "id": 15113571
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The moment you've been waiting for @HurdOnTheHill @cbrangel @RepTedLieu @RepMimiWalters @RepBillJohnson @RepMikeHonda http://t.co/n2IH1viaUh",
+      "lang": "en",
+      "created_at": "Wed Aug 05 21:06:34 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/A00uMHDPLP",
+          "indices": [
+            49,
+            72
+          ],
+          "display_url": "twitter.com/famousdc/statu\u2026",
+          "expanded_url": "https://twitter.com/famousdc/status/629035792388739073"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "talentshow",
+          "indices": [
+            36,
+            47
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "FamousDC",
+          "indices": [
+            12,
+            21
+          ],
+          "id_str": "15113571",
+          "id": 15113571,
+          "screen_name": "FamousDC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629035792388739073",
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 21:14:21+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It's like a @FamousDC Congressional #talentshow  https://t.co/A00uMHDPLP",
+    "lang": "en",
+    "quoted_status_id": 629035792388739073
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "San Angelo, TX",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.52941,
+              31.3357694
+            ],
+            [
+              -100.376768,
+              31.3357694
+            ],
+            [
+              -100.376768,
+              31.545276
+            ],
+            [
+              -100.52941,
+              31.545276
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/4cb7f66ae6f6d487.json",
+      "name": "San Angelo",
+      "country": "United States",
+      "place_type": "city",
+      "id": "4cb7f66ae6f6d487"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628942170028834816,
+    "id_str": "628942170028834816",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/kYPmoxFvZ6",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "news4sanantonio.com/m/news/feature\u2026",
+          "expanded_url": "http://news4sanantonio.com/m/news/features/top-stories/stories/Congressman-Hurd-visits-San-Antonio-Chamber-of-Commerce-180493.shtml#.VcIgJIY8LCQ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            62,
+            67
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Bexar County GOP",
+          "indices": [
+            69,
+            78
+          ],
+          "id_str": "433627109",
+          "id": 433627109,
+          "screen_name": "BexarGOP"
+        },
+        {
+          "name": "Texas GOP",
+          "indices": [
+            79,
+            88
+          ],
+          "id_str": "37760670",
+          "id": 37760670,
+          "screen_name": "TexasGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Right now, there is no bigger issue going on than the deal w/ #Iran. @BexarGOP @TexasGOP http://t.co/kYPmoxFvZ6",
+    "lang": "en",
+    "created_at": "2015-08-05 14:54:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "San Angelo, TX",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.52941,
+              31.3357694
+            ],
+            [
+              -100.376768,
+              31.3357694
+            ],
+            [
+              -100.376768,
+              31.545276
+            ],
+            [
+              -100.52941,
+              31.545276
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/4cb7f66ae6f6d487.json",
+      "name": "San Angelo",
+      "country": "United States",
+      "place_type": "city",
+      "id": "4cb7f66ae6f6d487"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628922470599241728,
+    "id_str": "628922470599241728",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SanAngelo",
+          "indices": [
+            86,
+            96
+          ]
+        },
+        {
+          "text": "TourdeTejas",
+          "indices": [
+            97,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/bIrVOOGvzv",
+          "media_url": "http://pbs.twimg.com/media/CLphpdDUMAA_LW2.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLphpdDUMAA_LW2.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628922470599241728/photo/1",
+          "id_str": "628922462772670464",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 505
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 891
+            },
+            "large": {
+              "w": 689,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/bIrVOOGvzv",
+          "id": 628922462772670464
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Angelo State",
+          "indices": [
+            25,
+            37
+          ],
+          "id_str": "26278736",
+          "id": 26278736,
+          "screen_name": "AngeloState"
+        },
+        {
+          "name": "Dr. Brian May",
+          "indices": [
+            69,
+            85
+          ],
+          "id_str": "2984962443",
+          "id": 2984962443,
+          "screen_name": "AngeloStatePres"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/bIrVOOGvzv",
+          "media_url": "http://pbs.twimg.com/media/CLphpdDUMAA_LW2.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLphpdDUMAA_LW2.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628922470599241728/photo/1",
+          "id_str": "628922462772670464",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 505
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 891
+            },
+            "large": {
+              "w": 689,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/bIrVOOGvzv",
+          "id": 628922462772670464
+        },
+        {
+          "url": "http://t.co/bIrVOOGvzv",
+          "media_url": "http://pbs.twimg.com/media/CLphpdFVEAEWE10.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLphpdFVEAEWE10.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628922470599241728/photo/1",
+          "id_str": "628922462781116417",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 236
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 417
+            },
+            "large": {
+              "w": 1022,
+              "resize": "fit",
+              "h": 712
+            }
+          },
+          "display_url": "pic.twitter.com/bIrVOOGvzv",
+          "id": 628922462781116417
+        }
+      ]
+    },
+    "text": "Great learning about the @AngeloState Center for Security Studies w/ @AngeloStatePres #SanAngelo #TourdeTejas http://t.co/bIrVOOGvzv",
+    "lang": "en",
+    "created_at": "2015-08-05 13:36:16+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "San Angelo, TX",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -100.52941,
+              31.3357694
+            ],
+            [
+              -100.376768,
+              31.3357694
+            ],
+            [
+              -100.376768,
+              31.545276
+            ],
+            [
+              -100.52941,
+              31.545276
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/4cb7f66ae6f6d487.json",
+      "name": "San Angelo",
+      "country": "United States",
+      "place_type": "city",
+      "id": "4cb7f66ae6f6d487"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628745901821931520,
+    "id_str": "628745901821931520",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "westtexas",
+          "indices": [
+            14,
+            24
+          ]
+        },
+        {
+          "text": "SanAngelo",
+          "indices": [
+            28,
+            38
+          ]
+        },
+        {
+          "text": "Texas",
+          "indices": [
+            105,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/IvHpzISh32",
+          "media_url": "http://pbs.twimg.com/media/CLnBDe2UYAEe6oW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLnBDe2UYAEe6oW.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628745901821931520/photo/1",
+          "id_str": "628745888559554561",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 826
+            }
+          },
+          "display_url": "pic.twitter.com/IvHpzISh32",
+          "id": 628745888559554561
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/IvHpzISh32",
+          "media_url": "http://pbs.twimg.com/media/CLnBDe2UYAEe6oW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLnBDe2UYAEe6oW.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628745901821931520/photo/1",
+          "id_str": "628745888559554561",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 826
+            }
+          },
+          "display_url": "pic.twitter.com/IvHpzISh32",
+          "id": 628745888559554561
+        }
+      ]
+    },
+    "text": "Talking about #westtexas in #SanAngelo this evening with the Standard-Times. Big things happening across #Texas http://t.co/IvHpzISh32",
+    "lang": "en",
+    "created_at": "2015-08-05 01:54:39+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628666458403246084,
+    "id_str": "628666458403246084",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/YYLE8Mc4wu",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "news4sanantonio.com/m/news/feature\u2026",
+          "expanded_url": "http://news4sanantonio.com/m/news/features/top-stories/stories/Congressman-talks-tech-jobs-179912.shtml"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SanAntonio",
+          "indices": [
+            0,
+            11
+          ]
+        },
+        {
+          "text": "CyberCityUSA",
+          "indices": [
+            24,
+            37
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "News 4 San Antonio",
+          "indices": [
+            56,
+            64
+          ],
+          "id_str": "17194257",
+          "id": 17194257,
+          "screen_name": "News4SA"
+        },
+        {
+          "name": "Geekdom",
+          "indices": [
+            65,
+            73
+          ],
+          "id_str": "18207053",
+          "id": 18207053,
+          "screen_name": "Geekdom"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#SanAntonio is becoming #CyberCityUSA. Spread the word. @News4SA @Geekdom http://t.co/YYLE8Mc4wu",
+    "lang": "en",
+    "created_at": "2015-08-04 20:38:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628647883298844673,
+    "id_str": "628647883298844673",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "bbq",
+          "indices": [
+            11,
+            15
+          ]
+        },
+        {
+          "text": "TX23",
+          "indices": [
+            46,
+            51
+          ]
+        },
+        {
+          "text": "chopped",
+          "indices": [
+            53,
+            61
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Binaq6uk7z",
+          "media_url": "http://pbs.twimg.com/media/CLln2f8UkAAo3U1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLln2f8UkAAo3U1.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628647883298844673/photo/1",
+          "id_str": "628647808979996672",
+          "indices": [
+            62,
+            84
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 354
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 626
+            },
+            "large": {
+              "w": 980,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/Binaq6uk7z",
+          "id": 628647808979996672
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rudy's Bar-B-Q",
+          "indices": [
+            33,
+            42
+          ],
+          "id_str": "39437055",
+          "id": 39437055,
+          "screen_name": "rudysbbq"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Binaq6uk7z",
+          "media_url": "http://pbs.twimg.com/media/CLln2f8UkAAo3U1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLln2f8UkAAo3U1.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628647883298844673/photo/1",
+          "id_str": "628647808979996672",
+          "indices": [
+            62,
+            84
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 354
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 626
+            },
+            "large": {
+              "w": 980,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/Binaq6uk7z",
+          "id": 628647808979996672
+        },
+        {
+          "url": "http://t.co/Binaq6uk7z",
+          "media_url": "http://pbs.twimg.com/media/CLln2f8UYAAEZL7.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLln2f8UYAAEZL7.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628647883298844673/photo/1",
+          "id_str": "628647808979984384",
+          "indices": [
+            62,
+            84
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1023,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/Binaq6uk7z",
+          "id": 628647808979984384
+        }
+      ]
+    },
+    "text": "Obligatory #bbq stop at original @rudysbbq in #TX23! #chopped http://t.co/Binaq6uk7z",
+    "lang": "ro",
+    "created_at": "2015-08-04 19:25:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628646461845037056,
+    "id_str": "628646461845037056",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "2963445730",
+      "id": 628638775590006784,
+      "id_str": "628638775590006784",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "353060311",
+        "id": 353060311
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 2963445730,
+      "in_reply_to_screen_name": "HurdOnTheHill",
+      "retweeted": false,
+      "text": "@HurdOnTheHill If we had a WhataDrone we'd deliver Whataburger to you every day, but we're not that good....yet!",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:48:58 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/YT2QxwWww4",
+          "indices": [
+            84,
+            107
+          ],
+          "display_url": "twitter.com/whataburger/st\u2026",
+          "expanded_url": "https://twitter.com/whataburger/status/628638775590006784"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "westtexas",
+          "indices": [
+            47,
+            57
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Whataburger\u00ae",
+          "indices": [
+            59,
+            71
+          ],
+          "id_str": "353060311",
+          "id": 353060311,
+          "screen_name": "Whataburger"
+        },
+        {
+          "name": "San Antonio Chamber",
+          "indices": [
+            72,
+            82
+          ],
+          "id_str": "8833642",
+          "id": 8833642,
+          "screen_name": "sachamber"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628638775590006784",
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 19:19:30+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "This would really hit the spot on my drives to #westtexas! @Whataburger @sachamber  https://t.co/YT2QxwWww4",
+    "lang": "en",
+    "quoted_status_id": 628638775590006784
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628639598919315456,
+    "id_str": "628639598919315456",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "2963445730",
+      "id": 628638775590006784,
+      "id_str": "628638775590006784",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "353060311",
+        "id": 353060311
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 2963445730,
+      "in_reply_to_screen_name": "HurdOnTheHill",
+      "retweeted": false,
+      "text": "@HurdOnTheHill If we had a WhataDrone we'd deliver Whataburger to you every day, but we're not that good....yet!",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:48:58 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/9ymSKms972",
+          "indices": [
+            36,
+            59
+          ],
+          "display_url": "twitter.com/Whataburger/st\u2026",
+          "expanded_url": "https://twitter.com/Whataburger/status/628638775590006784"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Whataburger\u00ae",
+          "indices": [
+            22,
+            34
+          ],
+          "id_str": "353060311",
+          "id": 353060311,
+          "screen_name": "Whataburger"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628638775590006784",
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 18:52:14+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "WhataDay that will be @Whataburger  https://t.co/9ymSKms972",
+    "lang": "en",
+    "quoted_status_id": 628638775590006784
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628635740486811648,
+    "id_str": "628635740486811648",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "sanantonio",
+          "indices": [
+            77,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/AqFwoTdDKv",
+          "media_url": "http://pbs.twimg.com/media/CLlc3ZnVEAAq2kR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlc3ZnVEAAq2kR.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628635740486811648/photo/1",
+          "id_str": "628635729833299968",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 224
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 396
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 677
+            }
+          },
+          "display_url": "pic.twitter.com/AqFwoTdDKv",
+          "id": 628635729833299968
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "San Antonio Chamber",
+          "indices": [
+            18,
+            28
+          ],
+          "id_str": "8833642",
+          "id": 8833642,
+          "screen_name": "sachamber"
+        },
+        {
+          "name": "Bexar County Sheriff",
+          "indices": [
+            89,
+            104
+          ],
+          "id_str": "2798670589",
+          "id": 2798670589,
+          "screen_name": "BexarCoSheriff"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/AqFwoTdDKv",
+          "media_url": "http://pbs.twimg.com/media/CLlc3ZnVEAAq2kR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlc3ZnVEAAq2kR.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628635740486811648/photo/1",
+          "id_str": "628635729833299968",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 224
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 396
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 677
+            }
+          },
+          "display_url": "pic.twitter.com/AqFwoTdDKv",
+          "id": 628635729833299968
+        },
+        {
+          "url": "http://t.co/AqFwoTdDKv",
+          "media_url": "http://pbs.twimg.com/media/CLlc3ZmUAAATg7U.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlc3ZmUAAATg7U.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628635740486811648/photo/1",
+          "id_str": "628635729829036032",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 376
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 664
+            },
+            "large": {
+              "w": 925,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/AqFwoTdDKv",
+          "id": 628635729829036032
+        },
+        {
+          "url": "http://t.co/AqFwoTdDKv",
+          "media_url": "http://pbs.twimg.com/media/CLlc3ZnUcAAE_vj.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlc3ZnUcAAE_vj.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628635740486811648/photo/1",
+          "id_str": "628635729833259008",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/AqFwoTdDKv",
+          "id": 628635729833259008
+        },
+        {
+          "url": "http://t.co/AqFwoTdDKv",
+          "media_url": "http://pbs.twimg.com/media/CLlc3iFUEAAWMTU.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlc3iFUEAAWMTU.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628635740486811648/photo/1",
+          "id_str": "628635732106547200",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 458
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 809
+            },
+            "large": {
+              "w": 759,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/AqFwoTdDKv",
+          "id": 628635732106547200
+        }
+      ]
+    },
+    "text": "Thank you so much @sachamber for a wonderful welcome! It's great to be home! #sanantonio @BexarCoSheriff http://t.co/AqFwoTdDKv",
+    "lang": "en",
+    "created_at": "2015-08-04 18:36:54+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628604737408008193,
+    "id_str": "628604737408008193",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/Q0YLwGwc74",
+          "media_url": "http://pbs.twimg.com/media/CLlAgScUAAAfMqs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlAgScUAAAfMqs.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628604737408008193/photo/1",
+          "id_str": "628604546445475840",
+          "indices": [
+            81,
+            103
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/Q0YLwGwc74",
+          "id": 628604546445475840
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "KABB FOX 29",
+          "indices": [
+            12,
+            22
+          ],
+          "id_str": "52047494",
+          "id": 52047494,
+          "screen_name": "KABBFOX29"
+        },
+        {
+          "name": "San Antonio Chamber",
+          "indices": [
+            70,
+            80
+          ],
+          "id_str": "8833642",
+          "id": 8833642,
+          "screen_name": "sachamber"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Q0YLwGwc74",
+          "media_url": "http://pbs.twimg.com/media/CLlAgScUAAAfMqs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlAgScUAAAfMqs.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628604737408008193/photo/1",
+          "id_str": "628604546445475840",
+          "indices": [
+            81,
+            103
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/Q0YLwGwc74",
+          "id": 628604546445475840
+        }
+      ]
+    },
+    "text": "Talkin with @KABBFOX29 on why constituent relations are so important. @sachamber http://t.co/Q0YLwGwc74",
+    "lang": "en",
+    "created_at": "2015-08-04 16:33:42+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628563168093077504,
+    "id_str": "628563168093077504",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/K0cXgKdA6M",
+          "indices": [
+            62,
+            84
+          ],
+          "display_url": "expressnews.com/business/local\u2026",
+          "expanded_url": "http://www.expressnews.com/business/local/article/Geekdom-says-expansion-will-make-it-No-1-6422946.php"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sanantonio",
+          "indices": [
+            41,
+            52
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Geekdom",
+          "indices": [
+            53,
+            61
+          ],
+          "id_str": "18207053",
+          "id": 18207053,
+          "screen_name": "Geekdom"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud this is happening in my home town! #sanantonio @Geekdom http://t.co/K0cXgKdA6M",
+    "lang": "en",
+    "created_at": "2015-08-04 13:48:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628293507292139520,
+    "id_str": "628293507292139520",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "2963445730",
+      "id": 628292917459820544,
+      "id_str": "628292917459820544",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "TX23",
+            "indices": [
+              67,
+              72
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/AKJefwYnfh",
+            "media_url": "http://pbs.twimg.com/media/CLglFFXWsAEvyNj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLglFFXWsAEvyNj.jpg",
+            "expanded_url": "http://twitter.com/Geekdom/status/628292917459820544/photo/1",
+            "id_str": "628292917287890945",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 645,
+                "resize": "fit",
+                "h": 645
+              }
+            },
+            "display_url": "pic.twitter.com/AKJefwYnfh",
+            "id": 628292917287890945
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/L9VpllaQI1",
+            "indices": [
+              73,
+              95
+            ],
+            "display_url": "ift.tt/1IkGUYW",
+            "expanded_url": "http://ift.tt/1IkGUYW"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          },
+          {
+            "name": "Palmer Pingree",
+            "indices": [
+              41,
+              50
+            ],
+            "id_str": "227991672",
+            "id": 227991672,
+            "screen_name": "parlevel"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18207053",
+        "id": 18207053
+      },
+      "favorited": false,
+      "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+      "in_reply_to_user_id": 2963445730,
+      "in_reply_to_screen_name": "HurdOnTheHill",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/AKJefwYnfh",
+            "media_url": "http://pbs.twimg.com/media/CLglFFXWsAEvyNj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLglFFXWsAEvyNj.jpg",
+            "expanded_url": "http://twitter.com/Geekdom/status/628292917459820544/photo/1",
+            "id_str": "628292917287890945",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 645,
+                "resize": "fit",
+                "h": 645
+              }
+            },
+            "display_url": "pic.twitter.com/AKJefwYnfh",
+            "id": 628292917287890945
+          }
+        ]
+      },
+      "text": "@hurdonthehill visited Geekdom &amp; saw @parlevel in action today #TX23 http://t.co/L9VpllaQI1 http://t.co/AKJefwYnfh",
+      "lang": "en",
+      "created_at": "Mon Aug 03 19:54:39 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/HG8s6NYH1r",
+          "indices": [
+            63,
+            86
+          ],
+          "display_url": "twitter.com/geekdom/status\u2026",
+          "expanded_url": "https://twitter.com/geekdom/status/628292917459820544"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Geekdom",
+          "indices": [
+            24,
+            32
+          ],
+          "id_str": "18207053",
+          "id": 18207053,
+          "screen_name": "Geekdom"
+        },
+        {
+          "name": "TechBloc",
+          "indices": [
+            50,
+            61
+          ],
+          "id_str": "3184463984",
+          "id": 3184463984,
+          "screen_name": "SATechBloc"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628292917459820544",
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "created_at": "2015-08-03 19:56:59+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Very impressed with the @geekdom startups today!! @SATechBloc  https://t.co/HG8s6NYH1r",
+    "lang": "en",
+    "quoted_status_id": 628292917459820544
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 23,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628277371020296192,
+    "id_str": "628277371020296192",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "tech",
+          "indices": [
+            66,
+            71
+          ]
+        },
+        {
+          "text": "SanAntonio",
+          "indices": [
+            85,
+            96
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/LOUUEZ4ZdX",
+          "media_url": "http://pbs.twimg.com/media/CLgW7zNUMAAsGn5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgW7zNUMAAsGn5.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628277371020296192/photo/1",
+          "id_str": "628277364632334336",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/LOUUEZ4ZdX",
+          "id": 628277364632334336
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "TechBloc",
+          "indices": [
+            23,
+            34
+          ],
+          "id_str": "3184463984",
+          "id": 3184463984,
+          "screen_name": "SATechBloc"
+        },
+        {
+          "name": "Southerleigh",
+          "indices": [
+            98,
+            113
+          ],
+          "id_str": "2497207914",
+          "id": 2497207914,
+          "screen_name": "SoutherleighSA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/LOUUEZ4ZdX",
+          "media_url": "http://pbs.twimg.com/media/CLgW7zNUMAAsGn5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgW7zNUMAAsGn5.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628277371020296192/photo/1",
+          "id_str": "628277364632334336",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/LOUUEZ4ZdX",
+          "id": 628277364632334336
+        }
+      ]
+    },
+    "text": "Collaborating with the @SATechBloc leaders on how to attract more #tech companies to #SanAntonio. @SoutherleighSA http://t.co/LOUUEZ4ZdX",
+    "lang": "en",
+    "created_at": "2015-08-03 18:52:52+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628248841746169856,
+    "id_str": "628248841746169856",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "cybersecurity",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "text": "sanantonio",
+          "indices": [
+            28,
+            39
+          ]
+        },
+        {
+          "text": "cybercityUSA",
+          "indices": [
+            81,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/i7EfsSY1jm",
+          "media_url": "http://pbs.twimg.com/media/CLf8_MPUAAAx8Ql.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf8_MPUAAAx8Ql.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628248841746169856/photo/1",
+          "id_str": "628248835588882432",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/i7EfsSY1jm",
+          "id": 628248835588882432
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "John B. Dickson",
+          "indices": [
+            47,
+            60
+          ],
+          "id_str": "11702822",
+          "id": 11702822,
+          "screen_name": "johnbdickson"
+        },
+        {
+          "name": "DenimGroup",
+          "indices": [
+            68,
+            79
+          ],
+          "id_str": "17618711",
+          "id": 17618711,
+          "screen_name": "denimgroup"
+        },
+        {
+          "name": "San Antonio Chamber",
+          "indices": [
+            95,
+            105
+          ],
+          "id_str": "8833642",
+          "id": 8833642,
+          "screen_name": "sachamber"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/i7EfsSY1jm",
+          "media_url": "http://pbs.twimg.com/media/CLf8_MPUAAAx8Ql.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf8_MPUAAAx8Ql.jpg",
+          "expanded_url": "http://twitter.com/HurdOnTheHill/status/628248841746169856/photo/1",
+          "id_str": "628248835588882432",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/i7EfsSY1jm",
+          "id": 628248835588882432
+        }
+      ]
+    },
+    "text": "Talking #cybersecurity with #sanantonio leader @johnbdickson of the @denimgroup. #cybercityUSA @sachamber http://t.co/i7EfsSY1jm",
+    "lang": "en",
+    "created_at": "2015-08-03 16:59:30+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627942473176776704,
+    "id_str": "627942473176776704",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/TSwg56rpPR",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "bit.ly/1I1HOf2",
+          "expanded_url": "http://bit.ly/1I1HOf2"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ElPaso",
+          "indices": [
+            33,
+            40
+          ]
+        },
+        {
+          "text": "TX23",
+          "indices": [
+            48,
+            53
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Excellent news for folks in east #ElPaso County #TX23  ---&gt; Clinica Guadalupana to open in Agua Dulce colonia http://t.co/TSwg56rpPR",
+    "lang": "en",
+    "created_at": "2015-08-02 20:42:06+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627691615625220097,
+      "id_str": "627691615625220097",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "district3SA",
+            "indices": [
+              26,
+              38
+            ]
+          },
+          {
+            "text": "together",
+            "indices": [
+              69,
+              78
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/LN05KWz4jO",
+            "media_url": "http://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+            "expanded_url": "http://twitter.com/RebeccaViagran/status/627691615625220097/photo/1",
+            "id_str": "627691615025364993",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/LN05KWz4jO",
+            "id": 627691615025364993
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "CentroMed",
+            "indices": [
+              79,
+              92
+            ],
+            "id_str": "3018529646",
+            "id": 3018529646,
+            "screen_name": "CentroMed_SA"
+          },
+          {
+            "name": "Rep. Will Hurd",
+            "indices": [
+              93,
+              107
+            ],
+            "id_str": "2963445730",
+            "id": 2963445730,
+            "screen_name": "HurdOnTheHill"
+          },
+          {
+            "name": "Toyota Texas",
+            "indices": [
+              108,
+              114
+            ],
+            "id_str": "338464393",
+            "id": 338464393,
+            "screen_name": "TMMTX"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "74225368",
+        "id": 74225368
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/LN05KWz4jO",
+            "media_url": "http://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+            "expanded_url": "http://twitter.com/RebeccaViagran/status/627691615625220097/photo/1",
+            "id_str": "627691615025364993",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/LN05KWz4jO",
+            "id": 627691615025364993
+          }
+        ]
+      },
+      "text": "Productive day throughout #district3SA!  We all succeed when we work #together @CentroMed_SA @HurdOnTheHill @TMMTX http://t.co/LN05KWz4jO",
+      "lang": "en",
+      "created_at": "Sun Aug 02 04:05:17 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 74225368,
+          "media_url": "http://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+          "source_user_id_str": "74225368",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/LN05KWz4jO",
+          "expanded_url": "http://twitter.com/RebeccaViagran/status/627691615625220097/photo/1",
+          "url": "http://t.co/LN05KWz4jO",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+          "source_status_id_str": "627691615625220097",
+          "id_str": "627691615025364993",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 627691615025364993,
+          "source_status_id": 627691615625220097
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627834533052817408,
+    "id_str": "627834533052817408",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "district3SA",
+          "indices": [
+            46,
+            58
+          ]
+        },
+        {
+          "text": "together",
+          "indices": [
+            89,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 74225368,
+          "media_url": "http://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+          "source_user_id_str": "74225368",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/LN05KWz4jO",
+          "expanded_url": "http://twitter.com/RebeccaViagran/status/627691615625220097/photo/1",
+          "url": "http://t.co/LN05KWz4jO",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLYCMr4UAAEge6V.jpg",
+          "source_status_id_str": "627691615625220097",
+          "id_str": "627691615025364993",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 627691615025364993,
+          "source_status_id": 627691615625220097
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rebecca J Viagran",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "74225368",
+          "id": 74225368,
+          "screen_name": "RebeccaViagran"
+        },
+        {
+          "name": "CentroMed",
+          "indices": [
+            99,
+            112
+          ],
+          "id_str": "3018529646",
+          "id": 3018529646,
+          "screen_name": "CentroMed_SA"
+        },
+        {
+          "name": "Rep. Will Hurd",
+          "indices": [
+            113,
+            127
+          ],
+          "id_str": "2963445730",
+          "id": 2963445730,
+          "screen_name": "HurdOnTheHill"
+        },
+        {
+          "name": "Toyota Texas",
+          "indices": [
+            128,
+            134
+          ],
+          "id_str": "338464393",
+          "id": 338464393,
+          "screen_name": "TMMTX"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2963445730",
+      "screen_name": "hurdonthehill",
+      "id": 2963445730
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RebeccaViagran: Productive day throughout #district3SA!  We all succeed when we work #together @CentroMed_SA @HurdOnTheHill @TMMTX http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-02 13:33:11+00:00"
+  }
+]

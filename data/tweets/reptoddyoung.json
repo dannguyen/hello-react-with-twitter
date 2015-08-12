@@ -1,0 +1,1827 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629690905310666752",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "3108351",
+          "indices": [
+            95,
+            99
+          ],
+          "name": "Wall Street Journal",
+          "id": 3108351,
+          "screen_name": "WSJ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ISAAct",
+          "indices": [
+            83,
+            90
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/wZIklfwWIJ",
+          "indices": [
+            52,
+            74
+          ],
+          "display_url": "on.wsj.com/1UoCI21",
+          "expanded_url": "http://on.wsj.com/1UoCI21"
+        },
+        {
+          "url": "http://t.co/G9vex5RJiA",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "1.usa.gov/1KFPg0o",
+          "expanded_url": "http://1.usa.gov/1KFPg0o"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629690905310666752,
+    "text": "\"More College Students Selling Stock\u2014in Themselves\" http://t.co/wZIklfwWIJ See why #ISAAct has @WSJ &amp; others talking: http://t.co/G9vex5RJiA",
+    "lang": "en",
+    "created_at": "2015-08-07 16:29:45+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628954343136477184",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1917731",
+          "indices": [
+            1,
+            9
+          ],
+          "name": "The Hill",
+          "id": 1917731,
+          "screen_name": "thehill"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            16,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/JKvd9s1bcN",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "bit.ly/1g9yVGB",
+          "expanded_url": "http://bit.ly/1g9yVGB"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628954343136477184,
+    "text": ".@thehill  \"The #REINSAct didn\u2019t come from an elite industry player or union; it started with a concerned voter.\" http://t.co/JKvd9s1bcN",
+    "lang": "en",
+    "created_at": "2015-08-05 15:42:55+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "628696349354131456",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "possibly_sensitive": false,
+        "coordinates": null,
+        "retweet_count": 0,
+        "favorite_count": 1,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id_str": "628695600666685440",
+        "entities": {
+          "symbols": [],
+          "user_mentions": [],
+          "hashtags": [],
+          "urls": [
+            {
+              "url": "http://t.co/Sp9HqSbHRf",
+              "indices": [
+                48,
+                70
+              ],
+              "display_url": "bit.ly/1IKSRef",
+              "expanded_url": "http://bit.ly/1IKSRef"
+            }
+          ]
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "234128524",
+          "id": 234128524
+        },
+        "favorited": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "id": 628695600666685440,
+        "text": "9 Things to Know About Income-Share Agreements: http://t.co/Sp9HqSbHRf Learn how my bipartisan ISAAct is one solution 2 growing student debt",
+        "lang": "en",
+        "created_at": "Tue Aug 04 22:34:46 +0000 2015",
+        "retweeted": false
+      },
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "234128524",
+            "indices": [
+              1,
+              14
+            ],
+            "name": "Rep. Todd Young",
+            "id": 234128524,
+            "screen_name": "RepToddYoung"
+          },
+          {
+            "id_str": "15361570",
+            "indices": [
+              15,
+              26
+            ],
+            "name": "Jared Polis",
+            "id": 15361570,
+            "screen_name": "jaredpolis"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "highered",
+            "indices": [
+              85,
+              94
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/CrEGPE6auB",
+            "indices": [
+              96,
+              119
+            ],
+            "display_url": "twitter.com/RepToddYoung/s\u2026",
+            "expanded_url": "https://twitter.com/RepToddYoung/status/628695600666685440"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628695600666685440",
+      "user": {
+        "id_str": "227765546",
+        "id": 227765546
+      },
+      "favorited": false,
+      "created_at": "Tue Aug 04 22:37:44 +0000 2015",
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 628696349354131456,
+      "text": ".@RepToddYoung @jaredpolis appreciate your leadership on income share agreements for #highered  https://t.co/CrEGPE6auB",
+      "lang": "en",
+      "quoted_status_id": 628695600666685440,
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628947695940554752",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "227765546",
+          "indices": [
+            3,
+            18
+          ],
+          "name": "Alison Griffin",
+          "id": 227765546,
+          "screen_name": "AlisonRGriffin"
+        },
+        {
+          "id_str": "234128524",
+          "indices": [
+            21,
+            34
+          ],
+          "name": "Rep. Todd Young",
+          "id": 234128524,
+          "screen_name": "RepToddYoung"
+        },
+        {
+          "id_str": "15361570",
+          "indices": [
+            35,
+            46
+          ],
+          "name": "Jared Polis",
+          "id": 15361570,
+          "screen_name": "jaredpolis"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "highered",
+          "indices": [
+            105,
+            114
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/CrEGPE6auB",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "twitter.com/RepToddYoung/s\u2026",
+          "expanded_url": "https://twitter.com/RepToddYoung/status/628695600666685440"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628947695940554752,
+    "text": "RT @AlisonRGriffin: .@RepToddYoung @jaredpolis appreciate your leadership on income share agreements for #highered  https://t.co/CrEGPE6auB",
+    "lang": "en",
+    "created_at": "2015-08-05 15:16:30+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628695600666685440",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/Sp9HqSbHRf",
+          "indices": [
+            48,
+            70
+          ],
+          "display_url": "bit.ly/1IKSRef",
+          "expanded_url": "http://bit.ly/1IKSRef"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628695600666685440,
+    "text": "9 Things to Know About Income-Share Agreements: http://t.co/Sp9HqSbHRf Learn how my bipartisan ISAAct is one solution 2 growing student debt",
+    "lang": "en",
+    "created_at": "2015-08-04 22:34:46+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628238391860137984",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            41,
+            50
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/C44X4whAwd",
+          "indices": [
+            61,
+            83
+          ],
+          "display_url": "bit.ly/1OL2lGo",
+          "expanded_url": "http://bit.ly/1OL2lGo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628238391860137984,
+    "text": "Check out the 8 who said they'd sign the #REINSAct into law: http://t.co/C44X4whAwd",
+    "lang": "en",
+    "created_at": "2015-08-03 16:17:59+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628236168145051649",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "tax",
+          "indices": [
+            51,
+            55
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/xwe9hK1TiR",
+          "indices": [
+            0,
+            22
+          ],
+          "display_url": "bit.ly/1DkZbJf",
+          "expanded_url": "http://bit.ly/1DkZbJf"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628236168145051649,
+    "text": "http://t.co/xwe9hK1TiR Gov't shouldn't use federal #tax code to pick winners &amp; losers...glad my bill to level the playing field is now law.",
+    "lang": "en",
+    "created_at": "2015-08-03 16:09:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "627177824261132288",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "538763120655998977",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "Indiana",
+            "indices": [
+              15,
+              23
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/y0vz3H64fg",
+            "indices": [
+              93,
+              115
+            ],
+            "display_url": "huffingtonpost.com/2014/11/19/stu\u2026",
+            "expanded_url": "http://www.huffingtonpost.com/2014/11/19/student-debt-map_n_6168396.html?utm_hp_ref=business"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2355132270",
+        "id": 2355132270
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 538763120655998977,
+      "text": "Is the average #Indiana student loan debt a.) $19K b.)$21K or c.) $28K? See the answer here: http://t.co/y0vz3H64fg",
+      "lang": "en",
+      "created_at": "Sat Nov 29 18:35:12 +0000 2014",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "ISAAct",
+          "indices": [
+            46,
+            53
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/G9vex5RJiA",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "1.usa.gov/1KFPg0o",
+          "expanded_url": "http://1.usa.gov/1KFPg0o"
+        },
+        {
+          "url": "https://t.co/cpSKgLBeab",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "twitter.com/INSkills2C/sta\u2026",
+          "expanded_url": "https://twitter.com/INSkills2C/status/538763120655998977"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "538763120655998977",
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "created_at": "2015-07-31 18:03:40+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 627177824261132288,
+    "text": "$28K. It's why I introduced university-backed #ISAAct\u2014to address cost/give students options:http://t.co/G9vex5RJiA https://t.co/cpSKgLBeab",
+    "lang": "en",
+    "quoted_status_id": 538763120655998977,
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626853205008367616,
+      "id_str": "626853205008367616",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "234128524",
+            "indices": [
+              25,
+              38
+            ],
+            "name": "Rep. Todd Young",
+            "id": 234128524,
+            "screen_name": "RepToddYoung"
+          },
+          {
+            "id_str": "112740986",
+            "indices": [
+              39,
+              50
+            ],
+            "name": "Rep. Ron Kind",
+            "id": 112740986,
+            "screen_name": "RepRonKind"
+          },
+          {
+            "id_str": "50452197",
+            "indices": [
+              51,
+              65
+            ],
+            "name": "Rep. John Larson",
+            "id": 50452197,
+            "screen_name": "RepJohnLarson"
+          },
+          {
+            "id_str": "377534571",
+            "indices": [
+              66,
+              77
+            ],
+            "name": "Mac Thornberry Press",
+            "id": 377534571,
+            "screen_name": "MacTXPress"
+          },
+          {
+            "id_str": "248065930",
+            "indices": [
+              78,
+              92
+            ],
+            "name": "Rep. Mike Kelley",
+            "id": 248065930,
+            "screen_name": "Repmikekelley"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2571582085",
+        "id": 2571582085
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The same kudos go out to @RepToddYoung @RepRonKind @RepJohnLarson @MacTXPress @Repmikekelley -- thank you for equalizing fuel taxes today!",
+      "lang": "en",
+      "created_at": "Thu Jul 30 20:33:45 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626862470263607296",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2571582085",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "UPS Public Affairs",
+          "id": 2571582085,
+          "screen_name": "UPSPolicy"
+        },
+        {
+          "id_str": "234128524",
+          "indices": [
+            40,
+            53
+          ],
+          "name": "Rep. Todd Young",
+          "id": 234128524,
+          "screen_name": "RepToddYoung"
+        },
+        {
+          "id_str": "112740986",
+          "indices": [
+            54,
+            65
+          ],
+          "name": "Rep. Ron Kind",
+          "id": 112740986,
+          "screen_name": "RepRonKind"
+        },
+        {
+          "id_str": "50452197",
+          "indices": [
+            66,
+            80
+          ],
+          "name": "Rep. John Larson",
+          "id": 50452197,
+          "screen_name": "RepJohnLarson"
+        },
+        {
+          "id_str": "377534571",
+          "indices": [
+            81,
+            92
+          ],
+          "name": "Mac Thornberry Press",
+          "id": 377534571,
+          "screen_name": "MacTXPress"
+        },
+        {
+          "id_str": "248065930",
+          "indices": [
+            93,
+            107
+          ],
+          "name": "Rep. Mike Kelley",
+          "id": 248065930,
+          "screen_name": "Repmikekelley"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626862470263607296,
+    "text": "RT @UPSPolicy: The same kudos go out to @RepToddYoung @RepRonKind @RepJohnLarson @MacTXPress @Repmikekelley -- thank you for equalizing fue\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 21:10:34+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626813417123356672",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626727949434130433,
+      "id_str": "626727949434130433",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "21922584",
+        "id": 21922584
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Good morning, Hoosiers. On this day in 1965, President Lyndon B. Johnson signed Medicare into law.",
+      "lang": "en",
+      "created_at": "Thu Jul 30 12:16:01 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "153944899",
+          "indices": [
+            29,
+            45
+          ],
+          "name": "Lloyd Doggett",
+          "id": 153944899,
+          "screen_name": "RepLloydDoggett"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NOTICEAct",
+          "indices": [
+            18,
+            28
+          ]
+        },
+        {
+          "text": "Medicare",
+          "indices": [
+            75,
+            84
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SPzevlEpkj",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "twitter.com/idsnews/status\u2026",
+          "expanded_url": "https://twitter.com/idsnews/status/626727949434130433"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626727949434130433",
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "created_at": "2015-07-30 17:55:38+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626813417123356672,
+    "text": "And yesterday the #NOTICEAct @RepLloydDoggett &amp; I got passed 2 protect #Medicare patients was sent to the President! https://t.co/SPzevlEpkj",
+    "lang": "en",
+    "quoted_status_id": 626727949434130433,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626775758090797057",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "626739637193732096",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "61947699",
+            "indices": [
+              50,
+              64
+            ],
+            "name": "Teresa Mackin",
+            "id": 61947699,
+            "screen_name": "Teresa_Mackin"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "http://t.co/AXAUKLsjGQ",
+            "indices": [
+              75,
+              97
+            ],
+            "display_url": "wp.me/p4ySt8-Qp9",
+            "expanded_url": "http://wp.me/p4ySt8-Qp9"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16285710",
+        "id": 16285710
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 626739637193732096,
+      "text": "IU researchers work to develop treatment for PTSD @Teresa_Mackin explains: http://t.co/AXAUKLsjGQ",
+      "lang": "en",
+      "created_at": "Thu Jul 30 13:02:28 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Hoosier",
+          "indices": [
+            13,
+            21
+          ]
+        },
+        {
+          "text": "startups",
+          "indices": [
+            22,
+            31
+          ]
+        },
+        {
+          "text": "vets",
+          "indices": [
+            99,
+            104
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/K1rI0IZzB7",
+          "indices": [
+            120,
+            143
+          ],
+          "display_url": "twitter.com/WISH_TV/status\u2026",
+          "expanded_url": "https://twitter.com/WISH_TV/status/626739637193732096"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626739637193732096",
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "created_at": "2015-07-30 15:26:00+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626775758090797057,
+    "text": "Proud to see #Hoosier #startups making a difference! Breakthrough here could be a game-changer for #vets &amp; so many. https://t.co/K1rI0IZzB7",
+    "lang": "en",
+    "quoted_status_id": 626739637193732096,
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "626450867873554432",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "234128524",
+            "indices": [
+              68,
+              81
+            ],
+            "name": "Rep. Todd Young",
+            "id": 234128524,
+            "screen_name": "RepToddYoung"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "http://t.co/AN0WvMBlcB",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "toddyoung.house.gov/press-releases\u2026",
+            "expanded_url": "http://toddyoung.house.gov/press-releases/youngs-reins-act-passes-house-awaits-action-in-the-senate/"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1947117912",
+        "id": 1947117912
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 626450867873554432,
+      "text": "NTMA member Kevin Ahaus shows industy support for REINS Act. Thanks @RepToddYoung for working to give business a say. http://t.co/AN0WvMBlcB",
+      "lang": "en",
+      "created_at": "Wed Jul 29 17:55:00 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626741039810936832",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1947117912",
+          "indices": [
+            3,
+            12
+          ],
+          "name": "NTMA",
+          "id": 1947117912,
+          "screen_name": "NTMATalk"
+        },
+        {
+          "id_str": "234128524",
+          "indices": [
+            82,
+            95
+          ],
+          "name": "Rep. Todd Young",
+          "id": 234128524,
+          "screen_name": "RepToddYoung"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/AN0WvMBlcB",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "toddyoung.house.gov/press-releases\u2026",
+          "expanded_url": "http://toddyoung.house.gov/press-releases/youngs-reins-act-passes-house-awaits-action-in-the-senate/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626741039810936832,
+    "text": "RT @NTMATalk: NTMA member Kevin Ahaus shows industy support for REINS Act. Thanks @RepToddYoung for working to give business a say. http://\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 13:08:02+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "626506288562851840",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "59969802",
+            "indices": [
+              1,
+              13
+            ],
+            "name": "Todd Young ",
+            "id": 59969802,
+            "screen_name": "ToddYoungIN"
+          },
+          {
+            "id_str": "3065993987",
+            "indices": [
+              90,
+              105
+            ],
+            "name": "Ernest Rollins",
+            "id": 3065993987,
+            "screen_name": "fromernestdesk"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "http://t.co/MT1Eggzdgm",
+            "indices": [
+              62,
+              84
+            ],
+            "display_url": "ht.ly/QfAqS",
+            "expanded_url": "http://ht.ly/QfAqS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "21316821",
+        "id": 21316821
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 626506288562851840,
+      "text": ".@ToddYoungIN REINS act passes House, awaits action in Senate http://t.co/MT1Eggzdgm (via @fromernestdesk)",
+      "lang": "en",
+      "created_at": "Wed Jul 29 21:35:13 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626510973520736256",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "21316821",
+          "indices": [
+            3,
+            18
+          ],
+          "name": "The Herald-Times",
+          "id": 21316821,
+          "screen_name": "theheraldtimes"
+        },
+        {
+          "id_str": "59969802",
+          "indices": [
+            21,
+            33
+          ],
+          "name": "Todd Young ",
+          "id": 59969802,
+          "screen_name": "ToddYoungIN"
+        },
+        {
+          "id_str": "3065993987",
+          "indices": [
+            110,
+            125
+          ],
+          "name": "Ernest Rollins",
+          "id": 3065993987,
+          "screen_name": "fromernestdesk"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/MT1Eggzdgm",
+          "indices": [
+            82,
+            104
+          ],
+          "display_url": "ht.ly/QfAqS",
+          "expanded_url": "http://ht.ly/QfAqS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626510973520736256,
+    "text": "RT @theheraldtimes: .@ToddYoungIN REINS act passes House, awaits action in Senate http://t.co/MT1Eggzdgm (via @fromernestdesk)",
+    "lang": "en",
+    "created_at": "2015-07-29 21:53:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626484581751984129",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "15029174",
+          "indices": [
+            31,
+            35
+          ],
+          "name": "Natl Taxpayers Union",
+          "id": 15029174,
+          "screen_name": "NTU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            60,
+            69
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/Hbty9kc6lu",
+          "indices": [
+            36,
+            58
+          ],
+          "display_url": "bit.ly/1Jw22jl",
+          "expanded_url": "http://bit.ly/1Jw22jl"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626484581751984129,
+    "text": "\"House Takes Lead in Fight...\" @NTU http://t.co/Hbty9kc6lu: #REINSAct forces Congress to 'answer to those footing the bill' for costly regs.",
+    "lang": "en",
+    "created_at": "2015-07-29 20:08:58+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "15471040",
+    "id_str": "626395316221308928",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "15471040",
+          "indices": [
+            0,
+            10
+          ],
+          "name": "CEI",
+          "id": 15471040,
+          "screen_name": "ceidotorg"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            88,
+            97
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/eMQajzpndM",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "bit.ly/1ONmUCY",
+          "expanded_url": "http://bit.ly/1ONmUCY"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 15471040,
+    "in_reply_to_screen_name": "ceidotorg",
+    "id": 626395316221308928,
+    "text": "@ceidotorg \"Fixing Regulation Without Representation\" -see the economic benefits of the #REINSAct  http://t.co/eMQajzpndM",
+    "lang": "en",
+    "created_at": "2015-07-29 14:14:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626394693799157760",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            36,
+            45
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/WDGE2s7mWI",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "1.usa.gov/1VN3pPH",
+          "expanded_url": "http://1.usa.gov/1VN3pPH"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626394693799157760,
+    "text": "Rand Paul Applauds House Passage of #REINSAct- \"I renew my commitment to work to get a vote... in the U.S. Senate\" http://t.co/WDGE2s7mWI \"",
+    "lang": "en",
+    "created_at": "2015-07-29 14:11:47+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "18149074",
+    "id_str": "626383008505987072",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "18149074",
+          "indices": [
+            0,
+            6
+          ],
+          "name": "NAFCU",
+          "id": 18149074,
+          "screen_name": "NAFCU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            15,
+            24
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/YM31JXZfwr",
+          "indices": [
+            57,
+            79
+          ],
+          "display_url": "bit.ly/1fGYJJY",
+          "expanded_url": "http://bit.ly/1fGYJJY"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 18149074,
+    "in_reply_to_screen_name": "NAFCU",
+    "id": 626383008505987072,
+    "text": "@NAFCU-backed \u2018#REINSAct\u2019 passes, targets expensive regs http://t.co/YM31JXZfwr",
+    "lang": "en",
+    "created_at": "2015-07-29 13:25:21+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626171870174408704",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "16550142",
+          "indices": [
+            1,
+            10
+          ],
+          "name": "IndyStar",
+          "id": 16550142,
+          "screen_name": "indystar"
+        },
+        {
+          "id_str": "16635505",
+          "indices": [
+            11,
+            19
+          ],
+          "name": "Maureen Groppe",
+          "id": 16635505,
+          "screen_name": "mgroppe"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            101,
+            110
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/sM7hJEtxpj",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "indy.st/1IpG38q",
+          "expanded_url": "http://indy.st/1IpG38q"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626171870174408704,
+    "text": ".@indystar @mgroppe \"House passes Rep. Todd Young bill on agency regulations\" http://t.co/sM7hJEtxpj #REINSAct headed to U.S. Senate",
+    "lang": "en",
+    "created_at": "2015-07-28 23:26:22+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1917731",
+    "id_str": "626170832486797312",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1917731",
+          "indices": [
+            0,
+            8
+          ],
+          "name": "The Hill",
+          "id": 1917731,
+          "screen_name": "thehill"
+        },
+        {
+          "id_str": "138774153",
+          "indices": [
+            9,
+            20
+          ],
+          "name": "Tim Devaney",
+          "id": 138774153,
+          "screen_name": "timdevaney"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            45,
+            54
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/xonUSe4WF2",
+          "indices": [
+            22,
+            44
+          ],
+          "display_url": "bit.ly/1LVwJAg",
+          "expanded_url": "http://bit.ly/1LVwJAg"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1917731,
+    "in_reply_to_screen_name": "thehill",
+    "id": 626170832486797312,
+    "text": "@thehill @timdevaney  http://t.co/xonUSe4WF2 #REINSAct passes House-\u201cOur rulemaking process is out of control..It\u2019s needs to be reined in.\u201d",
+    "lang": "en",
+    "created_at": "2015-07-28 23:22:14+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626162611038629888",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            16,
+            25
+          ]
+        },
+        {
+          "text": "smallbiz",
+          "indices": [
+            104,
+            113
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/pEV7bNCyms",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "1.usa.gov/1fEYm2P",
+          "expanded_url": "http://1.usa.gov/1fEYm2P"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626162611038629888,
+    "text": "House passed my #REINSAct  today that holds Washington responsible for major rules &amp; regs that hurt #smallbiz\u2192http://t.co/pEV7bNCyms",
+    "lang": "en",
+    "created_at": "2015-07-28 22:49:34+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 24,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626156503536390144,
+      "id_str": "626156503536390144",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "REINSact",
+            "indices": [
+              127,
+              136
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19739126",
+        "id": 19739126
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Unelected bureaucrats shouldn\u2019t have unchecked power, especially if a regulation is going to significantly affect our economy. #REINSact",
+      "lang": "en",
+      "created_at": "Tue Jul 28 22:25:18 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 24,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626156713243201536",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "19739126",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "Kevin McCarthy",
+          "id": 19739126,
+          "screen_name": "GOPLeader"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "REINSact",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "234128524",
+      "screen_name": "reptoddyoung",
+      "id": 234128524
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626156713243201536,
+    "text": "RT @GOPLeader: Unelected bureaucrats shouldn\u2019t have unchecked power, especially if a regulation is going to significantly affect our econom\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 22:26:08+00:00",
+    "retweeted": false
+  }
+]

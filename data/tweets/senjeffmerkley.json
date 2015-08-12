@@ -1,0 +1,1673 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630383499799887872,
+    "id_str": "630383499799887872",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "BlackLivesMatter",
+          "indices": [
+            123,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Ferguson anniv speaks to broader challenges we face as a nation\u2014let us use lessons learned here to bring meaningful change #BlackLivesMatter",
+    "lang": "en",
+    "created_at": "2015-08-09 14:21:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629425383339892736,
+    "id_str": "629425383339892736",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 69,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 114,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629394106242850816,
+      "id_str": "629394106242850816",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Nats",
+            "indices": [
+              43,
+              48
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/LubiXPPkV1",
+            "media_url": "http://pbs.twimg.com/media/CLwOlyOUYAEBNM0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwOlyOUYAEBNM0.jpg",
+            "expanded_url": "http://twitter.com/Nationals/status/629394106242850816/photo/1",
+            "id_str": "629394090224803841",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 681
+              }
+            },
+            "display_url": "pic.twitter.com/LubiXPPkV1",
+            "id": 629394090224803841
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "39419180",
+        "id": 39419180
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/LubiXPPkV1",
+            "media_url": "http://pbs.twimg.com/media/CLwOlyOUYAEBNM0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwOlyOUYAEBNM0.jpg",
+            "expanded_url": "http://twitter.com/Nationals/status/629394106242850816/photo/1",
+            "id_str": "629394090224803841",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 681
+              }
+            },
+            "display_url": "pic.twitter.com/LubiXPPkV1",
+            "id": 629394090224803841
+          },
+          {
+            "url": "http://t.co/LubiXPPkV1",
+            "media_url": "http://pbs.twimg.com/media/CLwOlymUAAArYS0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwOlymUAAArYS0.jpg",
+            "expanded_url": "http://twitter.com/Nationals/status/629394106242850816/photo/1",
+            "id_str": "629394090325442560",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 681
+              }
+            },
+            "display_url": "pic.twitter.com/LubiXPPkV1",
+            "id": 629394090325442560
+          }
+        ]
+      },
+      "text": "Introducing the Lansinoh Nursing Lounge at #Nats Park, a space solely dedicated to nursing mothers (Section 223). http://t.co/LubiXPPkV1",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:50:23 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/KBs2V0JpHc",
+          "indices": [
+            102,
+            125
+          ],
+          "display_url": "twitter.com/nationals/stat\u2026",
+          "expanded_url": "https://twitter.com/nationals/status/629394106242850816"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Washington Nationals",
+          "indices": [
+            7,
+            17
+          ],
+          "id_str": "39419180",
+          "id": 39419180,
+          "screen_name": "Nationals"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629394106242850816",
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 22:54:40+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Kudos! @Nationals taking a huge step and making a real difference for nursing moms and their families https://t.co/KBs2V0JpHc",
+    "lang": "en",
+    "quoted_status_id": 629394106242850816
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 27,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 27,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629303437960679424,
+    "id_str": "629303437960679424",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            90,
+            104
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            105,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/iIIGJVnavx",
+          "media_url": "http://pbs.twimg.com/media/CLu547lUMAAWqh3.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu547lUMAAWqh3.png",
+          "expanded_url": "http://twitter.com/SenJeffMerkley/status/629303437960679424/photo/1",
+          "id_str": "629300960666333184",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/iIIGJVnavx",
+          "id": 629300960666333184
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/iIIGJVnavx",
+          "media_url": "http://pbs.twimg.com/media/CLu547lUMAAWqh3.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu547lUMAAWqh3.png",
+          "expanded_url": "http://twitter.com/SenJeffMerkley/status/629303437960679424/photo/1",
+          "id_str": "629300960666333184",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/iIIGJVnavx",
+          "id": 629300960666333184
+        }
+      ]
+    },
+    "text": "Uncorrupted and unfettered access to the ballot box should be the right of every American #RestoreTheVRA #VRA50 http://t.co/iIIGJVnavx",
+    "lang": "en",
+    "created_at": "2015-08-06 14:50:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 42,
+    "favorite_count": 33,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629294996617842688,
+    "id_str": "629294996617842688",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            114,
+            128
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            129,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "For a half a century, the Voting Rights Act has protected the votes of millions of American citizens\u2014It's time to #RestoreTheVRA #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 14:16:33+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "29201047",
+      "id": 629007968290209792,
+      "id_str": "629007968290209792",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 15,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 12,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 628985097358741504,
+        "id_str": "628985097358741504",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/hctYRGkn8t",
+              "indices": [
+                117,
+                139
+              ],
+              "display_url": "merkley.senate.gov/news/press-rel\u2026",
+              "expanded_url": "http://www.merkley.senate.gov/news/press-releases/merkley-introduces-new-legislation-to-guarantee-affordable-options-for-repaying-student-loans?utm_source=tw&utm_medium=social&utm_content=afford-act&utm_campaign=higher-ed"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "AFFORDAct",
+              "indices": [
+                27,
+                37
+              ]
+            },
+            {
+              "text": "StudentLoans",
+              "indices": [
+                101,
+                114
+              ]
+            }
+          ],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "29201047",
+          "id": 29201047
+        },
+        "favorited": false,
+        "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "retweeted": false,
+        "text": "Today, I'm introducing the #AFFORDAct to guarantee all students are able to affordably pay off their #StudentLoans \u2192 http://t.co/hctYRGkn8t",
+        "lang": "en",
+        "created_at": "Wed Aug 05 17:45:07 +0000 2015"
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/WB47GXpW8m",
+            "indices": [
+              93,
+              115
+            ],
+            "display_url": "merkley.senate.gov/news/press-rel\u2026",
+            "expanded_url": "http://www.merkley.senate.gov/news/press-releases/merkley-introduces-new-legislation-to-guarantee-affordable-options-for-repaying-student-loans"
+          },
+          {
+            "url": "https://t.co/bUXUD7QHZ1",
+            "indices": [
+              116,
+              139
+            ],
+            "display_url": "twitter.com/SenJeffMerkley\u2026",
+            "expanded_url": "https://twitter.com/SenJeffMerkley/status/628985097358741504"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "StudentLoans",
+            "indices": [
+              79,
+              92
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Jeff Merkley",
+            "indices": [
+              0,
+              15
+            ],
+            "id_str": "29201047",
+            "id": 29201047,
+            "screen_name": "SenJeffMerkley"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628985097358741504",
+      "user": {
+        "id_str": "19770715",
+        "id": 19770715
+      },
+      "favorited": false,
+      "created_at": "Wed Aug 05 19:16:00 +0000 2015",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 29201047,
+      "in_reply_to_screen_name": "SenJeffMerkley",
+      "retweeted": false,
+      "text": "@SenJeffMerkley Introduces New Legislation for Affordable Options For Repaying #StudentLoans http://t.co/WB47GXpW8m https://t.co/bUXUD7QHZ1",
+      "lang": "en",
+      "quoted_status_id": 628985097358741504
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629047899847008256,
+    "id_str": "629047899847008256",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WB47GXpW8m",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "merkley.senate.gov/news/press-rel\u2026",
+          "expanded_url": "http://www.merkley.senate.gov/news/press-releases/merkley-introduces-new-legislation-to-guarantee-affordable-options-for-repaying-student-loans"
+        },
+        {
+          "url": "https://t.co/bUXUD7QHZ1",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "twitter.com/SenJeffMerkley\u2026",
+          "expanded_url": "https://twitter.com/SenJeffMerkley/status/628985097358741504"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "StudentLoans",
+          "indices": [
+            94,
+            107
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "CRL",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "19770715",
+          "id": 19770715,
+          "screen_name": "CRLONLINE"
+        },
+        {
+          "name": "Senator Jeff Merkley",
+          "indices": [
+            15,
+            30
+          ],
+          "id_str": "29201047",
+          "id": 29201047,
+          "screen_name": "SenJeffMerkley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CRLONLINE: @SenJeffMerkley Introduces New Legislation for Affordable Options For Repaying #StudentLoans http://t.co/WB47GXpW8m https://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 21:54:41+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 11,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629012140469448710,
+      "id_str": "629012140469448710",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "AFFORDAct",
+            "indices": [
+              19,
+              29
+            ]
+          },
+          {
+            "text": "studentloans",
+            "indices": [
+              80,
+              93
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Jeff Merkley",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "29201047",
+            "id": 29201047,
+            "screen_name": "SenJeffMerkley"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "67215899",
+        "id": 67215899
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@SenJeffMerkley's #AFFORDAct could help millions better be able to repay their #studentloans by qualifying for income-based repayment.",
+      "lang": "en",
+      "created_at": "Wed Aug 05 19:32:35 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629043050107551744,
+    "id_str": "629043050107551744",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            40,
+            50
+          ]
+        },
+        {
+          "text": "studentloans",
+          "indices": [
+            101,
+            114
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Young Invincibles",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "67215899",
+          "id": 67215899,
+          "screen_name": "YoungInvincible"
+        },
+        {
+          "name": "Senator Jeff Merkley",
+          "indices": [
+            22,
+            37
+          ],
+          "id_str": "29201047",
+          "id": 29201047,
+          "screen_name": "SenJeffMerkley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @YoungInvincible: .@SenJeffMerkley's #AFFORDAct could help millions better be able to repay their #studentloans by qualifying for income\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 21:35:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629006493853978624,
+    "id_str": "629006493853978624",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/hctYRGkn8t",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "merkley.senate.gov/news/press-rel\u2026",
+          "expanded_url": "http://www.merkley.senate.gov/news/press-releases/merkley-introduces-new-legislation-to-guarantee-affordable-options-for-repaying-student-loans?utm_source=tw&utm_medium=social&utm_content=afford-act&utm_campaign=higher-ed"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            4,
+            14
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The #AFFORDAct reaffirms our nation\u2019s commitment to a good education as a pathway to a strong American middle class http://t.co/hctYRGkn8t",
+    "lang": "en",
+    "created_at": "2015-08-05 19:10:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628999684149751808,
+    "id_str": "628999684149751808",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            102,
+            112
+          ]
+        },
+        {
+          "text": "HigherEdNotDebt",
+          "indices": [
+            113,
+            129
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Student loan debt has now surpassed credit card debt\u2014it's time for us to make college more affordable #AFFORDAct #HigherEdNotDebt",
+    "lang": "en",
+    "created_at": "2015-08-05 18:43:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628996650963304448,
+    "id_str": "628996650963304448",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            10,
+            20
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Under the #AFFORDAct students would have a simple choice between two repayment options when they enter into repayment: fixed or income-based",
+    "lang": "en",
+    "created_at": "2015-08-05 18:31:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 18,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628992665112031232,
+    "id_str": "628992665112031232",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            125,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Every student should be able to attend college without fearing they won't be able to afford the cost of repaying their loans #AFFORDAct",
+    "lang": "en",
+    "created_at": "2015-08-05 18:15:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628990116686532608,
+    "id_str": "628990116686532608",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            125,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "For many Americans, earning a college degree is key to pursuing their dreams\u2014My goal is to make higher ed affordable for all #AFFORDAct",
+    "lang": "en",
+    "created_at": "2015-08-05 18:05:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628988346329468928,
+    "id_str": "628988346329468928",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            124,
+            134
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As the first in my family to go to college, I know how daunting thousands of dollars in debt is to students of modest means #AFFORDAct",
+    "lang": "en",
+    "created_at": "2015-08-05 17:58:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628985097358741504,
+    "id_str": "628985097358741504",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/hctYRGkn8t",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "merkley.senate.gov/news/press-rel\u2026",
+          "expanded_url": "http://www.merkley.senate.gov/news/press-releases/merkley-introduces-new-legislation-to-guarantee-affordable-options-for-repaying-student-loans?utm_source=tw&utm_medium=social&utm_content=afford-act&utm_campaign=higher-ed"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AFFORDAct",
+          "indices": [
+            27,
+            37
+          ]
+        },
+        {
+          "text": "StudentLoans",
+          "indices": [
+            101,
+            114
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today, I'm introducing the #AFFORDAct to guarantee all students are able to affordably pay off their #StudentLoans \u2192 http://t.co/hctYRGkn8t",
+    "lang": "en",
+    "created_at": "2015-08-05 17:45:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628698189856505856,
+    "id_str": "628698189856505856",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zfGklyruFT",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "consumerfinance.gov/newsroom/cfpb-\u2026",
+          "expanded_url": "http://www.consumerfinance.gov/newsroom/cfpb-sues-offshore-payday-lender/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WallStreetReform",
+          "indices": [
+            99,
+            116
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "consumerfinance.gov",
+          "indices": [
+            62,
+            67
+          ],
+          "id_str": "234826866",
+          "id": 234826866,
+          "screen_name": "CFPB"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Predatory payday loans hurt millions of Americans\u2014good to see @CFPB crack down on overseas lenders #WallStreetReform http://t.co/zfGklyruFT",
+    "lang": "en",
+    "created_at": "2015-08-04 22:45:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628694437900632064,
+    "id_str": "628694437900632064",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zfGklyruFT",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "consumerfinance.gov/newsroom/cfpb-\u2026",
+          "expanded_url": "http://www.consumerfinance.gov/newsroom/cfpb-sues-offshore-payday-lender/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WallStreetReform",
+          "indices": [
+            36,
+            53
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "consumerfinance.gov",
+          "indices": [
+            1,
+            6
+          ],
+          "id_str": "234826866",
+          "id": 234826866,
+          "screen_name": "CFPB"
+        },
+        {
+          "name": "consumerfinance.gov",
+          "indices": [
+            61,
+            66
+          ],
+          "id_str": "234826866",
+          "id": 234826866,
+          "screen_name": "CFPB"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"@CFPB Sues Offshore Payday Lender\"\u2014#WallStreetReform works; @CFPB protecting Americans from predatory payday loans \u2192 http://t.co/zfGklyruFT",
+    "lang": "en",
+    "created_at": "2015-08-04 22:30:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628683121714528256,
+    "id_str": "628683121714528256",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            45,
+            58
+          ]
+        },
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            59,
+            74
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            35,
+            41
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Historic announcement yesterday by @POTUS to #ActOnClimate\u2014#CleanPowerPlan biggest step America has ever taken to combat climate change",
+    "lang": "en",
+    "created_at": "2015-08-04 21:45:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 52,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 64,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628676800969703424,
+    "id_str": "628676800969703424",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "WhatsTheGOPClimatePlan",
+          "indices": [
+            0,
+            23
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/vSUew3EcCN",
+          "media_url": "http://pbs.twimg.com/media/CLl-ekbWUAAlA5h.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl-ekbWUAAlA5h.png",
+          "expanded_url": "http://twitter.com/SenJeffMerkley/status/628676800969703424/photo/1",
+          "id_str": "628672686634455040",
+          "indices": [
+            25,
+            47
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/vSUew3EcCN",
+          "id": 628672686634455040
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/vSUew3EcCN",
+          "media_url": "http://pbs.twimg.com/media/CLl-ekbWUAAlA5h.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl-ekbWUAAlA5h.png",
+          "expanded_url": "http://twitter.com/SenJeffMerkley/status/628676800969703424/photo/1",
+          "id_str": "628672686634455040",
+          "indices": [
+            25,
+            47
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/vSUew3EcCN",
+          "id": 628672686634455040
+        }
+      ]
+    },
+    "text": "#WhatsTheGOPClimatePlan? http://t.co/vSUew3EcCN",
+    "lang": "und",
+    "created_at": "2015-08-04 21:20:04+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628672500185071616,
+    "id_str": "628672500185071616",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "WhatsTheGOPClimatePlan",
+          "indices": [
+            3,
+            26
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            76,
+            89
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/kOkpot3Jnt",
+          "media_url": "http://pbs.twimg.com/media/CLl-A7_WoAA_TOG.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl-A7_WoAA_TOG.png",
+          "expanded_url": "http://twitter.com/SenJeffMerkley/status/628672500185071616/photo/1",
+          "id_str": "628672177563410432",
+          "indices": [
+            90,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/kOkpot3Jnt",
+          "id": 628672177563410432
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kOkpot3Jnt",
+          "media_url": "http://pbs.twimg.com/media/CLl-A7_WoAA_TOG.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl-A7_WoAA_TOG.png",
+          "expanded_url": "http://twitter.com/SenJeffMerkley/status/628672500185071616/photo/1",
+          "id_str": "628672177563410432",
+          "indices": [
+            90,
+            112
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/kOkpot3Jnt",
+          "id": 628672177563410432
+        }
+      ]
+    },
+    "text": "Q: #WhatsTheGOPClimatePlan?\nA: There isn't one\nWe can't stand by\u2014we need to #ActOnClimate http://t.co/kOkpot3Jnt",
+    "lang": "en",
+    "created_at": "2015-08-04 21:02:58+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 35,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628334928783089664,
+    "id_str": "628334928783089664",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/87r9b50hzz",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "merkley.senate.gov/news/press-rel\u2026",
+          "expanded_url": "http://www.merkley.senate.gov/news/press-releases/merkley-statement-on-vote-to-defund-planned-parenthood?utm_source=tw&utm_medium=social&utm_campaign=planned-parenthood"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "StandWithPP",
+          "indices": [
+            2,
+            14
+          ]
+        },
+        {
+          "text": "Oregon",
+          "indices": [
+            37,
+            44
+          ]
+        },
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            59,
+            77
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I #StandWithPP because more than 60K #Oregon women rely on #PlannedParenthood as an essential health care provider \u27a1\ufe0f http://t.co/87r9b50hzz",
+    "lang": "en",
+    "created_at": "2015-08-03 22:41:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 29,
+    "favorite_count": 30,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628314501369102336,
+    "id_str": "628314501369102336",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            10,
+            28
+          ]
+        },
+        {
+          "text": "StandWithPP",
+          "indices": [
+            114,
+            126
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29201047",
+      "screen_name": "senjeffmerkley",
+      "id": 29201047
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Defunding #PlannedParenthood endangers health of 2.7 million women who rely on Planned Parenthood for health care #StandWithPP",
+    "lang": "en",
+    "created_at": "2015-08-03 21:20:25+00:00"
+  }
+]

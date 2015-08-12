@@ -1,0 +1,1592 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629305598992101376,
+    "id_str": "629305598992101376",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            48,
+            57
+          ]
+        },
+        {
+          "text": "FoxNews",
+          "indices": [
+            89,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/WBwgBeki0s",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629305528749953024/pu/img/ZIlzfqZkyKaWq6Bv.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629305528749953024/pu/img/ZIlzfqZkyKaWq6Bv.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/629305598992101376/video/1",
+          "id_str": "629305528749953024",
+          "indices": [
+            98,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/WBwgBeki0s",
+          "id": 629305528749953024
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Lou Dobbs",
+          "indices": [
+            63,
+            76
+          ],
+          "id_str": "26487169",
+          "id": 26487169,
+          "screen_name": "loudobbsnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/WBwgBeki0s",
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629305528749953024/pu/img/ZIlzfqZkyKaWq6Bv.jpg",
+          "type": "video",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629305528749953024/pu/img/ZIlzfqZkyKaWq6Bv.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/629305598992101376/video/1",
+          "video_info": {
+            "duration_millis": 13950,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629305528749953024/pu/pl/NUgfI0YmVMThpVlX.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629305528749953024/pu/vid/240x240/OO_d5uQ2JjdtPAqM.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629305528749953024/pu/vid/480x480/mTiq1SUyHQPKkAMw.webm",
+                "bitrate": 832000,
+                "content_type": "video/webm"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629305528749953024/pu/pl/NUgfI0YmVMThpVlX.mpd",
+                "content_type": "application/dash+xml"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629305528749953024/pu/vid/480x480/mTiq1SUyHQPKkAMw.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              1,
+              1
+            ]
+          },
+          "id_str": "629305528749953024",
+          "indices": [
+            98,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/WBwgBeki0s",
+          "id": 629305528749953024
+        }
+      ]
+    },
+    "text": "It was a pleasure voicing my concerns about the #IranDeal with @loudobbsnews last night! #FoxNews http://t.co/WBwgBeki0s",
+    "lang": "en",
+    "created_at": "2015-08-06 14:58:41+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629066316402569216,
+    "id_str": "629066316402569216",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Lou Dobbs",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "26487169",
+          "id": 26487169,
+          "screen_name": "loudobbsnews"
+        },
+        {
+          "name": "FOX Business",
+          "indices": [
+            34,
+            46
+          ],
+          "id_str": "56413858",
+          "id": 56413858,
+          "screen_name": "FoxBusiness"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Be sure to watch @loudobbsnews on @FoxBusiness  @ 7:35pm. I'll be discussing Obama's Iran speech and how this is a bad deal for America.",
+    "lang": "en",
+    "created_at": "2015-08-05 23:07:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626839651853201409,
+    "id_str": "626839651853201409",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            35,
+            39
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/yv1AohnjNC",
+          "media_url": "http://pbs.twimg.com/media/CLL7V4hWEAAGlxI.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL7V4hWEAAGlxI.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/626839651853201409/photo/1",
+          "id_str": "626839651525988352",
+          "indices": [
+            40,
+            62
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 464
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 819
+            },
+            "large": {
+              "w": 701,
+              "resize": "fit",
+              "h": 958
+            }
+          },
+          "display_url": "pic.twitter.com/yv1AohnjNC",
+          "id": 626839651525988352
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/yv1AohnjNC",
+          "media_url": "http://pbs.twimg.com/media/CLL7V4hWEAAGlxI.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL7V4hWEAAGlxI.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/626839651853201409/photo/1",
+          "id_str": "626839651525988352",
+          "indices": [
+            40,
+            62
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 464
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 819
+            },
+            "large": {
+              "w": 701,
+              "resize": "fit",
+              "h": 958
+            }
+          },
+          "display_url": "pic.twitter.com/yv1AohnjNC",
+          "id": 626839651525988352
+        }
+      ]
+    },
+    "text": "Throwing it way back with this one #TBT http://t.co/yv1AohnjNC",
+    "lang": "en",
+    "created_at": "2015-07-30 19:39:53+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626400067633721344,
+    "id_str": "626400067633721344",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/obHSTFBnl9",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "goo.gl/FqtQyX",
+          "expanded_url": "http://goo.gl/FqtQyX"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Greta Brawner",
+          "indices": [
+            16,
+            29
+          ],
+          "id_str": "15839947",
+          "id": 15839947,
+          "screen_name": "gretabrawner"
+        },
+        {
+          "name": "CSPAN",
+          "indices": [
+            33,
+            39
+          ],
+          "id_str": "15675138",
+          "id": 15675138,
+          "screen_name": "cspan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: I joined @gretabrawner on @cspan to discuss the Iran Nuclear deal, sanctuary cities, &amp; other topics of the day.http://t.co/obHSTFBnl9",
+    "lang": "en",
+    "created_at": "2015-07-29 14:33:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626070222345248768,
+    "id_str": "626070222345248768",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/WAxJ0Uv6d6",
+          "media_url": "http://pbs.twimg.com/media/CLA_jMAWEAE0bOg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLA_jMAWEAE0bOg.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/626070222345248768/photo/1",
+          "id_str": "626070221955141633",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 603
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 1064
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1817
+            }
+          },
+          "display_url": "pic.twitter.com/WAxJ0Uv6d6",
+          "id": 626070221955141633
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Foreign Affairs Cmte",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "75367781",
+          "id": 75367781,
+          "screen_name": "HouseForeign"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/WAxJ0Uv6d6",
+          "media_url": "http://pbs.twimg.com/media/CLA_jMAWEAE0bOg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLA_jMAWEAE0bOg.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/626070222345248768/photo/1",
+          "id_str": "626070221955141633",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 603
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 1064
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1817
+            }
+          },
+          "display_url": "pic.twitter.com/WAxJ0Uv6d6",
+          "id": 626070221955141633
+        }
+      ]
+    },
+    "text": "In @HouseForeign Affairs w/John Kerry deciding the fate of an Iranian nuclear deal\nthat favors Iran 100%the World 0%. http://t.co/WAxJ0Uv6d6",
+    "lang": "en",
+    "created_at": "2015-07-28 16:42:27+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626029965407072256,
+    "id_str": "626029965407072256",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rHNXnSGNHg",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "goo.gl/AbdCrU",
+          "expanded_url": "http://goo.gl/AbdCrU"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Foreign Affairs Cmte",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "75367781",
+          "id": 75367781,
+          "screen_name": "HouseForeign"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Be sure to watch @HouseForeign Affairs today @ 10am. We will discuss the Iran Nuclear deal w/SEC Kerry, Lew, Moniz  http://t.co/rHNXnSGNHg",
+    "lang": "en",
+    "created_at": "2015-07-28 14:02:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625746612556591108,
+    "id_str": "625746612556591108",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/dGOlqeEI13",
+          "indices": [
+            81,
+            104
+          ],
+          "display_url": "goo.gl/ZVf9Al",
+          "expanded_url": "https://goo.gl/ZVf9Al"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            71,
+            80
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Sanctions snapback is a fallacy. It's time to walk away from the table #IranDeal https://t.co/dGOlqeEI13",
+    "lang": "en",
+    "created_at": "2015-07-27 19:16:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624639906577559552,
+    "id_str": "624639906577559552",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts and prayers go out to the victims - and their families - of this senseless shooting in the Lafayette Louisiana.",
+    "lang": "en",
+    "created_at": "2015-07-24 17:58:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624349514460188672,
+    "id_str": "624349514460188672",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/4v4Su2HnUc",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "1.usa.gov/1HMvXkM",
+          "expanded_url": "http://1.usa.gov/1HMvXkM"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today I voted cut funding for sanctuary cities that refuse to recognize our federal immigration laws. http://t.co/4v4Su2HnUc",
+    "lang": "en",
+    "created_at": "2015-07-23 22:44:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623575779667017728,
+    "id_str": "623575779667017728",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/7ESQ4QJzgY",
+          "indices": [
+            104,
+            126
+          ],
+          "display_url": "msn.com/en-us/news/wor\u2026",
+          "expanded_url": "http://www.msn.com/en-us/news/world/us-disturbed-by-iranian-leaders-criticism-after-deal/ar-AAdgNd9?ocid=UP97DHP"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Secretary Kerry, what did you think was going to happen? This Administration is naive to say the least. http://t.co/7ESQ4QJzgY",
+    "lang": "en",
+    "created_at": "2015-07-21 19:30:26+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 9,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623497808805543936,
+      "id_str": "623497808805543936",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              60,
+              69
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/wc3bEe5bz7",
+            "media_url": "http://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+            "expanded_url": "http://twitter.com/GOPLeader/status/623497808805543936/photo/1",
+            "id_str": "623497808297922560",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 178
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 315
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 537
+              }
+            },
+            "display_url": "pic.twitter.com/wc3bEe5bz7",
+            "id": 623497808297922560
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19739126",
+        "id": 19739126
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wc3bEe5bz7",
+            "media_url": "http://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+            "expanded_url": "http://twitter.com/GOPLeader/status/623497808805543936/photo/1",
+            "id_str": "623497808297922560",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 178
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 315
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 537
+              }
+            },
+            "display_url": "pic.twitter.com/wc3bEe5bz7",
+            "id": 623497808297922560
+          }
+        ]
+      },
+      "text": "It's inconceivable\u2014yet not surprising\u2014that the Admin rushed #IranDeal through UN before giving Congress the details. http://t.co/wc3bEe5bz7",
+      "lang": "en",
+      "created_at": "Tue Jul 21 14:20:36 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 19739126,
+          "media_url": "http://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+          "source_user_id_str": "19739126",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/wc3bEe5bz7",
+          "expanded_url": "http://twitter.com/GOPLeader/status/623497808805543936/photo/1",
+          "url": "http://t.co/wc3bEe5bz7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+          "source_status_id_str": "623497808805543936",
+          "id_str": "623497808297922560",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 178
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 315
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "id": 623497808297922560,
+          "source_status_id": 623497808805543936
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623511952774594560,
+    "id_str": "623511952774594560",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            75,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 19739126,
+          "media_url": "http://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+          "source_user_id_str": "19739126",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/wc3bEe5bz7",
+          "expanded_url": "http://twitter.com/GOPLeader/status/623497808805543936/photo/1",
+          "url": "http://t.co/wc3bEe5bz7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKcb9AXVEAABSfQ.png",
+          "source_status_id_str": "623497808805543936",
+          "id_str": "623497808297922560",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 178
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 315
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 537
+            }
+          },
+          "id": 623497808297922560,
+          "source_status_id": 623497808805543936
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Kevin McCarthy",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "19739126",
+          "id": 19739126,
+          "screen_name": "GOPLeader"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GOPLeader: It's inconceivable\u2014yet not surprising\u2014that the Admin rushed #IranDeal through UN before giving Congress the details. http://\u2026",
+    "lang": "en",
+    "created_at": "2015-07-21 15:16:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621797398914932736,
+    "id_str": "621797398914932736",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The radicalized shooter in TN was a coward. My thoughts &amp; prayers are w/the 4 murdered Marines &amp; their families.",
+    "lang": "en",
+    "created_at": "2015-07-16 21:43:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621782940800913408,
+    "id_str": "621782940800913408",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/pom43hYQtr",
+          "media_url": "http://pbs.twimg.com/media/CKEESjOWUAQCa_O.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKEESjOWUAQCa_O.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/621782940800913408/photo/1",
+          "id_str": "621782940293419012",
+          "indices": [
+            0,
+            22
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/pom43hYQtr",
+          "id": 621782940293419012
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pom43hYQtr",
+          "media_url": "http://pbs.twimg.com/media/CKEESjOWUAQCa_O.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKEESjOWUAQCa_O.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/621782940800913408/photo/1",
+          "id_str": "621782940293419012",
+          "indices": [
+            0,
+            22
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/pom43hYQtr",
+          "id": 621782940293419012
+        }
+      ]
+    },
+    "text": "http://t.co/pom43hYQtr",
+    "lang": "und",
+    "created_at": "2015-07-16 20:46:19+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621424835273605125,
+    "id_str": "621424835273605125",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/XcLv444uyH",
+          "media_url": "http://pbs.twimg.com/media/CJ--mB8XAAAA9-3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ--mB8XAAAA9-3.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/621424835273605125/photo/1",
+          "id_str": "621424834166325248",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            }
+          },
+          "display_url": "pic.twitter.com/XcLv444uyH",
+          "id": 621424834166325248
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Planned Parenthood",
+          "indices": [
+            82,
+            87
+          ],
+          "id_str": "402957663",
+          "id": 402957663,
+          "screen_name": "PPFA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/XcLv444uyH",
+          "media_url": "http://pbs.twimg.com/media/CJ--mB8XAAAA9-3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ--mB8XAAAA9-3.jpg",
+          "expanded_url": "http://twitter.com/RepTedYoho/status/621424835273605125/photo/1",
+          "id_str": "621424834166325248",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            }
+          },
+          "display_url": "pic.twitter.com/XcLv444uyH",
+          "id": 621424834166325248
+        }
+      ]
+    },
+    "text": "Proud to stand with the Pro-Life Caucus, calling for Cong hearings to investigate @PPFA trafficking of fetal tissue. http://t.co/XcLv444uyH",
+    "lang": "en",
+    "created_at": "2015-07-15 21:03:20+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 169,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 194,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621071023316815873,
+    "id_str": "621071023316815873",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ZTeP7Ny3QS",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "1.usa.gov/1V02QkU",
+          "expanded_url": "http://1.usa.gov/1V02QkU"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "KatesLaw",
+          "indices": [
+            75,
+            84
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It is time to cut funding for Sanctuary Cities &amp; protect our citizens. #KatesLaw http://t.co/ZTeP7Ny3QS",
+    "lang": "en",
+    "created_at": "2015-07-14 21:37:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621031846378381313,
+    "id_str": "621031846378381313",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Dsix2plpxx",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "1.usa.gov/1gAhT5e",
+          "expanded_url": "http://1.usa.gov/1gAhT5e"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Hard to find a silver lining in today's agreement while Iranians celebrate in Tehran, shouting, \u2018Death to America.\u2019 http://t.co/Dsix2plpxx",
+    "lang": "en",
+    "created_at": "2015-07-14 19:01:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620956300667678720,
+    "id_str": "620956300667678720",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ditKB6zLBM",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "1.usa.gov/1JdXQjS",
+          "expanded_url": "http://1.usa.gov/1JdXQjS"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Watch the Foreign Affairs Cmte 10am hearing, \u201cImplications of a Nuclear Agreement w/Iran (Part II),\u201d http://t.co/ditKB6zLBM",
+    "lang": "en",
+    "created_at": "2015-07-14 14:01:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619545348160253953,
+    "id_str": "619545348160253953",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/uSkUlNsKo4",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "1.usa.gov/1HSBAiE",
+          "expanded_url": "http://1.usa.gov/1HSBAiE"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "America is the best place to innovate. It's vital we do all we can to remain a global leader in medical R &amp; D.http://t.co/uSkUlNsKo4",
+    "lang": "en",
+    "created_at": "2015-07-10 16:34:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 27,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 618928776077025280,
+    "id_str": "618928776077025280",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ileana Ros-Lehtinen",
+          "indices": [
+            87,
+            99
+          ],
+          "id_str": "14275291",
+          "id": 14275291,
+          "screen_name": "RosLehtinen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Iran deal is bad for America and the rest of the world. Looking forward to joining @RosLehtinen on the Floor to speak in opposition",
+    "lang": "en",
+    "created_at": "2015-07-08 23:44:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 615572435564429312,
+    "id_str": "615572435564429312",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/6cyH9PjWVY",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "bit.ly/1QZrJ0N",
+          "expanded_url": "http://bit.ly/1QZrJ0N"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Hill",
+          "indices": [
+            84,
+            92
+          ],
+          "id_str": "1917731",
+          "id": 1917731,
+          "screen_name": "thehill"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1071900114",
+      "screen_name": "reptedyoho",
+      "id": 1071900114
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"The Yoho bill should be the model legislation for all of American agriculture,...\" @thehill http://t.co/6cyH9PjWVY",
+    "lang": "en",
+    "created_at": "2015-06-29 17:28:00+00:00"
+  }
+]

@@ -1,0 +1,2246 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629697257181454336,
+      "id_str": "629697257181454336",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "MoffittGR",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "text": "Partnership4Cures",
+            "indices": [
+              102,
+              120
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/9pQ36enS6R",
+            "media_url": "http://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+            "expanded_url": "http://twitter.com/MoffittGR/status/629697257181454336/photo/1",
+            "id_str": "629697252404142080",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/9pQ36enS6R",
+            "id": 629697252404142080
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Tom Rooney",
+            "indices": [
+              23,
+              33
+            ],
+            "id_str": "23970171",
+            "id": 23970171,
+            "screen_name": "TomRooney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2657415342",
+        "id": 2657415342
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/9pQ36enS6R",
+            "media_url": "http://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+            "expanded_url": "http://twitter.com/MoffittGR/status/629697257181454336/photo/1",
+            "id_str": "629697252404142080",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/9pQ36enS6R",
+            "id": 629697252404142080
+          }
+        ]
+      },
+      "text": "#MoffittGR hosted Rep. @TomRooney's Legislative Director &amp; Correspondent for a tour this morning! #Partnership4Cures http://t.co/9pQ36enS6R",
+      "lang": "en",
+      "created_at": "Fri Aug 07 16:54:59 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2657415342,
+          "media_url": "http://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+          "source_user_id_str": "2657415342",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/9pQ36enS6R",
+          "expanded_url": "http://twitter.com/MoffittGR/status/629697257181454336/photo/1",
+          "url": "http://t.co/9pQ36enS6R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+          "source_status_id_str": "629697257181454336",
+          "id_str": "629697252404142080",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629697252404142080,
+          "source_status_id": 629697257181454336
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629718806290677760,
+    "id_str": "629718806290677760",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MoffittGR",
+          "indices": [
+            15,
+            25
+          ]
+        },
+        {
+          "text": "Partnership4Cures",
+          "indices": [
+            117,
+            135
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2657415342,
+          "media_url": "http://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+          "source_user_id_str": "2657415342",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/9pQ36enS6R",
+          "expanded_url": "http://twitter.com/MoffittGR/status/629697257181454336/photo/1",
+          "url": "http://t.co/9pQ36enS6R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0iUJWWoAANjNe.jpg",
+          "source_status_id_str": "629697257181454336",
+          "id_str": "629697252404142080",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629697252404142080,
+          "source_status_id": 629697257181454336
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Moffitt GR ",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "2657415342",
+          "id": 2657415342,
+          "screen_name": "MoffittGR"
+        },
+        {
+          "name": "Tom Rooney",
+          "indices": [
+            38,
+            48
+          ],
+          "id_str": "23970171",
+          "id": 23970171,
+          "screen_name": "TomRooney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MoffittGR: #MoffittGR hosted Rep. @TomRooney's Legislative Director &amp; Correspondent for a tour this morning! #Partnership4Cures http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 18:20:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624317235121643520,
+    "id_str": "624317235121643520",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SanctuaryCities",
+          "indices": [
+            39,
+            55
+          ]
+        },
+        {
+          "text": "EnforceTheLaw",
+          "indices": [
+            123,
+            137
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Just voted to block federal funding to #SanctuaryCities. Murder of Kate Steinle was preventable; should never happen again #EnforceTheLaw",
+    "lang": "en",
+    "created_at": "2015-07-23 20:36:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "624234756742508544",
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "3281853858",
+    "id": 624260269624180736,
+    "id_str": "624260269624180736",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/uyiXbEUleR",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "washingtonexaminer.com/white-house-sa\u2026",
+          "expanded_url": "http://www.washingtonexaminer.com/white-house-satisfied-with-secret-iran-side-deal/article/2568762"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Iran Deal ",
+          "indices": [
+            1,
+            13
+          ],
+          "id_str": "3281853858",
+          "id": 3281853858,
+          "screen_name": "TheIranDeal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 624234756742508544,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 3281853858,
+    "in_reply_to_screen_name": "TheIranDeal",
+    "retweeted": false,
+    "text": ".@TheIranDeal No secret/side deal? Looks like someone forgot to give Susan Rice that talking point http://t.co/uyiXbEUleR",
+    "lang": "en",
+    "created_at": "2015-07-23 16:50:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620954109038981120,
+    "id_str": "620954109038981120",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            27,
+            36
+          ]
+        },
+        {
+          "text": "Iran",
+          "indices": [
+            71,
+            76
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Verification\" measures in #IranDeal big enough to drive a truck thru. #Iran will drive that truck right into a nuclear weapons site.",
+    "lang": "en",
+    "created_at": "2015-07-14 13:52:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620953870504710145,
+    "id_str": "620953870504710145",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            25,
+            30
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today's deal legitimizes #Iran's nuclear program &amp; enables its aggression. Congress should reject in bipartisan fashion.",
+    "lang": "en",
+    "created_at": "2015-07-14 13:51:54+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619211302263783428,
+      "id_str": "619211302263783428",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "SouthSudanAt4",
+            "indices": [
+              102,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/WZd1GX1gB7",
+            "media_url": "http://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+            "expanded_url": "http://twitter.com/EnoughProject/status/619211302263783428/photo/1",
+            "id_str": "619211301890428928",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 253
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 446
+              },
+              "large": {
+                "w": 970,
+                "resize": "fit",
+                "h": 722
+              }
+            },
+            "display_url": "pic.twitter.com/WZd1GX1gB7",
+            "id": 619211301890428928
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Tom Rooney",
+            "indices": [
+              7,
+              17
+            ],
+            "id_str": "23970171",
+            "id": 23970171,
+            "screen_name": "TomRooney"
+          },
+          {
+            "name": "Mike Capuano",
+            "indices": [
+              19,
+              31
+            ],
+            "id_str": "75785294",
+            "id": 75785294,
+            "screen_name": "mikecapuano"
+          },
+          {
+            "name": "Michael McCaul",
+            "indices": [
+              33,
+              43
+            ],
+            "id_str": "26424123",
+            "id": 26424123,
+            "screen_name": "RepMcCaul"
+          },
+          {
+            "name": "Rep. Barbara Lee",
+            "indices": [
+              45,
+              59
+            ],
+            "id_str": "248735463",
+            "id": 248735463,
+            "screen_name": "RepBarbaraLee"
+          },
+          {
+            "name": "Jeff Fortenberry",
+            "indices": [
+              61,
+              77
+            ],
+            "id_str": "18805303",
+            "id": 18805303,
+            "screen_name": "JeffFortenberry"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18997592",
+        "id": 18997592
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/WZd1GX1gB7",
+            "media_url": "http://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+            "expanded_url": "http://twitter.com/EnoughProject/status/619211302263783428/photo/1",
+            "id_str": "619211301890428928",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 253
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 446
+              },
+              "large": {
+                "w": 970,
+                "resize": "fit",
+                "h": 722
+              }
+            },
+            "display_url": "pic.twitter.com/WZd1GX1gB7",
+            "id": 619211301890428928
+          }
+        ]
+      },
+      "text": "Thx to @TomRooney, @mikecapuano, @RepMcCaul, @RepBarbaraLee, @JeffFortenberry for introducing HR2989! #SouthSudanAt4 http://t.co/WZd1GX1gB7",
+      "lang": "en",
+      "created_at": "Thu Jul 09 18:27:33 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 18997592,
+          "media_url": "http://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+          "source_user_id_str": "18997592",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/WZd1GX1gB7",
+          "expanded_url": "http://twitter.com/EnoughProject/status/619211302263783428/photo/1",
+          "url": "http://t.co/WZd1GX1gB7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+          "source_status_id_str": "619211302263783428",
+          "id_str": "619211301890428928",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 253
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 446
+            },
+            "large": {
+              "w": 970,
+              "resize": "fit",
+              "h": 722
+            }
+          },
+          "id": 619211301890428928,
+          "source_status_id": 619211302263783428
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 619236262810136576,
+    "id_str": "619236262810136576",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SouthSudanAt4",
+          "indices": [
+            121,
+            135
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 18997592,
+          "media_url": "http://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+          "source_user_id_str": "18997592",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/WZd1GX1gB7",
+          "expanded_url": "http://twitter.com/EnoughProject/status/619211302263783428/photo/1",
+          "url": "http://t.co/WZd1GX1gB7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJfhZfoWEAAlHN-.png",
+          "source_status_id_str": "619211302263783428",
+          "id_str": "619211301890428928",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 253
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 446
+            },
+            "large": {
+              "w": 970,
+              "resize": "fit",
+              "h": 722
+            }
+          },
+          "id": 619211301890428928,
+          "source_status_id": 619211302263783428
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Enough Project",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "18997592",
+          "id": 18997592,
+          "screen_name": "EnoughProject"
+        },
+        {
+          "name": "Tom Rooney",
+          "indices": [
+            26,
+            36
+          ],
+          "id_str": "23970171",
+          "id": 23970171,
+          "screen_name": "TomRooney"
+        },
+        {
+          "name": "Mike Capuano",
+          "indices": [
+            38,
+            50
+          ],
+          "id_str": "75785294",
+          "id": 75785294,
+          "screen_name": "mikecapuano"
+        },
+        {
+          "name": "Michael McCaul",
+          "indices": [
+            52,
+            62
+          ],
+          "id_str": "26424123",
+          "id": 26424123,
+          "screen_name": "RepMcCaul"
+        },
+        {
+          "name": "Rep. Barbara Lee",
+          "indices": [
+            64,
+            78
+          ],
+          "id_str": "248735463",
+          "id": 248735463,
+          "screen_name": "RepBarbaraLee"
+        },
+        {
+          "name": "Jeff Fortenberry",
+          "indices": [
+            80,
+            96
+          ],
+          "id_str": "18805303",
+          "id": 18805303,
+          "screen_name": "JeffFortenberry"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EnoughProject: Thx to @TomRooney, @mikecapuano, @RepMcCaul, @RepBarbaraLee, @JeffFortenberry for introducing HR2989! #SouthSudanAt4 htt\u2026",
+    "lang": "en",
+    "created_at": "2015-07-09 20:06:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619155180135841792,
+    "id_str": "619155180135841792",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/cCXZ0qSil2",
+          "indices": [
+            78,
+            101
+          ],
+          "display_url": "rooney.house.gov/media-center/p\u2026",
+          "expanded_url": "https://rooney.house.gov/media-center/press-releases/bipartisan-coalition-introduces-bill-to-promote-peace-stability-in-south"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SouthSudan",
+          "indices": [
+            66,
+            77
+          ]
+        },
+        {
+          "text": "SouthSudanAt4",
+          "indices": [
+            102,
+            116
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to introduce bipartisan bill to promote peace, stability in #SouthSudan https://t.co/cCXZ0qSil2 #SouthSudanAt4",
+    "lang": "en",
+    "created_at": "2015-07-09 14:44:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 609107391314046977,
+    "id_str": "609107391314046977",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CongressionalBaseballGame",
+          "indices": [
+            37,
+            63
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/aUEJH0fLtn",
+          "media_url": "http://pbs.twimg.com/media/CHP78crUwAAYvQz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHP78crUwAAYvQz.jpg",
+          "expanded_url": "http://twitter.com/TomRooney/status/609107391314046977/photo/1",
+          "id_str": "609107390533779456",
+          "indices": [
+            100,
+            122
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 397
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 678
+            }
+          },
+          "display_url": "pic.twitter.com/aUEJH0fLtn",
+          "id": 609107390533779456
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Washington Nationals",
+          "indices": [
+            17,
+            27
+          ],
+          "id_str": "39419180",
+          "id": 39419180,
+          "screen_name": "Nationals"
+        },
+        {
+          "name": "GOP Baseball Team",
+          "indices": [
+            89,
+            99
+          ],
+          "id_str": "1511502894",
+          "id": 1511502894,
+          "screen_name": "GOPDugout"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/aUEJH0fLtn",
+          "media_url": "http://pbs.twimg.com/media/CHP78crUwAAYvQz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHP78crUwAAYvQz.jpg",
+          "expanded_url": "http://twitter.com/TomRooney/status/609107391314046977/photo/1",
+          "id_str": "609107390533779456",
+          "indices": [
+            100,
+            122
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 397
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 678
+            }
+          },
+          "display_url": "pic.twitter.com/aUEJH0fLtn",
+          "id": 609107390533779456
+        }
+      ]
+    },
+    "text": "Ready to head to @Nationals Park for #CongressionalBaseballGame for charity. Playing for @GOPDugout http://t.co/aUEJH0fLtn",
+    "lang": "en",
+    "created_at": "2015-06-11 21:18:13+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 609012281473499136,
+      "id_str": "609012281473499136",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "TBT",
+            "indices": [
+              0,
+              4
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/zGQ8MBcnYw",
+            "media_url": "http://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+            "expanded_url": "http://twitter.com/rollcall/status/609012281473499136/photo/1",
+            "id_str": "608999346336620545",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 265
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 265
+              }
+            },
+            "display_url": "pic.twitter.com/zGQ8MBcnYw",
+            "id": 608999346336620545
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Tom Rooney",
+            "indices": [
+              6,
+              16
+            ],
+            "id_str": "23970171",
+            "id": 23970171,
+            "screen_name": "TomRooney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15922214",
+        "id": 15922214
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/zGQ8MBcnYw",
+            "media_url": "http://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+            "expanded_url": "http://twitter.com/rollcall/status/609012281473499136/photo/1",
+            "id_str": "608999346336620545",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 265
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 265
+              }
+            },
+            "display_url": "pic.twitter.com/zGQ8MBcnYw",
+            "id": 608999346336620545
+          }
+        ]
+      },
+      "text": "#TBT: @TomRooney got lucky at last year's Congressional Baseball Game, got to stow his gear in  Bryce Harper's cubby http://t.co/zGQ8MBcnYw",
+      "lang": "en",
+      "created_at": "Thu Jun 11 15:00:17 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 15922214,
+          "media_url": "http://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+          "source_user_id_str": "15922214",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/zGQ8MBcnYw",
+          "expanded_url": "http://twitter.com/rollcall/status/609012281473499136/photo/1",
+          "url": "http://t.co/zGQ8MBcnYw",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+          "source_status_id_str": "609012281473499136",
+          "id_str": "608999346336620545",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 265
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 265
+            }
+          },
+          "id": 608999346336620545,
+          "source_status_id": 609012281473499136
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 609105473934098432,
+    "id_str": "609105473934098432",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            14,
+            18
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 15922214,
+          "media_url": "http://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+          "source_user_id_str": "15922214",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/zGQ8MBcnYw",
+          "expanded_url": "http://twitter.com/rollcall/status/609012281473499136/photo/1",
+          "url": "http://t.co/zGQ8MBcnYw",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHOZrcrW4AEC1Ym.jpg",
+          "source_status_id_str": "609012281473499136",
+          "id_str": "608999346336620545",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 265
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 265
+            }
+          },
+          "id": 608999346336620545,
+          "source_status_id": 609012281473499136
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Roll Call",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "15922214",
+          "id": 15922214,
+          "screen_name": "rollcall"
+        },
+        {
+          "name": "Tom Rooney",
+          "indices": [
+            20,
+            30
+          ],
+          "id_str": "23970171",
+          "id": 23970171,
+          "screen_name": "TomRooney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @rollcall: #TBT: @TomRooney got lucky at last year's Congressional Baseball Game, got to stow his gear in  Bryce Harper's cubby http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-06-11 21:10:36+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 609099733454495745,
+      "id_str": "609099733454495745",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/k2OGxvDizf",
+            "indices": [
+              110,
+              132
+            ],
+            "display_url": "bit.ly/1IL3leY",
+            "expanded_url": "http://bit.ly/1IL3leY"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Patrick Murphy",
+            "indices": [
+              37,
+              49
+            ],
+            "id_str": "1128781184",
+            "id": 1128781184,
+            "screen_name": "RepMurphyFL"
+          },
+          {
+            "name": "Tom Rooney",
+            "indices": [
+              76,
+              86
+            ],
+            "id_str": "23970171",
+            "id": 23970171,
+            "screen_name": "TomRooney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "168506048",
+        "id": 168506048
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Congressional baseball game tonight. @RepMurphyFL suiting up for Dems, Rep. @TomRooney for GOP. Full rosters: http://t.co/k2OGxvDizf",
+      "lang": "en",
+      "created_at": "Thu Jun 11 20:47:47 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 609103889007304709,
+    "id_str": "609103889007304709",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/k2OGxvDizf",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "bit.ly/1IL3leY",
+          "expanded_url": "http://bit.ly/1IL3leY"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "George Bennett",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "168506048",
+          "id": 168506048,
+          "screen_name": "gbennettpost"
+        },
+        {
+          "name": "Rep. Patrick Murphy",
+          "indices": [
+            55,
+            67
+          ],
+          "id_str": "1128781184",
+          "id": 1128781184,
+          "screen_name": "RepMurphyFL"
+        },
+        {
+          "name": "Tom Rooney",
+          "indices": [
+            94,
+            104
+          ],
+          "id_str": "23970171",
+          "id": 23970171,
+          "screen_name": "TomRooney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @gbennettpost: Congressional baseball game tonight. @RepMurphyFL suiting up for Dems, Rep. @TomRooney for GOP. Full rosters: http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-06-11 21:04:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 609077973489184768,
+    "id_str": "609077973489184768",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/3xcq8mwJWd",
+          "indices": [
+            98,
+            121
+          ],
+          "display_url": "rooney.house.gov/media-center/p\u2026",
+          "expanded_url": "https://rooney.house.gov/media-center/press-releases/rooney-house-votes-to-pay-troops-reid-nelson-should-follow-suit"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Senator Harry Reid",
+          "indices": [
+            53,
+            65
+          ],
+          "id_str": "16789970",
+          "id": 16789970,
+          "screen_name": "SenatorReid"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "House just passed bipartisan bill to pay our troops. @SenatorReid has vowed to block it. Shameful https://t.co/3xcq8mwJWd",
+    "lang": "en",
+    "created_at": "2015-06-11 19:21:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608988781547515904,
+    "id_str": "608988781547515904",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/xW3EF5yLzw",
+          "indices": [
+            98,
+            121
+          ],
+          "display_url": "rooney.house.gov/media-center/p\u2026",
+          "expanded_url": "https://rooney.house.gov/media-center/press-releases/rooney-cool-repeal-only-option-to-prevent-trade-war"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sayfie",
+          "indices": [
+            122,
+            129
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Bipartisan COOL repeal only way to prevent trade war that would hurt Florida farms, manufacturers https://t.co/xW3EF5yLzw #sayfie",
+    "lang": "en",
+    "created_at": "2015-06-11 13:26:54+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 608634973357248513,
+      "id_str": "608634973357248513",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Walter Jones",
+            "indices": [
+              65,
+              80
+            ],
+            "id_str": "26778110",
+            "id": 26778110,
+            "screen_name": "RepWalterJones"
+          },
+          {
+            "name": "Rep. Dan Kildee",
+            "indices": [
+              82,
+              95
+            ],
+            "id_str": "1045110018",
+            "id": 1045110018,
+            "screen_name": "RepDanKildee"
+          },
+          {
+            "name": "Rep Robert Pittenger",
+            "indices": [
+              97,
+              110
+            ],
+            "id_str": "950328072",
+            "id": 950328072,
+            "screen_name": "reppittenger"
+          },
+          {
+            "name": "Tom Rooney",
+            "indices": [
+              112,
+              122
+            ],
+            "id_str": "23970171",
+            "id": 23970171,
+            "screen_name": "TomRooney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2253968388",
+        "id": 2253968388
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "(2) Thanks to those who signed our bipartisan letter on VA care: @RepWalterJones, @RepDanKildee, @reppittenger, @TomRooney...",
+      "lang": "en",
+      "created_at": "Wed Jun 10 14:01:00 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608712502394916866,
+    "id_str": "608712502394916866",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Bradley Byrne",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "2253968388",
+          "id": 2253968388,
+          "screen_name": "RepByrne"
+        },
+        {
+          "name": "Rep. Walter Jones",
+          "indices": [
+            79,
+            94
+          ],
+          "id_str": "26778110",
+          "id": 26778110,
+          "screen_name": "RepWalterJones"
+        },
+        {
+          "name": "Rep. Dan Kildee",
+          "indices": [
+            96,
+            109
+          ],
+          "id_str": "1045110018",
+          "id": 1045110018,
+          "screen_name": "RepDanKildee"
+        },
+        {
+          "name": "Rep Robert Pittenger",
+          "indices": [
+            111,
+            124
+          ],
+          "id_str": "950328072",
+          "id": 950328072,
+          "screen_name": "reppittenger"
+        },
+        {
+          "name": "Tom Rooney",
+          "indices": [
+            126,
+            136
+          ],
+          "id_str": "23970171",
+          "id": 23970171,
+          "screen_name": "TomRooney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepByrne: (2) Thanks to those who signed our bipartisan letter on VA care: @RepWalterJones, @RepDanKildee, @reppittenger, @TomRooney...",
+    "lang": "en",
+    "created_at": "2015-06-10 19:09:04+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 10,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 608678981227978752,
+      "id_str": "608678981227978752",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Tom Rooney",
+            "indices": [
+              7,
+              17
+            ],
+            "id_str": "23970171",
+            "id": 23970171,
+            "screen_name": "TomRooney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1058807868",
+        "id": 1058807868
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Joined @TomRooney &amp; sent letter to FL Sen. Nelson urging him to break with Reid &amp; vote to allow consideration of military &amp; veterans funding",
+      "lang": "en",
+      "created_at": "Wed Jun 10 16:55:52 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608712477757591552,
+    "id_str": "608712477757591552",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        },
+        {
+          "name": "Tom Rooney",
+          "indices": [
+            24,
+            34
+          ],
+          "id_str": "23970171",
+          "id": 23970171,
+          "screen_name": "TomRooney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepDeSantis: Joined @TomRooney &amp; sent letter to FL Sen. Nelson urging him to break with Reid &amp; vote to allow consideration of military \u2026",
+    "lang": "en",
+    "created_at": "2015-06-10 19:08:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608669435835117568,
+    "id_str": "608669435835117568",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/8zRVAWkQ19",
+          "indices": [
+            70,
+            93
+          ],
+          "display_url": "rooney.house.gov/media-center/p\u2026",
+          "expanded_url": "https://rooney.house.gov/media-center/press-releases/fl-reps-to-nelson-oppose-reid-plan-to-block-troop-pay-va-funding"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sayfie",
+          "indices": [
+            94,
+            101
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Letter to Sen Nelson: Oppose Reid plan to block troop pay, VA funding https://t.co/8zRVAWkQ19 #sayfie",
+    "lang": "en",
+    "created_at": "2015-06-10 16:17:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608336750507900928,
+    "id_str": "608336750507900928",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/bAbbxeZt74",
+          "indices": [
+            107,
+            130
+          ],
+          "display_url": "rooney.house.gov/media-center/p\u2026",
+          "expanded_url": "https://rooney.house.gov/media-center/press-releases/rooney-transportation-funding-bill-boosts-florida-infrastructure"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sayfie",
+          "indices": [
+            131,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Transportation Approps bill on house floor today cuts waste, sets priorities, invests in FL infrastructure https://t.co/bAbbxeZt74 #sayfie",
+    "lang": "en",
+    "created_at": "2015-06-09 18:15:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 606520842248421376,
+    "id_str": "606520842248421376",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/8yPfoLcZyw",
+          "indices": [
+            89,
+            112
+          ],
+          "display_url": "youtu.be/jq1Onot0GjU",
+          "expanded_url": "https://youtu.be/jq1Onot0GjU"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Video: Congrats to Vic Story for being named FL Farmer of the Year. Well-deserved honor! https://t.co/8yPfoLcZyw",
+    "lang": "en",
+    "created_at": "2015-06-04 18:00:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 606451283583725568,
+    "id_str": "606451283583725568",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Gators",
+          "indices": [
+            105,
+            112
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to the University of Florida softball team for winning back-to-back national championships - go #Gators!",
+    "lang": "en",
+    "created_at": "2015-06-04 13:23:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 606174466595549184,
+    "id_str": "606174466595549184",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "President Obama puts his faith in Iran (&amp; wants us to follow suit), but questions the credibility of Israel &amp; PM Netanyahu?",
+    "lang": "en",
+    "created_at": "2015-06-03 19:03:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 606104995436589056,
+    "id_str": "606104995436589056",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 256,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 213,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 605840978730024960,
+      "id_str": "605840978730024960",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Capitol",
+            "indices": [
+              66,
+              74
+            ]
+          },
+          {
+            "text": "nofilter",
+            "indices": [
+              107,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/V5yXCxUUry",
+            "media_url": "http://pbs.twimg.com/media/CGhhKEtVAAEHc9y.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGhhKEtVAAEHc9y.jpg",
+            "expanded_url": "http://twitter.com/SenateSAA/status/605840978730024960/photo/1",
+            "id_str": "605840975571779585",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/V5yXCxUUry",
+            "id": 605840975571779585
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "807253855",
+        "id": 807253855
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/V5yXCxUUry",
+            "media_url": "http://pbs.twimg.com/media/CGhhKEtVAAEHc9y.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGhhKEtVAAEHc9y.jpg",
+            "expanded_url": "http://twitter.com/SenateSAA/status/605840978730024960/photo/1",
+            "id_str": "605840975571779585",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/V5yXCxUUry",
+            "id": 605840975571779585
+          }
+        ]
+      },
+      "text": "If you liked our earlier photo of last night's lightning over the #Capitol, you're going to love this one. #nofilter http://t.co/V5yXCxUUry",
+      "lang": "en",
+      "created_at": "Tue Jun 02 20:58:39 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/RMiH0LFyHC",
+          "indices": [
+            8,
+            31
+          ],
+          "display_url": "twitter.com/SenateSAA/stat\u2026",
+          "expanded_url": "https://twitter.com/SenateSAA/status/605840978730024960"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "605840978730024960",
+    "user": {
+      "id_str": "23970171",
+      "screen_name": "tomrooney",
+      "id": 23970171
+    },
+    "favorited": false,
+    "created_at": "2015-06-03 14:27:46+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Wow ... https://t.co/RMiH0LFyHC",
+    "lang": "und",
+    "quoted_status_id": 605840978730024960
+  }
+]

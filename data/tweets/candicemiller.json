@@ -1,0 +1,2444 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628985561253052416,
+    "id_str": "628985561253052416",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ebNDL4DLJq",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "goo.gl/1s3uTV",
+          "expanded_url": "http://goo.gl/1s3uTV"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Humbled to be inducted into the Michigan Women\u2019s Hall of Fame. Read more: http://t.co/ebNDL4DLJq",
+    "lang": "en",
+    "created_at": "2015-08-05 17:46:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628598925591752704,
+    "id_str": "628598925591752704",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/gfyM5DsMzy",
+          "media_url": "http://pbs.twimg.com/media/CLk7YywWEAAJtvg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk7YywWEAAJtvg.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/628598925591752704/photo/1",
+          "id_str": "628598920122339328",
+          "indices": [
+            61,
+            83
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/gfyM5DsMzy",
+          "id": 628598920122339328
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/3Tu9MoIPl0",
+          "indices": [
+            38,
+            60
+          ],
+          "display_url": "goo.gl/8ydkrR",
+          "expanded_url": "http://goo.gl/8ydkrR"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "USCG (Official)",
+          "indices": [
+            31,
+            36
+          ],
+          "id_str": "15113565",
+          "id": 15113565,
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gfyM5DsMzy",
+          "media_url": "http://pbs.twimg.com/media/CLk7YywWEAAJtvg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk7YywWEAAJtvg.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/628598925591752704/photo/1",
+          "id_str": "628598920122339328",
+          "indices": [
+            61,
+            83
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/gfyM5DsMzy",
+          "id": 628598920122339328
+        },
+        {
+          "url": "http://t.co/gfyM5DsMzy",
+          "media_url": "http://pbs.twimg.com/media/CLk7X8YWUAEio6a.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk7X8YWUAEio6a.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/628598925591752704/photo/1",
+          "id_str": "628598905526177793",
+          "indices": [
+            61,
+            83
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 576,
+              "resize": "fit",
+              "h": 768
+            },
+            "large": {
+              "w": 576,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/gfyM5DsMzy",
+          "id": 628598905526177793
+        },
+        {
+          "url": "http://t.co/gfyM5DsMzy",
+          "media_url": "http://pbs.twimg.com/media/CLk7ZCaWwAAuB45.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk7ZCaWwAAuB45.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/628598925591752704/photo/1",
+          "id_str": "628598924325076992",
+          "indices": [
+            61,
+            83
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/gfyM5DsMzy",
+          "id": 628598924325076992
+        }
+      ]
+    },
+    "text": "Happy 225th anniversary to the @USCG! http://t.co/3Tu9MoIPl0 http://t.co/gfyM5DsMzy",
+    "lang": "en",
+    "created_at": "2015-08-04 16:10:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623853706325454848,
+    "id_str": "623853706325454848",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/zruR4j9ra4",
+          "indices": [
+            96,
+            119
+          ],
+          "display_url": "youtube.com/watch?v=lPiM0S\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=lPiM0S1j5qQ&feature=youtu.be"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Cosponsored legislation that repeals firearms ban at military bases and recruitment facilities. https://t.co/zruR4j9ra4",
+    "lang": "en",
+    "created_at": "2015-07-22 13:54:48+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623552286669713408,
+      "id_str": "623552286669713408",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/IvUEtqtKEO",
+            "media_url": "http://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+            "expanded_url": "http://twitter.com/detroitnews/status/623552286669713408/photo/1",
+            "id_str": "623551759009460224",
+            "indices": [
+              80,
+              102
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 274
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 483
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 825
+              }
+            },
+            "display_url": "pic.twitter.com/IvUEtqtKEO",
+            "id": 623551759009460224
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/y6RZEYbGiy",
+            "indices": [
+              57,
+              79
+            ],
+            "display_url": "detne.ws/1RNi79H",
+            "expanded_url": "http://detne.ws/1RNi79H"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16543775",
+        "id": 16543775
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/IvUEtqtKEO",
+            "media_url": "http://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+            "expanded_url": "http://twitter.com/detroitnews/status/623552286669713408/photo/1",
+            "id_str": "623551759009460224",
+            "indices": [
+              80,
+              102
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 274
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 483
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 825
+              }
+            },
+            "display_url": "pic.twitter.com/IvUEtqtKEO",
+            "id": 623551759009460224
+          }
+        ]
+      },
+      "text": "Rep. Miller touts bill to fight Great Lakes farm runoff. http://t.co/y6RZEYbGiy http://t.co/IvUEtqtKEO",
+      "lang": "en",
+      "created_at": "Tue Jul 21 17:57:04 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16543775,
+          "media_url": "http://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+          "source_user_id_str": "16543775",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "pic.twitter.com/IvUEtqtKEO",
+          "expanded_url": "http://twitter.com/detroitnews/status/623552286669713408/photo/1",
+          "url": "http://t.co/IvUEtqtKEO",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+          "source_status_id_str": "623552286669713408",
+          "id_str": "623551759009460224",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 825
+            }
+          },
+          "id": 623551759009460224,
+          "source_status_id": 623552286669713408
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623598083465719808,
+    "id_str": "623598083465719808",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 16543775,
+          "media_url": "http://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+          "source_user_id_str": "16543775",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "pic.twitter.com/IvUEtqtKEO",
+          "expanded_url": "http://twitter.com/detroitnews/status/623552286669713408/photo/1",
+          "url": "http://t.co/IvUEtqtKEO",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdNBWbUMAAcNZv.jpg",
+          "source_status_id_str": "623552286669713408",
+          "id_str": "623551759009460224",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 825
+            }
+          },
+          "id": 623551759009460224,
+          "source_status_id": 623552286669713408
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/y6RZEYbGiy",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "detne.ws/1RNi79H",
+          "expanded_url": "http://detne.ws/1RNi79H"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Detroit News",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "16543775",
+          "id": 16543775,
+          "screen_name": "detroitnews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @detroitnews: Rep. Miller touts bill to fight Great Lakes farm runoff. http://t.co/y6RZEYbGiy http://t.co/IvUEtqtKEO",
+    "lang": "en",
+    "created_at": "2015-07-21 20:59:03+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623594216720080896,
+      "id_str": "623594216720080896",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/UU4HFIu50u",
+            "media_url": "http://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+            "expanded_url": "http://twitter.com/RepWalberg/status/623594216720080896/photo/1",
+            "id_str": "623594216053186560",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/UU4HFIu50u",
+            "id": 623594216053186560
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/w2UYW9xmST",
+            "indices": [
+              99,
+              121
+            ],
+            "display_url": "1.usa.gov/1KiJsMV",
+            "expanded_url": "http://1.usa.gov/1KiJsMV"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Candice Miller",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "15281676",
+            "id": 15281676,
+            "screen_name": "CandiceMiller"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "237862972",
+        "id": 237862972
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/UU4HFIu50u",
+            "media_url": "http://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+            "expanded_url": "http://twitter.com/RepWalberg/status/623594216720080896/photo/1",
+            "id_str": "623594216053186560",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/UU4HFIu50u",
+            "id": 623594216053186560
+          }
+        ]
+      },
+      "text": ".@CandiceMiller &amp; I introduced Great Lakes Assurance Program Verification Act in Monroe today: http://t.co/w2UYW9xmST http://t.co/UU4HFIu50u",
+      "lang": "en",
+      "created_at": "Tue Jul 21 20:43:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 237862972,
+          "media_url": "http://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+          "source_user_id_str": "237862972",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/UU4HFIu50u",
+          "expanded_url": "http://twitter.com/RepWalberg/status/623594216720080896/photo/1",
+          "url": "http://t.co/UU4HFIu50u",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+          "source_status_id_str": "623594216720080896",
+          "id_str": "623594216053186560",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623594216053186560,
+          "source_status_id": 623594216720080896
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623597968403361793,
+    "id_str": "623597968403361793",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 237862972,
+          "media_url": "http://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+          "source_user_id_str": "237862972",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/UU4HFIu50u",
+          "expanded_url": "http://twitter.com/RepWalberg/status/623594216720080896/photo/1",
+          "url": "http://t.co/UU4HFIu50u",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdzorPWoAAhcHt.jpg",
+          "source_status_id_str": "623594216720080896",
+          "id_str": "623594216053186560",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623594216053186560,
+          "source_status_id": 623594216720080896
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/w2UYW9xmST",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "1.usa.gov/1KiJsMV",
+          "expanded_url": "http://1.usa.gov/1KiJsMV"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep Tim Walberg",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "237862972",
+          "id": 237862972,
+          "screen_name": "RepWalberg"
+        },
+        {
+          "name": "Candice Miller",
+          "indices": [
+            17,
+            31
+          ],
+          "id_str": "15281676",
+          "id": 15281676,
+          "screen_name": "CandiceMiller"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepWalberg: .@CandiceMiller &amp; I introduced Great Lakes Assurance Program Verification Act in Monroe today: http://t.co/w2UYW9xmST http:\u2026",
+    "lang": "en",
+    "created_at": "2015-07-21 20:58:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "237862972",
+    "id": 623496658467319808,
+    "id_str": "623496658467319808",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HxuFChr779",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "freep.com/story/opinion/\u2026",
+          "expanded_url": "http://www.freep.com/story/opinion/contributors/2015/07/21/save-great-lakes-farm-pollution-michigan-way/30433379/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep Tim Walberg",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "237862972",
+          "id": 237862972,
+          "screen_name": "RepWalberg"
+        },
+        {
+          "name": "Detroit Free Press",
+          "indices": [
+            106,
+            112
+          ],
+          "id_str": "8795772",
+          "id": 8795772,
+          "screen_name": "freep"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 237862972,
+    "in_reply_to_screen_name": "RepWalberg",
+    "retweeted": false,
+    "text": "@RepWalberg and I introduced the Great Lakes Assurance Program Verification Act. Read about it in today's @freep: http://t.co/HxuFChr779",
+    "lang": "en",
+    "created_at": "2015-07-21 14:16:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621746296521682944,
+    "id_str": "621746296521682944",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/mlF94QyLnS",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "goo.gl/oiegMd",
+          "expanded_url": "http://goo.gl/oiegMd"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "US Dept of Education",
+          "indices": [
+            73,
+            81
+          ],
+          "id_str": "20437286",
+          "id": 20437286,
+          "screen_name": "usedgov"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "St. Clair County Community College to receive $220,000 annual grant from @usedgov. Read more: http://t.co/mlF94QyLnS",
+    "lang": "en",
+    "created_at": "2015-07-16 18:20:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620952829608509440,
+    "id_str": "620952829608509440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ekz1LFMlWj",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "goo.gl/JwICT1",
+          "expanded_url": "http://goo.gl/JwICT1"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Live@10 Border&amp;Maritime Security Subcom w/CBP Air and Marine section on the challenges they face securing our borders http://t.co/ekz1LFMlWj",
+    "lang": "en",
+    "created_at": "2015-07-14 13:47:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620635542917652480,
+    "id_str": "620635542917652480",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 620632996178100225,
+      "id_str": "620632996178100225",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/vxiwRsyFlH",
+            "media_url": "http://pbs.twimg.com/media/CJzuGu8UEAAytDS.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJzuGu8UEAAytDS.png",
+            "expanded_url": "http://twitter.com/HouseHomeland/status/620632996178100225/photo/1",
+            "id_str": "620632648117915648",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 178
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 315
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 537
+              }
+            },
+            "display_url": "pic.twitter.com/vxiwRsyFlH",
+            "id": 620632648117915648
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/N94iUNnMmu",
+            "indices": [
+              99,
+              121
+            ],
+            "display_url": "1.usa.gov/1HSwa7o",
+            "expanded_url": "http://1.usa.gov/1HSwa7o"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "CBP",
+            "indices": [
+              44,
+              58
+            ],
+            "id_str": "16613128",
+            "id": 16613128,
+            "screen_name": "CustomsBorder"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "239964567",
+        "id": 239964567
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/vxiwRsyFlH",
+            "media_url": "http://pbs.twimg.com/media/CJzuGu8UEAAytDS.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJzuGu8UEAAytDS.png",
+            "expanded_url": "http://twitter.com/HouseHomeland/status/620632996178100225/photo/1",
+            "id_str": "620632648117915648",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 178
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 315
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 537
+              }
+            },
+            "display_url": "pic.twitter.com/vxiwRsyFlH",
+            "id": 620632648117915648
+          }
+        ]
+      },
+      "text": "Securing the Maritime Border: The Future of @CustomsBorder Air &amp; Marine. Tune in TMW @ 10amET. http://t.co/N94iUNnMmu http://t.co/vxiwRsyFlH",
+      "lang": "en",
+      "created_at": "Mon Jul 13 16:36:51 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/lSYJcXyRai",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "1.usa.gov/1HSwa7o",
+          "expanded_url": "http://1.usa.gov/1HSwa7o"
+        },
+        {
+          "url": "https://t.co/rWHUMs9qXp",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "twitter.com/HouseHomeland/\u2026",
+          "expanded_url": "https://twitter.com/HouseHomeland/status/620632996178100225"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "CBP",
+          "indices": [
+            44,
+            58
+          ],
+          "id_str": "16613128",
+          "id": 16613128,
+          "screen_name": "CustomsBorder"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "620632996178100225",
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "created_at": "2015-07-13 16:46:58+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Securing the Maritime Border: The Future of @CustomsBorder Air &amp; Marine.Tune in TMW @ 10amET. http://t.co/lSYJcXyRai https://t.co/rWHUMs9qXp",
+    "lang": "en",
+    "quoted_status_id": 620632996178100225
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 610901217024159744,
+    "id_str": "610901217024159744",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/qO2ud1Q3O6",
+          "indices": [
+            23,
+            45
+          ],
+          "display_url": "macombdaily.com/opinion/201506\u2026",
+          "expanded_url": "http://www.macombdaily.com/opinion/20150616/miller-microbeads-are-ruining-our-waterways-and-its-time-for-action"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In Case You Missed It: http://t.co/qO2ud1Q3O6",
+    "lang": "en",
+    "created_at": "2015-06-16 20:06:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 609094236651294721,
+    "id_str": "609094236651294721",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/4spyhC6bFm",
+          "indices": [
+            0,
+            23
+          ],
+          "display_url": "youtube.com/watch?v=WswFz8\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=WswFz8oBtjE"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "https://t.co/4spyhC6bFm",
+    "lang": "und",
+    "created_at": "2015-06-11 20:25:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 607997887180623873,
+    "id_str": "607997887180623873",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/cXobExFDd9",
+          "media_url": "http://pbs.twimg.com/media/CHAK2vlWQAE2AfR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHAK2vlWQAE2AfR.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/607997887180623873/photo/1",
+          "id_str": "607997885297344513",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/cXobExFDd9",
+          "id": 607997885297344513
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/cXobExFDd9",
+          "media_url": "http://pbs.twimg.com/media/CHAK2vlWQAE2AfR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHAK2vlWQAE2AfR.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/607997887180623873/photo/1",
+          "id_str": "607997885297344513",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/cXobExFDd9",
+          "id": 607997885297344513
+        }
+      ]
+    },
+    "text": "MI10\u2019s 2015 Congressional Art Competition winner, Dryden, getting ready to take its place in the Cannon Tunnel. http://t.co/cXobExFDd9",
+    "lang": "en",
+    "created_at": "2015-06-08 19:49:27+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 606445646804074496,
+      "id_str": "606445646804074496",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "OnThisDay",
+            "indices": [
+              0,
+              10
+            ]
+          },
+          {
+            "text": "vehicle",
+            "indices": [
+              71,
+              79
+            ]
+          },
+          {
+            "text": "transport",
+            "indices": [
+              100,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/oNdjtbv5yX",
+            "media_url": "http://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+            "expanded_url": "http://twitter.com/Transport/status/606445646804074496/photo/1",
+            "id_str": "606445646686646272",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 254
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 448
+              },
+              "large": {
+                "w": 650,
+                "resize": "fit",
+                "h": 486
+              }
+            },
+            "display_url": "pic.twitter.com/oNdjtbv5yX",
+            "id": 606445646686646272
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "35829796",
+        "id": 35829796
+      },
+      "favorited": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/oNdjtbv5yX",
+            "media_url": "http://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+            "expanded_url": "http://twitter.com/Transport/status/606445646804074496/photo/1",
+            "id_str": "606445646686646272",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 254
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 448
+              },
+              "large": {
+                "w": 650,
+                "resize": "fit",
+                "h": 486
+              }
+            },
+            "display_url": "pic.twitter.com/oNdjtbv5yX",
+            "id": 606445646686646272
+          }
+        ]
+      },
+      "text": "#OnThisDay in 1896, Henry Ford made a successful test drive of his new #vehicle, the \"quadricycle.\" #transport http://t.co/oNdjtbv5yX",
+      "lang": "en",
+      "created_at": "Thu Jun 04 13:01:24 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 35829796,
+          "media_url": "http://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+          "source_user_id_str": "35829796",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/oNdjtbv5yX",
+          "expanded_url": "http://twitter.com/Transport/status/606445646804074496/photo/1",
+          "url": "http://t.co/oNdjtbv5yX",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+          "source_status_id_str": "606445646804074496",
+          "id_str": "606445646686646272",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 448
+            },
+            "large": {
+              "w": 650,
+              "resize": "fit",
+              "h": 486
+            }
+          },
+          "id": 606445646686646272,
+          "source_status_id": 606445646804074496
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 606514136567189504,
+    "id_str": "606514136567189504",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "OnThisDay",
+          "indices": [
+            15,
+            25
+          ]
+        },
+        {
+          "text": "vehicle",
+          "indices": [
+            86,
+            94
+          ]
+        },
+        {
+          "text": "transport",
+          "indices": [
+            115,
+            125
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 35829796,
+          "media_url": "http://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+          "source_user_id_str": "35829796",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/oNdjtbv5yX",
+          "expanded_url": "http://twitter.com/Transport/status/606445646804074496/photo/1",
+          "url": "http://t.co/oNdjtbv5yX",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGqHGkJW8AAjdzC.jpg",
+          "source_status_id_str": "606445646804074496",
+          "id_str": "606445646686646272",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 448
+            },
+            "large": {
+              "w": 650,
+              "resize": "fit",
+              "h": 486
+            }
+          },
+          "id": 606445646686646272,
+          "source_status_id": 606445646804074496
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "T&I Committee",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "35829796",
+          "id": 35829796,
+          "screen_name": "Transport"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Transport: #OnThisDay in 1896, Henry Ford made a successful test drive of his new #vehicle, the \"quadricycle.\" #transport http://t.co/o\u2026",
+    "lang": "en",
+    "created_at": "2015-06-04 17:33:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 605733818130132992,
+    "id_str": "605733818130132992",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/b12vAkoskC",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "ustream.tv/channel/hclive\u2026",
+          "expanded_url": "http://www.ustream.tv/channel/hclive08"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Tune in live at 10AM to watch my hearing on the Department of Homeland Security\u2019s international security programs. http://t.co/b12vAkoskC",
+    "lang": "en",
+    "created_at": "2015-06-02 13:52:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 601411628756836353,
+    "id_str": "601411628756836353",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/8Nt7bE3oK8",
+          "media_url": "http://pbs.twimg.com/media/CFiksBWWEAAFauA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFiksBWWEAAFauA.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/601411628756836353/photo/1",
+          "id_str": "601411626437316608",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 273
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 824
+            }
+          },
+          "display_url": "pic.twitter.com/8Nt7bE3oK8",
+          "id": 601411626437316608
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8Nt7bE3oK8",
+          "media_url": "http://pbs.twimg.com/media/CFiksBWWEAAFauA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFiksBWWEAAFauA.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/601411628756836353/photo/1",
+          "id_str": "601411626437316608",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 273
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 824
+            }
+          },
+          "display_url": "pic.twitter.com/8Nt7bE3oK8",
+          "id": 601411626437316608
+        },
+        {
+          "url": "http://t.co/8Nt7bE3oK8",
+          "media_url": "http://pbs.twimg.com/media/CFiksGPWYAAl_HX.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFiksGPWYAAl_HX.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/601411628756836353/photo/1",
+          "id_str": "601411627750154240",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 270
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 478
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 815
+            }
+          },
+          "display_url": "pic.twitter.com/8Nt7bE3oK8",
+          "id": 601411627750154240
+        }
+      ]
+    },
+    "text": "Pleasure meeting the Port Sanilac Marching Band, spirited young Americans who reflect our nation\u2019s bright future. http://t.co/8Nt7bE3oK8",
+    "lang": "en",
+    "created_at": "2015-05-21 15:38:00+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 599240168890048512,
+    "id_str": "599240168890048512",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SafeBoatingWeek",
+          "indices": [
+            34,
+            50
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/WcEv4zQlj7",
+          "media_url": "http://pbs.twimg.com/media/CFDtwiUWoAEwfxx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFDtwiUWoAEwfxx.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/599240168890048512/photo/1",
+          "id_str": "599240168541954049",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 387
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 684
+            },
+            "large": {
+              "w": 830,
+              "resize": "fit",
+              "h": 947
+            }
+          },
+          "display_url": "pic.twitter.com/WcEv4zQlj7",
+          "id": 599240168541954049
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/52IbvttAfd",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "safeboatingcampaign.com",
+          "expanded_url": "http://www.safeboatingcampaign.com/"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/WcEv4zQlj7",
+          "media_url": "http://pbs.twimg.com/media/CFDtwiUWoAEwfxx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFDtwiUWoAEwfxx.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/599240168890048512/photo/1",
+          "id_str": "599240168541954049",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 387
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 684
+            },
+            "large": {
+              "w": 830,
+              "resize": "fit",
+              "h": 947
+            }
+          },
+          "display_url": "pic.twitter.com/WcEv4zQlj7",
+          "id": 599240168541954049
+        }
+      ]
+    },
+    "text": "Did you know tmrw is the start of #SafeBoatingWeek?Here are some important boating safety tips http://t.co/52IbvttAfd http://t.co/WcEv4zQlj7",
+    "lang": "en",
+    "created_at": "2015-05-15 15:49:24+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "10850192",
+    "id": 598867454517968897,
+    "id_str": "598867454517968897",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 78,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 83,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 598829114192072704,
+      "id_str": "598829114192072704",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/mKT2USNVoK",
+            "media_url": "http://pbs.twimg.com/media/CE936AAUIAE_ace.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CE936AAUIAE_ace.jpg",
+            "expanded_url": "http://twitter.com/GM/status/598829114192072704/photo/1",
+            "id_str": "598829113781002241",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 221
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 390
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 667
+              }
+            },
+            "display_url": "pic.twitter.com/mKT2USNVoK",
+            "id": 598829113781002241
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/xFaOM5hgmi",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "s.gm.com/YnD",
+            "expanded_url": "http://s.gm.com/YnD"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "10850192",
+        "id": 10850192
+      },
+      "favorited": false,
+      "source": "<a href=\"https://manage.involver.com\" rel=\"nofollow\">Oracle Engage</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/mKT2USNVoK",
+            "media_url": "http://pbs.twimg.com/media/CE936AAUIAE_ace.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CE936AAUIAE_ace.jpg",
+            "expanded_url": "http://twitter.com/GM/status/598829114192072704/photo/1",
+            "id_str": "598829113781002241",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 221
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 390
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 667
+              }
+            },
+            "display_url": "pic.twitter.com/mKT2USNVoK",
+            "id": 598829113781002241
+          }
+        ]
+      },
+      "text": "Our $1 billion investment in the Warren Tech Center will create about 2,600 jobs: http://t.co/xFaOM5hgmi http://t.co/mKT2USNVoK",
+      "lang": "en",
+      "created_at": "Thu May 14 12:36:01 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/phHQxlfRSN",
+          "indices": [
+            70,
+            92
+          ],
+          "display_url": "goo.gl/UCIfgS",
+          "expanded_url": "http://goo.gl/UCIfgS"
+        },
+        {
+          "url": "https://t.co/TpVkFHE1NQ",
+          "indices": [
+            93,
+            116
+          ],
+          "display_url": "twitter.com/GM/status/5988\u2026",
+          "expanded_url": "https://twitter.com/GM/status/598829114192072704"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "General Motors",
+          "indices": [
+            0,
+            3
+          ],
+          "id_str": "10850192",
+          "id": 10850192,
+          "screen_name": "GM"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "598829114192072704",
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "created_at": "2015-05-14 15:08:22+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 10850192,
+    "in_reply_to_screen_name": "GM",
+    "retweeted": false,
+    "text": "@GM announces $1 billion investment in Warren Tech Center. Read more: http://t.co/phHQxlfRSN https://t.co/TpVkFHE1NQ",
+    "lang": "en",
+    "quoted_status_id": 598829114192072704
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 598533957362266112,
+    "id_str": "598533957362266112",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/9bnBJQrAaR",
+          "media_url": "http://pbs.twimg.com/media/CE5rdD3VIAAbMBT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CE5rdD3VIAAbMBT.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/598533957362266112/photo/1",
+          "id_str": "598533947484610560",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 406
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 694
+            }
+          },
+          "display_url": "pic.twitter.com/9bnBJQrAaR",
+          "id": 598533947484610560
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "NMMA",
+          "indices": [
+            103,
+            115
+          ],
+          "id_str": "70765315",
+          "id": 70765315,
+          "screen_name": "therealnmma"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/9bnBJQrAaR",
+          "media_url": "http://pbs.twimg.com/media/CE5rdD3VIAAbMBT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CE5rdD3VIAAbMBT.jpg",
+          "expanded_url": "http://twitter.com/CandiceMiller/status/598533957362266112/photo/1",
+          "id_str": "598533947484610560",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 406
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 694
+            }
+          },
+          "display_url": "pic.twitter.com/9bnBJQrAaR",
+          "id": 598533947484610560
+        }
+      ]
+    },
+    "text": "Honored to receive the Lifetime Achievement Award from the National Marine Manufacturers Association - @therealnmma http://t.co/9bnBJQrAaR",
+    "lang": "en",
+    "created_at": "2015-05-13 17:03:10+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 598107925354303488,
+    "id_str": "598107925354303488",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/qsQGzS9k6q",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "candicemiller.house.gov/services/milit\u2026",
+          "expanded_url": "http://candicemiller.house.gov/services/military-academy-nominations"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "If you're interested in applying for a Congressional Nomination to a U.S. Service Academy, complete the app here: http://t.co/qsQGzS9k6q",
+    "lang": "en",
+    "created_at": "2015-05-12 12:50:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 596770971882758144,
+    "id_str": "596770971882758144",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/wOSX6RiPdL",
+          "indices": [
+            89,
+            112
+          ],
+          "display_url": "youtube.com/watch?v=eZlByU\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=eZlByUROb4E"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WXYZ Detroit",
+          "indices": [
+            7,
+            19
+          ],
+          "id_str": "19778050",
+          "id": 19778050,
+          "screen_name": "wxyzdetroit"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "15281676",
+      "screen_name": "candicemiller",
+      "id": 15281676
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joined @wxyzdetroit to discuss Ontario Power Generation company's nuclear waste facility https://t.co/wOSX6RiPdL",
+    "lang": "en",
+    "created_at": "2015-05-08 20:17:41+00:00"
+  }
+]

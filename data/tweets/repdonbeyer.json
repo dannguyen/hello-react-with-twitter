@@ -1,0 +1,3220 @@
+[
+  {
+    "in_reply_to_status_id_str": "629355474773741569",
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2962868158",
+    "id": 629355754349326338,
+    "id_str": "629355754349326338",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            8,
+            22
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            110,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/tF0rI0agoq",
+          "media_url": "http://pbs.twimg.com/media/CLvruR6WsAAmtT_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvruR6WsAAmtT_.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/629355754349326338/photo/1",
+          "id_str": "629355753262985216",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 194
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 343
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 343
+            }
+          },
+          "display_url": "pic.twitter.com/tF0rI0agoq",
+          "id": 629355753262985216
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/6f6I5jzpms",
+          "indices": [
+            86,
+            109
+          ],
+          "display_url": "goo.gl/fp3Oyt",
+          "expanded_url": "https://goo.gl/fp3Oyt"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 629355474773741569,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 2962868158,
+    "in_reply_to_screen_name": "RepDonBeyer",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/tF0rI0agoq",
+          "media_url": "http://pbs.twimg.com/media/CLvruR6WsAAmtT_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvruR6WsAAmtT_.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/629355754349326338/photo/1",
+          "id_str": "629355753262985216",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 194
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 343
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 343
+            }
+          },
+          "display_url": "pic.twitter.com/tF0rI0agoq",
+          "id": 629355753262985216
+        }
+      ]
+    },
+    "text": "We must #RestoreTheVRA, resist any attempt to roll back progress as we march forward. https://t.co/6f6I5jzpms #VRA50 http://t.co/tF0rI0agoq",
+    "lang": "en",
+    "created_at": "2015-08-06 18:17:59+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629355474773741569,
+    "id_str": "629355474773741569",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            127,
+            133
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Fifty years ago today, President Johnson signed the Voting Rights Act - an important step in the march to expand civil rights. #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 18:16:52+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7060,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 10810,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629064761188184064,
+      "id_str": "629064761188184064",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/JKep9bcxGQ",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+            "expanded_url": "http://twitter.com/POTUS/status/629064761188184064/video/1",
+            "id_str": "629064721891766272",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 338
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/JKep9bcxGQ",
+            "id": 629064721891766272
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "NASA",
+            "indices": [
+              77,
+              82
+            ],
+            "id_str": "11348282",
+            "id": 11348282,
+            "screen_name": "NASA"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1536791610",
+        "id": 1536791610
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/JKep9bcxGQ",
+            "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+            "type": "video",
+            "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+            "expanded_url": "http://twitter.com/POTUS/status/629064761188184064/video/1",
+            "video_info": {
+              "duration_millis": 20020,
+              "variants": [
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/1280x720/HKz2XXpdtNYehAJK.mp4",
+                  "bitrate": 2176000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/pl/ORFPKvE-FdXe6hKP.mpd",
+                  "content_type": "application/dash+xml"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/640x360/NVZK1N92WSrrgazY.webm",
+                  "bitrate": 832000,
+                  "content_type": "video/webm"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/640x360/NVZK1N92WSrrgazY.mp4",
+                  "bitrate": 832000,
+                  "content_type": "video/mp4"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/pl/ORFPKvE-FdXe6hKP.m3u8",
+                  "content_type": "application/x-mpegURL"
+                },
+                {
+                  "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/320x180/z9_Gwg75fXBJQuYw.mp4",
+                  "bitrate": 320000,
+                  "content_type": "video/mp4"
+                }
+              ],
+              "aspect_ratio": [
+                16,
+                9
+              ]
+            },
+            "id_str": "629064721891766272",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 338
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/JKep9bcxGQ",
+            "id": 629064721891766272
+          }
+        ]
+      },
+      "text": "Pretty incredible time lapse of the dark side of the moon passing Earth from @NASA. American ingenuity at work! http://t.co/JKep9bcxGQ",
+      "lang": "en",
+      "created_at": "Wed Aug 05 23:01:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7060,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1536791610,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+          "source_user_id_str": "1536791610",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/JKep9bcxGQ",
+          "expanded_url": "http://twitter.com/POTUS/status/629064761188184064/video/1",
+          "url": "http://t.co/JKep9bcxGQ",
+          "type": "video",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+          "source_status_id_str": "629064761188184064",
+          "video_info": {
+            "duration_millis": 20020,
+            "variants": [
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/1280x720/HKz2XXpdtNYehAJK.mp4",
+                "bitrate": 2176000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/pl/ORFPKvE-FdXe6hKP.mpd",
+                "content_type": "application/dash+xml"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/640x360/NVZK1N92WSrrgazY.webm",
+                "bitrate": 832000,
+                "content_type": "video/webm"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/640x360/NVZK1N92WSrrgazY.mp4",
+                "bitrate": 832000,
+                "content_type": "video/mp4"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/pl/ORFPKvE-FdXe6hKP.m3u8",
+                "content_type": "application/x-mpegURL"
+              },
+              {
+                "url": "https://video.twimg.com/ext_tw_video/629064721891766272/pu/vid/320x180/z9_Gwg75fXBJQuYw.mp4",
+                "bitrate": 320000,
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              16,
+              9
+            ]
+          },
+          "id_str": "629064721891766272",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 338
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629064721891766272,
+          "source_status_id": 629064761188184064
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629087506001207297,
+    "id_str": "629087506001207297",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 1536791610,
+          "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+          "source_user_id_str": "1536791610",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/JKep9bcxGQ",
+          "expanded_url": "http://twitter.com/POTUS/status/629064761188184064/video/1",
+          "url": "http://t.co/JKep9bcxGQ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/629064721891766272/pu/img/JVUKrM9Uo3LvGCSN.jpg",
+          "source_status_id_str": "629064761188184064",
+          "id_str": "629064721891766272",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 338
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629064721891766272,
+          "source_status_id": 629064761188184064
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        },
+        {
+          "name": "NASA",
+          "indices": [
+            88,
+            93
+          ],
+          "id_str": "11348282",
+          "id": 11348282,
+          "screen_name": "NASA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @POTUS: Pretty incredible time lapse of the dark side of the moon passing Earth from @NASA. American ingenuity at work! http://t.co/JKep\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 00:32:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628990204506939393,
+    "id_str": "628990204506939393",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "STEM",
+          "indices": [
+            35,
+            40
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/gkKQpL05ls",
+          "media_url": "http://pbs.twimg.com/media/CLqfPx5WgAAtc2L.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqfPx5WgAAtc2L.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/628990204506939393/photo/1",
+          "id_str": "628990191412346880",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 293
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 518
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 884
+            }
+          },
+          "display_url": "pic.twitter.com/gkKQpL05ls",
+          "id": 628990191412346880
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "\u262fCoderDojo\u262f",
+          "indices": [
+            20,
+            30
+          ],
+          "id_str": "329816616",
+          "id": 329816616,
+          "screen_name": "CoderDojo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gkKQpL05ls",
+          "media_url": "http://pbs.twimg.com/media/CLqfPx5WgAAtc2L.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqfPx5WgAAtc2L.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/628990204506939393/photo/1",
+          "id_str": "628990191412346880",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 293
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 518
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 884
+            }
+          },
+          "display_url": "pic.twitter.com/gkKQpL05ls",
+          "id": 628990191412346880
+        },
+        {
+          "url": "http://t.co/gkKQpL05ls",
+          "media_url": "http://pbs.twimg.com/media/CLqfQTGWcAA6KSf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqfQTGWcAA6KSf.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/628990204506939393/photo/1",
+          "id_str": "628990200325238784",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 259
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 457
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 780
+            }
+          },
+          "display_url": "pic.twitter.com/gkKQpL05ls",
+          "id": 628990200325238784
+        },
+        {
+          "url": "http://t.co/gkKQpL05ls",
+          "media_url": "http://pbs.twimg.com/media/CLqfQeeWoAA4u47.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqfQeeWoAA4u47.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/628990204506939393/photo/1",
+          "id_str": "628990203378704384",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/gkKQpL05ls",
+          "id": 628990203378704384
+        }
+      ]
+    },
+    "text": "Watching kids learn @CoderDojo the #STEM skills they need for the opportunity to succeed tomorrow. http://t.co/gkKQpL05ls",
+    "lang": "en",
+    "created_at": "2015-08-05 18:05:25+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628974292890427392,
+    "id_str": "628974292890427392",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NationalNightOut",
+          "indices": [
+            31,
+            48
+          ]
+        },
+        {
+          "text": "VA08",
+          "indices": [
+            111,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/xExLfieFX2",
+          "media_url": "http://pbs.twimg.com/media/CLqQyVMWoAA84l9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqQyVMWoAA84l9.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/628974292890427392/photo/1",
+          "id_str": "628974292328423424",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/xExLfieFX2",
+          "id": 628974292328423424
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xExLfieFX2",
+          "media_url": "http://pbs.twimg.com/media/CLqQyVMWoAA84l9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqQyVMWoAA84l9.jpg",
+          "expanded_url": "http://twitter.com/RepDonBeyer/status/628974292890427392/photo/1",
+          "id_str": "628974292328423424",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/xExLfieFX2",
+          "id": 628974292328423424
+        }
+      ]
+    },
+    "text": "Great to see so many people at #NationalNightOut last night. Did you make it to an event in your neighborhood, #VA08? http://t.co/xExLfieFX2",
+    "lang": "en",
+    "created_at": "2015-08-05 17:02:11+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 17,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 16,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628625305608060928,
+      "id_str": "628625305608060928",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/0K9GXwu5n0",
+            "indices": [
+              89,
+              111
+            ],
+            "display_url": "owl.li/Qu4PY",
+            "expanded_url": "http://owl.li/Qu4PY"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "WHDemoDay",
+            "indices": [
+              38,
+              48
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "153149305",
+        "id": 153149305
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "In 5 mins: Tune in for the first-ever #WHDemoDay focused on inclusive entrepreneurship \u2192 http://t.co/0K9GXwu5n0",
+      "lang": "en",
+      "created_at": "Tue Aug 04 17:55:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628625536156352512,
+    "id_str": "628625536156352512",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/0K9GXwu5n0",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "owl.li/Qu4PY",
+          "expanded_url": "http://owl.li/Qu4PY"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WHDemoDay",
+          "indices": [
+            50,
+            60
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "SBA",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "153149305",
+          "id": 153149305,
+          "screen_name": "SBAgov"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SBAgov: In 5 mins: Tune in for the first-ever #WHDemoDay focused on inclusive entrepreneurship \u2192 http://t.co/0K9GXwu5n0",
+    "lang": "en",
+    "created_at": "2015-08-04 17:56:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628623137954004993,
+    "id_str": "628623137954004993",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 516,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 426,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628616727438331904,
+      "id_str": "628616727438331904",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "WHDemoDay",
+            "indices": [
+              26,
+              36
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/5tidtNRXlK",
+            "media_url": "http://pbs.twimg.com/media/CLlLkVyXAAAk3AC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlLkVyXAAAk3AC.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/628616727438331904/photo/1",
+            "id_str": "628616710690635776",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 184
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 326
+              },
+              "large": {
+                "w": 999,
+                "resize": "fit",
+                "h": 544
+              }
+            },
+            "display_url": "pic.twitter.com/5tidtNRXlK",
+            "id": 628616710690635776
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/eHvUuk4N9m",
+            "indices": [
+              95,
+              117
+            ],
+            "display_url": "go.wh.gov/DemoDay",
+            "expanded_url": "http://go.wh.gov/DemoDay"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/5tidtNRXlK",
+            "media_url": "http://pbs.twimg.com/media/CLlLkVyXAAAk3AC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlLkVyXAAAk3AC.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/628616727438331904/photo/1",
+            "id_str": "628616710690635776",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 184
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 326
+              },
+              "large": {
+                "w": 999,
+                "resize": "fit",
+                "h": 544
+              }
+            },
+            "display_url": "pic.twitter.com/5tidtNRXlK",
+            "id": 628616710690635776
+          }
+        ]
+      },
+      "text": "Don't miss the first-ever #WHDemoDay! Watch dozens of entrepreneurs showcase their bold ideas: http://t.co/eHvUuk4N9m http://t.co/5tidtNRXlK",
+      "lang": "en",
+      "created_at": "Tue Aug 04 17:21:21 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ps13Hcn4iJ",
+          "indices": [
+            52,
+            75
+          ],
+          "display_url": "twitter.com/WhiteHouse/sta\u2026",
+          "expanded_url": "https://twitter.com/WhiteHouse/status/628616727438331904"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA08",
+          "indices": [
+            46,
+            51
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Zoobean Mom",
+          "indices": [
+            29,
+            44
+          ],
+          "id_str": "636201304",
+          "id": 636201304,
+          "screen_name": "zoobeanforkids"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628616727438331904",
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 17:46:49+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Good luck to Arlington's own @zoobeanforkids! #VA08 https://t.co/ps13Hcn4iJ",
+    "lang": "en",
+    "quoted_status_id": 628616727438331904
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 12,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628274577886547968,
+      "id_str": "628274577886547968",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/DOGNWmsEfA",
+            "indices": [
+              109,
+              131
+            ],
+            "display_url": "whitehouse.gov/live",
+            "expanded_url": "http://whitehouse.gov/live"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "WHDemoDay",
+            "indices": [
+              87,
+              97
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Felix Brandon Lloyd",
+            "indices": [
+              132,
+              140
+            ],
+            "id_str": "16310892",
+            "id": 16310892,
+            "screen_name": "fblloyd"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "636201304",
+        "id": 636201304
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thrilled to share that we get to share Zoobean at the first ever White House Demo Day! #WHDemoDay Join live: http://t.co/DOGNWmsEfA @fblloyd",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:41:46 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628622940813312000,
+    "id_str": "628622940813312000",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/DOGNWmsEfA",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "whitehouse.gov/live",
+          "expanded_url": "http://whitehouse.gov/live"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WHDemoDay",
+          "indices": [
+            107,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Zoobean Mom",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "636201304",
+          "id": 636201304,
+          "screen_name": "zoobeanforkids"
+        },
+        {
+          "name": "Felix Brandon Lloyd",
+          "indices": [
+            139,
+            140
+          ],
+          "id_str": "16310892",
+          "id": 16310892,
+          "screen_name": "fblloyd"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @zoobeanforkids: Thrilled to share that we get to share Zoobean at the first ever White House Demo Day! #WHDemoDay Join live: http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 17:46:02+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 19,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628280702451101696,
+      "id_str": "628280702451101696",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              10,
+              25
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              98,
+              111
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/CozkRYnS4G",
+            "media_url": "http://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+            "expanded_url": "http://twitter.com/LaborSec/status/628280702451101696/photo/1",
+            "id_str": "628250538547744769",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              }
+            },
+            "display_url": "pic.twitter.com/CozkRYnS4G",
+            "id": 628250538547744769
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1604366701",
+        "id": 1604366701
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/CozkRYnS4G",
+            "media_url": "http://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+            "expanded_url": "http://twitter.com/LaborSec/status/628280702451101696/photo/1",
+            "id_str": "628250538547744769",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              }
+            },
+            "display_url": "pic.twitter.com/CozkRYnS4G",
+            "id": 628250538547744769
+          }
+        ]
+      },
+      "text": "FACT: The #CleanPowerPlan will save the average American nearly $85 on their energy bill in 2030. #ActOnClimate http://t.co/CozkRYnS4G",
+      "lang": "en",
+      "created_at": "Mon Aug 03 19:06:07 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1604366701,
+          "media_url": "http://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+          "source_user_id_str": "1604366701",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/CozkRYnS4G",
+          "expanded_url": "http://twitter.com/LaborSec/status/628280702451101696/photo/1",
+          "url": "http://t.co/CozkRYnS4G",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+          "source_status_id_str": "628280702451101696",
+          "id_str": "628250538547744769",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "id": 628250538547744769,
+          "source_status_id": 628280702451101696
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628299544665714688,
+    "id_str": "628299544665714688",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            24,
+            39
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            112,
+            125
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 1604366701,
+          "media_url": "http://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+          "source_user_id_str": "1604366701",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/CozkRYnS4G",
+          "expanded_url": "http://twitter.com/LaborSec/status/628280702451101696/photo/1",
+          "url": "http://t.co/CozkRYnS4G",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf-iUQWEAExXBK.jpg",
+          "source_status_id_str": "628280702451101696",
+          "id_str": "628250538547744769",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "id": 628250538547744769,
+          "source_status_id": 628280702451101696
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Tom Perez",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "1604366701",
+          "id": 1604366701,
+          "screen_name": "LaborSec"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LaborSec: FACT: The #CleanPowerPlan will save the average American nearly $85 on their energy bill in 2030. #ActOnClimate http://t.co/C\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 20:20:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628279786050293760,
+    "id_str": "628279786050293760",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "climatechange",
+          "indices": [
+            29,
+            43
+          ]
+        },
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            66,
+            81
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            126,
+            139
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            55,
+            61
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We cannot continue to ignore #climatechange. Thank you @POTUS for #CleanPowerPlan - an aggressive and necessary first step to #ActOnClimate.",
+    "lang": "en",
+    "created_at": "2015-08-03 19:02:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628277545339912192,
+    "id_str": "628277545339912192",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            8,
+            23
+          ]
+        },
+        {
+          "text": "climatechange",
+          "indices": [
+            36,
+            50
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            1,
+            7
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@POTUS #CleanPowerPlan will combat #climatechange's threat to our health, safety, and security - and those of the generations to come.",
+    "lang": "en",
+    "created_at": "2015-08-03 18:53:34+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 171,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 199,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628269220174893056,
+      "id_str": "628269220174893056",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/f8ioVQpawq",
+            "media_url": "http://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+            "expanded_url": "http://twitter.com/nprpolitics/status/628269220174893056/photo/1",
+            "id_str": "628269152856313857",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 360
+              }
+            },
+            "display_url": "pic.twitter.com/f8ioVQpawq",
+            "id": 628269152856313857
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "5741722",
+        "id": 5741722
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/f8ioVQpawq",
+            "media_url": "http://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+            "expanded_url": "http://twitter.com/nprpolitics/status/628269220174893056/photo/1",
+            "id_str": "628269152856313857",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 360
+              }
+            },
+            "display_url": "pic.twitter.com/f8ioVQpawq",
+            "id": 628269152856313857
+          }
+        ]
+      },
+      "text": "President Obama speaking about climate change &amp; unveiling a new environmental plan http://t.co/f8ioVQpawq",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:20:29 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 171,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 5741722,
+          "media_url": "http://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+          "source_user_id_str": "5741722",
+          "indices": [
+            104,
+            126
+          ],
+          "display_url": "pic.twitter.com/f8ioVQpawq",
+          "expanded_url": "http://twitter.com/nprpolitics/status/628269220174893056/photo/1",
+          "url": "http://t.co/f8ioVQpawq",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+          "source_status_id_str": "628269220174893056",
+          "id_str": "628269152856313857",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 360
+            }
+          },
+          "id": 628269152856313857,
+          "source_status_id": 628269220174893056
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628269293520728064,
+    "id_str": "628269293520728064",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 5741722,
+          "media_url": "http://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+          "source_user_id_str": "5741722",
+          "indices": [
+            104,
+            126
+          ],
+          "display_url": "pic.twitter.com/f8ioVQpawq",
+          "expanded_url": "http://twitter.com/nprpolitics/status/628269220174893056/photo/1",
+          "url": "http://t.co/f8ioVQpawq",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgPdz9WEAEsnsO.png",
+          "source_status_id_str": "628269220174893056",
+          "id_str": "628269152856313857",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 360
+            }
+          },
+          "id": 628269152856313857,
+          "source_status_id": 628269220174893056
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "NPR Politics",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "5741722",
+          "id": 5741722,
+          "screen_name": "nprpolitics"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @nprpolitics: President Obama speaking about climate change &amp; unveiling a new environmental plan http://t.co/f8ioVQpawq",
+    "lang": "en",
+    "created_at": "2015-08-03 18:20:46+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 10,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628268349487730688,
+      "id_str": "628268349487730688",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              72,
+              85
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              65,
+              71
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "34113439",
+        "id": 34113439
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"Human activities are changing the climate in dangerous ways.\" - @potus #ActOnClimate",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:17:01 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628269166370418689,
+    "id_str": "628269166370418689",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            88,
+            101
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Sierra Club",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "34113439",
+          "id": 34113439,
+          "screen_name": "sierraclub"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            81,
+            87
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sierraclub: \"Human activities are changing the climate in dangerous ways.\" - @potus #ActOnClimate",
+    "lang": "en",
+    "created_at": "2015-08-03 18:20:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 178,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 127,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628268451535187968,
+      "id_str": "628268451535187968",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/kbmH3IayE2",
+            "indices": [
+              97,
+              119
+            ],
+            "display_url": "go.wh.gov/CleanPowerPlan",
+            "expanded_url": "http://go.wh.gov/CleanPowerPlan"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              120,
+              135
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              89,
+              95
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "369505837",
+        "id": 369505837
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"The Pentagon says that climate change poses immediate risks to our national security.\" \u2014@POTUS: http://t.co/kbmH3IayE2 #CleanPowerPlan",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:17:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 178,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628269135735181312,
+    "id_str": "628269135735181312",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/kbmH3IayE2",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "go.wh.gov/CleanPowerPlan",
+          "expanded_url": "http://go.wh.gov/CleanPowerPlan"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            132,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "White House Live",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "369505837",
+          "id": 369505837,
+          "screen_name": "WHLive"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            101,
+            107
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WHLive: \"The Pentagon says that climate change poses immediate risks to our national security.\" \u2014@POTUS: http://t.co/kbmH3IayE2 #CleanP\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 18:20:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 736,
+      "favorite_count": 500,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628268853328539648,
+      "id_str": "628268853328539648",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              131,
+              144
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              124,
+              130
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"We\u2019re the first generation to feel the impact of climate change &amp; the last generation that can do something about it\" \u2014@POTUS #ActOnClimate",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:19:01 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 736,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628268978226528261,
+    "id_str": "628268978226528261",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The White House",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            140,
+            144
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WhiteHouse: \"We\u2019re the first generation to feel the impact of climate change &amp; the last generation that can do something about it\" \u2014@PO\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 18:19:31+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628268693882015746,
+      "id_str": "628268693882015746",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              43,
+              58
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              75,
+              88
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/M7uRbWZcDV",
+            "media_url": "http://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+            "expanded_url": "http://twitter.com/SciCmteDems/status/628268693882015746/photo/1",
+            "id_str": "628268693382909952",
+            "indices": [
+              89,
+              111
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 1000
+              }
+            },
+            "display_url": "pic.twitter.com/M7uRbWZcDV",
+            "id": 628268693382909952
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              10,
+              16
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          },
+          {
+            "name": "Gina McCarthy",
+            "indices": [
+              21,
+              29
+            ],
+            "id_str": "1530850933",
+            "id": 1530850933,
+            "screen_name": "GinaEPA"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22053641",
+        "id": 22053641
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/M7uRbWZcDV",
+            "media_url": "http://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+            "expanded_url": "http://twitter.com/SciCmteDems/status/628268693882015746/photo/1",
+            "id_str": "628268693382909952",
+            "indices": [
+              89,
+              111
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 1000
+              }
+            },
+            "display_url": "pic.twitter.com/M7uRbWZcDV",
+            "id": 628268693382909952
+          }
+        ]
+      },
+      "text": "Right now @POTUS and @GinaEPA speak on the #CleanPowerPlan and why we MUST #ActOnClimate http://t.co/M7uRbWZcDV",
+      "lang": "en",
+      "created_at": "Mon Aug 03 18:18:23 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 22053641,
+          "media_url": "http://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+          "source_user_id_str": "22053641",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "pic.twitter.com/M7uRbWZcDV",
+          "expanded_url": "http://twitter.com/SciCmteDems/status/628268693882015746/photo/1",
+          "url": "http://t.co/M7uRbWZcDV",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+          "source_status_id_str": "628268693882015746",
+          "id_str": "628268693382909952",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "id": 628268693382909952,
+          "source_status_id": 628268693882015746
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628268898769600512,
+    "id_str": "628268898769600512",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            60,
+            75
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            92,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 22053641,
+          "media_url": "http://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+          "source_user_id_str": "22053641",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "pic.twitter.com/M7uRbWZcDV",
+          "expanded_url": "http://twitter.com/SciCmteDems/status/628268693882015746/photo/1",
+          "url": "http://t.co/M7uRbWZcDV",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgPDESWUAA6Ky6.jpg",
+          "source_status_id_str": "628268693882015746",
+          "id_str": "628268693382909952",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "id": 628268693382909952,
+          "source_status_id": 628268693882015746
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Science Committee",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "22053641",
+          "id": 22053641,
+          "screen_name": "SciCmteDems"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            27,
+            33
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        },
+        {
+          "name": "Gina McCarthy",
+          "indices": [
+            38,
+            46
+          ],
+          "id_str": "1530850933",
+          "id": 1530850933,
+          "screen_name": "GinaEPA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SciCmteDems: Right now @POTUS and @GinaEPA speak on the #CleanPowerPlan and why we MUST #ActOnClimate http://t.co/M7uRbWZcDV",
+    "lang": "en",
+    "created_at": "2015-08-03 18:19:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 200,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 133,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628221984657272832,
+      "id_str": "628221984657272832",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/x0c3PatYdo",
+            "indices": [
+              84,
+              107
+            ],
+            "display_url": "medium.com/@GinaEPA/6-thi\u2026",
+            "expanded_url": "https://medium.com/@GinaEPA/6-things-every-american-should-know-about-the-clean-power-plan-e06b34fc2a57"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              67,
+              82
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              122,
+              135
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1530850933",
+        "id": 1530850933
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Here are the 6 most important things you should know about today's #CleanPowerPlan: https://t.co/x0c3PatYdo. It's time to #ActOnClimate!",
+      "lang": "en",
+      "created_at": "Mon Aug 03 15:12:47 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 200,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628237650621792260,
+    "id_str": "628237650621792260",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/x0c3PatYdo",
+          "indices": [
+            97,
+            120
+          ],
+          "display_url": "medium.com/@GinaEPA/6-thi\u2026",
+          "expanded_url": "https://medium.com/@GinaEPA/6-things-every-american-should-know-about-the-clean-power-plan-e06b34fc2a57"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            80,
+            95
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            135,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Gina McCarthy",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "1530850933",
+          "id": 1530850933,
+          "screen_name": "GinaEPA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GinaEPA: Here are the 6 most important things you should know about today's #CleanPowerPlan: https://t.co/x0c3PatYdo. It's time to #Act\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 16:15:02+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 8641,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7380,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627690347691274240,
+      "id_str": "627690347691274240",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/BU1PF0wjUK",
+            "indices": [
+              113,
+              136
+            ],
+            "display_url": "amp.twimg.com/v/48ecc1f6-1ec\u2026",
+            "expanded_url": "https://amp.twimg.com/v/48ecc1f6-1ec4-4065-b03d-4577adc8eece"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              45,
+              60
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              98,
+              111
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              21,
+              27
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "BREAKING: On Monday, @POTUS will release his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate.\nhttps://t.co/BU1PF0wjUK",
+      "lang": "en",
+      "created_at": "Sun Aug 02 04:00:15 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8641,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628237600885743616,
+    "id_str": "628237600885743616",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/BU1PF0wjUK",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "amp.twimg.com/v/48ecc1f6-1ec\u2026",
+          "expanded_url": "https://amp.twimg.com/v/48ecc1f6-1ec4-4065-b03d-4577adc8eece"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            61,
+            76
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            114,
+            127
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The White House",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            37,
+            43
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WhiteHouse: BREAKING: On Monday, @POTUS will release his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate.\nhttps://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 16:14:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627141070166585346,
+    "id_str": "627141070166585346",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627060237607010304,
+      "id_str": "627060237607010304",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "ExIm4Jobs",
+            "indices": [
+              106,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/T9QJuLFBtA",
+            "media_url": "http://pbs.twimg.com/media/CLPD9g6WgAEhr2E.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLPD9g6WgAEhr2E.jpg",
+            "expanded_url": "http://twitter.com/WhipHoyer/status/627060237607010304/photo/1",
+            "id_str": "627060234708746241",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/T9QJuLFBtA",
+            "id": 627060234708746241
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Export-Import Bank ",
+            "indices": [
+              8,
+              19
+            ],
+            "id_str": "222666657",
+            "id": 222666657,
+            "screen_name": "EximBankUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22012091",
+        "id": 22012091
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/T9QJuLFBtA",
+            "media_url": "http://pbs.twimg.com/media/CLPD9g6WgAEhr2E.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLPD9g6WgAEhr2E.jpg",
+            "expanded_url": "http://twitter.com/WhipHoyer/status/627060237607010304/photo/1",
+            "id_str": "627060234708746241",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/T9QJuLFBtA",
+            "id": 627060234708746241
+          },
+          {
+            "url": "http://t.co/T9QJuLFBtA",
+            "media_url": "http://pbs.twimg.com/media/CLPD9g-WEAAPLlm.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLPD9g-WEAAPLlm.jpg",
+            "expanded_url": "http://twitter.com/WhipHoyer/status/627060237607010304/photo/1",
+            "id_str": "627060234725494784",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/T9QJuLFBtA",
+            "id": 627060234725494784
+          }
+        ]
+      },
+      "text": "Visited @EximBankUS, which plays impt role in keeping US biz competitive. I'll cnte to urge GOP to reopen #ExIm4Jobs http://t.co/T9QJuLFBtA",
+      "lang": "en",
+      "created_at": "Fri Jul 31 10:16:25 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/7b9YDSgXkT",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "twitter.com/WhipHoyer/stat\u2026",
+          "expanded_url": "https://twitter.com/WhipHoyer/status/627060237607010304"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ExIm4Jobs",
+          "indices": [
+            46,
+            56
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Steny Hoyer",
+          "indices": [
+            9,
+            19
+          ],
+          "id_str": "22012091",
+          "id": 22012091,
+          "screen_name": "WhipHoyer"
+        },
+        {
+          "name": "Export-Import Bank ",
+          "indices": [
+            23,
+            34
+          ],
+          "id_str": "222666657",
+          "id": 222666657,
+          "screen_name": "EximBankUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "627060237607010304",
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "created_at": "2015-07-31 15:37:37+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'm with @WhipHoyer at @EximBankUS to support #ExIm4Jobs bc our priority will always be creating jobs for Americans. https://t.co/7b9YDSgXkT",
+    "lang": "en",
+    "quoted_status_id": 627060237607010304
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627131904848957440,
+    "id_str": "627131904848957440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/K2OtUN6swC",
+          "indices": [
+            103,
+            126
+          ],
+          "display_url": "instagram.com/p/5zgUf2JBAo/",
+          "expanded_url": "https://instagram.com/p/5zgUf2JBAo/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Lorton",
+          "indices": [
+            77,
+            84
+          ]
+        },
+        {
+          "text": "VA08",
+          "indices": [
+            89,
+            94
+          ]
+        },
+        {
+          "text": "LCAC",
+          "indices": [
+            96,
+            101
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2962868158",
+      "screen_name": "repdonbeyer",
+      "id": 2962868158
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great morning at Lorton Community Action Center - an invaluable resource for #Lorton and #VA08. #LCAC\u2026 https://t.co/K2OtUN6swC",
+    "lang": "en",
+    "created_at": "2015-07-31 15:01:12+00:00"
+  }
+]

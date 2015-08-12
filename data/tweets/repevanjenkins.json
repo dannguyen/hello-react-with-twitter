@@ -1,0 +1,3660 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628664053523570688,
+      "id_str": "628664053523570688",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "veterans",
+            "indices": [
+              95,
+              104
+            ]
+          },
+          {
+            "text": "VAclinic",
+            "indices": [
+              105,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/EyfisxjrZz",
+            "media_url": "http://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+            "expanded_url": "http://twitter.com/WVVA/status/628664053523570688/photo/1",
+            "id_str": "628664053410299904",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              }
+            },
+            "display_url": "pic.twitter.com/EyfisxjrZz",
+            "id": 628664053410299904
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/02HsM3FurD",
+            "indices": [
+              72,
+              94
+            ],
+            "display_url": "bit.ly/B169WVVA",
+            "expanded_url": "http://bit.ly/B169WVVA"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Evan Jenkins",
+            "indices": [
+              2,
+              17
+            ],
+            "id_str": "2953713339",
+            "id": 2953713339,
+            "screen_name": "RepEvanJenkins"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18456975",
+        "id": 18456975
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/EyfisxjrZz",
+            "media_url": "http://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+            "expanded_url": "http://twitter.com/WVVA/status/628664053523570688/photo/1",
+            "id_str": "628664053410299904",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              }
+            },
+            "display_url": "pic.twitter.com/EyfisxjrZz",
+            "id": 628664053410299904
+          }
+        ]
+      },
+      "text": ". @RepEvanJenkins spoke during official opening of Princeton VA Clinic.\nhttp://t.co/02HsM3FurD\n#veterans #VAclinic http://t.co/EyfisxjrZz",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:29:25 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 18456975,
+          "media_url": "http://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+          "source_user_id_str": "18456975",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/EyfisxjrZz",
+          "expanded_url": "http://twitter.com/WVVA/status/628664053523570688/photo/1",
+          "url": "http://t.co/EyfisxjrZz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+          "source_status_id_str": "628664053523570688",
+          "id_str": "628664053410299904",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "id": 628664053410299904,
+          "source_status_id": 628664053523570688
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628690722670161920,
+    "id_str": "628690722670161920",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "veterans",
+          "indices": [
+            105,
+            114
+          ]
+        },
+        {
+          "text": "VAclinic",
+          "indices": [
+            115,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 18456975,
+          "media_url": "http://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+          "source_user_id_str": "18456975",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/EyfisxjrZz",
+          "expanded_url": "http://twitter.com/WVVA/status/628664053523570688/photo/1",
+          "url": "http://t.co/EyfisxjrZz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2oDKUAAAEfVH.jpg",
+          "source_status_id_str": "628664053523570688",
+          "id_str": "628664053410299904",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "id": 628664053410299904,
+          "source_status_id": 628664053523570688
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/02HsM3FurD",
+          "indices": [
+            82,
+            104
+          ],
+          "display_url": "bit.ly/B169WVVA",
+          "expanded_url": "http://bit.ly/B169WVVA"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "WVVA News",
+          "indices": [
+            3,
+            8
+          ],
+          "id_str": "18456975",
+          "id": 18456975,
+          "screen_name": "WVVA"
+        },
+        {
+          "name": "Rep. Evan Jenkins",
+          "indices": [
+            12,
+            27
+          ],
+          "id_str": "2953713339",
+          "id": 2953713339,
+          "screen_name": "RepEvanJenkins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WVVA: . @RepEvanJenkins spoke during official opening of Princeton VA Clinic.\nhttp://t.co/02HsM3FurD\n#veterans #VAclinic http://t.co/Ey\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 22:15:23+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628685546383089664,
+    "id_str": "628685546383089664",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/igAD8fzcos",
+          "media_url": "http://pbs.twimg.com/media/CLmKKs9WoAEdCeY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmKKs9WoAEdCeY.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628685546383089664/photo/1",
+          "id_str": "628685539466715137",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/igAD8fzcos",
+          "id": 628685539466715137
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/igAD8fzcos",
+          "media_url": "http://pbs.twimg.com/media/CLmKKs9WoAEdCeY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmKKs9WoAEdCeY.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628685546383089664/photo/1",
+          "id_str": "628685539466715137",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/igAD8fzcos",
+          "id": 628685539466715137
+        },
+        {
+          "url": "http://t.co/igAD8fzcos",
+          "media_url": "http://pbs.twimg.com/media/CLmKKtAWIAACciR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmKKtAWIAACciR.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628685546383089664/photo/1",
+          "id_str": "628685539479265280",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/igAD8fzcos",
+          "id": 628685539479265280
+        },
+        {
+          "url": "http://t.co/igAD8fzcos",
+          "media_url": "http://pbs.twimg.com/media/CLmKK14W8AAyi1Y.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmKK14W8AAyi1Y.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628685546383089664/photo/1",
+          "id_str": "628685541861683200",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/igAD8fzcos",
+          "id": 628685541861683200
+        },
+        {
+          "url": "http://t.co/igAD8fzcos",
+          "media_url": "http://pbs.twimg.com/media/CLmKK16WoAAZDhL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmKK16WoAAZDhL.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628685546383089664/photo/1",
+          "id_str": "628685541870051328",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/igAD8fzcos",
+          "id": 628685541870051328
+        }
+      ]
+    },
+    "text": "Honored to speak at the ribbon-cutting for the new VA clinic in Princeton that will help serve vets in southern WV. http://t.co/igAD8fzcos",
+    "lang": "en",
+    "created_at": "2015-08-04 21:54:49+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628664050725969920,
+      "id_str": "628664050725969920",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "veterans",
+            "indices": [
+              95,
+              104
+            ]
+          },
+          {
+            "text": "VAclinic",
+            "indices": [
+              105,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/TBRTbbuJ0l",
+            "media_url": "http://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+            "expanded_url": "http://twitter.com/phess_WVVA/status/628664050725969920/photo/1",
+            "id_str": "628664050667294720",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              }
+            },
+            "display_url": "pic.twitter.com/TBRTbbuJ0l",
+            "id": 628664050667294720
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/Bse4Tnetd8",
+            "indices": [
+              72,
+              94
+            ],
+            "display_url": "bit.ly/B169WVVA",
+            "expanded_url": "http://bit.ly/B169WVVA"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Evan Jenkins",
+            "indices": [
+              2,
+              17
+            ],
+            "id_str": "2953713339",
+            "id": 2953713339,
+            "screen_name": "RepEvanJenkins"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "111021166",
+        "id": 111021166
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/TBRTbbuJ0l",
+            "media_url": "http://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+            "expanded_url": "http://twitter.com/phess_WVVA/status/628664050725969920/photo/1",
+            "id_str": "628664050667294720",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 400,
+                "resize": "fit",
+                "h": 300
+              }
+            },
+            "display_url": "pic.twitter.com/TBRTbbuJ0l",
+            "id": 628664050667294720
+          }
+        ]
+      },
+      "text": ". @RepEvanJenkins spoke during official opening of Princeton VA Clinic.\nhttp://t.co/Bse4Tnetd8\n#veterans #VAclinic http://t.co/TBRTbbuJ0l",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:29:24 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 111021166,
+          "media_url": "http://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+          "source_user_id_str": "111021166",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/TBRTbbuJ0l",
+          "expanded_url": "http://twitter.com/phess_WVVA/status/628664050725969920/photo/1",
+          "url": "http://t.co/TBRTbbuJ0l",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+          "source_status_id_str": "628664050725969920",
+          "id_str": "628664050667294720",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "id": 628664050667294720,
+          "source_status_id": 628664050725969920
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628681834436665345,
+    "id_str": "628681834436665345",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "veterans",
+          "indices": [
+            111,
+            120
+          ]
+        },
+        {
+          "text": "VAclinic",
+          "indices": [
+            121,
+            130
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 111021166,
+          "media_url": "http://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+          "source_user_id_str": "111021166",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/TBRTbbuJ0l",
+          "expanded_url": "http://twitter.com/phess_WVVA/status/628664050725969920/photo/1",
+          "url": "http://t.co/TBRTbbuJ0l",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2n48VEAAsmtu.jpg",
+          "source_status_id_str": "628664050725969920",
+          "id_str": "628664050667294720",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "id": 628664050667294720,
+          "source_status_id": 628664050725969920
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/Bse4Tnetd8",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "bit.ly/B169WVVA",
+          "expanded_url": "http://bit.ly/B169WVVA"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Paul Hess",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "111021166",
+          "id": 111021166,
+          "screen_name": "phess_WVVA"
+        },
+        {
+          "name": "Rep. Evan Jenkins",
+          "indices": [
+            18,
+            33
+          ],
+          "id_str": "2953713339",
+          "id": 2953713339,
+          "screen_name": "RepEvanJenkins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @phess_WVVA: . @RepEvanJenkins spoke during official opening of Princeton VA Clinic.\nhttp://t.co/Bse4Tnetd8\n#veterans #VAclinic http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 21:40:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628368514039054337,
+    "id_str": "628368514039054337",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/hIZlWzv1q3",
+          "media_url": "http://pbs.twimg.com/media/CLhp0MXWsAAtkVT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhp0MXWsAAtkVT.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628368514039054337/photo/1",
+          "id_str": "628368493411479552",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/hIZlWzv1q3",
+          "id": 628368493411479552
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Triple Crown",
+          "indices": [
+            7,
+            22
+          ],
+          "id_str": "2188880503",
+          "id": 2188880503,
+          "screen_name": "triplecrownbev"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/hIZlWzv1q3",
+          "media_url": "http://pbs.twimg.com/media/CLhp0MXWsAAtkVT.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhp0MXWsAAtkVT.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628368514039054337/photo/1",
+          "id_str": "628368493411479552",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/hIZlWzv1q3",
+          "id": 628368493411479552
+        },
+        {
+          "url": "http://t.co/hIZlWzv1q3",
+          "media_url": "http://pbs.twimg.com/media/CLhp0M8XAAEaM6Q.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhp0M8XAAEaM6Q.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628368514039054337/photo/1",
+          "id_str": "628368493566689281",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/hIZlWzv1q3",
+          "id": 628368493566689281
+        },
+        {
+          "url": "http://t.co/hIZlWzv1q3",
+          "media_url": "http://pbs.twimg.com/media/CLhp0NKWcAAaiRK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhp0NKWcAAaiRK.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628368514039054337/photo/1",
+          "id_str": "628368493625372672",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/hIZlWzv1q3",
+          "id": 628368493625372672
+        }
+      ]
+    },
+    "text": "Toured @triplecrownbev to learn more about their role as a distributor and their history as a locally owned company. http://t.co/hIZlWzv1q3",
+    "lang": "en",
+    "created_at": "2015-08-04 00:55:02+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628336140324634624,
+    "id_str": "628336140324634624",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/Z9Hvp1Pglk",
+          "media_url": "http://pbs.twimg.com/media/CLhMYM8UwAACbLJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhMYM8UwAACbLJ.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628336140324634624/photo/1",
+          "id_str": "628336126692999168",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/Z9Hvp1Pglk",
+          "id": 628336126692999168
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Walmart",
+          "indices": [
+            13,
+            21
+          ],
+          "id_str": "17137891",
+          "id": 17137891,
+          "screen_name": "Walmart"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Z9Hvp1Pglk",
+          "media_url": "http://pbs.twimg.com/media/CLhMYM8UwAACbLJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhMYM8UwAACbLJ.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628336140324634624/photo/1",
+          "id_str": "628336126692999168",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/Z9Hvp1Pglk",
+          "id": 628336126692999168
+        },
+        {
+          "url": "http://t.co/Z9Hvp1Pglk",
+          "media_url": "http://pbs.twimg.com/media/CLhMYNLUcAAlq7s.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhMYNLUcAAlq7s.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628336140324634624/photo/1",
+          "id_str": "628336126755893248",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/Z9Hvp1Pglk",
+          "id": 628336126755893248
+        },
+        {
+          "url": "http://t.co/Z9Hvp1Pglk",
+          "media_url": "http://pbs.twimg.com/media/CLhMYNWUwAAWd5a.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLhMYNWUwAAWd5a.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628336140324634624/photo/1",
+          "id_str": "628336126802051072",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/Z9Hvp1Pglk",
+          "id": 628336126802051072
+        }
+      ]
+    },
+    "text": "I stopped by @Walmart in Cabell Co. to learn more about their role in our community. http://t.co/Z9Hvp1Pglk",
+    "lang": "en",
+    "created_at": "2015-08-03 22:46:24+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Huntington, WV",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -82.5304326,
+                38.375981
+              ],
+              [
+                -82.349236,
+                38.375981
+              ],
+              [
+                -82.349236,
+                38.439347
+              ],
+              [
+                -82.5304326,
+                38.439347
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/e4197a23034fa912.json",
+        "name": "Huntington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "e4197a23034fa912"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628249154024808449,
+      "id_str": "628249154024808449",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/FkGVUcAmFk",
+            "media_url": "http://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+            "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+            "id_str": "628249149151006720",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 1280
+              }
+            },
+            "display_url": "pic.twitter.com/FkGVUcAmFk",
+            "id": 628249149151006720
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Evan Jenkins",
+            "indices": [
+              7,
+              22
+            ],
+            "id_str": "2953713339",
+            "id": 2953713339,
+            "screen_name": "RepEvanJenkins"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "829000890",
+        "id": 829000890
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FkGVUcAmFk",
+            "media_url": "http://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+            "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+            "id_str": "628249149151006720",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 1280
+              }
+            },
+            "display_url": "pic.twitter.com/FkGVUcAmFk",
+            "id": 628249149151006720
+          },
+          {
+            "url": "http://t.co/FkGVUcAmFk",
+            "media_url": "http://pbs.twimg.com/media/CLf9Rf6WUAEdlyZ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf9Rf6WUAEdlyZ.jpg",
+            "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+            "id_str": "628249150107308033",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 526
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 503,
+                "resize": "fit",
+                "h": 779
+              },
+              "large": {
+                "w": 503,
+                "resize": "fit",
+                "h": 779
+              }
+            },
+            "display_url": "pic.twitter.com/FkGVUcAmFk",
+            "id": 628249150107308033
+          },
+          {
+            "url": "http://t.co/FkGVUcAmFk",
+            "media_url": "http://pbs.twimg.com/media/CLf9RsHW8AAuJdQ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf9RsHW8AAuJdQ.jpg",
+            "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+            "id_str": "628249153383100416",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 1280
+              }
+            },
+            "display_url": "pic.twitter.com/FkGVUcAmFk",
+            "id": 628249153383100416
+          }
+        ]
+      },
+      "text": "Thanks @RepEvanJenkins for visiting and recognizing UPSers for their years of service and safe driving. http://t.co/FkGVUcAmFk",
+      "lang": "en",
+      "created_at": "Mon Aug 03 17:00:45 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 829000890,
+          "media_url": "http://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+          "source_user_id_str": "829000890",
+          "indices": [
+            122,
+            140
+          ],
+          "display_url": "pic.twitter.com/FkGVUcAmFk",
+          "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+          "url": "http://t.co/FkGVUcAmFk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+          "source_status_id_str": "628249154024808449",
+          "id_str": "628249149151006720",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 1280
+            }
+          },
+          "id": 628249149151006720,
+          "source_status_id": 628249154024808449
+        },
+        {
+          "source_user_id": 829000890,
+          "media_url": "http://pbs.twimg.com/media/CLf9Rf6WUAEdlyZ.jpg",
+          "source_user_id_str": "829000890",
+          "indices": [
+            122,
+            140
+          ],
+          "display_url": "pic.twitter.com/FkGVUcAmFk",
+          "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+          "url": "http://t.co/FkGVUcAmFk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf9Rf6WUAEdlyZ.jpg",
+          "source_status_id_str": "628249154024808449",
+          "id_str": "628249150107308033",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 526
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 503,
+              "resize": "fit",
+              "h": 779
+            },
+            "large": {
+              "w": 503,
+              "resize": "fit",
+              "h": 779
+            }
+          },
+          "id": 628249150107308033,
+          "source_status_id": 628249154024808449
+        },
+        {
+          "source_user_id": 829000890,
+          "media_url": "http://pbs.twimg.com/media/CLf9RsHW8AAuJdQ.jpg",
+          "source_user_id_str": "829000890",
+          "indices": [
+            122,
+            140
+          ],
+          "display_url": "pic.twitter.com/FkGVUcAmFk",
+          "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+          "url": "http://t.co/FkGVUcAmFk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf9RsHW8AAuJdQ.jpg",
+          "source_status_id_str": "628249154024808449",
+          "id_str": "628249153383100416",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 1280
+            }
+          },
+          "id": 628249153383100416,
+          "source_status_id": 628249154024808449
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628332163361079296,
+    "id_str": "628332163361079296",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 829000890,
+          "media_url": "http://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+          "source_user_id_str": "829000890",
+          "indices": [
+            122,
+            140
+          ],
+          "display_url": "pic.twitter.com/FkGVUcAmFk",
+          "expanded_url": "http://twitter.com/MidAtlUPSers/status/628249154024808449/photo/1",
+          "url": "http://t.co/FkGVUcAmFk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf9RcWWUAA8bhE.jpg",
+          "source_status_id_str": "628249154024808449",
+          "id_str": "628249149151006720",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 1280
+            }
+          },
+          "id": 628249149151006720,
+          "source_status_id": 628249154024808449
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Mid Atlantic UPSers",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "829000890",
+          "id": 829000890,
+          "screen_name": "MidAtlUPSers"
+        },
+        {
+          "name": "Rep. Evan Jenkins",
+          "indices": [
+            25,
+            40
+          ],
+          "id_str": "2953713339",
+          "id": 2953713339,
+          "screen_name": "RepEvanJenkins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MidAtlUPSers: Thanks @RepEvanJenkins for visiting and recognizing UPSers for their years of service and safe driving. http://t.co/FkGVU\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 22:30:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628285861872955392,
+    "id_str": "628285861872955392",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/Y1RRDjTdQa",
+          "media_url": "http://pbs.twimg.com/media/CLgepZ0UMAUz9b9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgepZ0UMAUz9b9.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628285861872955392/photo/1",
+          "id_str": "628285844671967237",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 530
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 848
+            }
+          },
+          "display_url": "pic.twitter.com/Y1RRDjTdQa",
+          "id": 628285844671967237
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "UPS",
+          "indices": [
+            23,
+            27
+          ],
+          "id_str": "158129535",
+          "id": 158129535,
+          "screen_name": "UPS"
+        },
+        {
+          "name": "Carol Miller",
+          "indices": [
+            96,
+            110
+          ],
+          "id_str": "841994444",
+          "id": 841994444,
+          "screen_name": "CarolMillerWV"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Y1RRDjTdQa",
+          "media_url": "http://pbs.twimg.com/media/CLgepZ0UMAUz9b9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgepZ0UMAUz9b9.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628285861872955392/photo/1",
+          "id_str": "628285844671967237",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 530
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 848
+            }
+          },
+          "display_url": "pic.twitter.com/Y1RRDjTdQa",
+          "id": 628285844671967237
+        },
+        {
+          "url": "http://t.co/Y1RRDjTdQa",
+          "media_url": "http://pbs.twimg.com/media/CLgepZ1UsAA9vOM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgepZ1UsAA9vOM.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628285861872955392/photo/1",
+          "id_str": "628285844676194304",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/Y1RRDjTdQa",
+          "id": 628285844676194304
+        },
+        {
+          "url": "http://t.co/Y1RRDjTdQa",
+          "media_url": "http://pbs.twimg.com/media/CLgepcRUwAAS91h.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgepcRUwAAS91h.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628285861872955392/photo/1",
+          "id_str": "628285845330509824",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/Y1RRDjTdQa",
+          "id": 628285845330509824
+        },
+        {
+          "url": "http://t.co/Y1RRDjTdQa",
+          "media_url": "http://pbs.twimg.com/media/CLgepexUkAI700C.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgepexUkAI700C.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/628285861872955392/photo/1",
+          "id_str": "628285846001586178",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/Y1RRDjTdQa",
+          "id": 628285846001586178
+        }
+      ]
+    },
+    "text": "Great time touring the @UPS distribution facility in Huntington today with my daughter and Del. @CarolMillerWV http://t.co/Y1RRDjTdQa",
+    "lang": "en",
+    "created_at": "2015-08-03 19:26:37+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628212169436491776,
+      "id_str": "628212169436491776",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 2,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 628203764684562432,
+        "id_str": "628203764684562432",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/HAYXtbsf2l",
+              "indices": [
+                111,
+                133
+              ],
+              "display_url": "governor.wv.gov/media/pressrel\u2026",
+              "expanded_url": "http://www.governor.wv.gov/media/pressreleases/2015/Pages/Governor-Tomblin,-Congressional-Delegation-Announce-$20-Million-Scientific-Research-Grant.aspx"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "wvstem",
+              "indices": [
+                103,
+                110
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "name": "National Science Fdn",
+              "indices": [
+                41,
+                45
+              ],
+              "id_str": "16245822",
+              "id": 16245822,
+              "screen_name": "NSF"
+            }
+          ]
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "104507032",
+          "id": 104507032
+        },
+        "favorited": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "retweeted": false,
+        "text": "We are SO pleased to announce a new 5-yr @NSF EPSCoR grant for WV! Big news for research in our state! #wvstem http://t.co/HAYXtbsf2l",
+        "lang": "en",
+        "created_at": "Mon Aug 03 14:00:23 +0000 2015"
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/C6ggaBXpze",
+            "indices": [
+              116,
+              139
+            ],
+            "display_url": "twitter.com/researchwv/sta\u2026",
+            "expanded_url": "https://twitter.com/researchwv/status/628203764684562432"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Governor Tomblin",
+            "indices": [
+              22,
+              33
+            ],
+            "id_str": "607332953",
+            "id": 607332953,
+            "screen_name": "GovTomblin"
+          },
+          {
+            "name": "Senator Joe Manchin",
+            "indices": [
+              35,
+              50
+            ],
+            "id_str": "234374703",
+            "id": 234374703,
+            "screen_name": "Sen_JoeManchin"
+          },
+          {
+            "name": "Shelley Moore Capito",
+            "indices": [
+              52,
+              62
+            ],
+            "id_str": "193794406",
+            "id": 193794406,
+            "screen_name": "SenCapito"
+          },
+          {
+            "name": "Rep. Evan Jenkins",
+            "indices": [
+              64,
+              79
+            ],
+            "id_str": "2953713339",
+            "id": 2953713339,
+            "screen_name": "RepEvanJenkins"
+          },
+          {
+            "name": "Rep. Alex Mooney",
+            "indices": [
+              81,
+              95
+            ],
+            "id_str": "2964526557",
+            "id": 2964526557,
+            "screen_name": "RepAlexMooney"
+          },
+          {
+            "name": "David B. McKinley",
+            "indices": [
+              102,
+              114
+            ],
+            "id_str": "240427862",
+            "id": 240427862,
+            "screen_name": "RepMcKinley"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628203764684562432",
+      "user": {
+        "id_str": "292439628",
+        "id": 292439628
+      },
+      "favorited": false,
+      "created_at": "Mon Aug 03 14:33:47 +0000 2015",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Announcement today by @GovTomblin, @Sen_JoeManchin, @SenCapito, @RepEvanJenkins, @RepAlexMooney &amp; @RepMcKinley  https://t.co/C6ggaBXpze",
+      "lang": "en",
+      "quoted_status_id": 628203764684562432
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628228689696845828,
+    "id_str": "628228689696845828",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/C6ggaBXpze",
+          "indices": [
+            128,
+            144
+          ],
+          "display_url": "twitter.com/researchwv/sta\u2026",
+          "expanded_url": "https://twitter.com/researchwv/status/628203764684562432"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WV HEPC",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "292439628",
+          "id": 292439628,
+          "screen_name": "WVHEPC"
+        },
+        {
+          "name": "Governor Tomblin",
+          "indices": [
+            34,
+            45
+          ],
+          "id_str": "607332953",
+          "id": 607332953,
+          "screen_name": "GovTomblin"
+        },
+        {
+          "name": "Senator Joe Manchin",
+          "indices": [
+            47,
+            62
+          ],
+          "id_str": "234374703",
+          "id": 234374703,
+          "screen_name": "Sen_JoeManchin"
+        },
+        {
+          "name": "Shelley Moore Capito",
+          "indices": [
+            64,
+            74
+          ],
+          "id_str": "193794406",
+          "id": 193794406,
+          "screen_name": "SenCapito"
+        },
+        {
+          "name": "Rep. Evan Jenkins",
+          "indices": [
+            76,
+            91
+          ],
+          "id_str": "2953713339",
+          "id": 2953713339,
+          "screen_name": "RepEvanJenkins"
+        },
+        {
+          "name": "Rep. Alex Mooney",
+          "indices": [
+            93,
+            107
+          ],
+          "id_str": "2964526557",
+          "id": 2964526557,
+          "screen_name": "RepAlexMooney"
+        },
+        {
+          "name": "David B. McKinley",
+          "indices": [
+            114,
+            126
+          ],
+          "id_str": "240427862",
+          "id": 240427862,
+          "screen_name": "RepMcKinley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WVHEPC: Announcement today by @GovTomblin, @Sen_JoeManchin, @SenCapito, @RepEvanJenkins, @RepAlexMooney &amp; @RepMcKinley  https://t.co/C6\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 15:39:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627674062718935040,
+    "id_str": "627674062718935040",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/YpMKCaApLJ",
+          "media_url": "http://pbs.twimg.com/media/CLXyGGUWIAAHMPy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLXyGGUWIAAHMPy.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627674062718935040/photo/1",
+          "id_str": "627673909677137920",
+          "indices": [
+            49,
+            71
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/YpMKCaApLJ",
+          "id": 627673909677137920
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/YpMKCaApLJ",
+          "media_url": "http://pbs.twimg.com/media/CLXyGGUWIAAHMPy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLXyGGUWIAAHMPy.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627674062718935040/photo/1",
+          "id_str": "627673909677137920",
+          "indices": [
+            49,
+            71
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/YpMKCaApLJ",
+          "id": 627673909677137920
+        },
+        {
+          "url": "http://t.co/YpMKCaApLJ",
+          "media_url": "http://pbs.twimg.com/media/CLXyGGkWoAAmUAf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLXyGGkWoAAmUAf.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627674062718935040/photo/1",
+          "id_str": "627673909744279552",
+          "indices": [
+            49,
+            71
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/YpMKCaApLJ",
+          "id": 627673909744279552
+        },
+        {
+          "url": "http://t.co/YpMKCaApLJ",
+          "media_url": "http://pbs.twimg.com/media/CLXyGGzW8AAvmyn.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLXyGGzW8AAvmyn.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627674062718935040/photo/1",
+          "id_str": "627673909807214592",
+          "indices": [
+            49,
+            71
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 448
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 766
+            }
+          },
+          "display_url": "pic.twitter.com/YpMKCaApLJ",
+          "id": 627673909807214592
+        },
+        {
+          "url": "http://t.co/YpMKCaApLJ",
+          "media_url": "http://pbs.twimg.com/media/CLXyGHHWgAATcZr.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLXyGHHWgAATcZr.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627674062718935040/photo/1",
+          "id_str": "627673909891072000",
+          "indices": [
+            49,
+            71
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/YpMKCaApLJ",
+          "id": 627673909891072000
+        }
+      ]
+    },
+    "text": "Visiting the Beckley Exhibition Coal Mine today. http://t.co/YpMKCaApLJ",
+    "lang": "en",
+    "created_at": "2015-08-02 02:55:32+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627195409258168321,
+    "id_str": "627195409258168321",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/kFPX3YiRw6",
+          "media_url": "http://pbs.twimg.com/media/CLQ-5cwWwAASYS2.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQ-5cwWwAASYS2.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627195409258168321/photo/1",
+          "id_str": "627195404803817472",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/kFPX3YiRw6",
+          "id": 627195404803817472
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "AG Patrick Morrisey",
+          "indices": [
+            9,
+            24
+          ],
+          "id_str": "1089645278",
+          "id": 1089645278,
+          "screen_name": "WestVirginiaAG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kFPX3YiRw6",
+          "media_url": "http://pbs.twimg.com/media/CLQ-5cwWwAASYS2.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQ-5cwWwAASYS2.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627195409258168321/photo/1",
+          "id_str": "627195404803817472",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/kFPX3YiRw6",
+          "id": 627195404803817472
+        },
+        {
+          "url": "http://t.co/kFPX3YiRw6",
+          "media_url": "http://pbs.twimg.com/media/CLQ-5dDWEAAzcFq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQ-5dDWEAAzcFq.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/627195409258168321/photo/1",
+          "id_str": "627195404883464192",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 448
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 766
+            }
+          },
+          "display_url": "pic.twitter.com/kFPX3YiRw6",
+          "id": 627195404883464192
+        }
+      ]
+    },
+    "text": "I joined @WestVirginiaAG to announce the St. Mary\u2019s Medical Center &amp; Cabell Huntington Hospital antitrust agreement. http://t.co/kFPX3YiRw6",
+    "lang": "en",
+    "created_at": "2015-07-31 19:13:32+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6903,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 12017,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626831274477404160,
+      "id_str": "626831274477404160",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/T9FmhCqyme",
+            "media_url": "http://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "expanded_url": "http://twitter.com/GeorgeHWBush/status/626831274477404160/photo/1",
+            "id_str": "626831273672114176",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/T9FmhCqyme",
+            "id": 626831273672114176
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "475988505",
+        "id": 475988505
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/T9FmhCqyme",
+            "media_url": "http://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "expanded_url": "http://twitter.com/GeorgeHWBush/status/626831274477404160/photo/1",
+            "id_str": "626831273672114176",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/T9FmhCqyme",
+            "id": 626831273672114176
+          }
+        ]
+      },
+      "text": "Who knew jumping out of planes was safer than getting out of bed? Thanks to all for your kind get-well messages. http://t.co/T9FmhCqyme",
+      "lang": "en",
+      "created_at": "Thu Jul 30 19:06:36 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6903,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 475988505,
+          "media_url": "http://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+          "source_user_id_str": "475988505",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/T9FmhCqyme",
+          "expanded_url": "http://twitter.com/GeorgeHWBush/status/626831274477404160/photo/1",
+          "url": "http://t.co/T9FmhCqyme",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+          "source_status_id_str": "626831274477404160",
+          "id_str": "626831273672114176",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 626831273672114176,
+          "source_status_id": 626831274477404160
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626878365673332736,
+    "id_str": "626878365673332736",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 475988505,
+          "media_url": "http://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+          "source_user_id_str": "475988505",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/T9FmhCqyme",
+          "expanded_url": "http://twitter.com/GeorgeHWBush/status/626831274477404160/photo/1",
+          "url": "http://t.co/T9FmhCqyme",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+          "source_status_id_str": "626831274477404160",
+          "id_str": "626831273672114176",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 626831273672114176,
+          "source_status_id": 626831274477404160
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "George Bush",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "475988505",
+          "id": 475988505,
+          "screen_name": "GeorgeHWBush"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GeorgeHWBush: Who knew jumping out of planes was safer than getting out of bed? Thanks to all for your kind get-well messages. http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 22:13:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626827648786894848,
+    "id_str": "626827648786894848",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/eEnpmUIdva",
+          "media_url": "http://pbs.twimg.com/media/CLLwa1YUsAA1vWq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLwa1YUsAA1vWq.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/626827648786894848/photo/1",
+          "id_str": "626827641954283520",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/eEnpmUIdva",
+          "id": 626827641954283520
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/eEnpmUIdva",
+          "media_url": "http://pbs.twimg.com/media/CLLwa1YUsAA1vWq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLwa1YUsAA1vWq.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/626827648786894848/photo/1",
+          "id_str": "626827641954283520",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/eEnpmUIdva",
+          "id": 626827641954283520
+        }
+      ]
+    },
+    "text": "Proud to meet w/ West Virginia AIPAC members about my opposition to the Iran deal &amp; my unwavering support of Israel. http://t.co/eEnpmUIdva",
+    "lang": "en",
+    "created_at": "2015-07-30 18:52:12+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626449046882918400,
+    "id_str": "626449046882918400",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/5eHXCgLbG2",
+          "indices": [
+            104,
+            127
+          ],
+          "display_url": "youtu.be/6BgTK8yPga4",
+          "expanded_url": "https://youtu.be/6BgTK8yPga4"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "David B. McKinley",
+          "indices": [
+            14,
+            26
+          ],
+          "id_str": "240427862",
+          "id": 240427862,
+          "screen_name": "RepMcKinley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to join @RepMcKinley and the House Coal Caucus in speaking in support of West Virginia coal jobs. https://t.co/5eHXCgLbG2",
+    "lang": "en",
+    "created_at": "2015-07-29 17:47:46+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626176053824851969,
+      "id_str": "626176053824851969",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "CoalCaucus",
+            "indices": [
+              66,
+              77
+            ]
+          },
+          {
+            "text": "coal",
+            "indices": [
+              106,
+              111
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Andy Barr",
+            "indices": [
+              10,
+              22
+            ],
+            "id_str": "1089334250",
+            "id": 1089334250,
+            "screen_name": "RepAndyBarr"
+          },
+          {
+            "name": "Rep. Alex Mooney",
+            "indices": [
+              23,
+              37
+            ],
+            "id_str": "2964526557",
+            "id": 2964526557,
+            "screen_name": "RepAlexMooney"
+          },
+          {
+            "name": "Rep. Evan Jenkins",
+            "indices": [
+              38,
+              53
+            ],
+            "id_str": "2953713339",
+            "id": 2953713339,
+            "screen_name": "RepEvanJenkins"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "240427862",
+        "id": 240427862
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thanks to @RepAndyBarr @RepAlexMooney @RepEvanJenkins for joining #CoalCaucus discussion on importance of #coal",
+      "lang": "en",
+      "created_at": "Tue Jul 28 23:42:59 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626181348512956416,
+    "id_str": "626181348512956416",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CoalCaucus",
+          "indices": [
+            83,
+            94
+          ]
+        },
+        {
+          "text": "coal",
+          "indices": [
+            123,
+            128
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "David B. McKinley",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "240427862",
+          "id": 240427862,
+          "screen_name": "RepMcKinley"
+        },
+        {
+          "name": "Rep. Andy Barr",
+          "indices": [
+            27,
+            39
+          ],
+          "id_str": "1089334250",
+          "id": 1089334250,
+          "screen_name": "RepAndyBarr"
+        },
+        {
+          "name": "Rep. Alex Mooney",
+          "indices": [
+            40,
+            54
+          ],
+          "id_str": "2964526557",
+          "id": 2964526557,
+          "screen_name": "RepAlexMooney"
+        },
+        {
+          "name": "Rep. Evan Jenkins",
+          "indices": [
+            55,
+            70
+          ],
+          "id_str": "2953713339",
+          "id": 2953713339,
+          "screen_name": "RepEvanJenkins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepMcKinley: Thanks to @RepAndyBarr @RepAlexMooney @RepEvanJenkins for joining #CoalCaucus discussion on importance of #coal",
+    "lang": "en",
+    "created_at": "2015-07-29 00:04:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626143010804400128,
+    "id_str": "626143010804400128",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/m2l5IaBNBF",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "youtu.be/U40k84fb9eI",
+          "expanded_url": "https://youtu.be/U40k84fb9eI"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I\u2019m proud to cosponsor the REINS Act because I know how this administration\u2019s regulations have hurt West Virginia. https://t.co/m2l5IaBNBF",
+    "lang": "en",
+    "created_at": "2015-07-28 21:31:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625743142571085824,
+    "id_str": "625743142571085824",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/fleuIf5t2B",
+          "media_url": "http://pbs.twimg.com/media/CK8WEauW8AE-zdY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8WEauW8AE-zdY.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/625743142571085824/photo/1",
+          "id_str": "625743138376839169",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/fleuIf5t2B",
+          "id": 625743138376839169
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "WOAYNewswatch",
+          "indices": [
+            13,
+            27
+          ],
+          "id_str": "293592153",
+          "id": 293592153,
+          "screen_name": "WOAYNewswatch"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/fleuIf5t2B",
+          "media_url": "http://pbs.twimg.com/media/CK8WEauW8AE-zdY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8WEauW8AE-zdY.jpg",
+          "expanded_url": "http://twitter.com/RepEvanJenkins/status/625743142571085824/photo/1",
+          "id_str": "625743138376839169",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/fleuIf5t2B",
+          "id": 625743138376839169
+        }
+      ]
+    },
+    "text": "I stopped by @WOAYNewswatch today for a great conversation with Keith Conner about my first six months in Congress. http://t.co/fleuIf5t2B",
+    "lang": "en",
+    "created_at": "2015-07-27 19:02:45+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624749915420426240,
+      "id_str": "624749915420426240",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/mYv2ayJqA3",
+            "indices": [
+              117,
+              139
+            ],
+            "display_url": "fb.me/7pXzP7Xj9",
+            "expanded_url": "http://fb.me/7pXzP7Xj9"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "621097953",
+        "id": 621097953
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Rep. Evan Jenkins (3rd District of WV) is guest on this episode of The Coal Seam, the official television show of... http://t.co/mYv2ayJqA3",
+      "lang": "en",
+      "created_at": "Sat Jul 25 01:16:01 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625145041741344768,
+    "id_str": "625145041741344768",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/mYv2ayJqA3",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "fb.me/7pXzP7Xj9",
+          "expanded_url": "http://fb.me/7pXzP7Xj9"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Friends of Coal",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "621097953",
+          "id": 621097953,
+          "screen_name": "FriendsofCoalWV"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FriendsofCoalWV: Rep. Evan Jenkins (3rd District of WV) is guest on this episode of The Coal Seam, the official television show of... h\u2026",
+    "lang": "en",
+    "created_at": "2015-07-26 03:26:07+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624951775288795136,
+      "id_str": "624951775288795136",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/pZORLAw041",
+            "indices": [
+              45,
+              67
+            ],
+            "display_url": "wvowradio.com/Article.asp?id\u2026",
+            "expanded_url": "http://www.wvowradio.com/Article.asp?id=2954254&spid=38095"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Evan Jenkins",
+            "indices": [
+              69,
+              84
+            ],
+            "id_str": "2953713339",
+            "id": 2953713339,
+            "screen_name": "RepEvanJenkins"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "625814299",
+        "id": 625814299
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Congressman Evan Jenkins Mobile Office Hours http://t.co/pZORLAw041  @RepEvanJenkins",
+      "lang": "en",
+      "created_at": "Sat Jul 25 14:38:08 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625051012190085121,
+    "id_str": "625051012190085121",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/pZORLAw041",
+          "indices": [
+            60,
+            82
+          ],
+          "display_url": "wvowradio.com/Article.asp?id\u2026",
+          "expanded_url": "http://www.wvowradio.com/Article.asp?id=2954254&spid=38095"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WVOW Radio",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "625814299",
+          "id": 625814299,
+          "screen_name": "WVOWradio"
+        },
+        {
+          "name": "Rep. Evan Jenkins",
+          "indices": [
+            84,
+            99
+          ],
+          "id_str": "2953713339",
+          "id": 2953713339,
+          "screen_name": "RepEvanJenkins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WVOWradio: Congressman Evan Jenkins Mobile Office Hours http://t.co/pZORLAw041  @RepEvanJenkins",
+    "lang": "en",
+    "created_at": "2015-07-25 21:12:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624615627647422464,
+    "id_str": "624615627647422464",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            108,
+            126
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I\u2019m joining my colleagues in sending a letter to the U.S. Justice Department asking for an investigation of #PlannedParenthood.",
+    "lang": "en",
+    "created_at": "2015-07-24 16:22:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624615377423564800,
+    "id_str": "624615377423564800",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            100,
+            118
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2953713339",
+      "screen_name": "repevanjenkins",
+      "id": 2953713339
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Through my role on the House Appropriations Committee, I\u2019ve fought to eliminate federal funding for #PlannedParenthood.",
+    "lang": "en",
+    "created_at": "2015-07-24 16:21:25+00:00"
+  }
+]

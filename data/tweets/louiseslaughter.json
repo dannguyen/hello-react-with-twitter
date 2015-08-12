@@ -1,0 +1,3534 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 8639,
+      "favorite_count": 7373,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "627690347691274240",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "1536791610",
+            "indices": [
+              21,
+              27
+            ],
+            "name": "President Obama",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              45,
+              60
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              98,
+              111
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/BU1PF0wjUK",
+            "indices": [
+              113,
+              136
+            ],
+            "display_url": "amp.twimg.com/v/48ecc1f6-1ec\u2026",
+            "expanded_url": "https://amp.twimg.com/v/48ecc1f6-1ec4-4065-b03d-4577adc8eece"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 627690347691274240,
+      "text": "BREAKING: On Monday, @POTUS will release his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate.\nhttps://t.co/BU1PF0wjUK",
+      "lang": "en",
+      "created_at": "Sun Aug 02 04:00:15 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 8639,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628264552434696192",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "30313925",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "The White House",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "id_str": "1536791610",
+          "indices": [
+            37,
+            43
+          ],
+          "name": "President Obama",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            61,
+            76
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            114,
+            127
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/BU1PF0wjUK",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "amp.twimg.com/v/48ecc1f6-1ec\u2026",
+          "expanded_url": "https://amp.twimg.com/v/48ecc1f6-1ec4-4065-b03d-4577adc8eece"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628264552434696192,
+    "text": "RT @WhiteHouse: BREAKING: On Monday, @POTUS will release his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate.\nhttps://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 18:01:56+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 346,
+      "favorite_count": 302,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/iP1Woc8aoN",
+            "media_url": "http://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/628235566296006656/photo/1",
+            "id_str": "628235503108771840",
+            "indices": [
+              107,
+              129
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/iP1Woc8aoN",
+            "id": 628235503108771840
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 628235566296006656,
+      "id_str": "628235566296006656",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/iP1Woc8aoN",
+            "media_url": "http://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/628235566296006656/photo/1",
+            "id_str": "628235503108771840",
+            "indices": [
+              107,
+              129
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/iP1Woc8aoN",
+            "id": 628235503108771840
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              13,
+              28
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "text": "In 2030, the #CleanPowerPlan will PREVENT:\nUp to 3,600 premature deaths.\n90,000 asthma attacks among kids. http://t.co/iP1Woc8aoN",
+      "lang": "en",
+      "created_at": "Mon Aug 03 16:06:45 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 346,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/iP1Woc8aoN",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/628235566296006656/photo/1",
+          "url": "http://t.co/iP1Woc8aoN",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+          "source_status_id_str": "628235566296006656",
+          "id_str": "628235503108771840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628235503108771840,
+          "source_status_id": 628235566296006656
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628264520553758720,
+    "id_str": "628264520553758720",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/iP1Woc8aoN",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/628235566296006656/photo/1",
+          "url": "http://t.co/iP1Woc8aoN",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfw3I4WUAAXEZ9.jpg",
+          "source_status_id_str": "628235566296006656",
+          "id_str": "628235503108771840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 628235503108771840,
+          "source_status_id": 628235566296006656
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            29,
+            44
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "30313925",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "The White House",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "RT @WhiteHouse: In 2030, the #CleanPowerPlan will PREVENT:\nUp to 3,600 premature deaths.\n90,000 asthma attacks among kids. http://t.co/iP1W\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 18:01:48+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/YMhErzR6fj",
+          "media_url": "http://pbs.twimg.com/media/CLRGsugUwAA3m2e.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRGsugUwAA3m2e.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/627203983229210625/photo/1",
+          "id_str": "627203982323138560",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 559
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/YMhErzR6fj",
+          "id": 627203982323138560
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627203983229210625,
+    "id_str": "627203983229210625",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/YMhErzR6fj",
+          "media_url": "http://pbs.twimg.com/media/CLRGsugUwAA3m2e.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRGsugUwAA3m2e.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/627203983229210625/photo/1",
+          "id_str": "627203982323138560",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 559
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/YMhErzR6fj",
+          "id": 627203982323138560
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "photonics",
+          "indices": [
+            62,
+            72
+          ]
+        },
+        {
+          "text": "ROC",
+          "indices": [
+            86,
+            90
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/15y4umuVKI",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "on.fb.me/1JB4xks",
+          "expanded_url": "http://on.fb.me/1JB4xks"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "So proud to have led the great team effort to bring the nat\u2019l #photonics institute to #ROC! http://t.co/15y4umuVKI http://t.co/YMhErzR6fj",
+    "lang": "en",
+    "created_at": "2015-07-31 19:47:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 12,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/GELxy94LUa",
+          "media_url": "http://pbs.twimg.com/media/CLK6qnRUsAANhoi.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLK6qnRUsAANhoi.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/626768540306153472/photo/1",
+          "id_str": "626768539416834048",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 559
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/GELxy94LUa",
+          "id": 626768539416834048
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626768540306153472,
+    "id_str": "626768540306153472",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/GELxy94LUa",
+          "media_url": "http://pbs.twimg.com/media/CLK6qnRUsAANhoi.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLK6qnRUsAANhoi.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/626768540306153472/photo/1",
+          "id_str": "626768539416834048",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 559
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/GELxy94LUa",
+          "id": 626768539416834048
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            14,
+            23
+          ]
+        },
+        {
+          "text": "Medicaid",
+          "indices": [
+            30,
+            39
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "For 50 years, #Medicare &amp; #Medicaid have served millions of hardworking Americans. Here\u2019s to 50 more great years! http://t.co/GELxy94LUa",
+    "lang": "en",
+    "created_at": "2015-07-30 14:57:19+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626505131194994688,
+    "id_str": "626505131194994688",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "ExIm",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I was raised believing you don\u2019t go home until your work is done. Congress shouldn\u2019t leave town until we save #ExIm + fix crumbling roads.",
+    "lang": "en",
+    "created_at": "2015-07-29 21:30:37+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/JG79drz69r",
+            "media_url": "http://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+            "expanded_url": "http://twitter.com/launchsolutions/status/625698236469243904/photo/1",
+            "id_str": "625698236335001600",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1365
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/JG79drz69r",
+            "id": 625698236335001600
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 625698236469243904,
+      "id_str": "625698236469243904",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/JG79drz69r",
+            "media_url": "http://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+            "expanded_url": "http://twitter.com/launchsolutions/status/625698236469243904/photo/1",
+            "id_str": "625698236335001600",
+            "indices": [
+              91,
+              113
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1365
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/JG79drz69r",
+            "id": 625698236335001600
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Rochester",
+            "indices": [
+              34,
+              44
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "63169388",
+            "indices": [
+              14,
+              30
+            ],
+            "name": "Louise Slaughter",
+            "id": 63169388,
+            "screen_name": "louiseslaughter"
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/JzaofpV6Zh",
+            "indices": [
+              68,
+              90
+            ],
+            "display_url": "hubs.ly/H010K5C0",
+            "expanded_url": "http://hubs.ly/H010K5C0"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.hubspot.com/\" rel=\"nofollow\">HubSpot</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "27078203",
+        "id": 27078203
+      },
+      "text": "Congresswoman @louiseslaughter on #Rochester: \"We get things done.\" http://t.co/JzaofpV6Zh http://t.co/JG79drz69r",
+      "lang": "en",
+      "created_at": "Mon Jul 27 16:04:19 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 27078203,
+          "media_url": "http://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+          "source_user_id_str": "27078203",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "pic.twitter.com/JG79drz69r",
+          "expanded_url": "http://twitter.com/launchsolutions/status/625698236469243904/photo/1",
+          "url": "http://t.co/JG79drz69r",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+          "source_status_id_str": "625698236469243904",
+          "id_str": "625698236335001600",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 625698236335001600,
+          "source_status_id": 625698236469243904
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625724032210575361,
+    "id_str": "625724032210575361",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 27078203,
+          "media_url": "http://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+          "source_user_id_str": "27078203",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "pic.twitter.com/JG79drz69r",
+          "expanded_url": "http://twitter.com/launchsolutions/status/625698236469243904/photo/1",
+          "url": "http://t.co/JG79drz69r",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7tOxlWEAAXrcC.jpg",
+          "source_status_id_str": "625698236469243904",
+          "id_str": "625698236335001600",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 625698236335001600,
+          "source_status_id": 625698236469243904
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Rochester",
+          "indices": [
+            55,
+            65
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "27078203",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "PLS Launch Solutions",
+          "id": 27078203,
+          "screen_name": "launchsolutions"
+        },
+        {
+          "id_str": "63169388",
+          "indices": [
+            35,
+            51
+          ],
+          "name": "Louise Slaughter",
+          "id": 63169388,
+          "screen_name": "louiseslaughter"
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/JzaofpV6Zh",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "hubs.ly/H010K5C0",
+          "expanded_url": "http://hubs.ly/H010K5C0"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "RT @launchsolutions: Congresswoman @louiseslaughter on #Rochester: \"We get things done.\" http://t.co/JzaofpV6Zh http://t.co/JG79drz69r",
+    "lang": "en",
+    "created_at": "2015-07-27 17:46:49+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625701105780047872,
+      "id_str": "625701105780047872",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "1536791610",
+            "indices": [
+              13,
+              19
+            ],
+            "name": "President Obama",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          },
+          {
+            "id_str": "325830217",
+            "indices": [
+              20,
+              23
+            ],
+            "name": "Vice President Biden",
+            "id": 325830217,
+            "screen_name": "VP"
+          },
+          {
+            "id_str": "63169388",
+            "indices": [
+              24,
+              40
+            ],
+            "name": "Louise Slaughter",
+            "id": 63169388,
+            "screen_name": "louiseslaughter"
+          },
+          {
+            "id_str": "232268199",
+            "indices": [
+              47,
+              58
+            ],
+            "name": "Andrew Cuomo",
+            "id": 232268199,
+            "screen_name": "NYGovCuomo"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "PhotonicsCenter",
+            "indices": [
+              78,
+              94
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "106787853",
+        "id": 106787853
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you to @POTUS @VP @louiseslaughter &amp; @NYGovCuomo for making today's #PhotonicsCenter announcement possible.",
+      "lang": "en",
+      "created_at": "Mon Jul 27 16:15:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "625724006013005824",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "106787853",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "Joseph D. Morelle",
+          "id": 106787853,
+          "screen_name": "JoeMorelle"
+        },
+        {
+          "id_str": "1536791610",
+          "indices": [
+            29,
+            35
+          ],
+          "name": "President Obama",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        },
+        {
+          "id_str": "325830217",
+          "indices": [
+            36,
+            39
+          ],
+          "name": "Vice President Biden",
+          "id": 325830217,
+          "screen_name": "VP"
+        },
+        {
+          "id_str": "63169388",
+          "indices": [
+            40,
+            56
+          ],
+          "name": "Louise Slaughter",
+          "id": 63169388,
+          "screen_name": "louiseslaughter"
+        },
+        {
+          "id_str": "232268199",
+          "indices": [
+            63,
+            74
+          ],
+          "name": "Andrew Cuomo",
+          "id": 232268199,
+          "screen_name": "NYGovCuomo"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PhotonicsCenter",
+          "indices": [
+            94,
+            110
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 625724006013005824,
+    "text": "RT @JoeMorelle: Thank you to @POTUS @VP @louiseslaughter &amp; @NYGovCuomo for making today's #PhotonicsCenter announcement possible.",
+    "lang": "en",
+    "created_at": "2015-07-27 17:46:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/t7JTMyJ6jP",
+          "media_url": "http://pbs.twimg.com/media/CK7-GV2WIAAPrWs.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7-GV2WIAAPrWs.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625722138260054016/photo/1",
+          "id_str": "625716783148834816",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 560
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 328
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/t7JTMyJ6jP",
+          "id": 625716783148834816
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625722138260054016,
+    "id_str": "625722138260054016",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/t7JTMyJ6jP",
+          "media_url": "http://pbs.twimg.com/media/CK7-GV2WIAAPrWs.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7-GV2WIAAPrWs.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625722138260054016/photo/1",
+          "id_str": "625716783148834816",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 560
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 328
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/t7JTMyJ6jP",
+          "id": 625716783148834816
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            25,
+            29
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "66369181",
+          "indices": [
+            55,
+            69
+          ],
+          "name": "U.S. Dept of Defense",
+          "id": 66369181,
+          "screen_name": "DeptofDefense"
+        },
+        {
+          "id_str": "22774112",
+          "indices": [
+            89,
+            96
+          ],
+          "name": "U.S. Army RDECOM",
+          "id": 22774112,
+          "screen_name": "RDECOM"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "There's a lot of love in #ROC today! Adele Ratcliff of @DeptofDefense + Gen Wharton from @RDECOM are here! http://t.co/t7JTMyJ6jP",
+    "lang": "en",
+    "created_at": "2015-07-27 17:39:17+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "625691399942356992",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "63169388",
+            "indices": [
+              14,
+              30
+            ],
+            "name": "Louise Slaughter",
+            "id": 63169388,
+            "screen_name": "louiseslaughter"
+          },
+          {
+            "id_str": "325830217",
+            "indices": [
+              67,
+              70
+            ],
+            "name": "Vice President Biden",
+            "id": 325830217,
+            "screen_name": "VP"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "VPROC",
+            "indices": [
+              77,
+              83
+            ]
+          },
+          {
+            "text": "WeAreBroadcasters",
+            "indices": [
+              107,
+              125
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/03VLWPhjkr",
+            "indices": [
+              84,
+              106
+            ],
+            "display_url": "youtu.be/JtRcp7BmrOQ",
+            "expanded_url": "http://youtu.be/JtRcp7BmrOQ"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16469116",
+        "id": 16469116
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialnewsdesk.com\" rel=\"nofollow\">SocialNewsDesk</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 625691399942356992,
+      "text": "Congresswoman @louiseslaughter speaks at today's announcement with @vp Biden #VPROC http://t.co/03VLWPhjkr #WeAreBroadcasters",
+      "lang": "en",
+      "created_at": "Mon Jul 27 15:37:09 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "625691509225074689",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "16469116",
+          "indices": [
+            3,
+            13
+          ],
+          "name": "news10nbc",
+          "id": 16469116,
+          "screen_name": "news10nbc"
+        },
+        {
+          "id_str": "63169388",
+          "indices": [
+            29,
+            45
+          ],
+          "name": "Louise Slaughter",
+          "id": 63169388,
+          "screen_name": "louiseslaughter"
+        },
+        {
+          "id_str": "325830217",
+          "indices": [
+            82,
+            85
+          ],
+          "name": "Vice President Biden",
+          "id": 325830217,
+          "screen_name": "VP"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VPROC",
+          "indices": [
+            92,
+            98
+          ]
+        },
+        {
+          "text": "WeAreBroadcasters",
+          "indices": [
+            122,
+            140
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/03VLWPhjkr",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "youtu.be/JtRcp7BmrOQ",
+          "expanded_url": "http://youtu.be/JtRcp7BmrOQ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 625691509225074689,
+    "text": "RT @news10nbc: Congresswoman @louiseslaughter speaks at today's announcement with @vp Biden #VPROC http://t.co/03VLWPhjkr #WeAreBroadcasters",
+    "lang": "en",
+    "created_at": "2015-07-27 15:37:35+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 11,
+      "favorite_count": 10,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625687292729032704,
+      "id_str": "625687292729032704",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "63169388",
+            "indices": [
+              1,
+              17
+            ],
+            "name": "Louise Slaughter",
+            "id": 63169388,
+            "screen_name": "louiseslaughter"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ReimaginingNY",
+            "indices": [
+              119,
+              133
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "232268199",
+        "id": 232268199
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@LouiseSlaughter: We have made Rochester's region the nation's leader in photonics and this institution is our proof. #ReimaginingNY",
+      "lang": "en",
+      "created_at": "Mon Jul 27 15:20:49 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "625687469036544000",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "232268199",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "Andrew Cuomo",
+          "id": 232268199,
+          "screen_name": "NYGovCuomo"
+        },
+        {
+          "id_str": "63169388",
+          "indices": [
+            17,
+            33
+          ],
+          "name": "Louise Slaughter",
+          "id": 63169388,
+          "screen_name": "louiseslaughter"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ReimaginingNY",
+          "indices": [
+            135,
+            140
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 625687469036544000,
+    "text": "RT @NYGovCuomo: .@LouiseSlaughter: We have made Rochester's region the nation's leader in photonics and this institution is our proof. #Rei\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 15:21:31+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625683616035696640,
+      "id_str": "625683616035696640",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "325830217",
+            "indices": [
+              1,
+              4
+            ],
+            "name": "Vice President Biden",
+            "id": 325830217,
+            "screen_name": "VP"
+          },
+          {
+            "id_str": "63169388",
+            "indices": [
+              24,
+              40
+            ],
+            "name": "Louise Slaughter",
+            "id": 63169388,
+            "screen_name": "louiseslaughter"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "VPRoc",
+            "indices": [
+              105,
+              111
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14354042",
+        "id": 14354042
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@VP getting briefed by @LouiseSlaughter on Photonics here in ROC according to WXXI reporter Brad Smith. #VPRoc",
+      "lang": "en",
+      "created_at": "Mon Jul 27 15:06:13 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "625684713890557953",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14354042",
+          "indices": [
+            3,
+            12
+          ],
+          "name": "WXXI News",
+          "id": 14354042,
+          "screen_name": "WXXINews"
+        },
+        {
+          "id_str": "325830217",
+          "indices": [
+            15,
+            18
+          ],
+          "name": "Vice President Biden",
+          "id": 325830217,
+          "screen_name": "VP"
+        },
+        {
+          "id_str": "63169388",
+          "indices": [
+            38,
+            54
+          ],
+          "name": "Louise Slaughter",
+          "id": 63169388,
+          "screen_name": "louiseslaughter"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VPRoc",
+          "indices": [
+            119,
+            125
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 625684713890557953,
+    "text": "RT @WXXINews: .@VP getting briefed by @LouiseSlaughter on Photonics here in ROC according to WXXI reporter Brad Smith. #VPRoc",
+    "lang": "en",
+    "created_at": "2015-07-27 15:10:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/dV5pzSsf2J",
+          "media_url": "http://pbs.twimg.com/media/CK7aNeDWoAArBKU.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7aNeDWoAArBKU.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625682566306136064/photo/1",
+          "id_str": "625677323191361536",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 246
+            },
+            "large": {
+              "w": 777,
+              "resize": "fit",
+              "h": 563
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 434
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/dV5pzSsf2J",
+          "id": 625677323191361536
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625682566306136064,
+    "id_str": "625682566306136064",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/dV5pzSsf2J",
+          "media_url": "http://pbs.twimg.com/media/CK7aNeDWoAArBKU.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7aNeDWoAArBKU.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625682566306136064/photo/1",
+          "id_str": "625677323191361536",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 246
+            },
+            "large": {
+              "w": 777,
+              "resize": "fit",
+              "h": 563
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 434
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/dV5pzSsf2J",
+          "id": 625677323191361536
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            16,
+            20
+          ]
+        },
+        {
+          "text": "photonics",
+          "indices": [
+            33,
+            43
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/CtheNbYz6d",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "1.usa.gov/1IBFejp",
+          "expanded_url": "http://1.usa.gov/1IBFejp"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "My statement on #ROC winning the #photonics manufacturing competition. Full text here: http://t.co/CtheNbYz6d http://t.co/dV5pzSsf2J",
+    "lang": "en",
+    "created_at": "2015-07-27 15:02:03+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 16,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xkh0wNOeEH",
+          "media_url": "http://pbs.twimg.com/media/CK7YmagWIAAeCdJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7YmagWIAAeCdJ.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625682139812474880/photo/1",
+          "id_str": "625675552712695808",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 559
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xkh0wNOeEH",
+          "id": 625675552712695808
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625682139812474880,
+    "id_str": "625682139812474880",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/xkh0wNOeEH",
+          "media_url": "http://pbs.twimg.com/media/CK7YmagWIAAeCdJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7YmagWIAAeCdJ.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625682139812474880/photo/1",
+          "id_str": "625675552712695808",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 559
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xkh0wNOeEH",
+          "id": 625675552712695808
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "photonics",
+          "indices": [
+            41,
+            51
+          ]
+        },
+        {
+          "text": "ROC",
+          "indices": [
+            79,
+            83
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "For 3 years, I led the effort for a natl #photonics manufacturing institute in #ROC. Today\u2019s win = 1000s of new jobs. http://t.co/xkh0wNOeEH",
+    "lang": "en",
+    "created_at": "2015-07-27 15:00:21+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "625677275606982656",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "ROC",
+            "indices": [
+              53,
+              57
+            ]
+          },
+          {
+            "text": "Liveon13WHAM",
+            "indices": [
+              83,
+              96
+            ]
+          },
+          {
+            "text": "VPinROC",
+            "indices": [
+              97,
+              105
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/9cuRlSUGig",
+            "indices": [
+              60,
+              82
+            ],
+            "display_url": "bit.ly/1vuzrVM",
+            "expanded_url": "http://bit.ly/1vuzrVM"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16329426",
+        "id": 16329426
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 625677275606982656,
+      "text": "STREAMING NOW: Live coverage of VP Biden flying into #ROC:  http://t.co/9cuRlSUGig #Liveon13WHAM #VPinROC",
+      "lang": "en",
+      "created_at": "Mon Jul 27 14:41:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "625679131381002240",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "16329426",
+          "indices": [
+            3,
+            10
+          ],
+          "name": "13WHAM",
+          "id": 16329426,
+          "screen_name": "13WHAM"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            65,
+            69
+          ]
+        },
+        {
+          "text": "Liveon13WHAM",
+          "indices": [
+            95,
+            108
+          ]
+        },
+        {
+          "text": "VPinROC",
+          "indices": [
+            109,
+            117
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/9cuRlSUGig",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "bit.ly/1vuzrVM",
+          "expanded_url": "http://bit.ly/1vuzrVM"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 625679131381002240,
+    "text": "RT @13WHAM: STREAMING NOW: Live coverage of VP Biden flying into #ROC:  http://t.co/9cuRlSUGig #Liveon13WHAM #VPinROC",
+    "lang": "en",
+    "created_at": "2015-07-27 14:48:24+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 13,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/vYgbSwGMyR",
+            "media_url": "http://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+            "expanded_url": "http://twitter.com/News_8/status/625671971666132992/photo/1",
+            "id_str": "625671895652806657",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 184
+              },
+              "large": {
+                "w": 605,
+                "resize": "fit",
+                "h": 328
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 325
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/vYgbSwGMyR",
+            "id": 625671895652806657
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 625671971666132992,
+      "id_str": "625671971666132992",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/vYgbSwGMyR",
+            "media_url": "http://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+            "expanded_url": "http://twitter.com/News_8/status/625671971666132992/photo/1",
+            "id_str": "625671895652806657",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 184
+              },
+              "large": {
+                "w": 605,
+                "resize": "fit",
+                "h": 328
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 325
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/vYgbSwGMyR",
+            "id": 625671895652806657
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ROC",
+            "indices": [
+              113,
+              117
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "16453340",
+            "indices": [
+              1,
+              8
+            ],
+            "name": "News 8 - WROC-TV",
+            "id": 16453340,
+            "screen_name": "News_8"
+          },
+          {
+            "id_str": "325830217",
+            "indices": [
+              44,
+              47
+            ],
+            "name": "Vice President Biden",
+            "id": 325830217,
+            "screen_name": "VP"
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/fI1pK0Buf3",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "rochesterhomepage.net/live",
+            "expanded_url": "http://www.rochesterhomepage.net/live"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "16453340",
+        "id": 16453340
+      },
+      "text": ".@News_8 will be providing a live stream of @VP Joe Biden's visit to Rochester at http://t.co/fI1pK0Buf3 at 11am.#ROC http://t.co/vYgbSwGMyR",
+      "lang": "en",
+      "created_at": "Mon Jul 27 14:19:57 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 13,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16453340,
+          "media_url": "http://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+          "source_user_id_str": "16453340",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/vYgbSwGMyR",
+          "expanded_url": "http://twitter.com/News_8/status/625671971666132992/photo/1",
+          "url": "http://t.co/vYgbSwGMyR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+          "source_status_id_str": "625671971666132992",
+          "id_str": "625671895652806657",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 184
+            },
+            "large": {
+              "w": 605,
+              "resize": "fit",
+              "h": 328
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 325
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 625671895652806657,
+          "source_status_id": 625671971666132992
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625679036954640384,
+    "id_str": "625679036954640384",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 16453340,
+          "media_url": "http://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+          "source_user_id_str": "16453340",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/vYgbSwGMyR",
+          "expanded_url": "http://twitter.com/News_8/status/625671971666132992/photo/1",
+          "url": "http://t.co/vYgbSwGMyR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7VRi5UsAEVgEj.jpg",
+          "source_status_id_str": "625671971666132992",
+          "id_str": "625671895652806657",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 184
+            },
+            "large": {
+              "w": 605,
+              "resize": "fit",
+              "h": 328
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 325
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 625671895652806657,
+          "source_status_id": 625671971666132992
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            125,
+            129
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "16453340",
+          "indices": [
+            3,
+            10
+          ],
+          "name": "News 8 - WROC-TV",
+          "id": 16453340,
+          "screen_name": "News_8"
+        },
+        {
+          "id_str": "16453340",
+          "indices": [
+            13,
+            20
+          ],
+          "name": "News 8 - WROC-TV",
+          "id": 16453340,
+          "screen_name": "News_8"
+        },
+        {
+          "id_str": "325830217",
+          "indices": [
+            56,
+            59
+          ],
+          "name": "Vice President Biden",
+          "id": 325830217,
+          "screen_name": "VP"
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/fI1pK0Buf3",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "rochesterhomepage.net/live",
+          "expanded_url": "http://www.rochesterhomepage.net/live"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "RT @News_8: .@News_8 will be providing a live stream of @VP Joe Biden's visit to Rochester at http://t.co/fI1pK0Buf3 at 11am.#ROC http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 14:48:01+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/RYYgRbtrQo",
+            "media_url": "http://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+            "expanded_url": "http://twitter.com/AllisonNorlian/status/625364973871603712/photo/1",
+            "id_str": "625364962924490753",
+            "indices": [
+              67,
+              89
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/RYYgRbtrQo",
+            "id": 625364962924490753
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": "63169388",
+      "id": 625364973871603712,
+      "id_str": "625364973871603712",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/RYYgRbtrQo",
+            "media_url": "http://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+            "expanded_url": "http://twitter.com/AllisonNorlian/status/625364973871603712/photo/1",
+            "id_str": "625364962924490753",
+            "indices": [
+              67,
+              89
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/RYYgRbtrQo",
+            "id": 625364962924490753
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ROC",
+            "indices": [
+              54,
+              58
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "63169388",
+            "indices": [
+              0,
+              16
+            ],
+            "name": "Louise Slaughter",
+            "id": 63169388,
+            "screen_name": "louiseslaughter"
+          },
+          {
+            "id_str": "16453340",
+            "indices": [
+              59,
+              66
+            ],
+            "name": "News 8 - WROC-TV",
+            "id": 16453340,
+            "screen_name": "News_8"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 63169388,
+      "in_reply_to_screen_name": "louiseslaughter",
+      "user": {
+        "id_str": "240354679",
+        "id": 240354679
+      },
+      "text": "@louiseslaughter talks about what photonics means for #ROC @News_8 http://t.co/RYYgRbtrQo",
+      "lang": "en",
+      "created_at": "Sun Jul 26 18:00:03 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 240354679,
+          "media_url": "http://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+          "source_user_id_str": "240354679",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "pic.twitter.com/RYYgRbtrQo",
+          "expanded_url": "http://twitter.com/AllisonNorlian/status/625364973871603712/photo/1",
+          "url": "http://t.co/RYYgRbtrQo",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+          "source_status_id_str": "625364973871603712",
+          "id_str": "625364962924490753",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 625364962924490753,
+          "source_status_id": 625364973871603712
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625393615150411777,
+    "id_str": "625393615150411777",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 240354679,
+          "media_url": "http://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+          "source_user_id_str": "240354679",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "pic.twitter.com/RYYgRbtrQo",
+          "expanded_url": "http://twitter.com/AllisonNorlian/status/625364973871603712/photo/1",
+          "url": "http://t.co/RYYgRbtrQo",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK2-HtYW8AEyhx_.jpg",
+          "source_status_id_str": "625364973871603712",
+          "id_str": "625364962924490753",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 625364962924490753,
+          "source_status_id": 625364973871603712
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            74,
+            78
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "240354679",
+          "indices": [
+            3,
+            18
+          ],
+          "name": "Allison Norlian",
+          "id": 240354679,
+          "screen_name": "AllisonNorlian"
+        },
+        {
+          "id_str": "63169388",
+          "indices": [
+            20,
+            36
+          ],
+          "name": "Louise Slaughter",
+          "id": 63169388,
+          "screen_name": "louiseslaughter"
+        },
+        {
+          "id_str": "16453340",
+          "indices": [
+            79,
+            86
+          ],
+          "name": "News 8 - WROC-TV",
+          "id": 16453340,
+          "screen_name": "News_8"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "RT @AllisonNorlian: @louiseslaughter talks about what photonics means for #ROC @News_8 http://t.co/RYYgRbtrQo",
+    "lang": "en",
+    "created_at": "2015-07-26 19:53:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/0r7tEoSFag",
+          "media_url": "http://pbs.twimg.com/media/CK2iUr7WUAAln2C.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK2iUr7WUAAln2C.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625334402382479360/photo/1",
+          "id_str": "625334399547101184",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "large": {
+              "w": 464,
+              "resize": "fit",
+              "h": 242
+            },
+            "medium": {
+              "w": 464,
+              "resize": "fit",
+              "h": 242
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/0r7tEoSFag",
+          "id": 625334399547101184
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625334402382479360,
+    "id_str": "625334402382479360",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/0r7tEoSFag",
+          "media_url": "http://pbs.twimg.com/media/CK2iUr7WUAAln2C.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK2iUr7WUAAln2C.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625334402382479360/photo/1",
+          "id_str": "625334399547101184",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "large": {
+              "w": 464,
+              "resize": "fit",
+              "h": 242
+            },
+            "medium": {
+              "w": 464,
+              "resize": "fit",
+              "h": 242
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/0r7tEoSFag",
+          "id": 625334399547101184
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "photonics",
+          "indices": [
+            7,
+            17
+          ]
+        },
+        {
+          "text": "ROC",
+          "indices": [
+            81,
+            85
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/3EsRommwVP",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "1.usa.gov/1RRoxEW",
+          "expanded_url": "http://1.usa.gov/1RRoxEW"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "What's #photonics anyway? Here's a refresher for our big announcement on Monday, #ROC. http://t.co/3EsRommwVP http://t.co/0r7tEoSFag",
+    "lang": "en",
+    "created_at": "2015-07-26 15:58:34+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8pNIDGwCpk",
+          "media_url": "http://pbs.twimg.com/media/CKyRphjWoAANQAJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKyRphjWoAANQAJ.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625034598586667008/photo/1",
+          "id_str": "625034590864973824",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/8pNIDGwCpk",
+          "id": 625034590864973824
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625034598586667008,
+    "id_str": "625034598586667008",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/8pNIDGwCpk",
+          "media_url": "http://pbs.twimg.com/media/CKyRphjWoAANQAJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKyRphjWoAANQAJ.jpg",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/625034598586667008/photo/1",
+          "id_str": "625034590864973824",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/8pNIDGwCpk",
+          "id": 625034590864973824
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            24,
+            28
+          ]
+        },
+        {
+          "text": "photonics",
+          "indices": [
+            31,
+            41
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/3EsRommwVP",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "1.usa.gov/1RRoxEW",
+          "expanded_url": "http://1.usa.gov/1RRoxEW"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "Need a crash course for #ROC's #photonics news? Here's how it took 3 years to get here: http://t.co/3EsRommwVP http://t.co/8pNIDGwCpk",
+    "lang": "en",
+    "created_at": "2015-07-25 20:07:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/eTaR4zxOu1",
+          "media_url": "http://pbs.twimg.com/media/CKiux-EUkAAce5q.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKiux-EUkAAce5q.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/623940722534797312/photo/1",
+          "id_str": "623940721888759808",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 224
+            },
+            "large": {
+              "w": 780,
+              "resize": "fit",
+              "h": 515
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 396
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/eTaR4zxOu1",
+          "id": 623940721888759808
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623940722534797312,
+    "id_str": "623940722534797312",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/eTaR4zxOu1",
+          "media_url": "http://pbs.twimg.com/media/CKiux-EUkAAce5q.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKiux-EUkAAce5q.png",
+          "expanded_url": "http://twitter.com/louiseslaughter/status/623940722534797312/photo/1",
+          "id_str": "623940721888759808",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 224
+            },
+            "large": {
+              "w": 780,
+              "resize": "fit",
+              "h": 515
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 396
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/eTaR4zxOu1",
+          "id": 623940721888759808
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "breaking",
+          "indices": [
+            7,
+            16
+          ]
+        },
+        {
+          "text": "photonics",
+          "indices": [
+            32,
+            42
+          ]
+        },
+        {
+          "text": "ROC",
+          "indices": [
+            56,
+            60
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/O5IgBMqyIN",
+          "indices": [
+            62,
+            84
+          ],
+          "display_url": "1.usa.gov/1MICcYd",
+          "expanded_url": "http://1.usa.gov/1MICcYd"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "On the #breaking news about the #photonics institute in #ROC. http://t.co/O5IgBMqyIN http://t.co/eTaR4zxOu1",
+    "lang": "en",
+    "created_at": "2015-07-22 19:40:35+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/xLWSa1n4vN",
+            "media_url": "http://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+            "expanded_url": "http://twitter.com/DandC/status/623644196990283777/photo/1",
+            "id_str": "623644196805705728",
+            "indices": [
+              98,
+              120
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              },
+              "medium": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/xLWSa1n4vN",
+            "id": 623644196805705728
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 623644196990283777,
+      "id_str": "623644196990283777",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/xLWSa1n4vN",
+            "media_url": "http://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+            "expanded_url": "http://twitter.com/DandC/status/623644196990283777/photo/1",
+            "id_str": "623644196805705728",
+            "indices": [
+              98,
+              120
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              },
+              "medium": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/xLWSa1n4vN",
+            "id": 623644196805705728
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ROC",
+            "indices": [
+              50,
+              54
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "63169388",
+            "indices": [
+              1,
+              17
+            ],
+            "name": "Louise Slaughter",
+            "id": 63169388,
+            "screen_name": "louiseslaughter"
+          },
+          {
+            "id_str": "47813440",
+            "indices": [
+              83,
+              97
+            ],
+            "name": "Bennett Loudon",
+            "id": 47813440,
+            "screen_name": "BennettLoudon"
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/TF2nivPDRK",
+            "indices": [
+              56,
+              78
+            ],
+            "display_url": "on.rocne.ws/1LrRIdK",
+            "expanded_url": "http://on.rocne.ws/1LrRIdK"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "17022537",
+        "id": 17022537
+      },
+      "text": ".@louiseslaughter pushing for photonics boost for #ROC: http://t.co/TF2nivPDRK via @bennettloudon http://t.co/xLWSa1n4vN",
+      "lang": "en",
+      "created_at": "Wed Jul 22 00:02:17 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 17022537,
+          "media_url": "http://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+          "source_user_id_str": "17022537",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/xLWSa1n4vN",
+          "expanded_url": "http://twitter.com/DandC/status/623644196990283777/photo/1",
+          "url": "http://t.co/xLWSa1n4vN",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+          "source_status_id_str": "623644196990283777",
+          "id_str": "623644196805705728",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            },
+            "medium": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623644196805705728,
+          "source_status_id": 623644196990283777
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623650648970629120,
+    "id_str": "623650648970629120",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 17022537,
+          "media_url": "http://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+          "source_user_id_str": "17022537",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/xLWSa1n4vN",
+          "expanded_url": "http://twitter.com/DandC/status/623644196990283777/photo/1",
+          "url": "http://t.co/xLWSa1n4vN",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKehF8DWgAA0CoE.jpg",
+          "source_status_id_str": "623644196990283777",
+          "id_str": "623644196805705728",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            },
+            "medium": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 623644196805705728,
+          "source_status_id": 623644196990283777
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ROC",
+          "indices": [
+            61,
+            65
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "17022537",
+          "indices": [
+            3,
+            9
+          ],
+          "name": "Rochester D and C",
+          "id": 17022537,
+          "screen_name": "DandC"
+        },
+        {
+          "id_str": "63169388",
+          "indices": [
+            12,
+            28
+          ],
+          "name": "Louise Slaughter",
+          "id": 63169388,
+          "screen_name": "louiseslaughter"
+        },
+        {
+          "id_str": "47813440",
+          "indices": [
+            94,
+            108
+          ],
+          "name": "Bennett Loudon",
+          "id": 47813440,
+          "screen_name": "BennettLoudon"
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/TF2nivPDRK",
+          "indices": [
+            67,
+            89
+          ],
+          "display_url": "on.rocne.ws/1LrRIdK",
+          "expanded_url": "http://on.rocne.ws/1LrRIdK"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "63169388",
+      "screen_name": "louiseslaughter",
+      "id": 63169388
+    },
+    "text": "RT @DandC: .@louiseslaughter pushing for photonics boost for #ROC: http://t.co/TF2nivPDRK via @bennettloudon http://t.co/xLWSa1n4vN",
+    "lang": "en",
+    "created_at": "2015-07-22 00:27:56+00:00",
+    "retweeted": false
+  }
+]

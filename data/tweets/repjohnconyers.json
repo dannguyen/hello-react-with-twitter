@@ -1,0 +1,3184 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629375914623668224,
+      "id_str": "629375914623668224",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/1pIMA4J2l7",
+            "indices": [
+              114,
+              136
+            ],
+            "display_url": "detroitnews.com/story/opinion/\u2026",
+            "expanded_url": "http://www.detroitnews.com/story/opinion/2015/08/06/conyers-restore-voting-rights-act/31178607"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              98,
+              112
+            ]
+          },
+          {
+            "text": "VRA50",
+            "indices": [
+              137,
+              143
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "John Conyers",
+            "indices": [
+              31,
+              46
+            ],
+            "id_str": "138770045",
+            "id": 138770045,
+            "screen_name": "repjohnconyers"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "236511574",
+        "id": 236511574
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Powerful op-ed by my colleague @repjohnconyers on the urgent need to set aside partisanship &amp; #RestoreTheVRA: http://t.co/1pIMA4J2l7 #VRA50",
+      "lang": "en",
+      "created_at": "Thu Aug 06 19:38:05 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629384134004060160,
+    "id_str": "629384134004060160",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1pIMA4J2l7",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "detroitnews.com/story/opinion/\u2026",
+          "expanded_url": "http://www.detroitnews.com/story/opinion/2015/08/06/conyers-restore-voting-rights-act/31178607"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            117,
+            131
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Senator Gary Peters",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "236511574",
+          "id": 236511574,
+          "screen_name": "SenGaryPeters"
+        },
+        {
+          "name": "John Conyers",
+          "indices": [
+            50,
+            65
+          ],
+          "id_str": "138770045",
+          "id": 138770045,
+          "screen_name": "repjohnconyers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenGaryPeters: Powerful op-ed by my colleague @repjohnconyers on the urgent need to set aside partisanship &amp; #RestoreTheVRA: http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 20:10:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Detroit, MI",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.288056,
+              42.255085
+            ],
+            [
+              -82.91052,
+              42.255085
+            ],
+            [
+              -82.91052,
+              42.450488
+            ],
+            [
+              -83.288056,
+              42.450488
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json",
+      "name": "Detroit",
+      "country": "United States",
+      "place_type": "city",
+      "id": "b463d3bd6064861b"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629349119337865217,
+    "id_str": "629349119337865217",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            91,
+            105
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            106,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/wElptIWHPA",
+          "media_url": "http://pbs.twimg.com/media/CLvlsFsWcAAvvt-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvlsFsWcAAvvt-.jpg",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/629349119337865217/photo/1",
+          "id_str": "629349118553518080",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 400
+            }
+          },
+          "display_url": "pic.twitter.com/wElptIWHPA",
+          "id": 629349118553518080
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "  NAACP",
+          "indices": [
+            21,
+            27
+          ],
+          "id_str": "44988185",
+          "id": 44988185,
+          "screen_name": "NAACP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/wElptIWHPA",
+          "media_url": "http://pbs.twimg.com/media/CLvlsFsWcAAvvt-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvlsFsWcAAvvt-.jpg",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/629349119337865217/photo/1",
+          "id_str": "629349118553518080",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 400,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 400,
+              "resize": "fit",
+              "h": 400
+            }
+          },
+          "display_url": "pic.twitter.com/wElptIWHPA",
+          "id": 629349118553518080
+        }
+      ]
+    },
+    "text": "I joined the Detroit @NAACP today to urge my colleagues to re-enact the Voting Rights Act. #RestoreTheVRA\n#VRA50 http://t.co/wElptIWHPA",
+    "lang": "en",
+    "created_at": "2015-08-06 17:51:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629336189225566208,
+    "id_str": "629336189225566208",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            48,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Ft0Es60rnI",
+          "media_url": "http://pbs.twimg.com/media/CLvZ7edXAAETRUv.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvZ7edXAAETRUv.png",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/629336189225566208/photo/1",
+          "id_str": "629336188760031233",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 189
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 334
+            },
+            "large": {
+              "w": 745,
+              "resize": "fit",
+              "h": 415
+            }
+          },
+          "display_url": "pic.twitter.com/Ft0Es60rnI",
+          "id": 629336188760031233
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Ft0Es60rnI",
+          "media_url": "http://pbs.twimg.com/media/CLvZ7edXAAETRUv.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvZ7edXAAETRUv.png",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/629336189225566208/photo/1",
+          "id_str": "629336188760031233",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 189
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 334
+            },
+            "large": {
+              "w": 745,
+              "resize": "fit",
+              "h": 415
+            }
+          },
+          "display_url": "pic.twitter.com/Ft0Es60rnI",
+          "id": 629336188760031233
+        }
+      ]
+    },
+    "text": "50 yrs. ago we made history when the bipartisan #VotingRightsAct became law,but in 2013 Shelby V. Holder crippled it. http://t.co/Ft0Es60rnI",
+    "lang": "en",
+    "created_at": "2015-08-06 17:00:14+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629329483003244544,
+    "id_str": "629329483003244544",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            27,
+            41
+          ]
+        },
+        {
+          "text": "VotingRights",
+          "indices": [
+            43,
+            56
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            104,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/W7ZypSmk1Q",
+          "media_url": "http://pbs.twimg.com/media/CLvT1HoWsAAe-2w.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvT1HoWsAAe-2w.png",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/629329483003244544/photo/1",
+          "id_str": "629329482483150848",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 214
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 377
+            },
+            "large": {
+              "w": 689,
+              "resize": "fit",
+              "h": 434
+            }
+          },
+          "display_url": "pic.twitter.com/W7ZypSmk1Q",
+          "id": 629329482483150848
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/W7ZypSmk1Q",
+          "media_url": "http://pbs.twimg.com/media/CLvT1HoWsAAe-2w.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvT1HoWsAAe-2w.png",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/629329483003244544/photo/1",
+          "id_str": "629329482483150848",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 214
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 377
+            },
+            "large": {
+              "w": 689,
+              "resize": "fit",
+              "h": 434
+            }
+          },
+          "display_url": "pic.twitter.com/W7ZypSmk1Q",
+          "id": 629329482483150848
+        }
+      ]
+    },
+    "text": "If Congress fails to fully #RestoreTheVRA, #VotingRights for millions of Americans will be jeopardized. #VRA50 http://t.co/W7ZypSmk1Q",
+    "lang": "en",
+    "created_at": "2015-08-06 16:33:35+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1420,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1110,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629290880512434176,
+      "id_str": "629290880512434176",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/TBcsbgplSy",
+            "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+            "id_str": "629290879623131136",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 385
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 658
+              }
+            },
+            "display_url": "pic.twitter.com/TBcsbgplSy",
+            "id": 629290879623131136
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/TBcsbgplSy",
+            "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+            "id_str": "629290879623131136",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 385
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 658
+              }
+            },
+            "display_url": "pic.twitter.com/TBcsbgplSy",
+            "id": 629290879623131136
+          }
+        ]
+      },
+      "text": "At this time 50 yrs ago today, the Voting Rights Act of 1965 was signed into law. http://t.co/TBcsbgplSy",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:00:12 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1420,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 29450962,
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_user_id_str": "29450962",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "url": "http://t.co/TBcsbgplSy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_status_id_str": "629290880512434176",
+          "id_str": "629290879623131136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            }
+          },
+          "id": 629290879623131136,
+          "source_status_id": 629290880512434176
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629312653895311360,
+    "id_str": "629312653895311360",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 29450962,
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_user_id_str": "29450962",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "url": "http://t.co/TBcsbgplSy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_status_id_str": "629290880512434176",
+          "id_str": "629290879623131136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            }
+          },
+          "id": 629290879623131136,
+          "source_status_id": 629290880512434176
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: At this time 50 yrs ago today, the Voting Rights Act of 1965 was signed into law. http://t.co/TBcsbgplSy",
+    "lang": "en",
+    "created_at": "2015-08-06 15:26:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629306547152257024,
+    "id_str": "629306547152257024",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629294588142977024,
+      "id_str": "629294588142977024",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/H5WuqjXnll",
+            "indices": [
+              112,
+              134
+            ],
+            "display_url": "detroitnews.com/story/opinion/\u2026",
+            "expanded_url": "http://www.detroitnews.com/story/opinion/2015/08/06/conyers-restore-voting-rights-act/31178607/"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "John Conyers",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "138770045",
+            "id": 138770045,
+            "screen_name": "repjohnconyers"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20777057",
+        "id": 20777057
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@repjohnconyers, on the 50th anniversary of the Voting Rights Act, says Congress must restore the law's powers http://t.co/H5WuqjXnll",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:14:56 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/qut6gdyhkb",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "twitter.com/DetNewsOpinion\u2026",
+          "expanded_url": "https://twitter.com/DetNewsOpinion/status/629294588142977024"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            4,
+            20
+          ]
+        },
+        {
+          "text": "RightToVote",
+          "indices": [
+            67,
+            79
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            100,
+            114
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629294588142977024",
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 15:02:27+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The #VotingRightsAct 50th Anniversary should be celebrated,yet the #RightToVote remains under siege #RestoreTheVRA https://t.co/qut6gdyhkb",
+    "lang": "en",
+    "quoted_status_id": 629294588142977024
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 18,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628913445874892800,
+      "id_str": "628913445874892800",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/DGJzPMJ1LV",
+            "indices": [
+              104,
+              126
+            ],
+            "display_url": "tmblr.co/ZOqQyw1rHmWNC",
+            "expanded_url": "http://tmblr.co/ZOqQyw1rHmWNC"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              97,
+              103
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "John Conyers",
+            "indices": [
+              18,
+              33
+            ],
+            "id_str": "138770045",
+            "id": 138770045,
+            "screen_name": "repjohnconyers"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2353850029",
+        "id": 2353850029
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "On March 17, 1965 @repjohnconyers testified before the House Judiciary Committee in favor of VRA #VRA50 http://t.co/DGJzPMJ1LV",
+      "lang": "en",
+      "created_at": "Wed Aug 05 13:00:24 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628918319144435712,
+    "id_str": "628918319144435712",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/DGJzPMJ1LV",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "tmblr.co/ZOqQyw1rHmWNC",
+          "expanded_url": "http://tmblr.co/ZOqQyw1rHmWNC"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            118,
+            124
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "CongressArchives",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2353850029",
+          "id": 2353850029,
+          "screen_name": "CongressArchive"
+        },
+        {
+          "name": "John Conyers",
+          "indices": [
+            39,
+            54
+          ],
+          "id_str": "138770045",
+          "id": 138770045,
+          "screen_name": "repjohnconyers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CongressArchive: On March 17, 1965 @repjohnconyers testified before the House Judiciary Committee in favor of VRA #VRA50 http://t.co/DG\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 13:19:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 16,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628295823881805824,
+    "id_str": "628295823881805824",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            97,
+            112
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            35,
+            41
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We only get one planet. Thank you, @POTUS, for fighting to protect it through the smart and bold #CleanPowerPlan.",
+    "lang": "en",
+    "created_at": "2015-08-03 20:06:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 247,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 165,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627123820491616256,
+      "id_str": "627123820491616256",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              56,
+              70
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/vd5ciSlJ6f",
+            "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+            "id_str": "627123819635974144",
+            "indices": [
+              71,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 285
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 502
+              },
+              "large": {
+                "w": 940,
+                "resize": "fit",
+                "h": 788
+              }
+            },
+            "display_url": "pic.twitter.com/vd5ciSlJ6f",
+            "id": 627123819635974144
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "381152398",
+        "id": 381152398
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/vd5ciSlJ6f",
+            "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+            "id_str": "627123819635974144",
+            "indices": [
+              71,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 285
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 502
+              },
+              "large": {
+                "w": 940,
+                "resize": "fit",
+                "h": 788
+              }
+            },
+            "display_url": "pic.twitter.com/vd5ciSlJ6f",
+            "id": 627123819635974144
+          }
+        ]
+      },
+      "text": "Our vote is our voice, and no voice should be silenced. #RestoreTheVRA http://t.co/vd5ciSlJ6f",
+      "lang": "en",
+      "created_at": "Fri Jul 31 14:29:04 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 247,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 381152398,
+          "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_user_id_str": "381152398",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "pic.twitter.com/vd5ciSlJ6f",
+          "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+          "url": "http://t.co/vd5ciSlJ6f",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_status_id_str": "627123820491616256",
+          "id_str": "627123819635974144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "id": 627123819635974144,
+          "source_status_id": 627123820491616256
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627131125572440065,
+    "id_str": "627131125572440065",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            76,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 381152398,
+          "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_user_id_str": "381152398",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "pic.twitter.com/vd5ciSlJ6f",
+          "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+          "url": "http://t.co/vd5ciSlJ6f",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_status_id_str": "627123820491616256",
+          "id_str": "627123819635974144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "id": 627123819635974144,
+          "source_status_id": 627123820491616256
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Terri A. Sewell",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "381152398",
+          "id": 381152398,
+          "screen_name": "RepTerriSewell"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepTerriSewell: Our vote is our voice, and no voice should be silenced. #RestoreTheVRA http://t.co/vd5ciSlJ6f",
+    "lang": "en",
+    "created_at": "2015-07-31 14:58:06+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626825152370573312,
+      "id_str": "626825152370573312",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              85,
+              100
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              104,
+              117
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/Yzn1BDkEp9",
+            "media_url": "http://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+            "expanded_url": "http://twitter.com/MorphemeGroup/status/626825152370573312/photo/1",
+            "id_str": "626825151389106176",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 800
+              }
+            },
+            "display_url": "pic.twitter.com/Yzn1BDkEp9",
+            "id": 626825151389106176
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3231883844",
+        "id": 3231883844
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Yzn1BDkEp9",
+            "media_url": "http://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+            "expanded_url": "http://twitter.com/MorphemeGroup/status/626825152370573312/photo/1",
+            "id_str": "626825151389106176",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 800
+              }
+            },
+            "display_url": "pic.twitter.com/Yzn1BDkEp9",
+            "id": 626825151389106176
+          }
+        ]
+      },
+      "text": "Climate change is one of the greatest challenges facing our world today. We need the #CleanPowerPlan to #ActOnClimate http://t.co/Yzn1BDkEp9",
+      "lang": "en",
+      "created_at": "Thu Jul 30 18:42:16 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 3231883844,
+          "media_url": "http://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+          "source_user_id_str": "3231883844",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Yzn1BDkEp9",
+          "expanded_url": "http://twitter.com/MorphemeGroup/status/626825152370573312/photo/1",
+          "url": "http://t.co/Yzn1BDkEp9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+          "source_status_id_str": "626825152370573312",
+          "id_str": "626825151389106176",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "id": 626825151389106176,
+          "source_status_id": 626825152370573312
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626855376420491265,
+    "id_str": "626855376420491265",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            104,
+            119
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            123,
+            136
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 3231883844,
+          "media_url": "http://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+          "source_user_id_str": "3231883844",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Yzn1BDkEp9",
+          "expanded_url": "http://twitter.com/MorphemeGroup/status/626825152370573312/photo/1",
+          "url": "http://t.co/Yzn1BDkEp9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLuJ3TUAAA-5Bu.png",
+          "source_status_id_str": "626825152370573312",
+          "id_str": "626825151389106176",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "id": 626825151389106176,
+          "source_status_id": 626825152370573312
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Morpheme Group",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "3231883844",
+          "id": 3231883844,
+          "screen_name": "MorphemeGroup"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MorphemeGroup: Climate change is one of the greatest challenges facing our world today. We need the #CleanPowerPlan to #ActOnClimate ht\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 20:42:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 68,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 46,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626799435574571008,
+    "id_str": "626799435574571008",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CongressMember",
+          "indices": [
+            20,
+            35
+          ]
+        },
+        {
+          "text": "VRA",
+          "indices": [
+            59,
+            63
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            102,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/uWGTvB3nEy",
+          "media_url": "http://pbs.twimg.com/media/CLLWw8FVEAAV8sA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLWw8FVEAAV8sA.jpg",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/626799435574571008/photo/1",
+          "id_str": "626799434408464384",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/uWGTvB3nEy",
+          "id": 626799434408464384
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            78,
+            87
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/uWGTvB3nEy",
+          "media_url": "http://pbs.twimg.com/media/CLLWw8FVEAAV8sA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLWw8FVEAAV8sA.jpg",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/626799435574571008/photo/1",
+          "id_str": "626799434408464384",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/uWGTvB3nEy",
+          "id": 626799434408464384
+        }
+      ]
+    },
+    "text": "As the only sitting #CongressMember who voted for the 1965 #VRA, I call on my @HouseGOP colleagues to #RestoreTheVRA http://t.co/uWGTvB3nEy",
+    "lang": "en",
+    "created_at": "2015-07-30 17:00:05+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626511187883204608,
+      "id_str": "626511187883204608",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/gARbjGybQT",
+            "indices": [
+              116,
+              138
+            ],
+            "display_url": "huff.to/1DbKyHK",
+            "expanded_url": "http://huff.to/1DbKyHK"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "John Conyers",
+            "indices": [
+              23,
+              38
+            ],
+            "id_str": "138770045",
+            "id": 138770045,
+            "screen_name": "repjohnconyers"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "162069635",
+        "id": 162069635
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "PLS RT: My new op-ed w/@repjohnconyers: Achieving A \"More Perfect Union\" Requires Acknowledging Our Past Injustices http://t.co/gARbjGybQT",
+      "lang": "en",
+      "created_at": "Wed Jul 29 21:54:41 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626511855167635456,
+    "id_str": "626511855167635456",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/gARbjGybQT",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "huff.to/1DbKyHK",
+          "expanded_url": "http://huff.to/1DbKyHK"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Steve Cohen",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "162069635",
+          "id": 162069635,
+          "screen_name": "RepCohen"
+        },
+        {
+          "name": "John Conyers",
+          "indices": [
+            37,
+            52
+          ],
+          "id_str": "138770045",
+          "id": 138770045,
+          "screen_name": "repjohnconyers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepCohen: PLS RT: My new op-ed w/@repjohnconyers: Achieving A \"More Perfect Union\" Requires Acknowledging Our Past Injustices http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-29 21:57:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626448453103669248,
+    "id_str": "626448453103669248",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/diPsn66i21",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "huff.to/1U723xp",
+          "expanded_url": "http://huff.to/1U723xp"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Here's the essence of GOP economics: Export American jobs rather than American products. http://t.co/diPsn66i21",
+    "lang": "en",
+    "created_at": "2015-07-29 17:45:24+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626096239428243456,
+      "id_str": "626096239428243456",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/ojZbHj8kl3",
+            "indices": [
+              97,
+              119
+            ],
+            "display_url": "americasvoice.org/blog/former-so\u2026",
+            "expanded_url": "http://americasvoice.org/blog/former-social-worker-describes-deplorable-conditions-at-karnes-family-detention-center/"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "FamilyDetention",
+            "indices": [
+              120,
+              136
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16302354",
+        "id": 16302354
+      },
+      "favorited": false,
+      "source": "<a href=\"http://itunes.apple.com/us/app/twitter/id409789998?mt=12\" rel=\"nofollow\">Twitter for Mac</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Social worker describes \"deplorable\" conditions while working at Karnes family detention center. http://t.co/ojZbHj8kl3 #FamilyDetention",
+      "lang": "en",
+      "created_at": "Tue Jul 28 18:25:50 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626103934080417793,
+    "id_str": "626103934080417793",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ojZbHj8kl3",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "americasvoice.org/blog/former-so\u2026",
+          "expanded_url": "http://americasvoice.org/blog/former-social-worker-describes-deplorable-conditions-at-karnes-family-detention-center/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FamilyDetention",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "America's Voice",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "16302354",
+          "id": 16302354,
+          "screen_name": "americasvoice"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @americasvoice: Social worker describes \"deplorable\" conditions while working at Karnes family detention center. http://t.co/ojZbHj8kl3 \u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 18:56:24+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626099031111004160,
+      "id_str": "626099031111004160",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/PzrjsJ1rLT",
+            "indices": [
+              66,
+              88
+            ],
+            "display_url": "bit.ly/1exC81F",
+            "expanded_url": "http://bit.ly/1exC81F"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "FamilyDetention",
+            "indices": [
+              0,
+              16
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "267938462",
+        "id": 267938462
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#FamilyDetention witness testimony starting now, watch live here: http://t.co/PzrjsJ1rLT",
+      "lang": "en",
+      "created_at": "Tue Jul 28 18:36:56 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626103865990074371,
+    "id_str": "626103865990074371",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/PzrjsJ1rLT",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "bit.ly/1exC81F",
+          "expanded_url": "http://bit.ly/1exC81F"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FamilyDetention",
+          "indices": [
+            19,
+            35
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep. Zoe Lofgren",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "267938462",
+          "id": 267938462,
+          "screen_name": "RepZoeLofgren"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepZoeLofgren: #FamilyDetention witness testimony starting now, watch live here: http://t.co/PzrjsJ1rLT",
+    "lang": "en",
+    "created_at": "2015-07-28 18:56:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626044315408711680,
+    "id_str": "626044315408711680",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/pa0ABorwbf",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "bit.ly/1fFQUoB",
+          "expanded_url": "http://bit.ly/1fFQUoB"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "immigrant",
+          "indices": [
+            60,
+            70
+          ]
+        },
+        {
+          "text": "FamilyDetention",
+          "indices": [
+            71,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Judiciary Dems",
+          "indices": [
+            10,
+            23
+          ],
+          "id_str": "246357149",
+          "id": 246357149,
+          "screen_name": "HouseJudDems"
+        },
+        {
+          "name": "Progressive Caucus",
+          "indices": [
+            30,
+            45
+          ],
+          "id_str": "246088673",
+          "id": 246088673,
+          "screen_name": "USProgressives"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today@2pm @HouseJudDems &amp; @USProgressives hold forum on #immigrant #FamilyDetention centers. Can't join? Watch here: http://t.co/pa0ABorwbf",
+    "lang": "en",
+    "created_at": "2015-07-28 14:59:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Detroit, MI",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -83.288056,
+              42.255085
+            ],
+            [
+              -82.91052,
+              42.255085
+            ],
+            [
+              -82.91052,
+              42.450488
+            ],
+            [
+              -83.288056,
+              42.450488
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/b463d3bd6064861b.json",
+      "name": "Detroit",
+      "country": "United States",
+      "place_type": "city",
+      "id": "b463d3bd6064861b"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624673377538674688,
+    "id_str": "624673377538674688",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "313turns314",
+          "indices": [
+            30,
+            42
+          ]
+        },
+        {
+          "text": "detroit",
+          "indices": [
+            43,
+            51
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/6EpT6ZM4PT",
+          "media_url": "http://pbs.twimg.com/media/CKtJIHtWwAAm9-v.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKtJIHtWwAAm9-v.jpg",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/624673377538674688/photo/1",
+          "id_str": "624673377178009600",
+          "indices": [
+            52,
+            74
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/6EpT6ZM4PT",
+          "id": 624673377178009600
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/6EpT6ZM4PT",
+          "media_url": "http://pbs.twimg.com/media/CKtJIHtWwAAm9-v.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKtJIHtWwAAm9-v.jpg",
+          "expanded_url": "http://twitter.com/repjohnconyers/status/624673377538674688/photo/1",
+          "id_str": "624673377178009600",
+          "indices": [
+            52,
+            74
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/6EpT6ZM4PT",
+          "id": 624673377178009600
+        }
+      ]
+    },
+    "text": "Happy 314th Birthday Detroit! #313turns314 #detroit http://t.co/6EpT6ZM4PT",
+    "lang": "en",
+    "created_at": "2015-07-24 20:11:53+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624608606441213952,
+      "id_str": "624608606441213952",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/HPSebVPflv",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "1.usa.gov/1MrRqnj",
+            "expanded_url": "http://1.usa.gov/1MrRqnj"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "FamilyDetention",
+            "indices": [
+              93,
+              109
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Judiciary Dems",
+            "indices": [
+              30,
+              43
+            ],
+            "id_str": "246357149",
+            "id": 246357149,
+            "screen_name": "HouseJudDems"
+          },
+          {
+            "name": "Progressive Caucus",
+            "indices": [
+              44,
+              59
+            ],
+            "id_str": "246088673",
+            "id": 246088673,
+            "screen_name": "USProgressives"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "246357149",
+        "id": 246357149
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Next Tuesday 7/28 from 2-4 pm @HouseJudDems @USProgressives will host forum on the perils of #FamilyDetention centers http://t.co/HPSebVPflv",
+      "lang": "en",
+      "created_at": "Fri Jul 24 15:54:31 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624608709545623553,
+    "id_str": "624608709545623553",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HPSebVPflv",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "1.usa.gov/1MrRqnj",
+          "expanded_url": "http://1.usa.gov/1MrRqnj"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FamilyDetention",
+          "indices": [
+            111,
+            127
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Judiciary Dems",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "246357149",
+          "id": 246357149,
+          "screen_name": "HouseJudDems"
+        },
+        {
+          "name": "House Judiciary Dems",
+          "indices": [
+            48,
+            61
+          ],
+          "id_str": "246357149",
+          "id": 246357149,
+          "screen_name": "HouseJudDems"
+        },
+        {
+          "name": "Progressive Caucus",
+          "indices": [
+            62,
+            77
+          ],
+          "id_str": "246088673",
+          "id": 246088673,
+          "screen_name": "USProgressives"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseJudDems: Next Tuesday 7/28 from 2-4 pm @HouseJudDems @USProgressives will host forum on the perils of #FamilyDetention centers htt\u2026",
+    "lang": "en",
+    "created_at": "2015-07-24 15:54:55+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 31,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 28,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624299451499163648,
+      "id_str": "624299451499163648",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/wBF2H1C6y9",
+            "media_url": "http://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+            "expanded_url": "http://twitter.com/detroitnews/status/624299451499163648/photo/1",
+            "id_str": "624298566660562944",
+            "indices": [
+              99,
+              121
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/wBF2H1C6y9",
+            "id": 624298566660562944
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/NKT4Cu52qP",
+            "indices": [
+              76,
+              98
+            ],
+            "display_url": "detne.ws/1RV6fCH",
+            "expanded_url": "http://detne.ws/1RV6fCH"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "John Conyers",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "138770045",
+            "id": 138770045,
+            "screen_name": "repjohnconyers"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16543775",
+        "id": 16543775
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wBF2H1C6y9",
+            "media_url": "http://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+            "expanded_url": "http://twitter.com/detroitnews/status/624299451499163648/photo/1",
+            "id_str": "624298566660562944",
+            "indices": [
+              99,
+              121
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/wBF2H1C6y9",
+            "id": 624298566660562944
+          }
+        ]
+      },
+      "text": ".@repjohnconyers pushes police accountability, youth prison reform package. http://t.co/NKT4Cu52qP http://t.co/wBF2H1C6y9",
+      "lang": "en",
+      "created_at": "Thu Jul 23 19:26:02 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16543775,
+          "media_url": "http://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+          "source_user_id_str": "16543775",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/wBF2H1C6y9",
+          "expanded_url": "http://twitter.com/detroitnews/status/624299451499163648/photo/1",
+          "url": "http://t.co/wBF2H1C6y9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+          "source_status_id_str": "624299451499163648",
+          "id_str": "624298566660562944",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 624298566660562944,
+          "source_status_id": 624299451499163648
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624303459626545152,
+    "id_str": "624303459626545152",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 16543775,
+          "media_url": "http://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+          "source_user_id_str": "16543775",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/wBF2H1C6y9",
+          "expanded_url": "http://twitter.com/detroitnews/status/624299451499163648/photo/1",
+          "url": "http://t.co/wBF2H1C6y9",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKn0PRuWoAA3K5a.jpg",
+          "source_status_id_str": "624299451499163648",
+          "id_str": "624298566660562944",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 624298566660562944,
+          "source_status_id": 624299451499163648
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/NKT4Cu52qP",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "detne.ws/1RV6fCH",
+          "expanded_url": "http://detne.ws/1RV6fCH"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Detroit News",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "16543775",
+          "id": 16543775,
+          "screen_name": "detroitnews"
+        },
+        {
+          "name": "John Conyers",
+          "indices": [
+            18,
+            33
+          ],
+          "id_str": "138770045",
+          "id": 138770045,
+          "screen_name": "repjohnconyers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @detroitnews: .@repjohnconyers pushes police accountability, youth prison reform package. http://t.co/NKT4Cu52qP http://t.co/wBF2H1C6y9",
+    "lang": "en",
+    "created_at": "2015-07-23 19:41:58+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624222205761687553,
+      "id_str": "624222205761687553",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/WxKFkMeaUo",
+            "indices": [
+              85,
+              107
+            ],
+            "display_url": "m.ustream.tv/channel/hclive\u2026",
+            "expanded_url": "http://m.ustream.tv/channel/hclive02"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "SanctuaryCities",
+            "indices": [
+              53,
+              69
+            ]
+          },
+          {
+            "text": "DonaldTrumpAct",
+            "indices": [
+              110,
+              125
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Judiciary Cmte",
+            "indices": [
+              15,
+              30
+            ],
+            "id_str": "1131917492",
+            "id": 1131917492,
+            "screen_name": "HouseJudiciary"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "246357149",
+        "id": 246357149
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Happening Now: @HouseJudiciary hearing on so-called \"#SanctuaryCities.\"  Watch live: http://t.co/WxKFkMeaUo   #DonaldTrumpAct",
+      "lang": "en",
+      "created_at": "Thu Jul 23 14:19:05 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624229904616411136,
+    "id_str": "624229904616411136",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WxKFkMeaUo",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "m.ustream.tv/channel/hclive\u2026",
+          "expanded_url": "http://m.ustream.tv/channel/hclive02"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SanctuaryCities",
+          "indices": [
+            71,
+            87
+          ]
+        },
+        {
+          "text": "DonaldTrumpAct",
+          "indices": [
+            128,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Judiciary Dems",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "246357149",
+          "id": 246357149,
+          "screen_name": "HouseJudDems"
+        },
+        {
+          "name": "House Judiciary Cmte",
+          "indices": [
+            33,
+            48
+          ],
+          "id_str": "1131917492",
+          "id": 1131917492,
+          "screen_name": "HouseJudiciary"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "138770045",
+      "screen_name": "repjohnconyers",
+      "id": 138770045
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseJudDems: Happening Now: @HouseJudiciary hearing on so-called \"#SanctuaryCities.\"  Watch live: http://t.co/WxKFkMeaUo   #DonaldTrum\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 14:49:41+00:00"
+  }
+]

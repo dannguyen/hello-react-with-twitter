@@ -1,0 +1,1891 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "630193443898142721",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 10,
+      "favorite_count": 24,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/QT8giaYrOp",
+            "media_url": "http://pbs.twimg.com/media/CL5LV4rUwAAPtWR.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL5LV4rUwAAPtWR.jpg",
+            "expanded_url": "http://twitter.com/SDCoyotes/status/630023838147833856/photo/1",
+            "id_str": "630023837241884672",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 181
+              },
+              "large": {
+                "w": 738,
+                "resize": "fit",
+                "h": 395
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 321
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/QT8giaYrOp",
+            "id": 630023837241884672
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 630023838147833856,
+      "id_str": "630023838147833856",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/QT8giaYrOp",
+            "media_url": "http://pbs.twimg.com/media/CL5LV4rUwAAPtWR.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL5LV4rUwAAPtWR.jpg",
+            "expanded_url": "http://twitter.com/SDCoyotes/status/630023838147833856/photo/1",
+            "id_str": "630023837241884672",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 181
+              },
+              "large": {
+                "w": 738,
+                "resize": "fit",
+                "h": 395
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 321
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/QT8giaYrOp",
+            "id": 630023837241884672
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "GoYotes",
+            "indices": [
+              105,
+              113
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "750362588",
+            "indices": [
+              1,
+              13
+            ],
+            "name": "SouthDakota Football",
+            "id": 750362588,
+            "screen_name": "SDCoyotesFB"
+          },
+          {
+            "id_str": "1659226904",
+            "indices": [
+              24,
+              40
+            ],
+            "name": "Derek Chancellor",
+            "id": 1659226904,
+            "screen_name": "DerekChancellor"
+          },
+          {
+            "id_str": "296361085",
+            "indices": [
+              68,
+              81
+            ],
+            "name": "Senator John Thune",
+            "id": 296361085,
+            "screen_name": "SenJohnThune"
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/VjMbBbjane",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "goyotes.com/news/2015/8/8/\u2026",
+            "expanded_url": "http://www.goyotes.com/news/2015/8/8/FB_0808151954.aspx"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "29515029",
+        "id": 29515029
+      },
+      "text": ".@SDCoyotesFB Check out @DerekChancellor, who spent his summer with @SenJohnThune http://t.co/VjMbBbjane #GoYotes http://t.co/QT8giaYrOp",
+      "lang": "en",
+      "created_at": "Sat Aug 08 14:32:42 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "goyotes",
+          "indices": [
+            81,
+            89
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gt16d6dzKa",
+          "indices": [
+            91,
+            114
+          ],
+          "display_url": "twitter.com/sdcoyotes/stat\u2026",
+          "expanded_url": "https://twitter.com/sdcoyotes/status/630023838147833856"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "630023838147833856",
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "created_at": "2015-08-09 01:46:40+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 630193443898142721,
+    "text": "Talk about having your own security.  Expecting big things this year from #65 at #goyotes. https://t.co/gt16d6dzKa",
+    "lang": "en",
+    "quoted_status_id": 630023838147833856,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/0ydbbx9eaL",
+          "media_url": "http://pbs.twimg.com/media/CL5wJlwUAAAOeUA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL5wJlwUAAAOeUA.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/630064308018229252/photo/1",
+          "id_str": "630064307934330880",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/0ydbbx9eaL",
+          "id": 630064307934330880
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630064308018229252,
+    "id_str": "630064308018229252",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/0ydbbx9eaL",
+          "media_url": "http://pbs.twimg.com/media/CL5wJlwUAAAOeUA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL5wJlwUAAAOeUA.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/630064308018229252/photo/1",
+          "id_str": "630064307934330880",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/0ydbbx9eaL",
+          "id": 630064307934330880
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "3393019349",
+          "indices": [
+            52,
+            62
+          ],
+          "name": "SDHS BB Hall of Fame",
+          "id": 3393019349,
+          "screen_name": "SDHSBBHOF"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "Always a crowd at Pioneer Auto in Murdo. Myron Moen @sdhsbbhof with Dave Geisler and hof inaugural member Hal Thune. http://t.co/0ydbbx9eaL",
+    "lang": "en",
+    "created_at": "2015-08-08 17:13:31+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629777949533843456",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/7B2ltxNBIo",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "mitchellrepublic.com/news/local/381\u2026",
+          "expanded_url": "http://www.mitchellrepublic.com/news/local/3813006-parents-angels-adopted-kids"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629777949533843456,
+    "text": "The Fites exemplify the belief that all children are a blessing and show us how faith and love overcome all. \nhttp://t.co/7B2ltxNBIo",
+    "lang": "en",
+    "created_at": "2015-08-07 22:15:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Pnd13Aqpn7",
+          "media_url": "http://pbs.twimg.com/media/CLxMOHKUcAA37u9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxMOHKUcAA37u9.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/629461855719690240/photo/1",
+          "id_str": "629461853249236992",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Pnd13Aqpn7",
+          "id": 629461853249236992
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629461855719690240,
+    "id_str": "629461855719690240",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/Pnd13Aqpn7",
+          "media_url": "http://pbs.twimg.com/media/CLxMOHKUcAA37u9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxMOHKUcAA37u9.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/629461855719690240/photo/1",
+          "id_str": "629461853249236992",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Pnd13Aqpn7",
+          "id": 629461853249236992
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "160630113",
+          "indices": [
+            36,
+            52
+          ],
+          "name": "Sioux Empire Fair",
+          "id": 160630113,
+          "screen_name": "SiouxEmpireFair"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "Had a great brisket sandwich at the @SiouxEmpireFair this evening. Thanks to Pat for the good food and conversation. http://t.co/Pnd13Aqpn7",
+    "lang": "en",
+    "created_at": "2015-08-07 01:19:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 47,
+    "favorite_count": 33,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629098215745421312",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/kjA5zIEPRg",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "thune.senate.gov/public/index.c\u2026",
+          "expanded_url": "http://www.thune.senate.gov/public/index.cfm/press-releases?ID=c87a55c0-3b57-49cb-a97f-f567b1a6fa88"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629098215745421312,
+    "text": "Obama IRS was grossly incompetent, targeted conservative groups for political reasons, &amp; stonewalled investigations. http://t.co/kjA5zIEPRg",
+    "lang": "en",
+    "created_at": "2015-08-06 01:14:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628984578422648832",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "backtowork",
+          "indices": [
+            14,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/SKoX6bue81",
+          "indices": [
+            84,
+            107
+          ],
+          "display_url": "amp.twimg.com/v/674a7e35-396\u2026",
+          "expanded_url": "https://amp.twimg.com/v/674a7e35-3966-4a43-a133-9f7f22534225"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628984578422648832,
+    "text": "The Senate is #backtowork for the American people with 70+ bipartisan bills passed.\nhttps://t.co/SKoX6bue81",
+    "lang": "en",
+    "created_at": "2015-08-05 17:43:04+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 18,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/uCLWoR4NQi",
+          "media_url": "http://pbs.twimg.com/media/CLmNK3oWwAAiZVz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmNK3oWwAAiZVz.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/628709538036715520/photo/1",
+          "id_str": "628688840866316288",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/uCLWoR4NQi",
+          "id": 628688840866316288
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628709538036715520,
+    "id_str": "628709538036715520",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/uCLWoR4NQi",
+          "media_url": "http://pbs.twimg.com/media/CLmNK3oWwAAiZVz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmNK3oWwAAiZVz.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/628709538036715520/photo/1",
+          "id_str": "628688840866316288",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/uCLWoR4NQi",
+          "id": 628688840866316288
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "2955485182",
+          "indices": [
+            86,
+            100
+          ],
+          "name": "Senator Mike Rounds",
+          "id": 2955485182,
+          "screen_name": "SenatorRounds"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "Had a great time closing out Team Thune\u2019s softball season with a friendly win against @SenatorRounds staff yesterday. http://t.co/uCLWoR4NQi",
+    "lang": "en",
+    "created_at": "2015-08-04 23:30:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628702006287269888",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "BackToWork",
+          "indices": [
+            14,
+            25
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Jm34ilI4tX",
+          "indices": [
+            83,
+            106
+          ],
+          "display_url": "youtube.com/watch?v=-jzFR6\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=-jzFR6gPgWw"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628702006287269888,
+    "text": "The Senate is #BackToWork, and Republicans are fighting for Americans\u2019 priorities. https://t.co/Jm34ilI4tX",
+    "lang": "en",
+    "created_at": "2015-08-04 23:00:13+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628688152924954625",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "164020616",
+          "indices": [
+            47,
+            61
+          ],
+          "name": "City of Brookings",
+          "id": 164020616,
+          "screen_name": "brookingsinfo"
+        },
+        {
+          "id_str": "153149305",
+          "indices": [
+            74,
+            81
+          ],
+          "name": "SBA",
+          "id": 153149305,
+          "screen_name": "SBAgov"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/WDqqACTzDQ",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "sba.gov/about-sba/sba-\u2026",
+          "expanded_url": "https://www.sba.gov/about-sba/sba-initiatives/startup-day"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628688152924954625,
+    "text": "Congrats, Cheyenne River Sioux Reservation and @BrookingsInfo, winners of @SBAgov's \"Startup in a Day\" competition. https://t.co/WDqqACTzDQ",
+    "lang": "en",
+    "created_at": "2015-08-04 22:05:10+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628355857932263424",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14615871",
+          "indices": [
+            10,
+            14
+          ],
+          "name": "U.S. EPA",
+          "id": 14615871,
+          "screen_name": "EPA"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/jctrJzhSez",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "1.usa.gov/1K1aOll",
+          "expanded_url": "http://1.usa.gov/1K1aOll"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628355857932263424,
+    "text": "The Obama @EPA strikes again, and it\u2019s bad news for American consumers. http://t.co/jctrJzhSez",
+    "lang": "en",
+    "created_at": "2015-08-04 00:04:45+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 16,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628052851164606464",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/QUGmQebT3c",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "argusleader.com/story/news/cri\u2026",
+          "expanded_url": "http://www.argusleader.com/story/news/crime/2015/08/01/south-dakota-firefighter-killed-california-blaze/30983675/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628052851164606464,
+    "text": "My prayers and condolences go out to Rapid City firefighter David Ruhl and his family.\nhttp://t.co/QUGmQebT3c",
+    "lang": "en",
+    "created_at": "2015-08-03 04:00:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kNpV2qZlnd",
+          "media_url": "http://pbs.twimg.com/media/CLcwcSKUsAAtVEk.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLcwcSKUsAAtVEk.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/628023935632707585/photo/1",
+          "id_str": "628023935511080960",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 827,
+              "resize": "fit",
+              "h": 1102
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 799
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kNpV2qZlnd",
+          "id": 628023935511080960
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628023935632707585,
+    "id_str": "628023935632707585",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/kNpV2qZlnd",
+          "media_url": "http://pbs.twimg.com/media/CLcwcSKUsAAtVEk.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLcwcSKUsAAtVEk.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/628023935632707585/photo/1",
+          "id_str": "628023935511080960",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 827,
+              "resize": "fit",
+              "h": 1102
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 799
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kNpV2qZlnd",
+          "id": 628023935511080960
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "Thanks to Graham Marsh who for 20 years has been giving his time and talent to the Children's Home Society kids. http://t.co/kNpV2qZlnd",
+    "lang": "en",
+    "created_at": "2015-08-03 02:05:49+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Y6XPYG8qM7",
+          "media_url": "http://pbs.twimg.com/media/CLcVfvQUYAE7a7-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLcVfvQUYAE7a7-.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/627994321854201856/photo/1",
+          "id_str": "627994308046512129",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Y6XPYG8qM7",
+          "id": 627994308046512129
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627994321854201856,
+    "id_str": "627994321854201856",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/Y6XPYG8qM7",
+          "media_url": "http://pbs.twimg.com/media/CLcVfvQUYAE7a7-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLcVfvQUYAE7a7-.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/627994321854201856/photo/1",
+          "id_str": "627994308046512129",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Y6XPYG8qM7",
+          "id": 627994308046512129
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "234406945",
+          "indices": [
+            80,
+            94
+          ],
+          "name": "Gov. Dennis Daugaard",
+          "id": 234406945,
+          "screen_name": "SDGovDaugaard"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "Celebrating an Evening for the Kids and supporting Children's Home Society with @SDGovDaugaard and Bill Colson. http://t.co/Y6XPYG8qM7",
+    "lang": "en",
+    "created_at": "2015-08-03 00:08:08+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 17,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/D3Dz6imknM",
+          "media_url": "http://pbs.twimg.com/media/CLbWtEZUMAA8QX3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLbWtEZUMAA8QX3.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/627925274722701312/photo/1",
+          "id_str": "627925267827142656",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 227
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 428
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 401
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/D3Dz6imknM",
+          "id": 627925267827142656
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627925274722701312,
+    "id_str": "627925274722701312",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/D3Dz6imknM",
+          "media_url": "http://pbs.twimg.com/media/CLbWtEZUMAA8QX3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLbWtEZUMAA8QX3.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/627925274722701312/photo/1",
+          "id_str": "627925267827142656",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 227
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 428
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 401
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/D3Dz6imknM",
+          "id": 627925267827142656
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "82649797",
+          "indices": [
+            74,
+            87
+          ],
+          "name": "CCAI",
+          "id": 82649797,
+          "screen_name": "CCAInstitute"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "Honored to announce Aaron and Tami Fite of Platte, S.D., as recipients of @CCAInstitute\u2019s Angels in Adoption Award. http://t.co/D3Dz6imknM",
+    "lang": "en",
+    "created_at": "2015-08-02 19:33:46+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "627227101909815296",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/GvwEvORbZM",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "1.usa.gov/1JB5h9l",
+          "expanded_url": "http://1.usa.gov/1JB5h9l"
+        },
+        {
+          "url": "https://t.co/JrF86prM4L",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "amp.twimg.com/v/c83bdcf2-e7e\u2026",
+          "expanded_url": "https://amp.twimg.com/v/c83bdcf2-e7ec-4095-9fd4-1d6d8ca81401"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 627227101909815296,
+    "text": "Check out my latest column, \u201cMulti-Year Highway Bill an Investment in Our Roads and Bridges\u201d http://t.co/GvwEvORbZM\nhttps://t.co/JrF86prM4L",
+    "lang": "en",
+    "created_at": "2015-07-31 21:19:29+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 22,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/FotwWvfpCk",
+          "media_url": "http://pbs.twimg.com/media/CLQSpJwWgAAwmxD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQSpJwWgAAwmxD.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/627146747375132672/photo/1",
+          "id_str": "627146746313998336",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/FotwWvfpCk",
+          "id": 627146746313998336
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627146747375132672,
+    "id_str": "627146747375132672",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/FotwWvfpCk",
+          "media_url": "http://pbs.twimg.com/media/CLQSpJwWgAAwmxD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQSpJwWgAAwmxD.jpg",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/627146747375132672/photo/1",
+          "id_str": "627146746313998336",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/FotwWvfpCk",
+          "id": 627146746313998336
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "462155325",
+          "indices": [
+            46,
+            60
+          ],
+          "name": "John Ratzenberger",
+          "id": 462155325,
+          "screen_name": "Dratzenberger"
+        },
+        {
+          "id_str": "388451659",
+          "indices": [
+            82,
+            97
+          ],
+          "name": "PhillipsAvenueDiner",
+          "id": 388451659,
+          "screen_name": "Phillips_Diner"
+        },
+        {
+          "id_str": "61605928",
+          "indices": [
+            101,
+            114
+          ],
+          "name": "Downtown Sioux Falls",
+          "id": 61605928,
+          "screen_name": "dtsiouxfalls"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "Kimberley and I caught up with an old friend, @Dratzenberger, aka Cliff Clavin at @Phillips_Diner in @dtsiouxfalls. http://t.co/FotwWvfpCk",
+    "lang": "en",
+    "created_at": "2015-07-31 16:00:11+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/shfslshZGZ",
+          "media_url": "http://pbs.twimg.com/media/CLL_EMIWsAARbnL.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL_EMIWsAARbnL.png",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/626843852075307008/photo/1",
+          "id_str": "626843745598746624",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/shfslshZGZ",
+          "id": 626843745598746624
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626843852075307008,
+    "id_str": "626843852075307008",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/shfslshZGZ",
+          "media_url": "http://pbs.twimg.com/media/CLL_EMIWsAARbnL.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL_EMIWsAARbnL.png",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/626843852075307008/photo/1",
+          "id_str": "626843745598746624",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/shfslshZGZ",
+          "id": 626843745598746624
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DRIVEAct",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": [
+        {
+          "url": "http://t.co/m4N0YKtwKQ",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "1.usa.gov/1IsTc0x",
+          "expanded_url": "http://1.usa.gov/1IsTc0x"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "#DRIVEAct passage provides SD with much-needed transportation infrastructure and investment. http://t.co/m4N0YKtwKQ http://t.co/shfslshZGZ",
+    "lang": "en",
+    "created_at": "2015-07-30 19:56:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/aQZ5ycZKRT",
+          "media_url": "http://pbs.twimg.com/media/CLLpiqmWwAEsmAY.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLpiqmWwAEsmAY.png",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/626820209270239232/photo/1",
+          "id_str": "626820079917907969",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/aQZ5ycZKRT",
+          "id": 626820079917907969
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626820209270239232,
+    "id_str": "626820209270239232",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/aQZ5ycZKRT",
+          "media_url": "http://pbs.twimg.com/media/CLLpiqmWwAEsmAY.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLpiqmWwAEsmAY.png",
+          "expanded_url": "http://twitter.com/SenJohnThune/status/626820209270239232/photo/1",
+          "id_str": "626820079917907969",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/aQZ5ycZKRT",
+          "id": 626820079917907969
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DRIVEAct",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "text": "#DRIVEAct passage helps ensure South Dakotans will have reliable transportation infrastructure for years to come. http://t.co/aQZ5ycZKRT",
+    "lang": "en",
+    "created_at": "2015-07-30 18:22:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626783826237374464,
+    "id_str": "626783826237374464",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "56413858",
+          "indices": [
+            11,
+            23
+          ],
+          "name": "FOX Business",
+          "id": 56413858,
+          "screen_name": "FoxBusiness"
+        },
+        {
+          "id_str": "223970563",
+          "indices": [
+            29,
+            40
+          ],
+          "name": "Neil Cavuto",
+          "id": 223970563,
+          "screen_name": "TeamCavuto"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DRIVEAct",
+          "indices": [
+            128,
+            137
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I\u2019ll be on @FoxBusiness with @TeamCavuto talking about the Senate highway bill and other news of the day around 12:10 p.m. EDT. #DRIVEAct",
+    "lang": "en",
+    "created_at": "2015-07-30 15:58:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626527720772472832",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "386092483",
+          "indices": [
+            11,
+            23
+          ],
+          "name": "Senate Commerce",
+          "id": 386092483,
+          "screen_name": "CommerceGOP"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DRIVEAct",
+          "indices": [
+            84,
+            93
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/DCSixAJIcF",
+          "indices": [
+            95,
+            118
+          ],
+          "display_url": "youtube.com/watch?v=NYVwbS\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=NYVwbS__Ks8"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "296361085",
+      "screen_name": "senjohnthune",
+      "id": 296361085
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626527720772472832,
+    "text": "Bipartisan @CommerceGOP rail safety improvements and reforms included in multi-year #DRIVEAct. https://t.co/DCSixAJIcF",
+    "lang": "en",
+    "created_at": "2015-07-29 23:00:23+00:00",
+    "retweeted": false
+  }
+]

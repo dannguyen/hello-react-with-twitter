@@ -1,0 +1,2396 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629789211655180288,
+    "id_str": "629789211655180288",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Starburstaccelerator",
+          "indices": [
+            19,
+            34
+          ],
+          "id_str": "2433558050",
+          "id": 2433558050,
+          "screen_name": "starburstinnov"
+        },
+        {
+          "name": "LA County EDC",
+          "indices": [
+            122,
+            128
+          ],
+          "id_str": "18510489",
+          "id": 18510489,
+          "screen_name": "LAEDC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congratulations to @starburstinnov for choosing El Segundo\u2019s renowned aerospace hub as the home for its U.S. accelerator! @LAEDC",
+    "lang": "en",
+    "created_at": "2015-08-07 23:00:23+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629654580511555584,
+      "id_str": "629654580511555584",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/wPCFLuJSL9",
+            "indices": [
+              111,
+              133
+            ],
+            "display_url": "bit.ly/1UkMWR6",
+            "expanded_url": "http://bit.ly/1UkMWR6"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "LCV",
+            "indices": [
+              0,
+              4
+            ]
+          },
+          {
+            "text": "ClimateChange",
+            "indices": [
+              40,
+              54
+            ]
+          },
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              85,
+              100
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "The Hill",
+            "indices": [
+              102,
+              110
+            ],
+            "id_str": "1917731",
+            "id": 1917731,
+            "screen_name": "thehill"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20517132",
+        "id": 20517132
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#LCV President \"A challenge as great as #ClimateChange requires steps as bold as the #CleanPowerPlan\" @thehill http://t.co/wPCFLuJSL9",
+      "lang": "en",
+      "created_at": "Fri Aug 07 14:05:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629735382708563969,
+    "id_str": "629735382708563969",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/wPCFLuJSL9",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "bit.ly/1UkMWR6",
+          "expanded_url": "http://bit.ly/1UkMWR6"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "LCV",
+          "indices": [
+            14,
+            18
+          ]
+        },
+        {
+          "text": "ClimateChange",
+          "indices": [
+            54,
+            68
+          ]
+        },
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            99,
+            114
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "LCV",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "20517132",
+          "id": 20517132,
+          "screen_name": "LCVoters"
+        },
+        {
+          "name": "The Hill",
+          "indices": [
+            116,
+            124
+          ],
+          "id_str": "1917731",
+          "id": 1917731,
+          "screen_name": "thehill"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LCVoters: #LCV President \"A challenge as great as #ClimateChange requires steps as bold as the #CleanPowerPlan\" @thehill http://t.co/wP\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 19:26:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629709382968848384,
+    "id_str": "629709382968848384",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/qq0tSKyjba",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "on.fb.me/1KUL8d7",
+          "expanded_url": "http://on.fb.me/1KUL8d7"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "MyCA33",
+          "indices": [
+            38,
+            45
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thnx 2 all who submitted photos 4 the #MyCA33 contest! Winners have now been selected - http://t.co/qq0tSKyjba - Plz contact my office w/ Qs",
+    "lang": "en",
+    "created_at": "2015-08-07 17:43:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 41,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 38,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629677484334817281,
+    "id_str": "629677484334817281",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 321,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 171,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628684544972095488,
+      "id_str": "628684544972095488",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/W1WHFwy6hD",
+            "indices": [
+              83,
+              105
+            ],
+            "display_url": "nyti.ms/1IKOW0V",
+            "expanded_url": "http://nyti.ms/1IKOW0V"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "807095",
+        "id": 807095
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Jeb Bush: \"I'm not sure we need half a billion dollars for women's health issues.\" http://t.co/W1WHFwy6hD",
+      "lang": "en",
+      "created_at": "Tue Aug 04 21:50:50 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/3Ss70c0tXD",
+          "indices": [
+            113,
+            136
+          ],
+          "display_url": "twitter.com/nytimes/status\u2026",
+          "expanded_url": "https://twitter.com/nytimes/status/628684544972095488"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "trustwomen",
+          "indices": [
+            87,
+            98
+          ]
+        },
+        {
+          "text": "reprohealth",
+          "indices": [
+            99,
+            111
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628684544972095488",
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 15:36:25+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "125 million Americans are women. I think $4 each for women's health is far too little. #trustwomen #reprohealth  https://t.co/3Ss70c0tXD",
+    "lang": "en",
+    "quoted_status_id": 628684544972095488
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629656979120726017,
+    "id_str": "629656979120726017",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 36,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 59,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629536684086943745,
+      "id_str": "629536684086943745",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/ZT4GZNHLSs",
+            "media_url": "http://pbs.twimg.com/media/CLyLkx1WIAE2hiw.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLyLkx1WIAE2hiw.jpg",
+            "expanded_url": "http://twitter.com/ABC7/status/629536684086943745/photo/1",
+            "id_str": "629531511893663745",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/ZT4GZNHLSs",
+            "id": 629531511893663745
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/mnyTieVggp",
+            "indices": [
+              88,
+              110
+            ],
+            "display_url": "abc7.la/1hmGElD",
+            "expanded_url": "http://abc7.la/1hmGElD"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16374678",
+        "id": 16374678
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/ZT4GZNHLSs",
+            "media_url": "http://pbs.twimg.com/media/CLyLkx1WIAE2hiw.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLyLkx1WIAE2hiw.jpg",
+            "expanded_url": "http://twitter.com/ABC7/status/629536684086943745/photo/1",
+            "id_str": "629531511893663745",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/ZT4GZNHLSs",
+            "id": 629531511893663745
+          }
+        ]
+      },
+      "text": "US senators propose legislation to move homeless veterans to West Los Angeles VA campus http://t.co/mnyTieVggp http://t.co/ZT4GZNHLSs",
+      "lang": "en",
+      "created_at": "Fri Aug 07 06:16:56 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/v5Erd89CfG",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "twitter.com/ABC7/status/62\u2026",
+          "expanded_url": "https://twitter.com/ABC7/status/629536684086943745"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Miriam Hernandez",
+          "indices": [
+            42,
+            53
+          ],
+          "id_str": "718360129",
+          "id": 718360129,
+          "screen_name": "ABC7Miriam"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629536684086943745",
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 14:14:56+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks for covering this important issue, @ABC7Miriam. These leases help us bring home our veterans on the street. https://t.co/v5Erd89CfG",
+    "lang": "en",
+    "quoted_status_id": 629536684086943745
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 224,
+      "favorite_count": 169,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628935080342351872,
+      "id_str": "628935080342351872",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16789970",
+        "id": 16789970
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "1995: Rs shut down the govt over Medicare\n\n2013: They shut it down over Obamacare\n\nNow, they want to shut it down over women's health care",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:26:22 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 224,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629409648966303744,
+    "id_str": "629409648966303744",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Senator Harry Reid",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "16789970",
+          "id": 16789970,
+          "screen_name": "SenatorReid"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenatorReid: 1995: Rs shut down the govt over Medicare\n\n2013: They shut it down over Obamacare\n\nNow, they want to shut it down over wom\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 21:52:08+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629293225933676544,
+      "id_str": "629293225933676544",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              3,
+              9
+            ]
+          },
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              73,
+              87
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/7b12FvfrpR",
+            "media_url": "http://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+            "expanded_url": "http://twitter.com/civilrightsorg/status/629293225933676544/photo/1",
+            "id_str": "629293225195409408",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 136
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 240
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 320
+              }
+            },
+            "display_url": "pic.twitter.com/7b12FvfrpR",
+            "id": 629293225195409408
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/tJd2CNdHqC",
+            "indices": [
+              89,
+              111
+            ],
+            "display_url": "lat.ms/1KSN5qu",
+            "expanded_url": "http://lat.ms/1KSN5qu"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "John Lewis",
+            "indices": [
+              26,
+              39
+            ],
+            "id_str": "29450962",
+            "id": 29450962,
+            "screen_name": "repjohnlewis"
+          },
+          {
+            "name": "Sen. Patrick Leahy",
+            "indices": [
+              44,
+              57
+            ],
+            "id_str": "242836537",
+            "id": 242836537,
+            "screen_name": "SenatorLeahy"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "58503762",
+        "id": 58503762
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/7b12FvfrpR",
+            "media_url": "http://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+            "expanded_url": "http://twitter.com/civilrightsorg/status/629293225933676544/photo/1",
+            "id_str": "629293225195409408",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 136
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 240
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 320
+              }
+            },
+            "display_url": "pic.twitter.com/7b12FvfrpR",
+            "id": 629293225195409408
+          }
+        ]
+      },
+      "text": "On #VRA50, a message from @repjohnlewis and @SenatorLeahy: Congress must #RestoreTheVRA. http://t.co/tJd2CNdHqC http://t.co/7b12FvfrpR",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:09:31 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 58503762,
+          "media_url": "http://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+          "source_user_id_str": "58503762",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/7b12FvfrpR",
+          "expanded_url": "http://twitter.com/civilrightsorg/status/629293225933676544/photo/1",
+          "url": "http://t.co/7b12FvfrpR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+          "source_status_id_str": "629293225933676544",
+          "id_str": "629293225195409408",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 136
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 320
+            }
+          },
+          "id": 629293225195409408,
+          "source_status_id": 629293225933676544
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629405555249930240,
+    "id_str": "629405555249930240",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            23,
+            29
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            93,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 58503762,
+          "media_url": "http://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+          "source_user_id_str": "58503762",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/7b12FvfrpR",
+          "expanded_url": "http://twitter.com/civilrightsorg/status/629293225933676544/photo/1",
+          "url": "http://t.co/7b12FvfrpR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuy2qtVEAAjrkq.jpg",
+          "source_status_id_str": "629293225933676544",
+          "id_str": "629293225195409408",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 136
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 320
+            }
+          },
+          "id": 629293225195409408,
+          "source_status_id": 629293225933676544
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/tJd2CNdHqC",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "lat.ms/1KSN5qu",
+          "expanded_url": "http://lat.ms/1KSN5qu"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Civil Rights",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "58503762",
+          "id": 58503762,
+          "screen_name": "civilrightsorg"
+        },
+        {
+          "name": "John Lewis",
+          "indices": [
+            46,
+            59
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        },
+        {
+          "name": "Sen. Patrick Leahy",
+          "indices": [
+            64,
+            77
+          ],
+          "id_str": "242836537",
+          "id": 242836537,
+          "screen_name": "SenatorLeahy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @civilrightsorg: On #VRA50, a message from @repjohnlewis and @SenatorLeahy: Congress must #RestoreTheVRA. http://t.co/tJd2CNdHqC http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 21:35:52+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629326440211857408,
+      "id_str": "629326440211857408",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/USRQndWenB",
+            "indices": [
+              59,
+              81
+            ],
+            "display_url": "1.usa.gov/1hluwBl",
+            "expanded_url": "http://1.usa.gov/1hluwBl"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CAPAC",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "VotingRights",
+            "indices": [
+              40,
+              53
+            ]
+          },
+          {
+            "text": "VRA50",
+            "indices": [
+              82,
+              88
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Judy Chu",
+            "indices": [
+              89,
+              100
+            ],
+            "id_str": "193732179",
+            "id": 193732179,
+            "screen_name": "RepJudyChu"
+          },
+          {
+            "name": "Senator Mazie Hirono",
+            "indices": [
+              101,
+              113
+            ],
+            "id_str": "92186819",
+            "id": 92186819,
+            "screen_name": "maziehirono"
+          },
+          {
+            "name": "Rep. Mike Honda",
+            "indices": [
+              114,
+              127
+            ],
+            "id_str": "16583468",
+            "id": 16583468,
+            "screen_name": "RepMikeHonda"
+          },
+          {
+            "name": "Rep. Ted Lieu",
+            "indices": [
+              128,
+              139
+            ],
+            "id_str": "3044993235",
+            "id": 3044993235,
+            "screen_name": "RepTedLieu"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "192955168",
+        "id": 192955168
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#CAPAC commemorates 50th Anniversary of #VotingRights Act: http://t.co/USRQndWenB #VRA50 @RepJudyChu @maziehirono @RepMikeHonda @RepTedLieu",
+      "lang": "en",
+      "created_at": "Thu Aug 06 16:21:30 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629326890365550595,
+    "id_str": "629326890365550595",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/USRQndWenB",
+          "indices": [
+            70,
+            92
+          ],
+          "display_url": "1.usa.gov/1hluwBl",
+          "expanded_url": "http://1.usa.gov/1hluwBl"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CAPAC",
+          "indices": [
+            11,
+            17
+          ]
+        },
+        {
+          "text": "VotingRights",
+          "indices": [
+            51,
+            64
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            93,
+            99
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "CAPAC",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "192955168",
+          "id": 192955168,
+          "screen_name": "CAPAC"
+        },
+        {
+          "name": "Judy Chu",
+          "indices": [
+            100,
+            111
+          ],
+          "id_str": "193732179",
+          "id": 193732179,
+          "screen_name": "RepJudyChu"
+        },
+        {
+          "name": "Senator Mazie Hirono",
+          "indices": [
+            112,
+            124
+          ],
+          "id_str": "92186819",
+          "id": 92186819,
+          "screen_name": "maziehirono"
+        },
+        {
+          "name": "Rep. Mike Honda",
+          "indices": [
+            125,
+            138
+          ],
+          "id_str": "16583468",
+          "id": 16583468,
+          "screen_name": "RepMikeHonda"
+        },
+        {
+          "name": "Rep. Ted Lieu",
+          "indices": [
+            139,
+            140
+          ],
+          "id_str": "3044993235",
+          "id": 3044993235,
+          "screen_name": "RepTedLieu"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CAPAC: #CAPAC commemorates 50th Anniversary of #VotingRights Act: http://t.co/USRQndWenB #VRA50 @RepJudyChu @maziehirono @RepMikeHonda \u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 16:23:17+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 22,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 13,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629318548142325761,
+      "id_str": "629318548142325761",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/ypzkeqf19D",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "nyti.ms/1M83tFa",
+            "expanded_url": "http://nyti.ms/1M83tFa"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16686144",
+        "id": 16686144
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "2016 will be the first election in 50 years where voters cannot rely on the full protections of the Voting Rights Act http://t.co/ypzkeqf19D",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:50:08 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629326335056453632,
+    "id_str": "629326335056453632",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ypzkeqf19D",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "nyti.ms/1M83tFa",
+          "expanded_url": "http://nyti.ms/1M83tFa"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "NYT Opinion",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "16686144",
+          "id": 16686144,
+          "screen_name": "nytopinion"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @nytopinion: 2016 will be the first election in 50 years where voters cannot rely on the full protections of the Voting Rights Act http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 16:21:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629323318311522304,
+    "id_str": "629323318311522304",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            72,
+            78
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            79,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/O263jWy6F0",
+          "media_url": "http://pbs.twimg.com/media/CLvAeJaUMAA7T4r.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvAeJaUMAA7T4r.jpg",
+          "expanded_url": "http://twitter.com/RepTedLieu/status/629323318311522304/photo/1",
+          "id_str": "629308197103218688",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/O263jWy6F0",
+          "id": 629308197103218688
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "LGBT Equality Caucus",
+          "indices": [
+            94,
+            107
+          ],
+          "id_str": "1392282998",
+          "id": 1392282998,
+          "screen_name": "LGBTEqCaucus"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/O263jWy6F0",
+          "media_url": "http://pbs.twimg.com/media/CLvAeJaUMAA7T4r.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvAeJaUMAA7T4r.jpg",
+          "expanded_url": "http://twitter.com/RepTedLieu/status/629323318311522304/photo/1",
+          "id_str": "629308197103218688",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/O263jWy6F0",
+          "id": 629308197103218688
+        }
+      ]
+    },
+    "text": "Our votes are our voices, and all Americans have the right to be heard. #VRA50 #RestoreTheVRA @LGBTEqCaucus http://t.co/O263jWy6F0",
+    "lang": "en",
+    "created_at": "2015-08-06 16:09:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629321164096192512,
+    "id_str": "629321164096192512",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/q7VngeXsny",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "1.usa.gov/1hlszVC",
+          "expanded_url": "http://1.usa.gov/1hlszVC"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sen Dianne Feinstein",
+          "indices": [
+            19,
+            32
+          ],
+          "id_str": "476256944",
+          "id": 476256944,
+          "screen_name": "SenFeinstein"
+        },
+        {
+          "name": "Sen. Barbara Boxer",
+          "indices": [
+            33,
+            46
+          ],
+          "id_str": "15442036",
+          "id": 15442036,
+          "screen_name": "SenatorBoxer"
+        },
+        {
+          "name": "Veterans Affairs",
+          "indices": [
+            47,
+            62
+          ],
+          "id_str": "78408666",
+          "id": 78408666,
+          "screen_name": "DeptVetAffairs"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to work with @SenFeinstein @SenatorBoxer @DeptVetAffairs to fight to end veterans homelessness in California: http://t.co/q7VngeXsny",
+    "lang": "en",
+    "created_at": "2015-08-06 16:00:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629305845009006592,
+    "id_str": "629305845009006592",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zp8scYhBqO",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "bit.ly/1eOpxYb",
+          "expanded_url": "http://bit.ly/1eOpxYb"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            126,
+            139
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Daily Show",
+          "indices": [
+            31,
+            44
+          ],
+          "id_str": "158414847",
+          "id": 158414847,
+          "screen_name": "TheDailyShow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In honor of Jon Stewart's last @TheDailyShow, 5 great clips of him calling out climate change deniers: http://t.co/zp8scYhBqO #ActOnClimate",
+    "lang": "en",
+    "created_at": "2015-08-06 14:59:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629030353374720001,
+    "id_str": "629030353374720001",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/uScR9cHU5I",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "wapo.st/1xxXXCE",
+          "expanded_url": "http://wapo.st/1xxXXCE"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            88,
+            102
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Tragically, the GOP's campaign to limit voting rights is working. That\u2019s why we need to #RestoretheVRA now: http://t.co/uScR9cHU5I",
+    "lang": "en",
+    "created_at": "2015-08-05 20:44:57+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628952057941262336,
+      "id_str": "628952057941262336",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/foxCHAmIgr",
+            "indices": [
+              97,
+              119
+            ],
+            "display_url": "bit.ly/1hjuSIE",
+            "expanded_url": "http://bit.ly/1hjuSIE"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "policy",
+            "indices": [
+              65,
+              72
+            ]
+          },
+          {
+            "text": "app",
+            "indices": [
+              81,
+              85
+            ]
+          },
+          {
+            "text": "LieuChat",
+            "indices": [
+              120,
+              129
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Ted Lieu",
+            "indices": [
+              12,
+              23
+            ],
+            "id_str": "3044993235",
+            "id": 3044993235,
+            "screen_name": "RepTedLieu"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "282100055",
+        "id": 282100055
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Join us and @RepTedLieu for free on 8/18 in Santa Monica to chat #policy and the #app ecosystem! http://t.co/foxCHAmIgr #LieuChat",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:33:50 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628954899187933184,
+    "id_str": "628954899187933184",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/foxCHAmIgr",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "bit.ly/1hjuSIE",
+          "expanded_url": "http://bit.ly/1hjuSIE"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "policy",
+          "indices": [
+            83,
+            90
+          ]
+        },
+        {
+          "text": "app",
+          "indices": [
+            99,
+            103
+          ]
+        },
+        {
+          "text": "LieuChat",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Apps Alliance",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "282100055",
+          "id": 282100055,
+          "screen_name": "AppsAlliance"
+        },
+        {
+          "name": "Rep. Ted Lieu",
+          "indices": [
+            30,
+            41
+          ],
+          "id_str": "3044993235",
+          "id": 3044993235,
+          "screen_name": "RepTedLieu"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AppsAlliance: Join us and @RepTedLieu for free on 8/18 in Santa Monica to chat #policy and the #app ecosystem! http://t.co/foxCHAmIgr #\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:45:08+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 200,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 133,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628221984657272832,
+      "id_str": "628221984657272832",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/x0c3PatYdo",
+            "indices": [
+              84,
+              107
+            ],
+            "display_url": "medium.com/@GinaEPA/6-thi\u2026",
+            "expanded_url": "https://medium.com/@GinaEPA/6-things-every-american-should-know-about-the-clean-power-plan-e06b34fc2a57"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              67,
+              82
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              122,
+              135
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1530850933",
+        "id": 1530850933
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Here are the 6 most important things you should know about today's #CleanPowerPlan: https://t.co/x0c3PatYdo. It's time to #ActOnClimate!",
+      "lang": "en",
+      "created_at": "Mon Aug 03 15:12:47 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 200,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628306156918829056,
+    "id_str": "628306156918829056",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/x0c3PatYdo",
+          "indices": [
+            97,
+            120
+          ],
+          "display_url": "medium.com/@GinaEPA/6-thi\u2026",
+          "expanded_url": "https://medium.com/@GinaEPA/6-things-every-american-should-know-about-the-clean-power-plan-e06b34fc2a57"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            80,
+            95
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            135,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Gina McCarthy",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "1530850933",
+          "id": 1530850933,
+          "screen_name": "GinaEPA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GinaEPA: Here are the 6 most important things you should know about today's #CleanPowerPlan: https://t.co/x0c3PatYdo. It's time to #Act\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 20:47:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 13,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628305625617797120,
+    "id_str": "628305625617797120",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            119,
+            134
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "U.S. EPA",
+          "indices": [
+            39,
+            43
+          ],
+          "id_str": "14615871",
+          "id": 14615871,
+          "screen_name": "EPA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "President Nixon announcing creation of @EPA: \u201cClean air and clean water\u2026.are part of the birthright of every American\u201d #CleanPowerPlan",
+    "lang": "en",
+    "created_at": "2015-08-03 20:45:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628286800029577216,
+    "id_str": "628286800029577216",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            105,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/h7i2Q0WiBv",
+          "media_url": "http://pbs.twimg.com/media/CLgInjJWIAAVOh1.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgInjJWIAAVOh1.png",
+          "expanded_url": "http://twitter.com/RepTedLieu/status/628286800029577216/photo/1",
+          "id_str": "628261623560544256",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/h7i2Q0WiBv",
+          "id": 628261623560544256
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/h7i2Q0WiBv",
+          "media_url": "http://pbs.twimg.com/media/CLgInjJWIAAVOh1.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgInjJWIAAVOh1.png",
+          "expanded_url": "http://twitter.com/RepTedLieu/status/628286800029577216/photo/1",
+          "id_str": "628261623560544256",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/h7i2Q0WiBv",
+          "id": 628261623560544256
+        }
+      ]
+    },
+    "text": "We don't have to choose between public health &amp; a strong economy. Clean energy creates American jobs.#CleanPowerPlan http://t.co/h7i2Q0WiBv",
+    "lang": "en",
+    "created_at": "2015-08-03 19:30:20+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628264188415062017,
+    "id_str": "628264188415062017",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            12,
+            27
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Why we need #CleanPowerPlan: Carbon pollution hurts children, seniors, &amp; the disabled the most, but it's never been regulated before today.",
+    "lang": "en",
+    "created_at": "2015-08-03 18:00:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628260665501818880,
+    "id_str": "628260665501818880",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            126,
+            139
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "LCV",
+          "indices": [
+            79,
+            88
+          ],
+          "id_str": "20517132",
+          "id": 20517132,
+          "screen_name": "LCVoters"
+        },
+        {
+          "name": "Sierra Club",
+          "indices": [
+            89,
+            100
+          ],
+          "id_str": "34113439",
+          "id": 34113439,
+          "screen_name": "sierraclub"
+        },
+        {
+          "name": "EDF",
+          "indices": [
+            101,
+            116
+          ],
+          "id_str": "20068053",
+          "id": 20068053,
+          "screen_name": "EnvDefenseFund"
+        },
+        {
+          "name": "NRDC",
+          "indices": [
+            117,
+            122
+          ],
+          "id_str": "18713552",
+          "id": 18713552,
+          "screen_name": "NRDC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "2015: biggest year yet in the fight against climate change. Proud to work with @LCVoters @sierraclub @EnvDefenseFund @NRDC to #ActOnClimate",
+    "lang": "en",
+    "created_at": "2015-08-03 17:46:29+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628195792608694272,
+      "id_str": "628195792608694272",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/yMdoKVz3Ak",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "seec-israel.house.gov/press-release/\u2026",
+            "expanded_url": "http://seec-israel.house.gov/press-release/statement-clean-power-plan"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              26,
+              41
+            ]
+          },
+          {
+            "text": "ActonClimate",
+            "indices": [
+              45,
+              58
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "U.S. EPA",
+            "indices": [
+              6,
+              10
+            ],
+            "id_str": "14615871",
+            "id": 14615871,
+            "screen_name": "EPA"
+          },
+          {
+            "name": "President Obama",
+            "indices": [
+              11,
+              17
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29205600",
+        "id": 29205600
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Today @EPA @POTUS release #CleanPowerPlan to #ActonClimate...SEEC statement here: http://t.co/yMdoKVz3Ak",
+      "lang": "en",
+      "created_at": "Mon Aug 03 13:28:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628259192634241024,
+    "id_str": "628259192634241024",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/yMdoKVz3Ak",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "seec-israel.house.gov/press-release/\u2026",
+          "expanded_url": "http://seec-israel.house.gov/press-release/statement-clean-power-plan"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            36,
+            51
+          ]
+        },
+        {
+          "text": "ActonClimate",
+          "indices": [
+            55,
+            68
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House of Reps. SEEC",
+          "indices": [
+            3,
+            8
+          ],
+          "id_str": "29205600",
+          "id": 29205600,
+          "screen_name": "SEEC"
+        },
+        {
+          "name": "U.S. EPA",
+          "indices": [
+            16,
+            20
+          ],
+          "id_str": "14615871",
+          "id": 14615871,
+          "screen_name": "EPA"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            21,
+            27
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "3044993235",
+      "screen_name": "reptedlieu",
+      "id": 3044993235
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SEEC: Today @EPA @POTUS release #CleanPowerPlan to #ActonClimate...SEEC statement here: http://t.co/yMdoKVz3Ak",
+    "lang": "en",
+    "created_at": "2015-08-03 17:40:38+00:00"
+  }
+]

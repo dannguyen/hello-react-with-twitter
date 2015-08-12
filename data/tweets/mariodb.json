@@ -1,0 +1,2950 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630053227988320256,
+    "id_str": "630053227988320256",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jim DeFede",
+          "indices": [
+            8,
+            15
+          ],
+          "id_str": "16454206",
+          "id": 16454206,
+          "screen_name": "DeFede"
+        },
+        {
+          "name": "CBS4 Miami",
+          "indices": [
+            19,
+            28
+          ],
+          "id_str": "16334281",
+          "id": 16334281,
+          "screen_name": "CBSMiami"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joining @DeFede on @CBSMiami's Facing South Florida tomorrow morning at 8:30 AM. Make sure to tune in!",
+    "lang": "en",
+    "created_at": "2015-08-08 16:29:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629748114111492096,
+    "id_str": "629748114111492096",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/I28pUVUHHa",
+          "media_url": "http://pbs.twimg.com/media/CL1QkWgWIAAHu6V.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1QkWgWIAAHu6V.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629748114111492096/photo/1",
+          "id_str": "629748108348497920",
+          "indices": [
+            94,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/I28pUVUHHa",
+          "id": 629748108348497920
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Best Buy",
+          "indices": [
+            15,
+            23
+          ],
+          "id_str": "17475575",
+          "id": 17475575,
+          "screen_name": "BestBuy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/I28pUVUHHa",
+          "media_url": "http://pbs.twimg.com/media/CL1QkWgWIAAHu6V.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1QkWgWIAAHu6V.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629748114111492096/photo/1",
+          "id_str": "629748108348497920",
+          "indices": [
+            94,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/I28pUVUHHa",
+          "id": 629748108348497920
+        }
+      ]
+    },
+    "text": "Stopped by the @BestBuy in Hialeah for a visit with the General Manager, Oscar, and his team! http://t.co/I28pUVUHHa",
+    "lang": "en",
+    "created_at": "2015-08-07 20:17:05+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629686255899549696,
+      "id_str": "629686255899549696",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 1,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 3,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 629685351410499584,
+        "id_str": "629685351410499584",
+        "entities": {
+          "symbols": [],
+          "hashtags": [],
+          "media": [
+            {
+              "url": "http://t.co/dSCu5NYCCZ",
+              "media_url": "http://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+              "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+              "id_str": "629685330203938816",
+              "indices": [
+                117,
+                139
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 768
+                }
+              },
+              "display_url": "pic.twitter.com/dSCu5NYCCZ",
+              "id": 629685330203938816
+            }
+          ],
+          "urls": [],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "37094727",
+          "id": 37094727
+        },
+        "favorited": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "extended_entities": {
+          "media": [
+            {
+              "url": "http://t.co/dSCu5NYCCZ",
+              "media_url": "http://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+              "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+              "id_str": "629685330203938816",
+              "indices": [
+                117,
+                139
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 768
+                }
+              },
+              "display_url": "pic.twitter.com/dSCu5NYCCZ",
+              "id": 629685330203938816
+            },
+            {
+              "url": "http://t.co/dSCu5NYCCZ",
+              "media_url": "http://pbs.twimg.com/media/CL0XeLuUMAAlw-s.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CL0XeLuUMAAlw-s.jpg",
+              "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+              "id_str": "629685330212302848",
+              "indices": [
+                117,
+                139
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 340
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 600
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 1024
+                }
+              },
+              "display_url": "pic.twitter.com/dSCu5NYCCZ",
+              "id": 629685330212302848
+            },
+            {
+              "url": "http://t.co/dSCu5NYCCZ",
+              "media_url": "http://pbs.twimg.com/media/CL0XeMdUsAIkbns.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CL0XeMdUsAIkbns.jpg",
+              "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+              "id_str": "629685330409467906",
+              "indices": [
+                117,
+                139
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 255
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 450
+                },
+                "large": {
+                  "w": 1024,
+                  "resize": "fit",
+                  "h": 768
+                }
+              },
+              "display_url": "pic.twitter.com/dSCu5NYCCZ",
+              "id": 629685330409467906
+            },
+            {
+              "url": "http://t.co/dSCu5NYCCZ",
+              "media_url": "http://pbs.twimg.com/media/CL0XeSsVEAEPJxx.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CL0XeSsVEAEPJxx.jpg",
+              "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+              "id_str": "629685332083019777",
+              "indices": [
+                117,
+                139
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 453
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 800
+                },
+                "large": {
+                  "w": 768,
+                  "resize": "fit",
+                  "h": 1024
+                }
+              },
+              "display_url": "pic.twitter.com/dSCu5NYCCZ",
+              "id": 629685332083019777
+            }
+          ]
+        },
+        "text": "Proud to pledge alliance to the US flag alongside 153 people who became U.S. citizens this morning. Congratulations! http://t.co/dSCu5NYCCZ",
+        "lang": "en",
+        "created_at": "Fri Aug 07 16:07:41 +0000 2015",
+        "retweeted": false
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/5UKD4m7eYz",
+            "indices": [
+              100,
+              123
+            ],
+            "display_url": "twitter.com/MarioDB/status\u2026",
+            "expanded_url": "https://twitter.com/MarioDB/status/629685351410499584"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Mario Diaz-Balart",
+            "indices": [
+              12,
+              20
+            ],
+            "id_str": "37094727",
+            "id": 37094727,
+            "screen_name": "MarioDB"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "629685351410499584",
+      "user": {
+        "id_str": "1138688364",
+        "id": 1138688364
+      },
+      "favorited": false,
+      "created_at": "Fri Aug 07 16:11:17 +0000 2015",
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Congresista @MarioDB acompa\u00f1a a 153 nuevos residentes estadounidenses en su distrito! Felicidades!  https://t.co/5UKD4m7eYz",
+      "lang": "es",
+      "quoted_status_id": 629685351410499584
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629691582111973376,
+    "id_str": "629691582111973376",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/5UKD4m7eYz",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "twitter.com/MarioDB/status\u2026",
+          "expanded_url": "https://twitter.com/MarioDB/status/629685351410499584"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "GOP en Espa\u00f1ol ",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "1138688364",
+          "id": 1138688364,
+          "screen_name": "GOPEspanol"
+        },
+        {
+          "name": "Mario Diaz-Balart",
+          "indices": [
+            28,
+            36
+          ],
+          "id_str": "37094727",
+          "id": 37094727,
+          "screen_name": "MarioDB"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GOPEspanol: Congresista @MarioDB acompa\u00f1a a 153 nuevos residentes estadounidenses en su distrito! Felicidades!  https://t.co/5UKD4m7eYz",
+    "lang": "es",
+    "created_at": "2015-08-07 16:32:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629685351410499584,
+    "id_str": "629685351410499584",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/dSCu5NYCCZ",
+          "media_url": "http://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+          "id_str": "629685330203938816",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/dSCu5NYCCZ",
+          "id": 629685330203938816
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/dSCu5NYCCZ",
+          "media_url": "http://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XeLsUkAAOVEW.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+          "id_str": "629685330203938816",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/dSCu5NYCCZ",
+          "id": 629685330203938816
+        },
+        {
+          "url": "http://t.co/dSCu5NYCCZ",
+          "media_url": "http://pbs.twimg.com/media/CL0XeLuUMAAlw-s.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XeLuUMAAlw-s.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+          "id_str": "629685330212302848",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/dSCu5NYCCZ",
+          "id": 629685330212302848
+        },
+        {
+          "url": "http://t.co/dSCu5NYCCZ",
+          "media_url": "http://pbs.twimg.com/media/CL0XeMdUsAIkbns.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XeMdUsAIkbns.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+          "id_str": "629685330409467906",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/dSCu5NYCCZ",
+          "id": 629685330409467906
+        },
+        {
+          "url": "http://t.co/dSCu5NYCCZ",
+          "media_url": "http://pbs.twimg.com/media/CL0XeSsVEAEPJxx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0XeSsVEAEPJxx.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629685351410499584/photo/1",
+          "id_str": "629685332083019777",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/dSCu5NYCCZ",
+          "id": 629685332083019777
+        }
+      ]
+    },
+    "text": "Proud to pledge alliance to the US flag alongside 153 people who became U.S. citizens this morning. Congratulations! http://t.co/dSCu5NYCCZ",
+    "lang": "en",
+    "created_at": "2015-08-07 16:07:41+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629406539665702913,
+    "id_str": "629406539665702913",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SWFL",
+          "indices": [
+            112,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/X3ozfQhoug",
+          "media_url": "http://pbs.twimg.com/media/CLwZ43xUkAAcEIk.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwZ43xUkAAcEIk.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629406539665702913/photo/1",
+          "id_str": "629406512759214080",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/X3ozfQhoug",
+          "id": 629406512759214080
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/X3ozfQhoug",
+          "media_url": "http://pbs.twimg.com/media/CLwZ43xUkAAcEIk.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwZ43xUkAAcEIk.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629406539665702913/photo/1",
+          "id_str": "629406512759214080",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/X3ozfQhoug",
+          "id": 629406512759214080
+        },
+        {
+          "url": "http://t.co/X3ozfQhoug",
+          "media_url": "http://pbs.twimg.com/media/CLwZ43zVAAA2vDf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwZ43zVAAA2vDf.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629406539665702913/photo/1",
+          "id_str": "629406512767631360",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/X3ozfQhoug",
+          "id": 629406512767631360
+        },
+        {
+          "url": "http://t.co/X3ozfQhoug",
+          "media_url": "http://pbs.twimg.com/media/CLwZ45QUEAA1_sG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwZ45QUEAA1_sG.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629406539665702913/photo/1",
+          "id_str": "629406513157640192",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/X3ozfQhoug",
+          "id": 629406513157640192
+        },
+        {
+          "url": "http://t.co/X3ozfQhoug",
+          "media_url": "http://pbs.twimg.com/media/CLwZ45SUsAA8PWW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwZ45SUsAA8PWW.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629406539665702913/photo/1",
+          "id_str": "629406513166069760",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/X3ozfQhoug",
+          "id": 629406513166069760
+        }
+      ]
+    },
+    "text": "Ended my day with a visit to Altair Training Solutions, which provides facilities + services to our military in #SWFL http://t.co/X3ozfQhoug",
+    "lang": "en",
+    "created_at": "2015-08-06 21:39:47+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629345320464465920,
+    "id_str": "629345320464465920",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/MsWU30md6s",
+          "media_url": "http://pbs.twimg.com/media/CLviOuDXAAAuHQw.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLviOuDXAAAuHQw.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629345320464465920/photo/1",
+          "id_str": "629345315456483328",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/MsWU30md6s",
+          "id": 629345315456483328
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/MsWU30md6s",
+          "media_url": "http://pbs.twimg.com/media/CLviOuDXAAAuHQw.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLviOuDXAAAuHQw.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/629345320464465920/photo/1",
+          "id_str": "629345315456483328",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/MsWU30md6s",
+          "id": 629345315456483328
+        }
+      ]
+    },
+    "text": "Glad to see so many folks out for my \"Know Your Rights\" event for seniors in Golden Gate. Thanks to all who attended! http://t.co/MsWU30md6s",
+    "lang": "en",
+    "created_at": "2015-08-06 17:36:31+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629299094951981056,
+    "id_str": "629299094951981056",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/z1POTPUF5K",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "miamiherald.com/news/local/edu\u2026",
+          "expanded_url": "http://www.miamiherald.com/news/local/education/article29985501.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Parents, stock up on clothes, supplies, + whatever else your family needs for the school year during tax free week! http://t.co/z1POTPUF5K",
+    "lang": "en",
+    "created_at": "2015-08-06 14:32:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628913057520070656,
+    "id_str": "628913057520070656",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Need help with VA or other fed issue? My staff will be holding office hours 3-5p @ Rose G Price Park, 901 NW 208 Ave",
+    "lang": "en",
+    "created_at": "2015-08-05 12:58:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628913016176816128,
+    "id_str": "628913016176816128",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Need help with VA or other fed issue? My staff will be holding office hours 10a-12p @ Ave Maria Welcome Center, 5076 Annunciation Circle",
+    "lang": "en",
+    "created_at": "2015-08-05 12:58:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628620566933700608,
+    "id_str": "628620566933700608",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "USCG",
+          "indices": [
+            97,
+            102
+          ]
+        },
+        {
+          "text": "CG225th",
+          "indices": [
+            103,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/fGSIwkvbIq",
+          "media_url": "http://pbs.twimg.com/media/CLlOz8kWgAAdJTV.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlOz8kWgAAdJTV.png",
+          "expanded_url": "http://twitter.com/MarioDB/status/628620566933700608/photo/1",
+          "id_str": "628620277333786624",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 228
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 403
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 689
+            }
+          },
+          "display_url": "pic.twitter.com/fGSIwkvbIq",
+          "id": 628620277333786624
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "USCG (Official)",
+          "indices": [
+            15,
+            20
+          ],
+          "id_str": "15113565",
+          "id": 15113565,
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/fGSIwkvbIq",
+          "media_url": "http://pbs.twimg.com/media/CLlOz8kWgAAdJTV.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlOz8kWgAAdJTV.png",
+          "expanded_url": "http://twitter.com/MarioDB/status/628620566933700608/photo/1",
+          "id_str": "628620277333786624",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 228
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 403
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 689
+            }
+          },
+          "display_url": "pic.twitter.com/fGSIwkvbIq",
+          "id": 628620277333786624
+        }
+      ]
+    },
+    "text": "For 225 years, @USCG has protected our seas. Thank you for your continued sacrifice and service! #USCG #CG225th http://t.co/fGSIwkvbIq",
+    "lang": "en",
+    "created_at": "2015-08-04 17:36:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628591954473930752,
+    "id_str": "628591954473930752",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FL25",
+          "indices": [
+            105,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/nPJZ60RQxE",
+          "media_url": "http://pbs.twimg.com/media/CLk1C8OWsAAvzS1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk1C8OWsAAvzS1.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/628591954473930752/photo/1",
+          "id_str": "628591947637239808",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/nPJZ60RQxE",
+          "id": 628591947637239808
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Amazon",
+          "indices": [
+            15,
+            22
+          ],
+          "id_str": "20793816",
+          "id": 20793816,
+          "screen_name": "amazon"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/nPJZ60RQxE",
+          "media_url": "http://pbs.twimg.com/media/CLk1C8OWsAAvzS1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk1C8OWsAAvzS1.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/628591954473930752/photo/1",
+          "id_str": "628591947637239808",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/nPJZ60RQxE",
+          "id": 628591947637239808
+        }
+      ]
+    },
+    "text": "Great visit to @amazon fulfillment center in Doral, which has brought jobs + boost to our local economy! #FL25 http://t.co/nPJZ60RQxE",
+    "lang": "en",
+    "created_at": "2015-08-04 15:42:55+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628286427537776640,
+    "id_str": "628286427537776640",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "sfl",
+          "indices": [
+            110,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/qlKs2zg2RY",
+          "media_url": "http://pbs.twimg.com/media/CLgfK7PUsAASdf-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgfK7PUsAASdf-.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/628286427537776640/photo/1",
+          "id_str": "628286420579299328",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/qlKs2zg2RY",
+          "id": 628286420579299328
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Natural Resources",
+          "indices": [
+            83,
+            96
+          ],
+          "id_str": "41445718",
+          "id": 41445718,
+          "screen_name": "NatResources"
+        },
+        {
+          "name": "Biscayne NP",
+          "indices": [
+            97,
+            109
+          ],
+          "id_str": "70523764",
+          "id": 70523764,
+          "screen_name": "BiscayneNPS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/qlKs2zg2RY",
+          "media_url": "http://pbs.twimg.com/media/CLgfK7PUsAASdf-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgfK7PUsAASdf-.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/628286427537776640/photo/1",
+          "id_str": "628286420579299328",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/qlKs2zg2RY",
+          "id": 628286420579299328
+        }
+      ]
+    },
+    "text": "Let's work together to support local fishermen + preserve the park for future gen. @NatResources @BiscayneNPS #sfl http://t.co/qlKs2zg2RY",
+    "lang": "en",
+    "created_at": "2015-08-03 19:28:51+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628245232149241856,
+      "id_str": "628245232149241856",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/khDLJlqjE1",
+            "media_url": "http://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+            "expanded_url": "http://twitter.com/RosLehtinen/status/628245232149241856/photo/1",
+            "id_str": "628245232052752384",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 510
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 900
+              },
+              "large": {
+                "w": 666,
+                "resize": "fit",
+                "h": 1000
+              }
+            },
+            "display_url": "pic.twitter.com/khDLJlqjE1",
+            "id": 628245232052752384
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Natural Resources",
+            "indices": [
+              13,
+              26
+            ],
+            "id_str": "41445718",
+            "id": 41445718,
+            "screen_name": "NatResources"
+          },
+          {
+            "name": "Biscayne NP",
+            "indices": [
+              58,
+              70
+            ],
+            "id_str": "70523764",
+            "id": 70523764,
+            "screen_name": "BiscayneNPS"
+          },
+          {
+            "name": "Rep. Carlos Curbelo ",
+            "indices": [
+              79,
+              90
+            ],
+            "id_str": "2853309155",
+            "id": 2853309155,
+            "screen_name": "RepCurbelo"
+          },
+          {
+            "name": "Mario Diaz-Balart",
+            "indices": [
+              91,
+              99
+            ],
+            "id_str": "37094727",
+            "id": 37094727,
+            "screen_name": "MarioDB"
+          },
+          {
+            "name": "David Jolly",
+            "indices": [
+              100,
+              116
+            ],
+            "id_str": "2482022082",
+            "id": 2482022082,
+            "screen_name": "USRepDavidJolly"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14275291",
+        "id": 14275291
+      },
+      "favorited": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/khDLJlqjE1",
+            "media_url": "http://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+            "expanded_url": "http://twitter.com/RosLehtinen/status/628245232149241856/photo/1",
+            "id_str": "628245232052752384",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 510
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 900
+              },
+              "large": {
+                "w": 666,
+                "resize": "fit",
+                "h": 1000
+              }
+            },
+            "display_url": "pic.twitter.com/khDLJlqjE1",
+            "id": 628245232052752384
+          }
+        ]
+      },
+      "text": "Great 2 b at @NatResources hearing on preserving access 2 @BiscayneNPS 4 all w @RepCurbelo @MarioDB @USRepDavidJolly http://t.co/khDLJlqjE1",
+      "lang": "en",
+      "created_at": "Mon Aug 03 16:45:10 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 14275291,
+          "media_url": "http://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "source_user_id_str": "14275291",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/khDLJlqjE1",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/628245232149241856/photo/1",
+          "url": "http://t.co/khDLJlqjE1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "source_status_id_str": "628245232149241856",
+          "id_str": "628245232052752384",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 666,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "id": 628245232052752384,
+          "source_status_id": 628245232149241856
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628261122961985537,
+    "id_str": "628261122961985537",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 14275291,
+          "media_url": "http://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "source_user_id_str": "14275291",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/khDLJlqjE1",
+          "expanded_url": "http://twitter.com/RosLehtinen/status/628245232149241856/photo/1",
+          "url": "http://t.co/khDLJlqjE1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLf5tcBWUAA6bZb.jpg",
+          "source_status_id_str": "628245232149241856",
+          "id_str": "628245232052752384",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 510
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 900
+            },
+            "large": {
+              "w": 666,
+              "resize": "fit",
+              "h": 1000
+            }
+          },
+          "id": 628245232052752384,
+          "source_status_id": 628245232149241856
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Ileana Ros-Lehtinen",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "14275291",
+          "id": 14275291,
+          "screen_name": "RosLehtinen"
+        },
+        {
+          "name": "Natural Resources",
+          "indices": [
+            30,
+            43
+          ],
+          "id_str": "41445718",
+          "id": 41445718,
+          "screen_name": "NatResources"
+        },
+        {
+          "name": "Biscayne NP",
+          "indices": [
+            75,
+            87
+          ],
+          "id_str": "70523764",
+          "id": 70523764,
+          "screen_name": "BiscayneNPS"
+        },
+        {
+          "name": "Rep. Carlos Curbelo ",
+          "indices": [
+            96,
+            107
+          ],
+          "id_str": "2853309155",
+          "id": 2853309155,
+          "screen_name": "RepCurbelo"
+        },
+        {
+          "name": "Mario Diaz-Balart",
+          "indices": [
+            108,
+            116
+          ],
+          "id_str": "37094727",
+          "id": 37094727,
+          "screen_name": "MarioDB"
+        },
+        {
+          "name": "David Jolly",
+          "indices": [
+            117,
+            133
+          ],
+          "id_str": "2482022082",
+          "id": 2482022082,
+          "screen_name": "USRepDavidJolly"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RosLehtinen: Great 2 b at @NatResources hearing on preserving access 2 @BiscayneNPS 4 all w @RepCurbelo @MarioDB @USRepDavidJolly http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 17:48:18+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628216660793655296,
+      "id_str": "628216660793655296",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/qi2FUrT24R",
+            "media_url": "http://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+            "expanded_url": "http://twitter.com/NatResources/status/628216660793655296/photo/1",
+            "id_str": "628216660135051265",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 480
+              }
+            },
+            "display_url": "pic.twitter.com/qi2FUrT24R",
+            "id": 628216660135051265
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "HuntFlorida",
+            "indices": [
+              36,
+              51
+            ],
+            "id_str": "2741031964",
+            "id": 2741031964,
+            "screen_name": "HuntFloridaFWC"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "41445718",
+        "id": 41445718
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/qi2FUrT24R",
+            "media_url": "http://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+            "expanded_url": "http://twitter.com/NatResources/status/628216660793655296/photo/1",
+            "id_str": "628216660135051265",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 480
+              }
+            },
+            "display_url": "pic.twitter.com/qi2FUrT24R",
+            "id": 628216660135051265
+          }
+        ]
+      },
+      "text": "Packed house as Jessica McCawley of @HuntFloridaFWC testifies that the park services plan \"will hurt economy\" http://t.co/qi2FUrT24R",
+      "lang": "en",
+      "created_at": "Mon Aug 03 14:51:38 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 41445718,
+          "media_url": "http://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+          "source_user_id_str": "41445718",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/qi2FUrT24R",
+          "expanded_url": "http://twitter.com/NatResources/status/628216660793655296/photo/1",
+          "url": "http://t.co/qi2FUrT24R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+          "source_status_id_str": "628216660793655296",
+          "id_str": "628216660135051265",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "id": 628216660135051265,
+          "source_status_id": 628216660793655296
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628227873854365696,
+    "id_str": "628227873854365696",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 41445718,
+          "media_url": "http://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+          "source_user_id_str": "41445718",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/qi2FUrT24R",
+          "expanded_url": "http://twitter.com/NatResources/status/628216660793655296/photo/1",
+          "url": "http://t.co/qi2FUrT24R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLffuVVVAAEiq6k.jpg",
+          "source_status_id_str": "628216660793655296",
+          "id_str": "628216660135051265",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "id": 628216660135051265,
+          "source_status_id": 628216660793655296
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Natural Resources",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "41445718",
+          "id": 41445718,
+          "screen_name": "NatResources"
+        },
+        {
+          "name": "HuntFlorida",
+          "indices": [
+            54,
+            69
+          ],
+          "id_str": "2741031964",
+          "id": 2741031964,
+          "screen_name": "HuntFloridaFWC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NatResources: Packed house as Jessica McCawley of @HuntFloridaFWC testifies that the park services plan \"will hurt economy\" http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 15:36:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628224702092328960,
+    "id_str": "628224702092328960",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/4tDWjxtzZZ",
+          "media_url": "http://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/628224702092328960/photo/1",
+          "id_str": "628224689395994624",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/4tDWjxtzZZ",
+          "id": 628224689395994624
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Natural Resources",
+          "indices": [
+            5,
+            18
+          ],
+          "id_str": "41445718",
+          "id": 41445718,
+          "screen_name": "NatResources"
+        },
+        {
+          "name": "Biscayne NP",
+          "indices": [
+            43,
+            55
+          ],
+          "id_str": "70523764",
+          "id": 70523764,
+          "screen_name": "BiscayneNPS"
+        },
+        {
+          "name": "Ileana Ros-Lehtinen",
+          "indices": [
+            71,
+            83
+          ],
+          "id_str": "14275291",
+          "id": 14275291,
+          "screen_name": "RosLehtinen"
+        },
+        {
+          "name": "Rep. Carlos Curbelo ",
+          "indices": [
+            84,
+            95
+          ],
+          "id_str": "2853309155",
+          "id": 2853309155,
+          "screen_name": "RepCurbelo"
+        },
+        {
+          "name": "David Jolly",
+          "indices": [
+            96,
+            112
+          ],
+          "id_str": "2482022082",
+          "id": 2482022082,
+          "screen_name": "USRepDavidJolly"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/4tDWjxtzZZ",
+          "media_url": "http://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfnBsqUEAAv3wL.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/628224702092328960/photo/1",
+          "id_str": "628224689395994624",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/4tDWjxtzZZ",
+          "id": 628224689395994624
+        }
+      ]
+    },
+    "text": "Now: @NatResources field hearing regarding @BiscayneNPS fisheries plan @RosLehtinen @RepCurbelo @USRepDavidJolly http://t.co/4tDWjxtzZZ",
+    "lang": "en",
+    "created_at": "2015-08-03 15:23:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628194858432372736,
+    "id_str": "628194858432372736",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627554106698149889,
+      "id_str": "627554106698149889",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "SoFla",
+            "indices": [
+              101,
+              107
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/hjjzkCCowi",
+            "media_url": "http://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+            "expanded_url": "http://twitter.com/RosLehtinen/status/627554106698149889/photo/1",
+            "id_str": "627554106568093696",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 510
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 900
+              },
+              "large": {
+                "w": 666,
+                "resize": "fit",
+                "h": 1000
+              }
+            },
+            "display_url": "pic.twitter.com/hjjzkCCowi",
+            "id": 627554106568093696
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Everglades Natl Park",
+            "indices": [
+              31,
+              45
+            ],
+            "id_str": "63966574",
+            "id": 63966574,
+            "screen_name": "EvergladesNPS"
+          },
+          {
+            "name": "Rob Bishop",
+            "indices": [
+              48,
+              61
+            ],
+            "id_str": "148006729",
+            "id": 148006729,
+            "screen_name": "RepRobBishop"
+          },
+          {
+            "name": "Mario Diaz-Balart",
+            "indices": [
+              62,
+              70
+            ],
+            "id_str": "37094727",
+            "id": 37094727,
+            "screen_name": "MarioDB"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14275291",
+        "id": 14275291
+      },
+      "favorited": false,
+      "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Mobile Web (M5)</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/hjjzkCCowi",
+            "media_url": "http://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLWFIo9UMAAFVcK.jpg",
+            "expanded_url": "http://twitter.com/RosLehtinen/status/627554106698149889/photo/1",
+            "id_str": "627554106568093696",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 510
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 900
+              },
+              "large": {
+                "w": 666,
+                "resize": "fit",
+                "h": 1000
+              }
+            },
+            "display_url": "pic.twitter.com/hjjzkCCowi",
+            "id": 627554106568093696
+          }
+        ]
+      },
+      "text": "Incredible,informative tour of @EvergladesNPS w @RepRobBishop @MarioDB.Tremendous park that reflects #SoFla diversity http://t.co/hjjzkCCowi",
+      "lang": "en",
+      "created_at": "Sat Aug 01 18:58:53 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/us2Ioo249z",
+          "indices": [
+            94,
+            117
+          ],
+          "display_url": "twitter.com/RosLehtinen/st\u2026",
+          "expanded_url": "https://twitter.com/RosLehtinen/status/627554106698149889"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Everglades",
+          "indices": [
+            75,
+            86
+          ]
+        },
+        {
+          "text": "SFL",
+          "indices": [
+            88,
+            92
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Natural Resources",
+          "indices": [
+            10,
+            23
+          ],
+          "id_str": "41445718",
+          "id": 41445718,
+          "screen_name": "NatResources"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "627554106698149889",
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "created_at": "2015-08-03 13:25:00+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Glad that @NatResources Chairman Bishop could experience the beauty of the #Everglades! #SFL  https://t.co/us2Ioo249z",
+    "lang": "en",
+    "quoted_status_id": 627554106698149889
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626784190386827264,
+    "id_str": "626784190386827264",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VAAccountabilityAct",
+          "indices": [
+            18,
+            38
+          ]
+        },
+        {
+          "text": "vets",
+          "indices": [
+            60,
+            65
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/WINwPcUD8S",
+          "media_url": "http://pbs.twimg.com/media/CLLI5LKUEAAVaAa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLI5LKUEAAVaAa.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/626784190386827264/photo/1",
+          "id_str": "626784182732066816",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 313
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 502
+            }
+          },
+          "display_url": "pic.twitter.com/WINwPcUD8S",
+          "id": 626784182732066816
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/WINwPcUD8S",
+          "media_url": "http://pbs.twimg.com/media/CLLI5LKUEAAVaAa.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLI5LKUEAAVaAa.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/626784190386827264/photo/1",
+          "id_str": "626784182732066816",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 313
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 502
+            }
+          },
+          "display_url": "pic.twitter.com/WINwPcUD8S",
+          "id": 626784182732066816
+        }
+      ]
+    },
+    "text": "Proudly supported #VAAccountabilityAct. Let's make sure our #vets are receiving the best possible medical care. http://t.co/WINwPcUD8S",
+    "lang": "en",
+    "created_at": "2015-07-30 15:59:30+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626425294652637184,
+    "id_str": "626425294652637184",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/5vjWlN0rxD",
+          "media_url": "http://pbs.twimg.com/media/CLGCe2CWcAA4aDs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGCe2CWcAA4aDs.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/626425294652637184/photo/1",
+          "id_str": "626425289594269696",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/5vjWlN0rxD",
+          "id": 626425289594269696
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/5vjWlN0rxD",
+          "media_url": "http://pbs.twimg.com/media/CLGCe2CWcAA4aDs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGCe2CWcAA4aDs.jpg",
+          "expanded_url": "http://twitter.com/MarioDB/status/626425294652637184/photo/1",
+          "id_str": "626425289594269696",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/5vjWlN0rxD",
+          "id": 626425289594269696
+        }
+      ]
+    },
+    "text": "Grateful to spend time visiting with the Albisu and Williams families this morning. If you're ever in DC, stop on by! http://t.co/5vjWlN0rxD",
+    "lang": "en",
+    "created_at": "2015-07-29 16:13:23+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626157066638491648,
+    "id_str": "626157066638491648",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            20,
+            29
+          ]
+        },
+        {
+          "text": "smallbiz",
+          "indices": [
+            129,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to co-sponsor #REINSAct that just passed in the House. Let's restore accountability and cut red tape + regulations hurting #smallbiz",
+    "lang": "en",
+    "created_at": "2015-07-28 22:27:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626146245959118849,
+    "id_str": "626146245959118849",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "smallbiz",
+          "indices": [
+            58,
+            67
+          ]
+        },
+        {
+          "text": "REINSAct",
+          "indices": [
+            125,
+            134
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "37094727",
+      "screen_name": "mariodb",
+      "id": 37094727
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On the House floor right now: HR 427. Did you know 72% of #smallbiz reported that regulations were hurting their operations? #REINSAct",
+    "lang": "en",
+    "created_at": "2015-07-28 21:44:32+00:00"
+  }
+]

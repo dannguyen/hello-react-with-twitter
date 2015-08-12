@@ -1,0 +1,3382 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Brooklyn, NY",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -74.041878,
+                40.570842
+              ],
+              [
+                -73.855673,
+                40.570842
+              ],
+              [
+                -73.855673,
+                40.739434
+              ],
+              [
+                -74.041878,
+                40.739434
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/011add077f4d2da3.json",
+        "name": "Brooklyn",
+        "country": "United States",
+        "place_type": "city",
+        "id": "011add077f4d2da3"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630003004519882752,
+      "id_str": "630003004519882752",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "breastfeeding",
+            "indices": [
+              42,
+              56
+            ]
+          },
+          {
+            "text": "NYC",
+            "indices": [
+              112,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/BZplBKKrCc",
+            "media_url": "http://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+            "expanded_url": "http://twitter.com/NewYorkMilkBank/status/630003004519882752/photo/1",
+            "id_str": "630003003714482177",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 960
+              }
+            },
+            "display_url": "pic.twitter.com/BZplBKKrCc",
+            "id": 630003003714482177
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Carolyn  B. Maloney",
+            "indices": [
+              10,
+              21
+            ],
+            "id_str": "258900199",
+            "id": 258900199,
+            "screen_name": "RepMaloney"
+          },
+          {
+            "name": "NYS BF Coalition",
+            "indices": [
+              105,
+              111
+            ],
+            "id_str": "100376432",
+            "id": 100376432,
+            "screen_name": "NYSBC"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3195806999",
+        "id": 3195806999
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/BZplBKKrCc",
+            "media_url": "http://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+            "expanded_url": "http://twitter.com/NewYorkMilkBank/status/630003004519882752/photo/1",
+            "id_str": "630003003714482177",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 960
+              }
+            },
+            "display_url": "pic.twitter.com/BZplBKKrCc",
+            "id": 630003003714482177
+          }
+        ]
+      },
+      "text": "Thank you @RepMaloney for your support of #breastfeeding &amp; for helping to kick off yesterday's walk! @NYSBC #NYC http://t.co/BZplBKKrCc",
+      "lang": "en",
+      "created_at": "Sat Aug 08 13:09:55 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 3195806999,
+          "media_url": "http://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+          "source_user_id_str": "3195806999",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/BZplBKKrCc",
+          "expanded_url": "http://twitter.com/NewYorkMilkBank/status/630003004519882752/photo/1",
+          "url": "http://t.co/BZplBKKrCc",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+          "source_status_id_str": "630003004519882752",
+          "id_str": "630003003714482177",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "id": 630003003714482177,
+          "source_status_id": 630003004519882752
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630063790919393280,
+    "id_str": "630063790919393280",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "breastfeeding",
+          "indices": [
+            63,
+            77
+          ]
+        },
+        {
+          "text": "NYC",
+          "indices": [
+            133,
+            137
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 3195806999,
+          "media_url": "http://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+          "source_user_id_str": "3195806999",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/BZplBKKrCc",
+          "expanded_url": "http://twitter.com/NewYorkMilkBank/status/630003004519882752/photo/1",
+          "url": "http://t.co/BZplBKKrCc",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL44ZNvUsAEZoI4.jpg",
+          "source_status_id_str": "630003004519882752",
+          "id_str": "630003003714482177",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "id": 630003003714482177,
+          "source_status_id": 630003004519882752
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "New York Milk Bank",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "3195806999",
+          "id": 3195806999,
+          "screen_name": "NewYorkMilkBank"
+        },
+        {
+          "name": "Carolyn  B. Maloney",
+          "indices": [
+            31,
+            42
+          ],
+          "id_str": "258900199",
+          "id": 258900199,
+          "screen_name": "RepMaloney"
+        },
+        {
+          "name": "NYS BF Coalition",
+          "indices": [
+            126,
+            132
+          ],
+          "id_str": "100376432",
+          "id": 100376432,
+          "screen_name": "NYSBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NewYorkMilkBank: Thank you @RepMaloney for your support of #breastfeeding &amp; for helping to kick off yesterday's walk! @NYSBC #NYC http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-08 17:11:28+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629689107879477249,
+      "id_str": "629689107879477249",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/JdBGI9gwVB",
+            "media_url": "http://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+            "expanded_url": "http://twitter.com/JECDems/status/629689107879477249/photo/1",
+            "id_str": "629689107485167616",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 262
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 463
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 791
+              }
+            },
+            "display_url": "pic.twitter.com/JdBGI9gwVB",
+            "id": 629689107485167616
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/AZLsq4ylMk",
+            "indices": [
+              90,
+              112
+            ],
+            "display_url": "1.usa.gov/1T0c8Pz",
+            "expanded_url": "http://1.usa.gov/1T0c8Pz"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Carolyn  B. Maloney",
+            "indices": [
+              21,
+              32
+            ],
+            "id_str": "258900199",
+            "id": 258900199,
+            "screen_name": "RepMaloney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "116505994",
+        "id": 116505994
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/JdBGI9gwVB",
+            "media_url": "http://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+            "expanded_url": "http://twitter.com/JECDems/status/629689107879477249/photo/1",
+            "id_str": "629689107485167616",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 262
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 463
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 791
+              }
+            },
+            "display_url": "pic.twitter.com/JdBGI9gwVB",
+            "id": 629689107485167616
+          }
+        ]
+      },
+      "text": "Re July jobs report, @RepMaloney hails \"continued broad and steady economic improvement.\" http://t.co/AZLsq4ylMk http://t.co/JdBGI9gwVB",
+      "lang": "en",
+      "created_at": "Fri Aug 07 16:22:37 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 116505994,
+          "media_url": "http://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+          "source_user_id_str": "116505994",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/JdBGI9gwVB",
+          "expanded_url": "http://twitter.com/JECDems/status/629689107879477249/photo/1",
+          "url": "http://t.co/JdBGI9gwVB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+          "source_status_id_str": "629689107879477249",
+          "id_str": "629689107485167616",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 262
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 463
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 791
+            }
+          },
+          "id": 629689107485167616,
+          "source_status_id": 629689107879477249
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629692377008095232,
+    "id_str": "629692377008095232",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 116505994,
+          "media_url": "http://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+          "source_user_id_str": "116505994",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/JdBGI9gwVB",
+          "expanded_url": "http://twitter.com/JECDems/status/629689107879477249/photo/1",
+          "url": "http://t.co/JdBGI9gwVB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0a6DKWEAA7i91.jpg",
+          "source_status_id_str": "629689107879477249",
+          "id_str": "629689107485167616",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 262
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 463
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 791
+            }
+          },
+          "id": 629689107485167616,
+          "source_status_id": 629689107879477249
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/AZLsq4ylMk",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "1.usa.gov/1T0c8Pz",
+          "expanded_url": "http://1.usa.gov/1T0c8Pz"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "JEC Democrats",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "116505994",
+          "id": 116505994,
+          "screen_name": "JECDems"
+        },
+        {
+          "name": "Carolyn  B. Maloney",
+          "indices": [
+            34,
+            45
+          ],
+          "id_str": "258900199",
+          "id": 258900199,
+          "screen_name": "RepMaloney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JECDems: Re July jobs report, @RepMaloney hails \"continued broad and steady economic improvement.\" http://t.co/AZLsq4ylMk http://t.co/J\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 16:35:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629330424695816192,
+    "id_str": "629330424695816192",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            12,
+            18
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            121,
+            135
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The White House",
+          "indices": [
+            41,
+            52
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Celebrating #VRA50 this afternoon at the @WhiteHouse. One of the great accomplishments of Civil Rights Movement. Time to #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-06 16:37:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629320195140636672,
+    "id_str": "629320195140636672",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/hvTCrRuzse",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "nytimes.com/interactive/20\u2026",
+          "expanded_url": "http://www.nytimes.com/interactive/2015/08/04/arts/television/jon-stewart-daily-show-9-essential-moments.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Daily Show",
+          "indices": [
+            71,
+            84
+          ],
+          "id_str": "158414847",
+          "id": 158414847,
+          "screen_name": "TheDailyShow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Jon Stewart made us laugh &amp; made us think. I\u2019ll miss seeing him on @TheDailyShow \nhttp://t.co/hvTCrRuzse",
+    "lang": "en",
+    "created_at": "2015-08-06 15:56:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628989948595728384,
+    "id_str": "628989948595728384",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ILookLikeAnEngineer",
+          "indices": [
+            24,
+            44
+          ]
+        },
+        {
+          "text": "WomenInSTEM",
+          "indices": [
+            101,
+            113
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Loving all the posts on #ILookLikeAnEngineer! So many terrific role models to engage girls and young #WomenInSTEM.",
+    "lang": "en",
+    "created_at": "2015-08-05 18:04:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628725365054283778,
+    "id_str": "628725365054283778",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/pPLApph0pr",
+          "media_url": "http://pbs.twimg.com/media/CLmuX8QUEAAY3Ox.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmuX8QUEAAY3Ox.jpg",
+          "expanded_url": "http://twitter.com/RepMaloney/status/628725365054283778/photo/1",
+          "id_str": "628725349329670144",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/pPLApph0pr",
+          "id": 628725349329670144
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "NYPD 19th Precinct",
+          "indices": [
+            32,
+            42
+          ],
+          "id_str": "2371009784",
+          "id": 2371009784,
+          "screen_name": "NYPD19Pct"
+        },
+        {
+          "name": "Cyrus Vance, Jr.",
+          "indices": [
+            47,
+            59
+          ],
+          "id_str": "66368876",
+          "id": 66368876,
+          "screen_name": "ManhattanDA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pPLApph0pr",
+          "media_url": "http://pbs.twimg.com/media/CLmuX8QUEAAY3Ox.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmuX8QUEAAY3Ox.jpg",
+          "expanded_url": "http://twitter.com/RepMaloney/status/628725365054283778/photo/1",
+          "id_str": "628725349329670144",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/pPLApph0pr",
+          "id": 628725349329670144
+        }
+      ]
+    },
+    "text": "Honored to join the officers of @NYPD19PCT and @ManhattanDA Cy Vance for National Night Out Against Crime http://t.co/pPLApph0pr",
+    "lang": "en",
+    "created_at": "2015-08-05 00:33:02+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 85,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 101,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628669490579001344,
+      "id_str": "628669490579001344",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "breastfeeding",
+            "indices": [
+              13,
+              27
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/9eQfIgD7Bd",
+            "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+            "id_str": "628669488960024576",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 259
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 457
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 780
+              }
+            },
+            "display_url": "pic.twitter.com/9eQfIgD7Bd",
+            "id": 628669488960024576
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Carolyn  B. Maloney",
+            "indices": [
+              51,
+              62
+            ],
+            "id_str": "258900199",
+            "id": 258900199,
+            "screen_name": "RepMaloney"
+          },
+          {
+            "name": "MILK The Film",
+            "indices": [
+              79,
+              91
+            ],
+            "id_str": "3043200736",
+            "id": 3043200736,
+            "screen_name": "MilkTheFilm"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "33933259",
+        "id": 33933259
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.crowdbooster.com\" rel=\"nofollow\">Crowdbooster</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/9eQfIgD7Bd",
+            "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+            "id_str": "628669488960024576",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 259
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 457
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 780
+              }
+            },
+            "display_url": "pic.twitter.com/9eQfIgD7Bd",
+            "id": 628669488960024576
+          }
+        ]
+      },
+      "text": "\"Benefits of #breastfeeding on health are obvious\" @RepMaloney at screening of @MilkTheFilm at our HQ today http://t.co/9eQfIgD7Bd",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:51:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 85,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 33933259,
+          "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_user_id_str": "33933259",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/9eQfIgD7Bd",
+          "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+          "url": "http://t.co/9eQfIgD7Bd",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_status_id_str": "628669490579001344",
+          "id_str": "628669488960024576",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 259
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 457
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 780
+            }
+          },
+          "id": 628669488960024576,
+          "source_status_id": 628669490579001344
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628721280443883521,
+    "id_str": "628721280443883521",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "breastfeeding",
+          "indices": [
+            25,
+            39
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 33933259,
+          "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_user_id_str": "33933259",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/9eQfIgD7Bd",
+          "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+          "url": "http://t.co/9eQfIgD7Bd",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_status_id_str": "628669490579001344",
+          "id_str": "628669488960024576",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 259
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 457
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 780
+            }
+          },
+          "id": 628669488960024576,
+          "source_status_id": 628669490579001344
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "UNICEF",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "33933259",
+          "id": 33933259,
+          "screen_name": "UNICEF"
+        },
+        {
+          "name": "Carolyn  B. Maloney",
+          "indices": [
+            63,
+            74
+          ],
+          "id_str": "258900199",
+          "id": 258900199,
+          "screen_name": "RepMaloney"
+        },
+        {
+          "name": "MILK The Film",
+          "indices": [
+            91,
+            103
+          ],
+          "id_str": "3043200736",
+          "id": 3043200736,
+          "screen_name": "MilkTheFilm"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @UNICEF: \"Benefits of #breastfeeding on health are obvious\" @RepMaloney at screening of @MilkTheFilm at our HQ today http://t.co/9eQfIgD\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 00:16:48+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628695679586713602,
+      "id_str": "628695679586713602",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "breastfeeding",
+            "indices": [
+              25,
+              39
+            ]
+          }
+        ],
+        "media": [
+          {
+            "source_user_id": 33933259,
+            "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "source_user_id_str": "33933259",
+            "indices": [
+              105,
+              127
+            ],
+            "display_url": "pic.twitter.com/x9OLdmeCRS",
+            "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+            "url": "http://t.co/x9OLdmeCRS",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "source_status_id_str": "628669490579001344",
+            "id_str": "628669488960024576",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 259
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 457
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 780
+              }
+            },
+            "id": 628669488960024576,
+            "source_status_id": 628669490579001344
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "UNICEF",
+            "indices": [
+              3,
+              10
+            ],
+            "id_str": "33933259",
+            "id": 33933259,
+            "screen_name": "UNICEF"
+          },
+          {
+            "name": "Carolyn  B. Maloney",
+            "indices": [
+              63,
+              74
+            ],
+            "id_str": "258900199",
+            "id": 258900199,
+            "screen_name": "RepMaloney"
+          },
+          {
+            "name": "MILK The Film",
+            "indices": [
+              91,
+              103
+            ],
+            "id_str": "3043200736",
+            "id": 3043200736,
+            "screen_name": "MilkTheFilm"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2884610757",
+        "id": 2884610757
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "source_user_id": 33933259,
+            "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "source_user_id_str": "33933259",
+            "indices": [
+              105,
+              127
+            ],
+            "display_url": "pic.twitter.com/x9OLdmeCRS",
+            "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+            "url": "http://t.co/x9OLdmeCRS",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+            "source_status_id_str": "628669490579001344",
+            "id_str": "628669488960024576",
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 259
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 457
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 780
+              }
+            },
+            "id": 628669488960024576,
+            "source_status_id": 628669490579001344
+          }
+        ]
+      },
+      "text": "RT @UNICEF: \"Benefits of #breastfeeding on health are obvious\" @RepMaloney at screening of @MilkTheFilm  http://t.co/x9OLdmeCRS",
+      "lang": "en",
+      "created_at": "Tue Aug 04 22:35:05 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 33933259,
+          "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_user_id_str": "33933259",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/x9OLdmeCRS",
+          "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+          "url": "http://t.co/x9OLdmeCRS",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_status_id_str": "628669490579001344",
+          "id_str": "628669488960024576",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 259
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 457
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 780
+            }
+          },
+          "id": 628669488960024576,
+          "source_status_id": 628669490579001344
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628719803482644480,
+    "id_str": "628719803482644480",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "breastfeeding",
+          "indices": [
+            43,
+            57
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 33933259,
+          "media_url": "http://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_user_id_str": "33933259",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/x9OLdmeCRS",
+          "expanded_url": "http://twitter.com/UNICEF/status/628669490579001344/photo/1",
+          "url": "http://t.co/x9OLdmeCRS",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl7kcKWsAAg0Cw.jpg",
+          "source_status_id_str": "628669490579001344",
+          "id_str": "628669488960024576",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 259
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 457
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 780
+            }
+          },
+          "id": 628669488960024576,
+          "source_status_id": 628669490579001344
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Sonia Shah Org.",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "2884610757",
+          "id": 2884610757,
+          "screen_name": "soniashahorg"
+        },
+        {
+          "name": "UNICEF",
+          "indices": [
+            21,
+            28
+          ],
+          "id_str": "33933259",
+          "id": 33933259,
+          "screen_name": "UNICEF"
+        },
+        {
+          "name": "Carolyn  B. Maloney",
+          "indices": [
+            81,
+            92
+          ],
+          "id_str": "258900199",
+          "id": 258900199,
+          "screen_name": "RepMaloney"
+        },
+        {
+          "name": "MILK The Film",
+          "indices": [
+            109,
+            121
+          ],
+          "id_str": "3043200736",
+          "id": 3043200736,
+          "screen_name": "MilkTheFilm"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @soniashahorg: RT @UNICEF: \"Benefits of #breastfeeding on health are obvious\" @RepMaloney at screening of @MilkTheFilm  http://t.co/x9OL\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 00:10:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628663881066487809,
+    "id_str": "628663881066487809",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "gunviolence",
+          "indices": [
+            86,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/xIhp5SkNVe",
+          "media_url": "http://pbs.twimg.com/media/CLl2d8aUEAA9Ysz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2d8aUEAA9Ysz.jpg",
+          "expanded_url": "http://twitter.com/RepMaloney/status/628663881066487809/photo/1",
+          "id_str": "628663879799672832",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/xIhp5SkNVe",
+          "id": 628663879799672832
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Eric Adams",
+          "indices": [
+            20,
+            32
+          ],
+          "id_str": "38452560",
+          "id": 38452560,
+          "screen_name": "BPEricAdams"
+        },
+        {
+          "name": "Letitia James",
+          "indices": [
+            33,
+            43
+          ],
+          "id_str": "28502793",
+          "id": 28502793,
+          "screen_name": "TishJames"
+        },
+        {
+          "name": "NYAGV",
+          "indices": [
+            44,
+            51
+          ],
+          "id_str": "85648405",
+          "id": 85648405,
+          "screen_name": "NYAGV1"
+        },
+        {
+          "name": "Moms Demand Action",
+          "indices": [
+            52,
+            63
+          ],
+          "id_str": "1017637447",
+          "id": 1017637447,
+          "screen_name": "MomsDemand"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xIhp5SkNVe",
+          "media_url": "http://pbs.twimg.com/media/CLl2d8aUEAA9Ysz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2d8aUEAA9Ysz.jpg",
+          "expanded_url": "http://twitter.com/RepMaloney/status/628663881066487809/photo/1",
+          "id_str": "628663879799672832",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/xIhp5SkNVe",
+          "id": 628663879799672832
+        }
+      ]
+    },
+    "text": "Proud to stand with @BPEricAdams @TishJames @NYAGV1 @MomsDemand to call for an end to #gunviolence http://t.co/xIhp5SkNVe",
+    "lang": "en",
+    "created_at": "2015-08-04 20:28:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628566159919607808,
+    "id_str": "628566159919607808",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            20,
+            26
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy 54th Birthday @POTUS!",
+    "lang": "en",
+    "created_at": "2015-08-04 14:00:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628211226460467201,
+    "id_str": "628211226460467201",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oWDTm4E1Te",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "washingtonpost.com/local/educatio\u2026",
+          "expanded_url": "http://www.washingtonpost.com/local/education/breast-may-be-best-but-teachers-dont-have-the-right-to-pump-at-work-in-many-states/2015/08/02/9f6daa64-36d0-11e5-9d0f-7865a67390ee_story.html?hpid=z1"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Breastfeeding",
+          "indices": [
+            15,
+            29
+          ]
+        },
+        {
+          "text": "ACA",
+          "indices": [
+            38,
+            42
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Protection for #Breastfeeding moms in #ACA a huge victory, but we need to expand it to all working moms: http://t.co/oWDTm4E1Te",
+    "lang": "en",
+    "created_at": "2015-08-03 14:30:02+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 247,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 165,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627123820491616256,
+      "id_str": "627123820491616256",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              56,
+              70
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/vd5ciSlJ6f",
+            "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+            "id_str": "627123819635974144",
+            "indices": [
+              71,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 285
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 502
+              },
+              "large": {
+                "w": 940,
+                "resize": "fit",
+                "h": 788
+              }
+            },
+            "display_url": "pic.twitter.com/vd5ciSlJ6f",
+            "id": 627123819635974144
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "381152398",
+        "id": 381152398
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/vd5ciSlJ6f",
+            "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+            "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+            "id_str": "627123819635974144",
+            "indices": [
+              71,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 285
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 502
+              },
+              "large": {
+                "w": 940,
+                "resize": "fit",
+                "h": 788
+              }
+            },
+            "display_url": "pic.twitter.com/vd5ciSlJ6f",
+            "id": 627123819635974144
+          }
+        ]
+      },
+      "text": "Our vote is our voice, and no voice should be silenced. #RestoreTheVRA http://t.co/vd5ciSlJ6f",
+      "lang": "en",
+      "created_at": "Fri Jul 31 14:29:04 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 247,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 381152398,
+          "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_user_id_str": "381152398",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "pic.twitter.com/vd5ciSlJ6f",
+          "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+          "url": "http://t.co/vd5ciSlJ6f",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_status_id_str": "627123820491616256",
+          "id_str": "627123819635974144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "id": 627123819635974144,
+          "source_status_id": 627123820491616256
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627131195852259330,
+    "id_str": "627131195852259330",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            76,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 381152398,
+          "media_url": "http://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_user_id_str": "381152398",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "pic.twitter.com/vd5ciSlJ6f",
+          "expanded_url": "http://twitter.com/RepTerriSewell/status/627123820491616256/photo/1",
+          "url": "http://t.co/vd5ciSlJ6f",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLP9ypOWoAA57GF.png",
+          "source_status_id_str": "627123820491616256",
+          "id_str": "627123819635974144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 285
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 502
+            },
+            "large": {
+              "w": 940,
+              "resize": "fit",
+              "h": 788
+            }
+          },
+          "id": 627123819635974144,
+          "source_status_id": 627123820491616256
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Terri A. Sewell",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "381152398",
+          "id": 381152398,
+          "screen_name": "RepTerriSewell"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepTerriSewell: Our vote is our voice, and no voice should be silenced. #RestoreTheVRA http://t.co/vd5ciSlJ6f",
+    "lang": "en",
+    "created_at": "2015-07-31 14:58:23+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626871395096596482,
+      "id_str": "626871395096596482",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "TBT",
+            "indices": [
+              0,
+              4
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/hemObRUHzl",
+            "media_url": "http://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+            "expanded_url": "http://twitter.com/DickGottfried/status/626871395096596482/photo/1",
+            "id_str": "626871394605867008",
+            "indices": [
+              126,
+              148
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 400
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 356,
+                "resize": "fit",
+                "h": 419
+              },
+              "large": {
+                "w": 356,
+                "resize": "fit",
+                "h": 419
+              }
+            },
+            "display_url": "pic.twitter.com/hemObRUHzl",
+            "id": 626871394605867008
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/CYJjGlU8Ma",
+            "indices": [
+              103,
+              125
+            ],
+            "display_url": "bit.ly/1M0m3AD",
+            "expanded_url": "http://bit.ly/1M0m3AD"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "CRDC",
+            "indices": [
+              24,
+              32
+            ],
+            "id_str": "1152807624",
+            "id": 1152807624,
+            "screen_name": "CRDCNYC"
+          },
+          {
+            "name": "NYProgCaucus",
+            "indices": [
+              39,
+              52
+            ],
+            "id_str": "1883736931",
+            "id": 1883736931,
+            "screen_name": "NYProgCaucus"
+          },
+          {
+            "name": "Carolyn  B. Maloney",
+            "indices": [
+              81,
+              92
+            ],
+            "id_str": "258900199",
+            "id": 258900199,
+            "screen_name": "RepMaloney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "173979063",
+        "id": 173979063
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/hemObRUHzl",
+            "media_url": "http://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+            "expanded_url": "http://twitter.com/DickGottfried/status/626871395096596482/photo/1",
+            "id_str": "626871394605867008",
+            "indices": [
+              126,
+              148
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 400
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 356,
+                "resize": "fit",
+                "h": 419
+              },
+              "large": {
+                "w": 356,
+                "resize": "fit",
+                "h": 419
+              }
+            },
+            "display_url": "pic.twitter.com/hemObRUHzl",
+            "id": 626871394605867008
+          }
+        ]
+      },
+      "text": "#TBT W. the late, great @CRDCNYC &amp; @NYProgCaucus leader Doris Corrigan &amp; @RepMaloney, Oct. '08 http://t.co/CYJjGlU8Ma http://t.co/hemObRUHzl",
+      "lang": "en",
+      "created_at": "Thu Jul 30 21:46:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 173979063,
+          "media_url": "http://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+          "source_user_id_str": "173979063",
+          "indices": [
+            147,
+            148
+          ],
+          "display_url": "pic.twitter.com/hemObRUHzl",
+          "expanded_url": "http://twitter.com/DickGottfried/status/626871395096596482/photo/1",
+          "url": "http://t.co/hemObRUHzl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+          "source_status_id_str": "626871395096596482",
+          "id_str": "626871394605867008",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 400
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 356,
+              "resize": "fit",
+              "h": 419
+            },
+            "large": {
+              "w": 356,
+              "resize": "fit",
+              "h": 419
+            }
+          },
+          "id": 626871394605867008,
+          "source_status_id": 626871395096596482
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626970897065357312,
+    "id_str": "626970897065357312",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            19,
+            23
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 173979063,
+          "media_url": "http://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+          "source_user_id_str": "173979063",
+          "indices": [
+            147,
+            148
+          ],
+          "display_url": "pic.twitter.com/hemObRUHzl",
+          "expanded_url": "http://twitter.com/DickGottfried/status/626871395096596482/photo/1",
+          "url": "http://t.co/hemObRUHzl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMYNktWIAA0zZE.jpg",
+          "source_status_id_str": "626871395096596482",
+          "id_str": "626871394605867008",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 400
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 356,
+              "resize": "fit",
+              "h": 419
+            },
+            "large": {
+              "w": 356,
+              "resize": "fit",
+              "h": 419
+            }
+          },
+          "id": 626871394605867008,
+          "source_status_id": 626871395096596482
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/CYJjGlU8Ma",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "bit.ly/1M0m3AD",
+          "expanded_url": "http://bit.ly/1M0m3AD"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Richard Gottfried",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "173979063",
+          "id": 173979063,
+          "screen_name": "DickGottfried"
+        },
+        {
+          "name": "CRDC",
+          "indices": [
+            43,
+            51
+          ],
+          "id_str": "1152807624",
+          "id": 1152807624,
+          "screen_name": "CRDCNYC"
+        },
+        {
+          "name": "NYProgCaucus",
+          "indices": [
+            58,
+            71
+          ],
+          "id_str": "1883736931",
+          "id": 1883736931,
+          "screen_name": "NYProgCaucus"
+        },
+        {
+          "name": "Carolyn  B. Maloney",
+          "indices": [
+            100,
+            111
+          ],
+          "id_str": "258900199",
+          "id": 258900199,
+          "screen_name": "RepMaloney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @DickGottfried: #TBT W. the late, great @CRDCNYC &amp; @NYProgCaucus leader Doris Corrigan &amp; @RepMaloney, Oct. '08 http://t.co/CYJjGlU8Ma ht\u2026",
+    "lang": "en",
+    "created_at": "2015-07-31 04:21:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626848549033144320,
+    "id_str": "626848549033144320",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "Medicaid",
+          "indices": [
+            14,
+            23
+          ]
+        },
+        {
+          "text": "KeepingUSHealthy",
+          "indices": [
+            55,
+            72
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#Medicare and #Medicaid have built a tremendous record #KeepingUSHealthy for 50 years. Here's to 50 more!",
+    "lang": "en",
+    "created_at": "2015-07-30 20:15:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626845778493861888,
+    "id_str": "626845778493861888",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/XeJeZsqzQf",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "1.usa.gov/1gqV9Vm",
+          "expanded_url": "http://1.usa.gov/1gqV9Vm"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CeciltheLion",
+          "indices": [
+            131,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Raul M. Grijalva",
+          "indices": [
+            7,
+            23
+          ],
+          "id_str": "28602948",
+          "id": 28602948,
+          "screen_name": "RepRaulGrijalva"
+        },
+        {
+          "name": "Earl Blumenauer",
+          "indices": [
+            31,
+            45
+          ],
+          "id_str": "15954997",
+          "id": 15954997,
+          "screen_name": "repblumenauer"
+        },
+        {
+          "name": "US Fish and Wildlife",
+          "indices": [
+            57,
+            63
+          ],
+          "id_str": "57625403",
+          "id": 57625403,
+          "screen_name": "USFWS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joined @RepRaulGrijalva &amp;  @repblumenauer calling on @USFWS to protect lions w/ Endangered Species Act  http://t.co/XeJeZsqzQf #CeciltheLion",
+    "lang": "en",
+    "created_at": "2015-07-30 20:04:14+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626839823081467904,
+      "id_str": "626839823081467904",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/8hQbbPKqqo",
+            "media_url": "http://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+            "expanded_url": "http://twitter.com/JECDems/status/626839823081467904/photo/1",
+            "id_str": "626839822678757376",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 442
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 781
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1334
+              }
+            },
+            "display_url": "pic.twitter.com/8hQbbPKqqo",
+            "id": 626839822678757376
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/apxkKsIZcC",
+            "indices": [
+              93,
+              115
+            ],
+            "display_url": "1.usa.gov/1BAWd1X",
+            "expanded_url": "http://1.usa.gov/1BAWd1X"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "116505994",
+        "id": 116505994
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/8hQbbPKqqo",
+            "media_url": "http://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+            "expanded_url": "http://twitter.com/JECDems/status/626839823081467904/photo/1",
+            "id_str": "626839822678757376",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 442
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 781
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1334
+              }
+            },
+            "display_url": "pic.twitter.com/8hQbbPKqqo",
+            "id": 626839822678757376
+          }
+        ]
+      },
+      "text": "What's the median income of U.S. households? The U.S. Economy By The Numbers has the answer: http://t.co/apxkKsIZcC http://t.co/8hQbbPKqqo",
+      "lang": "en",
+      "created_at": "Thu Jul 30 19:40:34 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 116505994,
+          "media_url": "http://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+          "source_user_id_str": "116505994",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/8hQbbPKqqo",
+          "expanded_url": "http://twitter.com/JECDems/status/626839823081467904/photo/1",
+          "url": "http://t.co/8hQbbPKqqo",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+          "source_status_id_str": "626839823081467904",
+          "id_str": "626839822678757376",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 442
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 781
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1334
+            }
+          },
+          "id": 626839822678757376,
+          "source_status_id": 626839823081467904
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626841604146507776,
+    "id_str": "626841604146507776",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 116505994,
+          "media_url": "http://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+          "source_user_id_str": "116505994",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/8hQbbPKqqo",
+          "expanded_url": "http://twitter.com/JECDems/status/626839823081467904/photo/1",
+          "url": "http://t.co/8hQbbPKqqo",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLL7f2HWEAAUzd1.jpg",
+          "source_status_id_str": "626839823081467904",
+          "id_str": "626839822678757376",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 442
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 781
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1334
+            }
+          },
+          "id": 626839822678757376,
+          "source_status_id": 626839823081467904
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/apxkKsIZcC",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "1.usa.gov/1BAWd1X",
+          "expanded_url": "http://1.usa.gov/1BAWd1X"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "JEC Democrats",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "116505994",
+          "id": 116505994,
+          "screen_name": "JECDems"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JECDems: What's the median income of U.S. households? The U.S. Economy By The Numbers has the answer: http://t.co/apxkKsIZcC http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 19:47:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626839885803048960,
+    "id_str": "626839885803048960",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/XeJeZs8YYH",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "1.usa.gov/1gqV9Vm",
+          "expanded_url": "http://1.usa.gov/1gqV9Vm"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CecilTheLion",
+          "indices": [
+            22,
+            35
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "US Fish and Wildlife",
+          "indices": [
+            57,
+            63
+          ],
+          "id_str": "57625403",
+          "id": 57625403,
+          "screen_name": "USFWS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Outrageous killing of #CecilTheLion is latest reason why @USFWS should limit import of lion trophies. http://t.co/XeJeZs8YYH",
+    "lang": "en",
+    "created_at": "2015-07-30 19:40:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626434965710995456,
+    "id_str": "626434965710995456",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/xguGjWvSEQ",
+          "indices": [
+            84,
+            106
+          ],
+          "display_url": "wsj.com/articles/small\u2026",
+          "expanded_url": "http://www.wsj.com/articles/small-businesses-bear-burden-of-trade-bank-shutdown-1438114558"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "smallbusiness",
+          "indices": [
+            28,
+            42
+          ]
+        },
+        {
+          "text": "ExIm",
+          "indices": [
+            51,
+            56
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            1,
+            10
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@HouseGOP should listen to #smallbusiness owners. #ExIm lapse \"kills opportunity\": http://t.co/xguGjWvSEQ",
+    "lang": "en",
+    "created_at": "2015-07-29 16:51:49+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 50,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626124654634250240,
+      "id_str": "626124654634250240",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "SummerMeals",
+            "indices": [
+              33,
+              45
+            ]
+          },
+          {
+            "text": "NoKidHungry",
+            "indices": [
+              101,
+              113
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/FEomGFZe4b",
+            "media_url": "http://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+            "expanded_url": "http://twitter.com/RepMcGovern/status/626124654634250240/photo/1",
+            "id_str": "626123703580008452",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              }
+            },
+            "display_url": "pic.twitter.com/FEomGFZe4b",
+            "id": 626123703580008452
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "242426145",
+        "id": 242426145
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FEomGFZe4b",
+            "media_url": "http://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+            "expanded_url": "http://twitter.com/RepMcGovern/status/626124654634250240/photo/1",
+            "id_str": "626123703580008452",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              }
+            },
+            "display_url": "pic.twitter.com/FEomGFZe4b",
+            "id": 626123703580008452
+          }
+        ]
+      },
+      "text": "Only 1 in 6 kids who qualify for #SummerMeals participate. RT to help us get the word out so there's #NoKidHungry. http://t.co/FEomGFZe4b",
+      "lang": "en",
+      "created_at": "Tue Jul 28 20:18:45 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 242426145,
+          "media_url": "http://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+          "source_user_id_str": "242426145",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/FEomGFZe4b",
+          "expanded_url": "http://twitter.com/RepMcGovern/status/626124654634250240/photo/1",
+          "url": "http://t.co/FEomGFZe4b",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+          "source_status_id_str": "626124654634250240",
+          "id_str": "626123703580008452",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "id": 626123703580008452,
+          "source_status_id": 626124654634250240
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626134191697231875,
+    "id_str": "626134191697231875",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SummerMeals",
+          "indices": [
+            50,
+            62
+          ]
+        },
+        {
+          "text": "NoKidHungry",
+          "indices": [
+            118,
+            130
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 242426145,
+          "media_url": "http://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+          "source_user_id_str": "242426145",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/FEomGFZe4b",
+          "expanded_url": "http://twitter.com/RepMcGovern/status/626124654634250240/photo/1",
+          "url": "http://t.co/FEomGFZe4b",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBwMOlWoAQYhgC.png",
+          "source_status_id_str": "626124654634250240",
+          "id_str": "626123703580008452",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "id": 626123703580008452,
+          "source_status_id": 626124654634250240
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Jim McGovern",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "242426145",
+          "id": 242426145,
+          "screen_name": "RepMcGovern"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepMcGovern: Only 1 in 6 kids who qualify for #SummerMeals participate. RT to help us get the word out so there's #NoKidHungry. http://\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 20:56:38+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626100057826295808,
+      "id_str": "626100057826295808",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/pUkxxD9OmE",
+            "indices": [
+              112,
+              134
+            ],
+            "display_url": "1.usa.gov/1VLLoBi",
+            "expanded_url": "http://1.usa.gov/1VLLoBi"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "dynamicscoring",
+            "indices": [
+              26,
+              41
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Carolyn  B. Maloney",
+            "indices": [
+              1,
+              12
+            ],
+            "id_str": "258900199",
+            "id": 258900199,
+            "screen_name": "RepMaloney"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "116505994",
+        "id": 116505994
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepMaloney on budgetary #dynamicscoring: It \"changes the rules of the game so Rs \"get the results they want.\" http://t.co/pUkxxD9OmE",
+      "lang": "en",
+      "created_at": "Tue Jul 28 18:41:00 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626100709465980928,
+    "id_str": "626100709465980928",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/pUkxxD9OmE",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "1.usa.gov/1VLLoBi",
+          "expanded_url": "http://1.usa.gov/1VLLoBi"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "dynamicscoring",
+          "indices": [
+            39,
+            54
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "JEC Democrats",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "116505994",
+          "id": 116505994,
+          "screen_name": "JECDems"
+        },
+        {
+          "name": "Carolyn  B. Maloney",
+          "indices": [
+            14,
+            25
+          ],
+          "id_str": "258900199",
+          "id": 258900199,
+          "screen_name": "RepMaloney"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "258900199",
+      "screen_name": "repmaloney",
+      "id": 258900199
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JECDems: .@RepMaloney on budgetary #dynamicscoring: It \"changes the rules of the game so Rs \"get the results they want.\" http://t.co/pU\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 18:43:36+00:00"
+  }
+]

@@ -1,0 +1,1986 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": "623914396004274176",
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -77.00346375,
+          38.89057922
+        ]
+      },
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Capitol Hill, Washington",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.0152684,
+                38.877324
+              ],
+              [
+                -76.985432,
+                38.877324
+              ],
+              [
+                -76.985432,
+                38.8973988
+              ],
+              [
+                -77.0152684,
+                38.8973988
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/05fe3c3f4a709dfd.json",
+        "name": "Capitol Hill",
+        "country": "United States",
+        "place_type": "neighborhood",
+        "id": "05fe3c3f4a709dfd"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          38.89057922,
+          -77.00346375
+        ]
+      },
+      "in_reply_to_user_id_str": "153067964",
+      "id": 623954603529367552,
+      "id_str": "623954603529367552",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "hikethehill",
+            "indices": [
+              0,
+              12
+            ]
+          },
+          {
+            "text": "theCUway",
+            "indices": [
+              13,
+              22
+            ]
+          },
+          {
+            "text": "creditunion",
+            "indices": [
+              25,
+              37
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/1Fb1HHtbzu",
+            "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+            "id_str": "623954592888258560",
+            "indices": [
+              95,
+              117
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 852,
+                "resize": "fit",
+                "h": 640
+              }
+            },
+            "display_url": "pic.twitter.com/1Fb1HHtbzu",
+            "id": 623954592888258560
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Cynthia Lummis",
+            "indices": [
+              59,
+              73
+            ],
+            "id_str": "22831059",
+            "id": 22831059,
+            "screen_name": "CynthiaLummis"
+          },
+          {
+            "name": "Mountain West CUA",
+            "indices": [
+              74,
+              80
+            ],
+            "id_str": "270486839",
+            "id": 270486839,
+            "screen_name": "mwcua"
+          },
+          {
+            "name": "CUNA Advocacy",
+            "indices": [
+              81,
+              94
+            ],
+            "id_str": "65453528",
+            "id": 65453528,
+            "screen_name": "CUNAadvocacy"
+          }
+        ]
+      },
+      "in_reply_to_status_id": 623914396004274176,
+      "contributors": null,
+      "user": {
+        "id_str": "153067964",
+        "id": 153067964
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 153067964,
+      "in_reply_to_screen_name": "wycuadvocates",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/1Fb1HHtbzu",
+            "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+            "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+            "id_str": "623954592888258560",
+            "indices": [
+              95,
+              117
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 852,
+                "resize": "fit",
+                "h": 640
+              }
+            },
+            "display_url": "pic.twitter.com/1Fb1HHtbzu",
+            "id": 623954592888258560
+          },
+          {
+            "url": "http://t.co/1Fb1HHtbzu",
+            "media_url": "http://pbs.twimg.com/media/CKi7ZXvUkAELumI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKi7ZXvUkAELumI.jpg",
+            "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+            "id_str": "623954592934432769",
+            "indices": [
+              95,
+              117
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 809,
+                "resize": "fit",
+                "h": 607
+              }
+            },
+            "display_url": "pic.twitter.com/1Fb1HHtbzu",
+            "id": 623954592934432769
+          }
+        ]
+      },
+      "text": "#hikethehill #theCUway - #creditunion advocates meeting w/ @CynthiaLummis @mwcua @CUNAadvocacy http://t.co/1Fb1HHtbzu",
+      "lang": "en",
+      "created_at": "Wed Jul 22 20:35:44 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 153067964,
+          "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "source_user_id_str": "153067964",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "pic.twitter.com/1Fb1HHtbzu",
+          "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+          "url": "http://t.co/1Fb1HHtbzu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "source_status_id_str": "623954603529367552",
+          "id_str": "623954592888258560",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "id": 623954592888258560,
+          "source_status_id": 623954603529367552
+        },
+        {
+          "source_user_id": 153067964,
+          "media_url": "http://pbs.twimg.com/media/CKi7ZXvUkAELumI.jpg",
+          "source_user_id_str": "153067964",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "pic.twitter.com/1Fb1HHtbzu",
+          "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+          "url": "http://t.co/1Fb1HHtbzu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKi7ZXvUkAELumI.jpg",
+          "source_status_id_str": "623954603529367552",
+          "id_str": "623954592934432769",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 809,
+              "resize": "fit",
+              "h": 607
+            }
+          },
+          "id": 623954592934432769,
+          "source_status_id": 623954603529367552
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623991362388627456,
+    "id_str": "623991362388627456",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "hikethehill",
+          "indices": [
+            19,
+            31
+          ]
+        },
+        {
+          "text": "theCUway",
+          "indices": [
+            32,
+            41
+          ]
+        },
+        {
+          "text": "creditunion",
+          "indices": [
+            44,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 153067964,
+          "media_url": "http://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "source_user_id_str": "153067964",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "pic.twitter.com/1Fb1HHtbzu",
+          "expanded_url": "http://twitter.com/wycuadvocates/status/623954603529367552/photo/1",
+          "url": "http://t.co/1Fb1HHtbzu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKi7ZXkUAAA379u.jpg",
+          "source_status_id_str": "623954603529367552",
+          "id_str": "623954592888258560",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "id": 623954592888258560,
+          "source_status_id": 623954603529367552
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Wyoming CU Advocates",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "153067964",
+          "id": 153067964,
+          "screen_name": "wycuadvocates"
+        },
+        {
+          "name": "Rep. Cynthia Lummis",
+          "indices": [
+            78,
+            92
+          ],
+          "id_str": "22831059",
+          "id": 22831059,
+          "screen_name": "CynthiaLummis"
+        },
+        {
+          "name": "Mountain West CUA",
+          "indices": [
+            93,
+            99
+          ],
+          "id_str": "270486839",
+          "id": 270486839,
+          "screen_name": "mwcua"
+        },
+        {
+          "name": "CUNA Advocacy",
+          "indices": [
+            100,
+            113
+          ],
+          "id_str": "65453528",
+          "id": 65453528,
+          "screen_name": "CUNAadvocacy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @wycuadvocates: #hikethehill #theCUway - #creditunion advocates meeting w/ @CynthiaLummis @mwcua @CUNAadvocacy http://t.co/1Fb1HHtbzu",
+    "lang": "en",
+    "created_at": "2015-07-22 23:01:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623610150704807936,
+    "id_str": "623610150704807936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/MMh0IxrieQ",
+          "indices": [
+            114,
+            137
+          ],
+          "display_url": "youtu.be/3TOIpYvWUvc",
+          "expanded_url": "https://youtu.be/3TOIpYvWUvc"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Cheyenne",
+          "indices": [
+            62,
+            71
+          ]
+        },
+        {
+          "text": "FrontierDays",
+          "indices": [
+            91,
+            104
+          ]
+        },
+        {
+          "text": "Wyoming",
+          "indices": [
+            105,
+            113
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Thunderbirds",
+          "indices": [
+            31,
+            46
+          ],
+          "id_str": "20238886",
+          "id": 20238886,
+          "screen_name": "AFThunderbirds"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Enjoy this preview I caught of @AFThunderbirds practicing for #Cheyenne Day show tomorrow!\n#FrontierDays #Wyoming https://t.co/MMh0IxrieQ",
+    "lang": "en",
+    "created_at": "2015-07-21 21:47:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622129178859732992,
+    "id_str": "622129178859732992",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Wyoming",
+          "indices": [
+            27,
+            35
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/kAv1tQFDBH",
+          "media_url": "http://pbs.twimg.com/media/CKI_D2VUsAAh_s0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKI_D2VUsAAh_s0.jpg",
+          "expanded_url": "http://twitter.com/CynthiaLummis/status/622129178859732992/photo/1",
+          "id_str": "622129033887657984",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/kAv1tQFDBH",
+          "id": 622129033887657984
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kAv1tQFDBH",
+          "media_url": "http://pbs.twimg.com/media/CKI_D2VUsAAh_s0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKI_D2VUsAAh_s0.jpg",
+          "expanded_url": "http://twitter.com/CynthiaLummis/status/622129178859732992/photo/1",
+          "id_str": "622129033887657984",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/kAv1tQFDBH",
+          "id": 622129033887657984
+        }
+      ]
+    },
+    "text": "Thanks Bryce and Shelby of #Wyoming for visiting with me about some of the challenges facing juveniles with diabetes http://t.co/kAv1tQFDBH",
+    "lang": "en",
+    "created_at": "2015-07-17 19:42:09+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621729420743716864,
+      "id_str": "621729420743716864",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/3pIZWqX4N9",
+            "indices": [
+              119,
+              141
+            ],
+            "display_url": "1.usa.gov/1McY1SC",
+            "expanded_url": "http://1.usa.gov/1McY1SC"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Cynthia Lummis",
+            "indices": [
+              11,
+              25
+            ],
+            "id_str": "22831059",
+            "id": 22831059,
+            "screen_name": "CynthiaLummis"
+          },
+          {
+            "name": "Scott Tipton",
+            "indices": [
+              26,
+              36
+            ],
+            "id_str": "242873057",
+            "id": 242873057,
+            "screen_name": "RepTipton"
+          },
+          {
+            "name": "Mimi Walters",
+            "indices": [
+              37,
+              52
+            ],
+            "id_str": "47798449",
+            "id": 47798449,
+            "screen_name": "RepMimiWalters"
+          },
+          {
+            "name": "Rep. Doug LaMalfa",
+            "indices": [
+              53,
+              64
+            ],
+            "id_str": "1069124515",
+            "id": 1069124515,
+            "screen_name": "RepLaMalfa"
+          },
+          {
+            "name": "Tom McClintock",
+            "indices": [
+              71,
+              85
+            ],
+            "id_str": "50152441",
+            "id": 50152441,
+            "screen_name": "RepMcClintock"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "144986277",
+        "id": 144986277
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "WC members @CynthiaLummis @RepTipton @RepMimiWalters @RepLaMalfa &amp; @RepMcClintock on passage of western water bill http://t.co/3pIZWqX4N9",
+      "lang": "en",
+      "created_at": "Thu Jul 16 17:13:39 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621781794807910400,
+    "id_str": "621781794807910400",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3pIZWqX4N9",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "1.usa.gov/1McY1SC",
+          "expanded_url": "http://1.usa.gov/1McY1SC"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Western Caucus",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "144986277",
+          "id": 144986277,
+          "screen_name": "westerncaucus"
+        },
+        {
+          "name": "Rep. Cynthia Lummis",
+          "indices": [
+            30,
+            44
+          ],
+          "id_str": "22831059",
+          "id": 22831059,
+          "screen_name": "CynthiaLummis"
+        },
+        {
+          "name": "Scott Tipton",
+          "indices": [
+            45,
+            55
+          ],
+          "id_str": "242873057",
+          "id": 242873057,
+          "screen_name": "RepTipton"
+        },
+        {
+          "name": "Mimi Walters",
+          "indices": [
+            56,
+            71
+          ],
+          "id_str": "47798449",
+          "id": 47798449,
+          "screen_name": "RepMimiWalters"
+        },
+        {
+          "name": "Rep. Doug LaMalfa",
+          "indices": [
+            72,
+            83
+          ],
+          "id_str": "1069124515",
+          "id": 1069124515,
+          "screen_name": "RepLaMalfa"
+        },
+        {
+          "name": "Tom McClintock",
+          "indices": [
+            90,
+            104
+          ],
+          "id_str": "50152441",
+          "id": 50152441,
+          "screen_name": "RepMcClintock"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @westerncaucus: WC members @CynthiaLummis @RepTipton @RepMimiWalters @RepLaMalfa &amp; @RepMcClintock on passage of western water bill http:\u2026",
+    "lang": "en",
+    "created_at": "2015-07-16 20:41:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621781412191019008,
+    "id_str": "621781412191019008",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Wyoming",
+          "indices": [
+            107,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/GQDOPDkXe2",
+          "media_url": "http://pbs.twimg.com/media/CKECeMqUEAEAhGI.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKECeMqUEAEAhGI.jpg",
+          "expanded_url": "http://twitter.com/CynthiaLummis/status/621781412191019008/photo/1",
+          "id_str": "621780941371871233",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/GQDOPDkXe2",
+          "id": 621780941371871233
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/GQDOPDkXe2",
+          "media_url": "http://pbs.twimg.com/media/CKECeMqUEAEAhGI.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKECeMqUEAEAhGI.jpg",
+          "expanded_url": "http://twitter.com/CynthiaLummis/status/621781412191019008/photo/1",
+          "id_str": "621780941371871233",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/GQDOPDkXe2",
+          "id": 621780941371871233
+        }
+      ]
+    },
+    "text": "Pleased to meet Kaylin of Big Horn HS during her time in D.C. for Journalism Conference at George Mason U! #Wyoming http://t.co/GQDOPDkXe2",
+    "lang": "en",
+    "created_at": "2015-07-16 20:40:15+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621057586041909249,
+      "id_str": "621057586041909249",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              21,
+              30
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Benjamin Netanyahu",
+            "indices": [
+              3,
+              13
+            ],
+            "id_str": "17061263",
+            "id": 17061263,
+            "screen_name": "netanyahu"
+          },
+          {
+            "name": "Rep. Cynthia Lummis",
+            "indices": [
+              105,
+              119
+            ],
+            "id_str": "22831059",
+            "id": 22831059,
+            "screen_name": "CynthiaLummis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1322558402",
+        "id": 1322558402
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "PM @netanyahu called #IranDeal a \"historic mistake,\" our allies are already talking about consequences - @CynthiaLummis",
+      "lang": "en",
+      "created_at": "Tue Jul 14 20:44:01 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621063765174435841,
+    "id_str": "621063765174435841",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            36,
+            45
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "House GOP Women",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "1322558402",
+          "id": 1322558402,
+          "screen_name": "LadiesGOP"
+        },
+        {
+          "name": "Benjamin Netanyahu",
+          "indices": [
+            18,
+            28
+          ],
+          "id_str": "17061263",
+          "id": 17061263,
+          "screen_name": "netanyahu"
+        },
+        {
+          "name": "Rep. Cynthia Lummis",
+          "indices": [
+            120,
+            134
+          ],
+          "id_str": "22831059",
+          "id": 22831059,
+          "screen_name": "CynthiaLummis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LadiesGOP: PM @netanyahu called #IranDeal a \"historic mistake,\" our allies are already talking about consequences - @CynthiaLummis",
+    "lang": "en",
+    "created_at": "2015-07-14 21:08:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619599525074890752,
+    "id_str": "619599525074890752",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EvfpV0gmIB",
+          "indices": [
+            129,
+            151
+          ],
+          "display_url": "bit.ly/1CuZnVw",
+          "expanded_url": "http://bit.ly/1CuZnVw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Wyoming",
+          "indices": [
+            19,
+            27
+          ]
+        },
+        {
+          "text": "Wyo125",
+          "indices": [
+            121,
+            128
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I am proud to call #Wyoming my love, my life, &amp; my home &amp; wish her a blessed &amp; happy 125th year of statehood #Wyo125 http://t.co/EvfpV0gmIB",
+    "lang": "en",
+    "created_at": "2015-07-10 20:10:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619581056296067072,
+    "id_str": "619581056296067072",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EvfpV0gmIB",
+          "indices": [
+            120,
+            142
+          ],
+          "display_url": "bit.ly/1CuZnVw",
+          "expanded_url": "http://bit.ly/1CuZnVw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Wyoming",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Wyo125",
+          "indices": [
+            112,
+            119
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#Wyoming\u2019s freedom-loving hardworking people have deep sense of place &amp; weave fabric of stewardship into it #Wyo125 http://t.co/EvfpV0gmIB",
+    "lang": "en",
+    "created_at": "2015-07-10 18:56:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619555287092064256,
+    "id_str": "619555287092064256",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EvfpV0gmIB",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "bit.ly/1CuZnVw",
+          "expanded_url": "http://bit.ly/1CuZnVw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Wyoming",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Wyo125",
+          "indices": [
+            113,
+            120
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#Wyoming resources provide coal, uranium, timber, oil, natural gas, soda ash, &amp; rare elements for our nation #Wyo125 http://t.co/EvfpV0gmIB",
+    "lang": "en",
+    "created_at": "2015-07-10 17:14:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619555170997903360,
+    "id_str": "619555170997903360",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EvfpV0gmIB",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "bit.ly/1CuZnVw",
+          "expanded_url": "http://bit.ly/1CuZnVw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Wyoming",
+          "indices": [
+            0,
+            8
+          ]
+        },
+        {
+          "text": "Wyo125",
+          "indices": [
+            109,
+            116
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#Wyoming boasts America\u2019s 1st National Park, Forest, &amp; Monument, our scenic treasures are second to none #Wyo125 http://t.co/EvfpV0gmIB",
+    "lang": "en",
+    "created_at": "2015-07-10 17:13:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619555099124334592,
+    "id_str": "619555099124334592",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EvfpV0gmIB",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "bit.ly/1CuZnVw",
+          "expanded_url": "http://bit.ly/1CuZnVw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Wyoming",
+          "indices": [
+            25,
+            33
+          ]
+        },
+        {
+          "text": "Wyo125",
+          "indices": [
+            105,
+            112
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today the Great State of #Wyoming, the Equality State, is celebrating her 125th anniversary of statehood #Wyo125 http://t.co/EvfpV0gmIB",
+    "lang": "en",
+    "created_at": "2015-07-10 17:13:41+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619263840686112768,
+      "id_str": "619263840686112768",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/6PmnHoRX0P",
+            "indices": [
+              115,
+              137
+            ],
+            "display_url": "1.usa.gov/1fs3WG9",
+            "expanded_url": "http://1.usa.gov/1fs3WG9"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Cynthia Lummis",
+            "indices": [
+              24,
+              38
+            ],
+            "id_str": "22831059",
+            "id": 22831059,
+            "screen_name": "CynthiaLummis"
+          },
+          {
+            "name": "Rep. Bruce Westerman",
+            "indices": [
+              45,
+              58
+            ],
+            "id_str": "2852998461",
+            "id": 2852998461,
+            "screen_name": "RepWesterman"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "144986277",
+        "id": 144986277
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Western Caucus Chairman @CynthiaLummis &amp; @RepWesterman comment on House bill to fights fires before they start http://t.co/6PmnHoRX0P",
+      "lang": "en",
+      "created_at": "Thu Jul 09 21:56:19 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619268205576650752,
+    "id_str": "619268205576650752",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/6PmnHoRX0P",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "1.usa.gov/1fs3WG9",
+          "expanded_url": "http://1.usa.gov/1fs3WG9"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Western Caucus",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "144986277",
+          "id": 144986277,
+          "screen_name": "westerncaucus"
+        },
+        {
+          "name": "Rep. Cynthia Lummis",
+          "indices": [
+            43,
+            57
+          ],
+          "id_str": "22831059",
+          "id": 22831059,
+          "screen_name": "CynthiaLummis"
+        },
+        {
+          "name": "Rep. Bruce Westerman",
+          "indices": [
+            64,
+            77
+          ],
+          "id_str": "2852998461",
+          "id": 2852998461,
+          "screen_name": "RepWesterman"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @westerncaucus: Western Caucus Chairman @CynthiaLummis &amp; @RepWesterman comment on House bill to fights fires before they start http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-09 22:13:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617353932507975680,
+    "id_str": "617353932507975680",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/fKOkIl7HV1",
+          "indices": [
+            44,
+            67
+          ],
+          "display_url": "youtu.be/GsoM6NwwfDA",
+          "expanded_url": "https://youtu.be/GsoM6NwwfDA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IndependenceDay",
+          "indices": [
+            6,
+            22
+          ]
+        },
+        {
+          "text": "4thofJuly",
+          "indices": [
+            33,
+            43
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy #IndependenceDay everyone! #4thofJuly https://t.co/fKOkIl7HV1",
+    "lang": "en",
+    "created_at": "2015-07-04 15:27:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617332121686806529,
+    "id_str": "617332121686806529",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/fKOkIl7HV1",
+          "indices": [
+            102,
+            125
+          ],
+          "display_url": "youtu.be/GsoM6NwwfDA",
+          "expanded_url": "https://youtu.be/GsoM6NwwfDA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "4thofJuly",
+          "indices": [
+            21,
+            31
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As we celebrate this #4thofJuly may we be ever mindful that this is a government of laws, not of men. https://t.co/fKOkIl7HV1",
+    "lang": "en",
+    "created_at": "2015-07-04 14:00:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617324002571235329,
+    "id_str": "617324002571235329",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/fKOkIl7HV1",
+          "indices": [
+            120,
+            143
+          ],
+          "display_url": "youtu.be/GsoM6NwwfDA",
+          "expanded_url": "https://youtu.be/GsoM6NwwfDA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "4thofJuly",
+          "indices": [
+            109,
+            119
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We carry on the freedom secured by the founding fathers &amp; Americans who fought &amp; died to defend them #4thofJuly https://t.co/fKOkIl7HV1",
+    "lang": "en",
+    "created_at": "2015-07-04 13:28:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617051344134885376,
+    "id_str": "617051344134885376",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/eYgGPbf8xY",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "youtu.be/FXo9OI2vSWk",
+          "expanded_url": "https://youtu.be/FXo9OI2vSWk"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Bill prevents federal agencies from requiring citizens to relinquish state endowed water rights to use public lands https://t.co/eYgGPbf8xY",
+    "lang": "en",
+    "created_at": "2015-07-03 19:24:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617051188459085824,
+    "id_str": "617051188459085824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/eYgGPbf8xY",
+          "indices": [
+            100,
+            123
+          ],
+          "display_url": "youtu.be/FXo9OI2vSWk",
+          "expanded_url": "https://youtu.be/FXo9OI2vSWk"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Water bill allows Bureau of Reclamation to increase water storage capacity when ensuring dam safety https://t.co/eYgGPbf8xY",
+    "lang": "en",
+    "created_at": "2015-07-03 19:24:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617051130749693956,
+    "id_str": "617051130749693956",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/eYgGPbf8xY",
+          "indices": [
+            102,
+            125
+          ],
+          "display_url": "youtu.be/FXo9OI2vSWk",
+          "expanded_url": "https://youtu.be/FXo9OI2vSWk"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Water bill makes one-stop-shop permitting to streamline construction &amp; expansion of water storage https://t.co/eYgGPbf8xY",
+    "lang": "en",
+    "created_at": "2015-07-03 19:23:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617051070045519872,
+    "id_str": "617051070045519872",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/eYgGPbf8xY",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "youtu.be/FXo9OI2vSWk",
+          "expanded_url": "https://youtu.be/FXo9OI2vSWk"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CAdrought",
+          "indices": [
+            53,
+            63
+          ]
+        },
+        {
+          "text": "Wyoming",
+          "indices": [
+            76,
+            84
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Water bill tackles man made barriers to help relieve #CAdrought &amp; helps #Wyoming &amp; western water management https://t.co/eYgGPbf8xY",
+    "lang": "en",
+    "created_at": "2015-07-03 19:23:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617050977015865344,
+    "id_str": "617050977015865344",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/eYgGPbf8xY",
+          "indices": [
+            107,
+            130
+          ],
+          "display_url": "youtu.be/FXo9OI2vSWk",
+          "expanded_url": "https://youtu.be/FXo9OI2vSWk"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep. David Valadao",
+          "indices": [
+            9,
+            25
+          ],
+          "id_str": "1128514404",
+          "id": 1128514404,
+          "screen_name": "RepDavidValadao"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "22831059",
+      "screen_name": "cynthialummis",
+      "id": 22831059
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I joined @RepDavidValadao and others to cosponsor the Western Water and American Food Security Act of 2015 https://t.co/eYgGPbf8xY",
+    "lang": "en",
+    "created_at": "2015-07-03 19:23:11+00:00"
+  }
+]

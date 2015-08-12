@@ -1,0 +1,2526 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629322855709306880,
+    "id_str": "629322855709306880",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/5GdXH4IQAm",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "bit.ly/1T7qqsq",
+          "expanded_url": "http://bit.ly/1T7qqsq"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "mepolitics",
+          "indices": [
+            86,
+            97
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Federal Highway Admn",
+          "indices": [
+            75,
+            85
+          ],
+          "id_str": "512174178",
+          "id": 512174178,
+          "screen_name": "USDOTFHWA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to Mainer Greg Nadeau, new head of Federal Highway Administration @USDOTFHWA #mepolitics http://t.co/5GdXH4IQAm",
+    "lang": "en",
+    "created_at": "2015-08-06 16:07:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 17,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628258533285457922,
+    "id_str": "628258533285457922",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "climatechange",
+          "indices": [
+            34,
+            48
+          ]
+        },
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            80,
+            95
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            96,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ZAVyyCnmOu",
+          "media_url": "http://pbs.twimg.com/media/CLgFoZsWIAA79GP.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgFoZsWIAA79GP.jpg",
+          "expanded_url": "http://twitter.com/chelliepingree/status/628258533285457922/photo/1",
+          "id_str": "628258339667976192",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 440,
+              "resize": "fit",
+              "h": 440
+            },
+            "large": {
+              "w": 440,
+              "resize": "fit",
+              "h": 440
+            }
+          },
+          "display_url": "pic.twitter.com/ZAVyyCnmOu",
+          "id": 628258339667976192
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            73,
+            79
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZAVyyCnmOu",
+          "media_url": "http://pbs.twimg.com/media/CLgFoZsWIAA79GP.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgFoZsWIAA79GP.jpg",
+          "expanded_url": "http://twitter.com/chelliepingree/status/628258533285457922/photo/1",
+          "id_str": "628258339667976192",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 440,
+              "resize": "fit",
+              "h": 440
+            },
+            "large": {
+              "w": 440,
+              "resize": "fit",
+              "h": 440
+            }
+          },
+          "display_url": "pic.twitter.com/ZAVyyCnmOu",
+          "id": 628258339667976192
+        }
+      ]
+    },
+    "text": "Maine is especially vulnerable to #climatechange, which is why I support @potus #CleanPowerPlan #mepolitics http://t.co/ZAVyyCnmOu",
+    "lang": "en",
+    "created_at": "2015-08-03 17:38:01+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 851,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 664,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628210948839321600,
+      "id_str": "628210948839321600",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/GBSJ8hlIRD",
+            "indices": [
+              99,
+              121
+            ],
+            "display_url": "snpy.tv/1STbXjG",
+            "expanded_url": "http://snpy.tv/1STbXjG"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "CleanPowerPlan",
+            "indices": [
+              31,
+              46
+            ]
+          },
+          {
+            "text": "ActOnClimate",
+            "indices": [
+              84,
+              97
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              7,
+              13
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Today, @POTUS is releasing his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate. http://t.co/GBSJ8hlIRD",
+      "lang": "en",
+      "created_at": "Mon Aug 03 14:28:56 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 851,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628247054914048000,
+    "id_str": "628247054914048000",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/GBSJ8hlIRD",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "snpy.tv/1STbXjG",
+          "expanded_url": "http://snpy.tv/1STbXjG"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            47,
+            62
+          ]
+        },
+        {
+          "text": "ActOnClimate",
+          "indices": [
+            100,
+            113
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The White House",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            23,
+            29
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WhiteHouse: Today, @POTUS is releasing his #CleanPowerPlan\u2014the biggest step we've ever taken to #ActOnClimate. http://t.co/GBSJ8hlIRD",
+    "lang": "en",
+    "created_at": "2015-08-03 16:52:24+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628153723303370752,
+      "id_str": "628153723303370752",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/dfwAoowu2u",
+            "media_url": "http://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+            "expanded_url": "http://twitter.com/USAPavilion2015/status/628153723303370752/photo/1",
+            "id_str": "628153721218838528",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 274
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 483
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 826
+              }
+            },
+            "display_url": "pic.twitter.com/dfwAoowu2u",
+            "id": 628153721218838528
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Chellie Pingree",
+            "indices": [
+              98,
+              113
+            ],
+            "id_str": "14984637",
+            "id": 14984637,
+            "screen_name": "chelliepingree"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2420613002",
+        "id": 2420613002
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.echofon.com/\" rel=\"nofollow\">Echofon</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/dfwAoowu2u",
+            "media_url": "http://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+            "expanded_url": "http://twitter.com/USAPavilion2015/status/628153723303370752/photo/1",
+            "id_str": "628153721218838528",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 274
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 483
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 826
+              }
+            },
+            "display_url": "pic.twitter.com/dfwAoowu2u",
+            "id": 628153721218838528
+          }
+        ]
+      },
+      "text": "Food security is key and people often migrate because they are hungry and we must think globally. @chelliepingree http://t.co/dfwAoowu2u",
+      "lang": "en",
+      "created_at": "Mon Aug 03 10:41:32 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2420613002,
+          "media_url": "http://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+          "source_user_id_str": "2420613002",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/dfwAoowu2u",
+          "expanded_url": "http://twitter.com/USAPavilion2015/status/628153723303370752/photo/1",
+          "url": "http://t.co/dfwAoowu2u",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+          "source_status_id_str": "628153723303370752",
+          "id_str": "628153721218838528",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 826
+            }
+          },
+          "id": 628153721218838528,
+          "source_status_id": 628153723303370752
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628245657040613376,
+    "id_str": "628245657040613376",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 2420613002,
+          "media_url": "http://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+          "source_user_id_str": "2420613002",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/dfwAoowu2u",
+          "expanded_url": "http://twitter.com/USAPavilion2015/status/628153723303370752/photo/1",
+          "url": "http://t.co/dfwAoowu2u",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLemezmWsAA8FkY.jpg",
+          "source_status_id_str": "628153723303370752",
+          "id_str": "628153721218838528",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 274
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 483
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 826
+            }
+          },
+          "id": 628153721218838528,
+          "source_status_id": 628153723303370752
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "USA Pavilion 2015",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2420613002",
+          "id": 2420613002,
+          "screen_name": "USAPavilion2015"
+        },
+        {
+          "name": "Chellie Pingree",
+          "indices": [
+            119,
+            134
+          ],
+          "id_str": "14984637",
+          "id": 14984637,
+          "screen_name": "chelliepingree"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @USAPavilion2015: Food security is key and people often migrate because they are hungry and we must think globally. @chelliepingree http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 16:46:51+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628154589255213056,
+      "id_str": "628154589255213056",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/RVftfMpdPU",
+            "media_url": "http://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+            "expanded_url": "http://twitter.com/USConsMilan/status/628154589255213056/photo/1",
+            "id_str": "628154579306315776",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/RVftfMpdPU",
+            "id": 628154579306315776
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Expo Milano 2015",
+            "indices": [
+              17,
+              32
+            ],
+            "id_str": "132887265",
+            "id": 132887265,
+            "screen_name": "Expo2015Milano"
+          },
+          {
+            "name": "Chellie Pingree",
+            "indices": [
+              93,
+              108
+            ],
+            "id_str": "14984637",
+            "id": 14984637,
+            "screen_name": "chelliepingree"
+          },
+          {
+            "name": "Nancy Pelosi ",
+            "indices": [
+              109,
+              121
+            ],
+            "id_str": "15764644",
+            "id": 15764644,
+            "screen_name": "NancyPelosi"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "157947389",
+        "id": 157947389
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/RVftfMpdPU",
+            "media_url": "http://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+            "expanded_url": "http://twitter.com/USConsMilan/status/628154589255213056/photo/1",
+            "id_str": "628154579306315776",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/RVftfMpdPU",
+            "id": 628154579306315776
+          }
+        ]
+      },
+      "text": "Across cultures, @Expo2015Milano shows we can come together around food &amp; sustainability @chelliepingree @NancyPelosi http://t.co/RVftfMpdPU",
+      "lang": "en",
+      "created_at": "Mon Aug 03 10:44:59 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 157947389,
+          "media_url": "http://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+          "source_user_id_str": "157947389",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/RVftfMpdPU",
+          "expanded_url": "http://twitter.com/USConsMilan/status/628154589255213056/photo/1",
+          "url": "http://t.co/RVftfMpdPU",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+          "source_status_id_str": "628154589255213056",
+          "id_str": "628154579306315776",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628154579306315776,
+          "source_status_id": 628154589255213056
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628245608239923201,
+    "id_str": "628245608239923201",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 157947389,
+          "media_url": "http://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+          "source_user_id_str": "157947389",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/RVftfMpdPU",
+          "expanded_url": "http://twitter.com/USConsMilan/status/628154589255213056/photo/1",
+          "url": "http://t.co/RVftfMpdPU",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLenQwOWgAAWclJ.jpg",
+          "source_status_id_str": "628154589255213056",
+          "id_str": "628154579306315776",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628154579306315776,
+          "source_status_id": 628154589255213056
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "US Consulate Milan",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "157947389",
+          "id": 157947389,
+          "screen_name": "USConsMilan"
+        },
+        {
+          "name": "Expo Milano 2015",
+          "indices": [
+            34,
+            49
+          ],
+          "id_str": "132887265",
+          "id": 132887265,
+          "screen_name": "Expo2015Milano"
+        },
+        {
+          "name": "Chellie Pingree",
+          "indices": [
+            110,
+            125
+          ],
+          "id_str": "14984637",
+          "id": 14984637,
+          "screen_name": "chelliepingree"
+        },
+        {
+          "name": "Nancy Pelosi ",
+          "indices": [
+            126,
+            138
+          ],
+          "id_str": "15764644",
+          "id": 15764644,
+          "screen_name": "NancyPelosi"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @USConsMilan: Across cultures, @Expo2015Milano shows we can come together around food &amp; sustainability @chelliepingree @NancyPelosi http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 16:46:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626851091574075392,
+    "id_str": "626851091574075392",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/7TIrBNM78M",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "1.usa.gov/1JyNGPo",
+          "expanded_url": "http://1.usa.gov/1JyNGPo"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "mepolitics",
+          "indices": [
+            100,
+            111
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to Mike Michaud on nomination to DOL post in charge of vets programs--perfect for the job! #mepolitics http://t.co/7TIrBNM78M",
+    "lang": "en",
+    "created_at": "2015-07-30 20:25:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626032558380318720,
+    "id_str": "626032558380318720",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/629bcKROKn",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "bit.ly/1OMTzbR",
+          "expanded_url": "http://bit.ly/1OMTzbR"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RuthMooreAct",
+          "indices": [
+            59,
+            72
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            82,
+            93
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Matthew Daly",
+          "indices": [
+            4,
+            19
+          ],
+          "id_str": "31464192",
+          "id": 31464192,
+          "screen_name": "MatthewDalyWDC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thx @MatthewDalyWDC for writeup of last night's passage of #RuthMooreAct in House #mepolitics http://t.co/629bcKROKn",
+    "lang": "en",
+    "created_at": "2015-07-28 14:12:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625846766060105728,
+    "id_str": "625846766060105728",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RuthMooreAct",
+          "indices": [
+            17,
+            30
+          ]
+        },
+        {
+          "text": "mst",
+          "indices": [
+            77,
+            81
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            122,
+            133
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "House passed the #RuthMooreAct tonight, an important step forward in helping #mst survivors get the benefits they deserve #mepolitics",
+    "lang": "en",
+    "created_at": "2015-07-28 01:54:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625764280768589824,
+    "id_str": "625764280768589824",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RuthMooreAct",
+          "indices": [
+            37,
+            50
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            98,
+            109
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Excited that House is set to vote on #RuthMooreAct tonight. I'll be speaking on floor around 7:15 #mepolitics",
+    "lang": "en",
+    "created_at": "2015-07-27 20:26:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624297432269123585,
+    "id_str": "624297432269123585",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/w4fczDpFOy",
+          "indices": [
+            69,
+            91
+          ],
+          "display_url": "1.usa.gov/1OoPKZn",
+          "expanded_url": "http://1.usa.gov/1OoPKZn"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DARKAct",
+          "indices": [
+            46,
+            54
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            92,
+            103
+          ]
+        },
+        {
+          "text": "gmo",
+          "indices": [
+            104,
+            108
+          ]
+        },
+        {
+          "text": "justlabelit",
+          "indices": [
+            109,
+            121
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to stand up for consumers &amp; against #DARKAct today. Video: http://t.co/w4fczDpFOy #mepolitics #gmo #justlabelit",
+    "lang": "en",
+    "created_at": "2015-07-23 19:18:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624233104799043584,
+    "id_str": "624233104799043584",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/SpcWShCBLa",
+          "indices": [
+            62,
+            84
+          ],
+          "display_url": "houselive.gov",
+          "expanded_url": "http://houselive.gov/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DARKAct",
+          "indices": [
+            53,
+            61
+          ]
+        },
+        {
+          "text": "GMOlabeling",
+          "indices": [
+            85,
+            97
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            98,
+            109
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "speaking on House floor in next hr or so against the #DARKAct http://t.co/SpcWShCBLa #GMOlabeling #mepolitics",
+    "lang": "en",
+    "created_at": "2015-07-23 15:02:24+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623594069663416320,
+      "id_str": "623594069663416320",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "votefood",
+            "indices": [
+              87,
+              96
+            ]
+          },
+          {
+            "text": "GMO",
+            "indices": [
+              97,
+              101
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/0jpIyKPdY3",
+            "media_url": "http://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+            "expanded_url": "http://twitter.com/FPAction/status/623594069663416320/photo/1",
+            "id_str": "623156404606492672",
+            "indices": [
+              102,
+              124
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 444,
+                "resize": "fit",
+                "h": 444
+              },
+              "large": {
+                "w": 444,
+                "resize": "fit",
+                "h": 444
+              }
+            },
+            "display_url": "pic.twitter.com/0jpIyKPdY3",
+            "id": 623156404606492672
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/33NnzXieky",
+            "indices": [
+              64,
+              86
+            ],
+            "display_url": "justlabelit.org/just-label-gmo\u2026",
+            "expanded_url": "http://www.justlabelit.org/just-label-gmo-foods/"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "851555820",
+        "id": 851555820
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/0jpIyKPdY3",
+            "media_url": "http://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+            "expanded_url": "http://twitter.com/FPAction/status/623594069663416320/photo/1",
+            "id_str": "623156404606492672",
+            "indices": [
+              102,
+              124
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 444,
+                "resize": "fit",
+                "h": 444
+              },
+              "large": {
+                "w": 444,
+                "resize": "fit",
+                "h": 444
+              }
+            },
+            "display_url": "pic.twitter.com/0jpIyKPdY3",
+            "id": 623156404606492672
+          }
+        ]
+      },
+      "text": "Americans want to know what\u2019s in their food and how it\u2019s grown. http://t.co/33NnzXieky #votefood #GMO http://t.co/0jpIyKPdY3",
+      "lang": "en",
+      "created_at": "Tue Jul 21 20:43:06 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 851555820,
+          "media_url": "http://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+          "source_user_id_str": "851555820",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/0jpIyKPdY3",
+          "expanded_url": "http://twitter.com/FPAction/status/623594069663416320/photo/1",
+          "url": "http://t.co/0jpIyKPdY3",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+          "source_status_id_str": "623594069663416320",
+          "id_str": "623156404606492672",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 444,
+              "resize": "fit",
+              "h": 444
+            },
+            "large": {
+              "w": 444,
+              "resize": "fit",
+              "h": 444
+            }
+          },
+          "id": 623156404606492672,
+          "source_status_id": 623594069663416320
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623922365567758338,
+    "id_str": "623922365567758338",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "votefood",
+          "indices": [
+            101,
+            110
+          ]
+        },
+        {
+          "text": "GMO",
+          "indices": [
+            111,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 851555820,
+          "media_url": "http://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+          "source_user_id_str": "851555820",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "pic.twitter.com/0jpIyKPdY3",
+          "expanded_url": "http://twitter.com/FPAction/status/623594069663416320/photo/1",
+          "url": "http://t.co/0jpIyKPdY3",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKXlcsgUYAA798Q.jpg",
+          "source_status_id_str": "623594069663416320",
+          "id_str": "623156404606492672",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 444,
+              "resize": "fit",
+              "h": 444
+            },
+            "large": {
+              "w": 444,
+              "resize": "fit",
+              "h": 444
+            }
+          },
+          "id": 623156404606492672,
+          "source_status_id": 623594069663416320
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/33NnzXieky",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "justlabelit.org/just-label-gmo\u2026",
+          "expanded_url": "http://www.justlabelit.org/just-label-gmo-foods/"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Food Policy Action",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "851555820",
+          "id": 851555820,
+          "screen_name": "FPAction"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FPAction: Americans want to know what\u2019s in their food and how it\u2019s grown. http://t.co/33NnzXieky #votefood #GMO http://t.co/0jpIyKPdY3",
+    "lang": "en",
+    "created_at": "2015-07-22 18:27:38+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 16,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 9,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623909699822481409,
+      "id_str": "623909699822481409",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "LabelGMOs",
+            "indices": [
+              82,
+              92
+            ]
+          },
+          {
+            "text": "StopTheDARKAct",
+            "indices": [
+              93,
+              108
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/0uZWUIvfW3",
+            "media_url": "http://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+            "expanded_url": "http://twitter.com/TrueFoodNow/status/623909699822481409/photo/1",
+            "id_str": "623909698576580609",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/0uZWUIvfW3",
+            "id": 623909698576580609
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Chellie Pingree",
+            "indices": [
+              5,
+              20
+            ],
+            "id_str": "14984637",
+            "id": 14984637,
+            "screen_name": "chelliepingree"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18694861",
+        "id": 18694861
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/0uZWUIvfW3",
+            "media_url": "http://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+            "expanded_url": "http://twitter.com/TrueFoodNow/status/623909699822481409/photo/1",
+            "id_str": "623909698576580609",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/0uZWUIvfW3",
+            "id": 623909698576580609
+          }
+        ]
+      },
+      "text": "Rep. @chelliepingree says consumers, not Washington, should choose what they eat! #LabelGMOs #StopTheDARKAct http://t.co/0uZWUIvfW3",
+      "lang": "en",
+      "created_at": "Wed Jul 22 17:37:18 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 18694861,
+          "media_url": "http://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+          "source_user_id_str": "18694861",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/0uZWUIvfW3",
+          "expanded_url": "http://twitter.com/TrueFoodNow/status/623909699822481409/photo/1",
+          "url": "http://t.co/0uZWUIvfW3",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+          "source_status_id_str": "623909699822481409",
+          "id_str": "623909698576580609",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623909698576580609,
+          "source_status_id": 623909699822481409
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623921638577410048,
+    "id_str": "623921638577410048",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "LabelGMOs",
+          "indices": [
+            99,
+            109
+          ]
+        },
+        {
+          "text": "StopTheDARKAct",
+          "indices": [
+            110,
+            125
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 18694861,
+          "media_url": "http://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+          "source_user_id_str": "18694861",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/0uZWUIvfW3",
+          "expanded_url": "http://twitter.com/TrueFoodNow/status/623909699822481409/photo/1",
+          "url": "http://t.co/0uZWUIvfW3",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKiSkLOUAAEqDsc.jpg",
+          "source_status_id_str": "623909699822481409",
+          "id_str": "623909698576580609",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623909698576580609,
+          "source_status_id": 623909699822481409
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Center 4 Food Safety",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "18694861",
+          "id": 18694861,
+          "screen_name": "TrueFoodNow"
+        },
+        {
+          "name": "Chellie Pingree",
+          "indices": [
+            22,
+            37
+          ],
+          "id_str": "14984637",
+          "id": 14984637,
+          "screen_name": "chelliepingree"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TrueFoodNow: Rep. @chelliepingree says consumers, not Washington, should choose what they eat! #LabelGMOs #StopTheDARKAct http://t.co/0\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 18:24:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623918870693314560,
+      "id_str": "623918870693314560",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/448elTqifx",
+            "indices": [
+              61,
+              83
+            ],
+            "display_url": "nydn.us/1MkAaPV",
+            "expanded_url": "http://nydn.us/1MkAaPV"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "GMOs",
+            "indices": [
+              55,
+              60
+            ]
+          },
+          {
+            "text": "StoptheDARKAct",
+            "indices": [
+              84,
+              99
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Tom Colicchio",
+            "indices": [
+              4,
+              17
+            ],
+            "id_str": "103130238",
+            "id": 103130238,
+            "screen_name": "tomcolicchio"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19989172",
+        "id": 19989172
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "via @TomColicchio: Our right to know when we're eating #GMOs http://t.co/448elTqifx #StoptheDARKAct",
+      "lang": "en",
+      "created_at": "Wed Jul 22 18:13:45 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623921086745460736,
+    "id_str": "623921086745460736",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/448elTqifx",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "nydn.us/1MkAaPV",
+          "expanded_url": "http://nydn.us/1MkAaPV"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "GMOs",
+          "indices": [
+            72,
+            77
+          ]
+        },
+        {
+          "text": "StoptheDARKAct",
+          "indices": [
+            101,
+            116
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Sara Sciammacco",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "19989172",
+          "id": 19989172,
+          "screen_name": "EWGFoodNews"
+        },
+        {
+          "name": "Tom Colicchio",
+          "indices": [
+            21,
+            34
+          ],
+          "id_str": "103130238",
+          "id": 103130238,
+          "screen_name": "tomcolicchio"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EWGFoodNews: via @TomColicchio: Our right to know when we're eating #GMOs http://t.co/448elTqifx #StoptheDARKAct",
+    "lang": "en",
+    "created_at": "2015-07-22 18:22:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623920178498269184,
+    "id_str": "623920178498269184",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "BackStory",
+          "indices": [
+            26,
+            41
+          ],
+          "id_str": "108358687",
+          "id": 108358687,
+          "screen_name": "BackStoryRadio"
+        },
+        {
+          "name": "NEH",
+          "indices": [
+            50,
+            57
+          ],
+          "id_str": "155987003",
+          "id": 155987003,
+          "screen_name": "NEHgov"
+        },
+        {
+          "name": "MPBN",
+          "indices": [
+            72,
+            82
+          ],
+          "id_str": "36138095",
+          "id": 36138095,
+          "screen_name": "mpbnradio"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Met the History Guys from @BackStoryRadio to talk @NEHgov funding. Wish @MPBNradio carried their show, but they do have a podcast!",
+    "lang": "en",
+    "created_at": "2015-07-22 18:18:57+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 32,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 30,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623884411176644608,
+      "id_str": "623884411176644608",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/ScrA2shWC4",
+            "indices": [
+              120,
+              142
+            ],
+            "display_url": "bit.ly/1Omvac4",
+            "expanded_url": "http://bit.ly/1Omvac4"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "24223641",
+        "id": 24223641
+      },
+      "favorited": false,
+      "source": "<a href=\"https://bitly.com/\" rel=\"nofollow\">Bitly</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Strong op ed on DARK act by Reps Pingree &amp; McGovern: \"Let Americans decide for themselves on GMOs \" in Boston Globe http://t.co/ScrA2shWC4",
+      "lang": "en",
+      "created_at": "Wed Jul 22 15:56:49 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623909727454560257,
+    "id_str": "623909727454560257",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ScrA2shWC4",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "bit.ly/1Omvac4",
+          "expanded_url": "http://bit.ly/1Omvac4"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Michael Pollan",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "24223641",
+          "id": 24223641,
+          "screen_name": "michaelpollan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @michaelpollan: Strong op ed on DARK act by Reps Pingree &amp; McGovern: \"Let Americans decide for themselves on GMOs \" in Boston Globe http\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 17:37:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623879901863653376,
+    "id_str": "623879901863653376",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tI9ZgHyAY3",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "1.usa.gov/1IkZUvQ",
+          "expanded_url": "http://1.usa.gov/1IkZUvQ"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Island Institute",
+          "indices": [
+            13,
+            29
+          ],
+          "id_str": "118811962",
+          "id": 118811962,
+          "screen_name": "islandinstitute"
+        },
+        {
+          "name": "Building Competition",
+          "indices": [
+            59,
+            73
+          ],
+          "id_str": "140113946",
+          "id": 140113946,
+          "screen_name": "EnergyStarNBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Good luck to @islandinstitute, other ME competitors in '15 @EnergyStarNBC Battle of the Buildings! http://t.co/tI9ZgHyAY3",
+    "lang": "en",
+    "created_at": "2015-07-22 15:38:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623854716481617920,
+    "id_str": "623854716481617920",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ymSlO8RqMb",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "1.usa.gov/1IkIM9E",
+          "expanded_url": "http://1.usa.gov/1IkIM9E"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DARKAct",
+          "indices": [
+            31,
+            39
+          ]
+        },
+        {
+          "text": "gmo",
+          "indices": [
+            64,
+            68
+          ]
+        },
+        {
+          "text": "mepolitics",
+          "indices": [
+            97,
+            108
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Introducing amendment to block #DARKAct, the anti-right-to-know #gmo bill http://t.co/ymSlO8RqMb #mepolitics",
+    "lang": "en",
+    "created_at": "2015-07-22 13:58:49+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622013379654234113,
+      "id_str": "622013379654234113",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Py69MIiv9r",
+            "indices": [
+              89,
+              111
+            ],
+            "display_url": "bit.ly/1CZ9MZe",
+            "expanded_url": "http://bit.ly/1CZ9MZe"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Chellie Pingree",
+            "indices": [
+              73,
+              88
+            ],
+            "id_str": "14984637",
+            "id": 14984637,
+            "screen_name": "chelliepingree"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "103018203",
+        "id": 103018203
+      },
+      "favorited": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\u201cPeople respect you the most if you do what seems right in your heart.\u201d -@chelliepingree http://t.co/Py69MIiv9r",
+      "lang": "en",
+      "created_at": "Fri Jul 17 12:02:00 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623500681102651392,
+    "id_str": "623500681102651392",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Py69MIiv9r",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "bit.ly/1CZ9MZe",
+          "expanded_url": "http://bit.ly/1CZ9MZe"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Girl Scouts",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "103018203",
+          "id": 103018203,
+          "screen_name": "girlscouts"
+        },
+        {
+          "name": "Chellie Pingree",
+          "indices": [
+            89,
+            104
+          ],
+          "id_str": "14984637",
+          "id": 14984637,
+          "screen_name": "chelliepingree"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @girlscouts: \u201cPeople respect you the most if you do what seems right in your heart.\u201d -@chelliepingree http://t.co/Py69MIiv9r",
+    "lang": "en",
+    "created_at": "2015-07-21 14:32:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623500198854160384,
+    "id_str": "623500198854160384",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/M04Wmbgxqc",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "bit.ly/1Ki5ob8",
+          "expanded_url": "http://bit.ly/1Ki5ob8"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "mepolitics",
+          "indices": [
+            97,
+            108
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep. Jim McGovern",
+          "indices": [
+            16,
+            28
+          ],
+          "id_str": "242426145",
+          "id": 242426145,
+          "screen_name": "RepMcGovern"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "14984637",
+      "screen_name": "chelliepingree",
+      "id": 14984637
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joint oped with @RepMcGovern: Let Americans decide for themselves on GMOs http://t.co/M04Wmbgxqc #mepolitics",
+    "lang": "en",
+    "created_at": "2015-07-21 14:30:06+00:00"
+  }
+]

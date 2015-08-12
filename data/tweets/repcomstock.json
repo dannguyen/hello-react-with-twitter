@@ -1,0 +1,3396 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629749596948983808,
+    "id_str": "629749596948983808",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ddc2JzIPXI",
+          "indices": [
+            46,
+            69
+          ],
+          "display_url": "comstock.house.gov/media-center/p\u2026",
+          "expanded_url": "https://comstock.house.gov/media-center/press-releases/comstock-recognizes-national-purple-heart-day"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA10",
+          "indices": [
+            70,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Comstock Recognizes National Purple Heart Day https://t.co/ddc2JzIPXI #VA10",
+    "lang": "en",
+    "created_at": "2015-08-07 20:22:58+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629652164407918593,
+      "id_str": "629652164407918593",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "tourism",
+            "indices": [
+              48,
+              56
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/kqdnhrNQHY",
+            "media_url": "http://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629652164407918593/photo/1",
+            "id_str": "629652164072177664",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 257
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 480,
+                "resize": "fit",
+                "h": 363
+              },
+              "large": {
+                "w": 480,
+                "resize": "fit",
+                "h": 363
+              }
+            },
+            "display_url": "pic.twitter.com/kqdnhrNQHY",
+            "id": 629652164072177664
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/W3npDNfhsC",
+            "indices": [
+              80,
+              102
+            ],
+            "display_url": "ow.ly/QCjP9",
+            "expanded_url": "http://ow.ly/QCjP9"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Loudoun Times-Mirror",
+            "indices": [
+              1,
+              9
+            ],
+            "id_str": "52461655",
+            "id": 52461655,
+            "screen_name": "LTMnews"
+          },
+          {
+            "name": "Dulles Airport (IAD)",
+            "indices": [
+              19,
+              34
+            ],
+            "id_str": "143306758",
+            "id": 143306758,
+            "screen_name": "Dulles_Airport"
+          },
+          {
+            "name": "Barbara Comstock",
+            "indices": [
+              104,
+              116
+            ],
+            "id_str": "2933760046",
+            "id": 2933760046,
+            "screen_name": "RepComstock"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "158397501",
+        "id": 158397501
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/kqdnhrNQHY",
+            "media_url": "http://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629652164407918593/photo/1",
+            "id_str": "629652164072177664",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 257
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 480,
+                "resize": "fit",
+                "h": 363
+              },
+              "large": {
+                "w": 480,
+                "resize": "fit",
+                "h": 363
+              }
+            },
+            "display_url": "pic.twitter.com/kqdnhrNQHY",
+            "id": 629652164072177664
+          }
+        ]
+      },
+      "text": ".@LTMnews: Vibrant @Dulles_Airport critical for #tourism, Loudoun officials say http://t.co/W3npDNfhsC (@RepComstock) http://t.co/kqdnhrNQHY",
+      "lang": "en",
+      "created_at": "Fri Aug 07 13:55:49 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/kqdnhrNQHY",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629652164407918593/photo/1",
+          "url": "http://t.co/kqdnhrNQHY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+          "source_status_id_str": "629652164407918593",
+          "id_str": "629652164072177664",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 257
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 363
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 363
+            }
+          },
+          "id": 629652164072177664,
+          "source_status_id": 629652164407918593
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629654873416593408,
+    "id_str": "629654873416593408",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "tourism",
+          "indices": [
+            69,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/kqdnhrNQHY",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629652164407918593/photo/1",
+          "url": "http://t.co/kqdnhrNQHY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLz5TqOUAAAytfc.jpg",
+          "source_status_id_str": "629652164407918593",
+          "id_str": "629652164072177664",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 257
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 363
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 363
+            }
+          },
+          "id": 629652164072177664,
+          "source_status_id": 629652164407918593
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/W3npDNfhsC",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "ow.ly/QCjP9",
+          "expanded_url": "http://ow.ly/QCjP9"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Power of Travel",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "158397501",
+          "id": 158397501,
+          "screen_name": "TravelCoalition"
+        },
+        {
+          "name": "Loudoun Times-Mirror",
+          "indices": [
+            22,
+            30
+          ],
+          "id_str": "52461655",
+          "id": 52461655,
+          "screen_name": "LTMnews"
+        },
+        {
+          "name": "Dulles Airport (IAD)",
+          "indices": [
+            40,
+            55
+          ],
+          "id_str": "143306758",
+          "id": 143306758,
+          "screen_name": "Dulles_Airport"
+        },
+        {
+          "name": "Barbara Comstock",
+          "indices": [
+            125,
+            137
+          ],
+          "id_str": "2933760046",
+          "id": 2933760046,
+          "screen_name": "RepComstock"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TravelCoalition: .@LTMnews: Vibrant @Dulles_Airport critical for #tourism, Loudoun officials say http://t.co/W3npDNfhsC (@RepComstock) \u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 14:06:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629622390662762496,
+    "id_str": "629622390662762496",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2AHWeAiBME",
+          "indices": [
+            72,
+            94
+          ],
+          "display_url": "loudountimes.com/news/article/v\u2026",
+          "expanded_url": "http://www.loudountimes.com/news/article/vibrant_dulles_airport_is_critical_to_travel_and_tourism_loudoun432#.VcSdF0M0PAk.twitter"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA10",
+          "indices": [
+            95,
+            100
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A vibrant Dulles Airport is critical for tourism, Loudoun officials say http://t.co/2AHWeAiBME #VA10",
+    "lang": "en",
+    "created_at": "2015-08-07 11:57:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629403626025320448,
+    "id_str": "629403626025320448",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/CamZcX2dgn",
+          "media_url": "http://pbs.twimg.com/media/CLwXQwZUEAEtVze.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwXQwZUEAEtVze.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629403626025320448/photo/1",
+          "id_str": "629403624561446913",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 155
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 274
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 469
+            }
+          },
+          "display_url": "pic.twitter.com/CamZcX2dgn",
+          "id": 629403624561446913
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/CamZcX2dgn",
+          "media_url": "http://pbs.twimg.com/media/CLwXQwZUEAEtVze.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwXQwZUEAEtVze.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629403626025320448/photo/1",
+          "id_str": "629403624561446913",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 155
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 274
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 469
+            }
+          },
+          "display_url": "pic.twitter.com/CamZcX2dgn",
+          "id": 629403624561446913
+        }
+      ]
+    },
+    "text": "Spoke at the Stonewall Natural Gas groundbreaking today.  It will be a great economic benefit to our area in 2017. http://t.co/CamZcX2dgn",
+    "lang": "en",
+    "created_at": "2015-08-06 21:28:12+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629394436296826888,
+      "id_str": "629394436296826888",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "travel",
+            "indices": [
+              83,
+              90
+            ]
+          },
+          {
+            "text": "Loudoun",
+            "indices": [
+              98,
+              106
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/u1ZOZaDfo7",
+            "media_url": "http://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+            "id_str": "629394416587812872",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/u1ZOZaDfo7",
+            "id": 629394416587812872
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Barbara Comstock",
+            "indices": [
+              10,
+              22
+            ],
+            "id_str": "2933760046",
+            "id": 2933760046,
+            "screen_name": "RepComstock"
+          },
+          {
+            "name": "Visit Loudoun",
+            "indices": [
+              40,
+              53
+            ],
+            "id_str": "15587790",
+            "id": 15587790,
+            "screen_name": "VisitLoudoun"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "158397501",
+        "id": 158397501
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/u1ZOZaDfo7",
+            "media_url": "http://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+            "id_str": "629394416587812872",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/u1ZOZaDfo7",
+            "id": 629394416587812872
+          },
+          {
+            "url": "http://t.co/u1ZOZaDfo7",
+            "media_url": "http://pbs.twimg.com/media/CLwO4yCUsAAJ-IH.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwO4yCUsAAJ-IH.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+            "id_str": "629394416592007168",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/u1ZOZaDfo7",
+            "id": 629394416592007168
+          },
+          {
+            "url": "http://t.co/u1ZOZaDfo7",
+            "media_url": "http://pbs.twimg.com/media/CLwO4yGUEAAo8oS.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwO4yGUEAAo8oS.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+            "id_str": "629394416608743424",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/u1ZOZaDfo7",
+            "id": 629394416608743424
+          }
+        ]
+      },
+      "text": "Thank you @RepComstock for hearing from @VisitLoudoun leaders on the importance of #travel to the #Loudoun economy http://t.co/u1ZOZaDfo7",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:51:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/u1ZOZaDfo7",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+          "url": "http://t.co/u1ZOZaDfo7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+          "source_status_id_str": "629394436296826888",
+          "id_str": "629394416587812872",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629394416587812872,
+          "source_status_id": 629394436296826888
+        },
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLwO4yCUsAAJ-IH.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/u1ZOZaDfo7",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+          "url": "http://t.co/u1ZOZaDfo7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwO4yCUsAAJ-IH.jpg",
+          "source_status_id_str": "629394436296826888",
+          "id_str": "629394416592007168",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629394416592007168,
+          "source_status_id": 629394436296826888
+        },
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLwO4yGUEAAo8oS.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/u1ZOZaDfo7",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+          "url": "http://t.co/u1ZOZaDfo7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwO4yGUEAAo8oS.jpg",
+          "source_status_id_str": "629394436296826888",
+          "id_str": "629394416608743424",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629394416608743424,
+          "source_status_id": 629394436296826888
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629402371064381441,
+    "id_str": "629402371064381441",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            104,
+            111
+          ]
+        },
+        {
+          "text": "Loudoun",
+          "indices": [
+            119,
+            127
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/u1ZOZaDfo7",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629394436296826888/photo/1",
+          "url": "http://t.co/u1ZOZaDfo7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwO4yBUsAge2hP.jpg",
+          "source_status_id_str": "629394436296826888",
+          "id_str": "629394416587812872",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629394416587812872,
+          "source_status_id": 629394436296826888
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Power of Travel",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "158397501",
+          "id": 158397501,
+          "screen_name": "TravelCoalition"
+        },
+        {
+          "name": "Barbara Comstock",
+          "indices": [
+            31,
+            43
+          ],
+          "id_str": "2933760046",
+          "id": 2933760046,
+          "screen_name": "RepComstock"
+        },
+        {
+          "name": "Visit Loudoun",
+          "indices": [
+            61,
+            74
+          ],
+          "id_str": "15587790",
+          "id": 15587790,
+          "screen_name": "VisitLoudoun"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TravelCoalition: Thank you @RepComstock for hearing from @VisitLoudoun leaders on the importance of #travel to the #Loudoun economy htt\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 21:23:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629367725345873921,
+    "id_str": "629367725345873921",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/12mVTIOFTU",
+          "media_url": "http://pbs.twimg.com/media/CLv2nEYXAAA8ogs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLv2nEYXAAA8ogs.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629367725345873921/photo/1",
+          "id_str": "629367723999559680",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/12mVTIOFTU",
+          "id": 629367723999559680
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/12mVTIOFTU",
+          "media_url": "http://pbs.twimg.com/media/CLv2nEYXAAA8ogs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLv2nEYXAAA8ogs.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629367725345873921/photo/1",
+          "id_str": "629367723999559680",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/12mVTIOFTU",
+          "id": 629367723999559680
+        }
+      ]
+    },
+    "text": "Started today with a tour of a Walgreens in Leesburg and discussed the immunization program they offer the community. http://t.co/12mVTIOFTU",
+    "lang": "en",
+    "created_at": "2015-08-06 19:05:33+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629364716612231168,
+      "id_str": "629364716612231168",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Loudoun",
+            "indices": [
+              0,
+              8
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/xGHFS06c99",
+            "media_url": "http://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+            "expanded_url": "http://twitter.com/LoudounBiz/status/629364716612231168/photo/1",
+            "id_str": "629364715030999040",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/xGHFS06c99",
+            "id": 629364715030999040
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Mark Herring",
+            "indices": [
+              60,
+              74
+            ],
+            "id_str": "205299497",
+            "id": 205299497,
+            "screen_name": "MarkHerringVA"
+          },
+          {
+            "name": "Barbara Comstock",
+            "indices": [
+              75,
+              87
+            ],
+            "id_str": "2933760046",
+            "id": 2933760046,
+            "screen_name": "RepComstock"
+          },
+          {
+            "name": "Scott York",
+            "indices": [
+              89,
+              101
+            ],
+            "id_str": "3386864932",
+            "id": 3386864932,
+            "screen_name": "ScottYork14"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "50670522",
+        "id": 50670522
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/xGHFS06c99",
+            "media_url": "http://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+            "expanded_url": "http://twitter.com/LoudounBiz/status/629364716612231168/photo/1",
+            "id_str": "629364715030999040",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/xGHFS06c99",
+            "id": 629364715030999040
+          }
+        ]
+      },
+      "text": "#Loudoun celebrates the Panda Stonewall groundbreaking with @MarkHerringVA @RepComstock  @ScottYork14 and many more. http://t.co/xGHFS06c99",
+      "lang": "en",
+      "created_at": "Thu Aug 06 18:53:36 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 50670522,
+          "media_url": "http://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+          "source_user_id_str": "50670522",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/xGHFS06c99",
+          "expanded_url": "http://twitter.com/LoudounBiz/status/629364716612231168/photo/1",
+          "url": "http://t.co/xGHFS06c99",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+          "source_status_id_str": "629364716612231168",
+          "id_str": "629364715030999040",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 629364715030999040,
+          "source_status_id": 629364716612231168
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629367653212286976,
+    "id_str": "629367653212286976",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Loudoun",
+          "indices": [
+            16,
+            24
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 50670522,
+          "media_url": "http://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+          "source_user_id_str": "50670522",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/xGHFS06c99",
+          "expanded_url": "http://twitter.com/LoudounBiz/status/629364716612231168/photo/1",
+          "url": "http://t.co/xGHFS06c99",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvz37GWcAAFgaL.jpg",
+          "source_status_id_str": "629364716612231168",
+          "id_str": "629364715030999040",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 629364715030999040,
+          "source_status_id": 629364716612231168
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Loudoun Biz",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "50670522",
+          "id": 50670522,
+          "screen_name": "LoudounBiz"
+        },
+        {
+          "name": "Mark Herring",
+          "indices": [
+            76,
+            90
+          ],
+          "id_str": "205299497",
+          "id": 205299497,
+          "screen_name": "MarkHerringVA"
+        },
+        {
+          "name": "Barbara Comstock",
+          "indices": [
+            91,
+            103
+          ],
+          "id_str": "2933760046",
+          "id": 2933760046,
+          "screen_name": "RepComstock"
+        },
+        {
+          "name": "Scott York",
+          "indices": [
+            105,
+            117
+          ],
+          "id_str": "3386864932",
+          "id": 3386864932,
+          "screen_name": "ScottYork14"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @LoudounBiz: #Loudoun celebrates the Panda Stonewall groundbreaking with @MarkHerringVA @RepComstock  @ScottYork14 and many more. http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 19:05:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629346589774086144,
+      "id_str": "629346589774086144",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "travel",
+            "indices": [
+              57,
+              64
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/jaGrlGYmE5",
+            "media_url": "http://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+            "id_str": "629346562423017472",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/jaGrlGYmE5",
+            "id": 629346562423017472
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Visit Loudoun",
+            "indices": [
+              9,
+              22
+            ],
+            "id_str": "15587790",
+            "id": 15587790,
+            "screen_name": "VisitLoudoun"
+          },
+          {
+            "name": "Stone Tower Winery",
+            "indices": [
+              37,
+              52
+            ],
+            "id_str": "438452108",
+            "id": 438452108,
+            "screen_name": "StoneTowerWine"
+          },
+          {
+            "name": "Barbara Comstock",
+            "indices": [
+              81,
+              93
+            ],
+            "id_str": "2933760046",
+            "id": 2933760046,
+            "screen_name": "RepComstock"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "158397501",
+        "id": 158397501
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/jaGrlGYmE5",
+            "media_url": "http://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+            "id_str": "629346562423017472",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/jaGrlGYmE5",
+            "id": 629346562423017472
+          },
+          {
+            "url": "http://t.co/jaGrlGYmE5",
+            "media_url": "http://pbs.twimg.com/media/CLvjXTFWwAEcuhp.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvjXTFWwAEcuhp.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+            "id_str": "629346562347548673",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/jaGrlGYmE5",
+            "id": 629346562347548673
+          },
+          {
+            "url": "http://t.co/jaGrlGYmE5",
+            "media_url": "http://pbs.twimg.com/media/CLvjXTXWgAEQY83.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvjXTXWgAEQY83.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+            "id_str": "629346562423029761",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/jaGrlGYmE5",
+            "id": 629346562423029761
+          },
+          {
+            "url": "http://t.co/jaGrlGYmE5",
+            "media_url": "http://pbs.twimg.com/media/CLvjXUrWcAA4KqB.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvjXUrWcAA4KqB.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+            "id_str": "629346562775347200",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/jaGrlGYmE5",
+            "id": 629346562775347200
+          }
+        ]
+      },
+      "text": "We're in @VisitLoudoun for a tour of @StoneTowerWine and #travel Roundtable with @RepComstock http://t.co/jaGrlGYmE5",
+      "lang": "en",
+      "created_at": "Thu Aug 06 17:41:34 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/jaGrlGYmE5",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+          "url": "http://t.co/jaGrlGYmE5",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+          "source_status_id_str": "629346589774086144",
+          "id_str": "629346562423017472",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629346562423017472,
+          "source_status_id": 629346589774086144
+        },
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLvjXTFWwAEcuhp.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/jaGrlGYmE5",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+          "url": "http://t.co/jaGrlGYmE5",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvjXTFWwAEcuhp.jpg",
+          "source_status_id_str": "629346589774086144",
+          "id_str": "629346562347548673",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629346562347548673,
+          "source_status_id": 629346589774086144
+        },
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLvjXTXWgAEQY83.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/jaGrlGYmE5",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+          "url": "http://t.co/jaGrlGYmE5",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvjXTXWgAEQY83.jpg",
+          "source_status_id_str": "629346589774086144",
+          "id_str": "629346562423029761",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629346562423029761,
+          "source_status_id": 629346589774086144
+        },
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLvjXUrWcAA4KqB.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/jaGrlGYmE5",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+          "url": "http://t.co/jaGrlGYmE5",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvjXUrWcAA4KqB.jpg",
+          "source_status_id_str": "629346589774086144",
+          "id_str": "629346562775347200",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629346562775347200,
+          "source_status_id": 629346589774086144
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629347612408287232,
+    "id_str": "629347612408287232",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            78,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 158397501,
+          "media_url": "http://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+          "source_user_id_str": "158397501",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/jaGrlGYmE5",
+          "expanded_url": "http://twitter.com/TravelCoalition/status/629346589774086144/photo/1",
+          "url": "http://t.co/jaGrlGYmE5",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvjXTXWUAAd9xD.jpg",
+          "source_status_id_str": "629346589774086144",
+          "id_str": "629346562423017472",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629346562423017472,
+          "source_status_id": 629346589774086144
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Power of Travel",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "158397501",
+          "id": 158397501,
+          "screen_name": "TravelCoalition"
+        },
+        {
+          "name": "Visit Loudoun",
+          "indices": [
+            30,
+            43
+          ],
+          "id_str": "15587790",
+          "id": 15587790,
+          "screen_name": "VisitLoudoun"
+        },
+        {
+          "name": "Stone Tower Winery",
+          "indices": [
+            58,
+            73
+          ],
+          "id_str": "438452108",
+          "id": 438452108,
+          "screen_name": "StoneTowerWine"
+        },
+        {
+          "name": "Barbara Comstock",
+          "indices": [
+            102,
+            114
+          ],
+          "id_str": "2933760046",
+          "id": 2933760046,
+          "screen_name": "RepComstock"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TravelCoalition: We're in @VisitLoudoun for a tour of @StoneTowerWine and #travel Roundtable with @RepComstock http://t.co/jaGrlGYmE5",
+    "lang": "en",
+    "created_at": "2015-08-06 17:45:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629331311573004288,
+    "id_str": "629331311573004288",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/wL3oCMopQP",
+          "media_url": "http://pbs.twimg.com/media/CLvVfhDUwAAHgzd.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvVfhDUwAAHgzd.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629331311573004288/photo/1",
+          "id_str": "629331310373289984",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/wL3oCMopQP",
+          "id": 629331310373289984
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/wL3oCMopQP",
+          "media_url": "http://pbs.twimg.com/media/CLvVfhDUwAAHgzd.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvVfhDUwAAHgzd.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629331311573004288/photo/1",
+          "id_str": "629331310373289984",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/wL3oCMopQP",
+          "id": 629331310373289984
+        }
+      ]
+    },
+    "text": "We toured family-owned Dixie Beverage Company in Winchester to learn the day-to-day operations of a beer distributor. http://t.co/wL3oCMopQP",
+    "lang": "en",
+    "created_at": "2015-08-06 16:40:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629314225098346497,
+    "id_str": "629314225098346497",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/g57nLT65Fh",
+          "media_url": "http://pbs.twimg.com/media/CLvF8-UWUAAqL2e.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvF8-UWUAAqL2e.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629314225098346497/photo/1",
+          "id_str": "629314224259485696",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/g57nLT65Fh",
+          "id": 629314224259485696
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/g57nLT65Fh",
+          "media_url": "http://pbs.twimg.com/media/CLvF8-UWUAAqL2e.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvF8-UWUAAqL2e.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629314225098346497/photo/1",
+          "id_str": "629314224259485696",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/g57nLT65Fh",
+          "id": 629314224259485696
+        }
+      ]
+    },
+    "text": "Toured Navy Federal in Winchester yesterday and discussed finance issues affecting local credit unions and consumers. http://t.co/g57nLT65Fh",
+    "lang": "en",
+    "created_at": "2015-08-06 15:32:58+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Virginia, USA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -83.67529,
+                36.540739
+              ],
+              [
+                -75.16644,
+                36.540739
+              ],
+              [
+                -75.16644,
+                39.466012
+              ],
+              [
+                -83.67529,
+                39.466012
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/5635c19c2b5078d1.json",
+        "name": "Virginia",
+        "country": "United States",
+        "place_type": "admin",
+        "id": "5635c19c2b5078d1"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": "2193259544",
+      "id": 629301938895613952,
+      "id_str": "629301938895613952",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "PandaStonewall",
+            "indices": [
+              62,
+              77
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/tdR8EhgBL1",
+            "media_url": "http://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+            "expanded_url": "http://twitter.com/boblazaro/status/629301938895613952/photo/1",
+            "id_str": "629301933585661952",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/tdR8EhgBL1",
+            "id": 629301933585661952
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "AG Mark Herring",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "2193259544",
+            "id": 2193259544,
+            "screen_name": "AGMarkHerring"
+          },
+          {
+            "name": "Barbara Comstock",
+            "indices": [
+              21,
+              33
+            ],
+            "id_str": "2933760046",
+            "id": 2933760046,
+            "screen_name": "RepComstock"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18317901",
+        "id": 18317901
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": 2193259544,
+      "in_reply_to_screen_name": "AGMarkHerring",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/tdR8EhgBL1",
+            "media_url": "http://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+            "expanded_url": "http://twitter.com/boblazaro/status/629301938895613952/photo/1",
+            "id_str": "629301933585661952",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/tdR8EhgBL1",
+            "id": 629301933585661952
+          }
+        ]
+      },
+      "text": "@AGMarkHerring &amp; @RepComstock attending groundbreaking of #PandaStonewall plant. Enough power for 700,000 homes. http://t.co/tdR8EhgBL1",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:44:08 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 18317901,
+          "media_url": "http://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+          "source_user_id_str": "18317901",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/tdR8EhgBL1",
+          "expanded_url": "http://twitter.com/boblazaro/status/629301938895613952/photo/1",
+          "url": "http://t.co/tdR8EhgBL1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+          "source_status_id_str": "629301938895613952",
+          "id_str": "629301933585661952",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629301933585661952,
+          "source_status_id": 629301938895613952
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629309143573245952,
+    "id_str": "629309143573245952",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "PandaStonewall",
+          "indices": [
+            77,
+            92
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 18317901,
+          "media_url": "http://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+          "source_user_id_str": "18317901",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/tdR8EhgBL1",
+          "expanded_url": "http://twitter.com/boblazaro/status/629301938895613952/photo/1",
+          "url": "http://t.co/tdR8EhgBL1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu6xj_XAAA83y_.jpg",
+          "source_status_id_str": "629301938895613952",
+          "id_str": "629301933585661952",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 629301933585661952,
+          "source_status_id": 629301938895613952
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "boblazaro",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "18317901",
+          "id": 18317901,
+          "screen_name": "boblazaro"
+        },
+        {
+          "name": "AG Mark Herring",
+          "indices": [
+            15,
+            29
+          ],
+          "id_str": "2193259544",
+          "id": 2193259544,
+          "screen_name": "AGMarkHerring"
+        },
+        {
+          "name": "Barbara Comstock",
+          "indices": [
+            36,
+            48
+          ],
+          "id_str": "2933760046",
+          "id": 2933760046,
+          "screen_name": "RepComstock"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://mobile.twitter.com\" rel=\"nofollow\">Mobile Web</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @boblazaro: @AGMarkHerring &amp; @RepComstock attending groundbreaking of #PandaStonewall plant. Enough power for 700,000 homes. http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 15:12:46+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629048772048220160,
+      "id_str": "629048772048220160",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/0KJnuqScAt",
+            "indices": [
+              77,
+              99
+            ],
+            "display_url": "your4state.com/story/d/story/\u2026",
+            "expanded_url": "http://www.your4state.com/story/d/story/rep-comstock-brings-leadership-program-to-winchest/41727/ffiGqDAHmEOCaVeSLuqZZQ"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "VA",
+            "indices": [
+              54,
+              57
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rachel Charlip",
+            "indices": [
+              62,
+              76
+            ],
+            "id_str": "787518270",
+            "id": 787518270,
+            "screen_name": "RachelCharlip"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15844989",
+        "id": 15844989
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Rep. Comstock brings leadership program to Winchester #VA via @RachelCharlip http://t.co/0KJnuqScAt",
+      "lang": "en",
+      "created_at": "Wed Aug 05 21:58:09 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629064139642679296,
+    "id_str": "629064139642679296",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/0KJnuqScAt",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "your4state.com/story/d/story/\u2026",
+          "expanded_url": "http://www.your4state.com/story/d/story/rep-comstock-brings-leadership-program-to-winchest/41727/ffiGqDAHmEOCaVeSLuqZZQ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA",
+          "indices": [
+            70,
+            73
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "WHAG-TV",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "15844989",
+          "id": 15844989,
+          "screen_name": "Your4State"
+        },
+        {
+          "name": "Rachel Charlip",
+          "indices": [
+            78,
+            92
+          ],
+          "id_str": "787518270",
+          "id": 787518270,
+          "screen_name": "RachelCharlip"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Your4State: Rep. Comstock brings leadership program to Winchester #VA via @RachelCharlip http://t.co/0KJnuqScAt",
+    "lang": "en",
+    "created_at": "2015-08-05 22:59:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629018928799444992,
+    "id_str": "629018928799444992",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/JMubdz9PVP",
+          "media_url": "http://pbs.twimg.com/media/CLq5YcRUEAA4SY_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq5YcRUEAA4SY_.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629018928799444992/photo/1",
+          "id_str": "629018927528415232",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 370
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 632
+            }
+          },
+          "display_url": "pic.twitter.com/JMubdz9PVP",
+          "id": 629018927528415232
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/JMubdz9PVP",
+          "media_url": "http://pbs.twimg.com/media/CLq5YcRUEAA4SY_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLq5YcRUEAA4SY_.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/629018928799444992/photo/1",
+          "id_str": "629018927528415232",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 210
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 370
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 632
+            }
+          },
+          "display_url": "pic.twitter.com/JMubdz9PVP",
+          "id": 629018927528415232
+        }
+      ]
+    },
+    "text": "A great educators panel at Shenandoah University for our 10th Congressional District Young Women Leadership Program. http://t.co/JMubdz9PVP",
+    "lang": "en",
+    "created_at": "2015-08-05 19:59:33+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628990648058793984,
+    "id_str": "628990648058793984",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NationalNightOut2015",
+          "indices": [
+            87,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/kRxcF8RWGI",
+          "media_url": "http://pbs.twimg.com/media/CLqfqUmUYAAFoIr.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqfqUmUYAAFoIr.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/628990648058793984/photo/1",
+          "id_str": "628990647404355584",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 187
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 331
+            },
+            "large": {
+              "w": 719,
+              "resize": "fit",
+              "h": 397
+            }
+          },
+          "display_url": "pic.twitter.com/kRxcF8RWGI",
+          "id": 628990647404355584
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kRxcF8RWGI",
+          "media_url": "http://pbs.twimg.com/media/CLqfqUmUYAAFoIr.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqfqUmUYAAFoIr.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/628990648058793984/photo/1",
+          "id_str": "628990647404355584",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 187
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 331
+            },
+            "large": {
+              "w": 719,
+              "resize": "fit",
+              "h": 397
+            }
+          },
+          "display_url": "pic.twitter.com/kRxcF8RWGI",
+          "id": 628990647404355584
+        }
+      ]
+    },
+    "text": "The rain held off in Middleburg last night for my District Director and our interns at #NationalNightOut2015. http://t.co/kRxcF8RWGI",
+    "lang": "en",
+    "created_at": "2015-08-05 18:07:11+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628967010182004736,
+    "id_str": "628967010182004736",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/Xr0r8XPJUy",
+          "media_url": "http://pbs.twimg.com/media/CLqKKaZWEAAcSrg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqKKaZWEAAcSrg.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/628967010182004736/photo/1",
+          "id_str": "628967009460555776",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/Xr0r8XPJUy",
+          "id": 628967009460555776
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Xr0r8XPJUy",
+          "media_url": "http://pbs.twimg.com/media/CLqKKaZWEAAcSrg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqKKaZWEAAcSrg.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/628967010182004736/photo/1",
+          "id_str": "628967009460555776",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/Xr0r8XPJUy",
+          "id": 628967009460555776
+        }
+      ]
+    },
+    "text": "Barbecue smoke, country music and good conversation filled the air at the Winchester National Night Out celebration. http://t.co/Xr0r8XPJUy",
+    "lang": "en",
+    "created_at": "2015-08-05 16:33:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628877052037464064,
+    "id_str": "628877052037464064",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/CALDfdnArb",
+          "indices": [
+            81,
+            104
+          ],
+          "display_url": "comstock.house.gov/media-center/p\u2026",
+          "expanded_url": "https://comstock.house.gov/media-center/press-releases/comstock-supports-letter-calling-president-obama-release-secret-iran"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA10",
+          "indices": [
+            105,
+            110
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Comstock Supports Letter Calling On President Obama To Release Secret Iran Deals\nhttps://t.co/CALDfdnArb #VA10",
+    "lang": "en",
+    "created_at": "2015-08-05 10:35:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628733746108350464,
+    "id_str": "628733746108350464",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NNO2015",
+          "indices": [
+            25,
+            33
+          ]
+        },
+        {
+          "text": "VA10",
+          "indices": [
+            51,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/oLAG3JDEk5",
+          "media_url": "http://pbs.twimg.com/media/CLm2AmKUEAAWxTC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLm2AmKUEAAWxTC.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/628733746108350464/photo/1",
+          "id_str": "628733744354955264",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/oLAG3JDEk5",
+          "id": 628733744354955264
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/oLAG3JDEk5",
+          "media_url": "http://pbs.twimg.com/media/CLm2AmKUEAAWxTC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLm2AmKUEAAWxTC.jpg",
+          "expanded_url": "http://twitter.com/RepComstock/status/628733746108350464/photo/1",
+          "id_str": "628733744354955264",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            }
+          },
+          "display_url": "pic.twitter.com/oLAG3JDEk5",
+          "id": 628733744354955264
+        }
+      ]
+    },
+    "text": "My staff participated in #NNO2015 tonight all over #VA10 where the community and first responders come together. http://t.co/oLAG3JDEk5",
+    "lang": "en",
+    "created_at": "2015-08-05 01:06:21+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628678965549514752,
+    "id_str": "628678965549514752",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fu7PQy40pq",
+          "indices": [
+            104,
+            126
+          ],
+          "display_url": "weeklystandard.com/blogs/wow-amer\u2026",
+          "expanded_url": "http://www.weeklystandard.com/blogs/wow-americans-oppose-iran-deal-two-one_1003336.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA10",
+          "indices": [
+            127,
+            132
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The American people get it \u2013 the Obama Admin. Iran deal is a bad deal that they oppose by a 2-1 margin. http://t.co/fu7PQy40pq #VA10",
+    "lang": "en",
+    "created_at": "2015-08-04 21:28:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628593203197931525,
+    "id_str": "628593203197931525",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/3OjH90ArTD",
+          "indices": [
+            82,
+            104
+          ],
+          "display_url": "myfoxdc.com/story/29705149\u2026",
+          "expanded_url": "http://www.myfoxdc.com/story/29705149/happiest-counties#.VcDeopab7g0.twitter"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA10",
+          "indices": [
+            105,
+            110
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Local county is the happiest place in America, study says - DC News FOX 5 DC WTTG http://t.co/3OjH90ArTD #VA10",
+    "lang": "en",
+    "created_at": "2015-08-04 15:47:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628351164187320320,
+    "id_str": "628351164187320320",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LBYArxYKj7",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "patch.com/virginia/fairf\u2026",
+          "expanded_url": "http://patch.com/virginia/fairfaxcity/va-attorney-general-warns-phone-scam-involving-utility-bills"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VA10",
+          "indices": [
+            108,
+            113
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2933760046",
+      "screen_name": "repcomstock",
+      "id": 2933760046
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Fairfax City Patch: Va. Attorney General Warns of Phone Scam Involving Utility Bills http://t.co/LBYArxYKj7 #VA10",
+    "lang": "en",
+    "created_at": "2015-08-03 23:46:06+00:00"
+  }
+]

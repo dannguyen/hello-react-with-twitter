@@ -1,0 +1,1839 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 28,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 20,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629690974789337088,
+      "id_str": "629690974789337088",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "NOAA",
+            "indices": [
+              0,
+              5
+            ]
+          },
+          {
+            "text": "Hurricane",
+            "indices": [
+              58,
+              68
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/lqd8I2YeLL",
+            "media_url": "http://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+            "expanded_url": "http://twitter.com/weatherchannel/status/629690974789337088/photo/1",
+            "id_str": "629690974726410241",
+            "indices": [
+              100,
+              122
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 599,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 599,
+                "resize": "fit",
+                "h": 337
+              }
+            },
+            "display_url": "pic.twitter.com/lqd8I2YeLL",
+            "id": 629690974726410241
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/yMen1HMeKy",
+            "indices": [
+              77,
+              99
+            ],
+            "display_url": "wxch.nl/1TaFUfc",
+            "expanded_url": "http://wxch.nl/1TaFUfc"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20998647",
+        "id": 20998647
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.sprinklr.com\" rel=\"nofollow\">Sprinklr</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/lqd8I2YeLL",
+            "media_url": "http://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+            "expanded_url": "http://twitter.com/weatherchannel/status/629690974789337088/photo/1",
+            "id_str": "629690974726410241",
+            "indices": [
+              100,
+              122
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 599,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 599,
+                "resize": "fit",
+                "h": 337
+              }
+            },
+            "display_url": "pic.twitter.com/lqd8I2YeLL",
+            "id": 629690974726410241
+          }
+        ]
+      },
+      "text": "#NOAA released its final forecast update for the Atlantic #Hurricane Season: http://t.co/yMen1HMeKy http://t.co/lqd8I2YeLL",
+      "lang": "en",
+      "created_at": "Fri Aug 07 16:30:02 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 20998647,
+          "media_url": "http://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+          "source_user_id_str": "20998647",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/lqd8I2YeLL",
+          "expanded_url": "http://twitter.com/weatherchannel/status/629690974789337088/photo/1",
+          "url": "http://t.co/lqd8I2YeLL",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+          "source_status_id_str": "629690974789337088",
+          "id_str": "629690974726410241",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 337
+            }
+          },
+          "id": 629690974726410241,
+          "source_status_id": 629690974789337088
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629699850951630848,
+    "id_str": "629699850951630848",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "NOAA",
+          "indices": [
+            20,
+            25
+          ]
+        },
+        {
+          "text": "Hurricane",
+          "indices": [
+            78,
+            88
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 20998647,
+          "media_url": "http://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+          "source_user_id_str": "20998647",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/lqd8I2YeLL",
+          "expanded_url": "http://twitter.com/weatherchannel/status/629690974789337088/photo/1",
+          "url": "http://t.co/lqd8I2YeLL",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0cmvLWUAEnKXm.jpg",
+          "source_status_id_str": "629690974789337088",
+          "id_str": "629690974726410241",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 337
+            }
+          },
+          "id": 629690974726410241,
+          "source_status_id": 629690974789337088
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/yMen1HMeKy",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "wxch.nl/1TaFUfc",
+          "expanded_url": "http://wxch.nl/1TaFUfc"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Weather Channel",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "20998647",
+          "id": 20998647,
+          "screen_name": "weatherchannel"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @weatherchannel: #NOAA released its final forecast update for the Atlantic #Hurricane Season: http://t.co/yMen1HMeKy http://t.co/lqd8I2Y\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 17:05:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "807095",
+    "id": 629380778611179520,
+    "id_str": "629380778611179520",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            77,
+            83
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            84,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/X1sflijChi",
+          "media_url": "http://pbs.twimg.com/media/CLwCe53UMAAOUd-.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwCe53UMAAOUd-.png",
+          "expanded_url": "http://twitter.com/RepRichmond/status/629380778611179520/photo/1",
+          "id_str": "629380777877188608",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 237
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 526,
+              "resize": "fit",
+              "h": 368
+            },
+            "large": {
+              "w": 526,
+              "resize": "fit",
+              "h": 368
+            }
+          },
+          "display_url": "pic.twitter.com/X1sflijChi",
+          "id": 629380777877188608
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "The New York Times",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "807095",
+          "id": 807095,
+          "screen_name": "nytimes"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 807095,
+    "in_reply_to_screen_name": "nytimes",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/X1sflijChi",
+          "media_url": "http://pbs.twimg.com/media/CLwCe53UMAAOUd-.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwCe53UMAAOUd-.png",
+          "expanded_url": "http://twitter.com/RepRichmond/status/629380778611179520/photo/1",
+          "id_str": "629380777877188608",
+          "indices": [
+            99,
+            121
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 237
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 526,
+              "resize": "fit",
+              "h": 368
+            },
+            "large": {
+              "w": 526,
+              "resize": "fit",
+              "h": 368
+            }
+          },
+          "display_url": "pic.twitter.com/X1sflijChi",
+          "id": 629380777877188608
+        }
+      ]
+    },
+    "text": "@nytimes has it right: Americans' basic right to vote remains under assault! #VRA50 #RestoreTheVRA http://t.co/X1sflijChi",
+    "lang": "en",
+    "created_at": "2015-08-06 19:57:25+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1795,
+      "favorite_count": 1462,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629265088214638592,
+      "id_str": "629265088214638592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1795,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629290520758616064,
+    "id_str": "629290520758616064",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:58:46+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 337,
+      "favorite_count": 159,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628903659523457025,
+      "id_str": "628903659523457025",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              124,
+              138
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Republicans",
+            "indices": [
+              94,
+              103
+            ],
+            "id_str": "15207668",
+            "id": 15207668,
+            "screen_name": "HouseGOP"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "188019606",
+        "id": 188019606
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The strength of our democracy rests upon the participation of every citizen. RT if you agree: @HouseGOP should join Dems to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Wed Aug 05 12:21:31 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 337,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628998936888537088,
+    "id_str": "628998936888537088",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            137,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "James E. Clyburn",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "188019606",
+          "id": 188019606,
+          "screen_name": "Clyburn"
+        },
+        {
+          "name": "House Republicans",
+          "indices": [
+            107,
+            116
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Clyburn: The strength of our democracy rests upon the participation of every citizen. RT if you agree: @HouseGOP should join Dems to #R\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 18:40:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "173825889",
+    "id": 628922187928502272,
+    "id_str": "628922187928502272",
+    "quoted_status": {
+      "in_reply_to_status_id_str": "627221665563328513",
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "173825889",
+      "id": 627222294360756224,
+      "id_str": "627222294360756224",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep Cedric Richmond",
+            "indices": [
+              0,
+              12
+            ],
+            "id_str": "267854863",
+            "id": 267854863,
+            "screen_name": "RepRichmond"
+          }
+        ]
+      },
+      "in_reply_to_status_id": 627221665563328513,
+      "contributors": null,
+      "user": {
+        "id_str": "173825889",
+        "id": 173825889
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 173825889,
+      "in_reply_to_screen_name": "jypnola",
+      "retweeted": false,
+      "text": "@RepRichmond I am a first-time home owner with a duplex. I am charged the same flat fee as someone who has an apt bldg with numerous units.",
+      "lang": "en",
+      "created_at": "Fri Jul 31 21:00:22 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/zHGakQzlAz",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "twitter.com/jypnola/status\u2026",
+          "expanded_url": "https://twitter.com/jypnola/status/627222294360756224"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "FloodInsurance",
+          "indices": [
+            87,
+            102
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Jinyoung Park",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "173825889",
+          "id": 173825889,
+          "screen_name": "jypnola"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "627222294360756224",
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 13:35:09+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 173825889,
+    "in_reply_to_screen_name": "jypnola",
+    "retweeted": false,
+    "text": "@jypnola please call my office at 202-225-6636 we will be happy to address all of your #FloodInsurance questions.  https://t.co/zHGakQzlAz",
+    "lang": "en",
+    "quoted_status_id": 627222294360756224
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628920445870473216,
+    "id_str": "628920445870473216",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Rep. Alfred Williams was a great legislator, respected mentor, &amp; tireless fighter for his constituents. My prayers are with his family.",
+    "lang": "en",
+    "created_at": "2015-08-05 13:28:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626850533454823425,
+    "id_str": "626850533454823425",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            83,
+            102
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/mIeF0dcMku",
+          "media_url": "http://pbs.twimg.com/media/CLMFPMrWsAAwuVS.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMFPMrWsAAwuVS.jpg",
+          "expanded_url": "http://twitter.com/RepRichmond/status/626850533454823425/photo/1",
+          "id_str": "626850531793874944",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 321
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 568
+            },
+            "large": {
+              "w": 659,
+              "resize": "fit",
+              "h": 624
+            }
+          },
+          "display_url": "pic.twitter.com/mIeF0dcMku",
+          "id": 626850531793874944
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/mIeF0dcMku",
+          "media_url": "http://pbs.twimg.com/media/CLMFPMrWsAAwuVS.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLMFPMrWsAAwuVS.jpg",
+          "expanded_url": "http://twitter.com/RepRichmond/status/626850533454823425/photo/1",
+          "id_str": "626850531793874944",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 321
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 568
+            },
+            "large": {
+              "w": 659,
+              "resize": "fit",
+              "h": 624
+            }
+          },
+          "display_url": "pic.twitter.com/mIeF0dcMku",
+          "id": 626850531793874944
+        }
+      ]
+    },
+    "text": "Everyone deserves to live with economic security and dignity. That\u2019s why I support #MedicareMedicaid50 http://t.co/mIeF0dcMku",
+    "lang": "en",
+    "created_at": "2015-07-30 20:23:08+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "17800215",
+    "id": 626804502881026048,
+    "id_str": "626804502881026048",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/CSuNGORGmS",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "goo.gl/jIeUq4",
+          "expanded_url": "http://goo.gl/jIeUq4"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ReformSolitary",
+          "indices": [
+            102,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Jason Chaffetz",
+          "indices": [
+            0,
+            16
+          ],
+          "id_str": "17800215",
+          "id": 17800215,
+          "screen_name": "jasoninthehouse"
+        },
+        {
+          "name": "Rep. Bobby Scott",
+          "indices": [
+            17,
+            31
+          ],
+          "id_str": "161791703",
+          "id": 161791703,
+          "screen_name": "repbobbyscott"
+        },
+        {
+          "name": "Tom Rooney",
+          "indices": [
+            32,
+            42
+          ],
+          "id_str": "23970171",
+          "id": 23970171,
+          "screen_name": "TomRooney"
+        },
+        {
+          "name": "James E. Clyburn",
+          "indices": [
+            43,
+            51
+          ],
+          "id_str": "188019606",
+          "id": 188019606,
+          "screen_name": "Clyburn"
+        },
+        {
+          "name": "RepBThompson",
+          "indices": [
+            52,
+            68
+          ],
+          "id_str": "82453460",
+          "id": 82453460,
+          "screen_name": "BennieGThompson"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 17800215,
+    "in_reply_to_screen_name": "jasoninthehouse",
+    "retweeted": false,
+    "text": "@jasoninthehouse @repbobbyscott @TomRooney @Clyburn @BennieGThompson Joined me to introduce a bill to #ReformSolitary http://t.co/CSuNGORGmS",
+    "lang": "en",
+    "created_at": "2015-07-30 17:20:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626784307848323072,
+    "id_str": "626784307848323072",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/vxYQEZeVGc",
+          "indices": [
+            67,
+            90
+          ],
+          "display_url": "youtu.be/ysFH2xpcjCA",
+          "expanded_url": "https://youtu.be/ysFH2xpcjCA"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Katrina10",
+          "indices": [
+            56,
+            66
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Our recovery is not complete. We still have work to do. #Katrina10 https://t.co/vxYQEZeVGc",
+    "lang": "en",
+    "created_at": "2015-07-30 15:59:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626539238847344640,
+    "id_str": "626539238847344640",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/eImpndkBeD",
+          "indices": [
+            73,
+            95
+          ],
+          "display_url": "houselive.gov",
+          "expanded_url": "http://houselive.gov/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Katrina10",
+          "indices": [
+            62,
+            72
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"We still have needs and still need to complete our recovery\" #Katrina10 http://t.co/eImpndkBeD",
+    "lang": "en",
+    "created_at": "2015-07-29 23:46:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626537311816282113,
+    "id_str": "626537311816282113",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/eImpndkBeD",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "houselive.gov",
+          "expanded_url": "http://houselive.gov/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Katrina10",
+          "indices": [
+            91,
+            101
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"There are still areas of New Orleans that are not back and are still fighting to recover\" #Katrina10 http://t.co/eImpndkBeD",
+    "lang": "en",
+    "created_at": "2015-07-29 23:38:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626536845564846084,
+    "id_str": "626536845564846084",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/eImpndkBeD",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "houselive.gov",
+          "expanded_url": "http://houselive.gov/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Katrina10",
+          "indices": [
+            74,
+            84
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"We still have some work to do when it comes to education in New Orleans\" #Katrina10 http://t.co/eImpndkBeD",
+    "lang": "en",
+    "created_at": "2015-07-29 23:36:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626522473706692609,
+    "id_str": "626522473706692609",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/eImpndkBeD",
+          "indices": [
+            54,
+            76
+          ],
+          "display_url": "houselive.gov",
+          "expanded_url": "http://houselive.gov/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Katrina10",
+          "indices": [
+            31,
+            41
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "U.S. House Floor",
+          "indices": [
+            7,
+            18
+          ],
+          "id_str": "7402662",
+          "id": 7402662,
+          "screen_name": "HouseFloor"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On the @HouseFloor speaking on #Katrina10 Watch here: http://t.co/eImpndkBeD",
+    "lang": "en",
+    "created_at": "2015-07-29 22:39:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626403497945268226,
+    "id_str": "626403497945268226",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ServiceAcademyDay",
+          "indices": [
+            88,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ixAhkmTVOZ",
+          "media_url": "http://pbs.twimg.com/media/CLFuqYJWcAIHoRl.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLFuqYJWcAIHoRl.jpg",
+          "expanded_url": "http://twitter.com/RepRichmond/status/626403497945268226/photo/1",
+          "id_str": "626403497496440834",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 776
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1325
+            }
+          },
+          "display_url": "pic.twitter.com/ixAhkmTVOZ",
+          "id": 626403497496440834
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ixAhkmTVOZ",
+          "media_url": "http://pbs.twimg.com/media/CLFuqYJWcAIHoRl.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLFuqYJWcAIHoRl.jpg",
+          "expanded_url": "http://twitter.com/RepRichmond/status/626403497945268226/photo/1",
+          "id_str": "626403497496440834",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 776
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1325
+            }
+          },
+          "display_url": "pic.twitter.com/ixAhkmTVOZ",
+          "id": 626403497496440834
+        }
+      ]
+    },
+    "text": "All students in So. La interested in Service Academies join us next Monday Aug. 3rd for #ServiceAcademyDay http://t.co/ixAhkmTVOZ",
+    "lang": "en",
+    "created_at": "2015-07-29 14:46:46+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624663908343771137,
+    "id_str": "624663908343771137",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/p1jbmoOQOx",
+          "indices": [
+            120,
+            143
+          ],
+          "display_url": "youtu.be/7IoN7vky6hk",
+          "expanded_url": "https://youtu.be/7IoN7vky6hk"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "HigherEdNotDebt",
+          "indices": [
+            103,
+            119
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "THE CBC",
+          "indices": [
+            14,
+            26
+          ],
+          "id_str": "233783568",
+          "id": 233783568,
+          "screen_name": "OfficialCBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Delivered the @OfficialCBC Message to America on Student Loan Reform &amp; the importance of our HBCUs #HigherEdNotDebt https://t.co/p1jbmoOQOx",
+    "lang": "en",
+    "created_at": "2015-07-24 19:34:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 22,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624419482925199365,
+    "id_str": "624419482925199365",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Lafayette",
+          "indices": [
+            65,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My prayers are with the families of the victims &amp; the entire #Lafayette community as we mourn this tragedy.",
+    "lang": "en",
+    "created_at": "2015-07-24 03:23:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624248233418731520,
+    "id_str": "624248233418731520",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "LA02",
+          "indices": [
+            53,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/E9SRSacAzn",
+          "media_url": "http://pbs.twimg.com/media/CKnGc_RUsAARIDj.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnGc_RUsAARIDj.jpg",
+          "expanded_url": "http://twitter.com/RepRichmond/status/624248233418731520/photo/1",
+          "id_str": "624248224690253824",
+          "indices": [
+            59,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/E9SRSacAzn",
+          "id": 624248224690253824
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "THE CBC",
+          "indices": [
+            21,
+            33
+          ],
+          "id_str": "233783568",
+          "id": 233783568,
+          "screen_name": "OfficialCBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/E9SRSacAzn",
+          "media_url": "http://pbs.twimg.com/media/CKnGc_RUsAARIDj.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnGc_RUsAARIDj.jpg",
+          "expanded_url": "http://twitter.com/RepRichmond/status/624248233418731520/photo/1",
+          "id_str": "624248224690253824",
+          "indices": [
+            59,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/E9SRSacAzn",
+          "id": 624248224690253824
+        }
+      ]
+    },
+    "text": "Preparing to deliver @OfficialCBC Message to America #LA02 http://t.co/E9SRSacAzn",
+    "lang": "en",
+    "created_at": "2015-07-23 16:02:31+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623915467321790464,
+    "id_str": "623915467321790464",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/y7Jh0Onata",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "goo.gl/3sRNIe",
+          "expanded_url": "http://goo.gl/3sRNIe"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "InvestInOurFuture",
+          "indices": [
+            99,
+            117
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "When almost \u00bc of children live in poverty the American Dream starts to look more like a nightmare. #InvestInOurFuture http://t.co/y7Jh0Onata",
+    "lang": "en",
+    "created_at": "2015-07-22 18:00:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "50752112",
+    "id": 623894265802981376,
+    "id_str": "623894265802981376",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ik6q1MB2ZR",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "goo.gl/40kAQS",
+          "expanded_url": "http://goo.gl/40kAQS"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SUNO",
+          "indices": [
+            135,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Southern U. at N.O.",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "50752112",
+          "id": 50752112,
+          "screen_name": "SUNOKnights"
+        },
+        {
+          "name": "Homeland Security",
+          "indices": [
+            71,
+            78
+          ],
+          "id_str": "15647676",
+          "id": 15647676,
+          "screen_name": "DHSgov"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 50752112,
+    "in_reply_to_screen_name": "SUNOKnights",
+    "retweeted": false,
+    "text": "@SUNOKnights is an essential part of our community. The $82M grant frm @DHSgov will help revitalize the campus. http://t.co/ik6q1MB2ZR #SUNO",
+    "lang": "en",
+    "created_at": "2015-07-22 16:35:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623159139586428928,
+    "id_str": "623159139586428928",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LVBXhaci4j",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "richmond.house.gov/smallbusiness",
+          "expanded_url": "http://richmond.house.gov/smallbusiness"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SmallBizExpo15",
+          "indices": [
+            120,
+            135
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Delgado College NOLA",
+          "indices": [
+            75,
+            85
+          ],
+          "id_str": "50058950",
+          "id": 50058950,
+          "screen_name": "delgadocc"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "267854863",
+      "screen_name": "reprichmond",
+      "id": 267854863
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Annual Small Business Expo will be held on Thursday Sept. 3rd, 2015 at @delgadocc RSVP here: http://t.co/LVBXhaci4j #SmallBizExpo15",
+    "lang": "en",
+    "created_at": "2015-07-20 15:54:51+00:00"
+  }
+]

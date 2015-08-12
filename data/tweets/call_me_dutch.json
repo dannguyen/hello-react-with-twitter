@@ -1,0 +1,2270 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628943365208436736,
+    "id_str": "628943365208436736",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tVMQ8q9hmL",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "fw.to/yBK39lS",
+          "expanded_url": "http://fw.to/yBK39lS"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "HowardCountyLibrary",
+          "indices": [
+            12,
+            25
+          ],
+          "id_str": "36451810",
+          "id": 36451810,
+          "screen_name": "HoCo_Library"
+        },
+        {
+          "name": "The Baltimore Sun",
+          "indices": [
+            32,
+            45
+          ],
+          "id_str": "8861752",
+          "id": 8861752,
+          "screen_name": "baltimoresun"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to @HoCo_Library! From @baltimoresun: Howard County library expands access to free online education tools http://t.co/tVMQ8q9hmL",
+    "lang": "en",
+    "created_at": "2015-08-05 14:59:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628301043215040513,
+    "id_str": "628301043215040513",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628291800571203584,
+      "id_str": "628291800571203584",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/2miBaBXKZe",
+            "media_url": "http://pbs.twimg.com/media/CLgkDgPUYAARclC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgkDgPUYAARclC.jpg",
+            "expanded_url": "http://twitter.com/MayorSRB/status/628291800571203584/photo/1",
+            "id_str": "628291790630576128",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/2miBaBXKZe",
+            "id": 628291790630576128
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "109328493",
+        "id": 109328493
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/2miBaBXKZe",
+            "media_url": "http://pbs.twimg.com/media/CLgkDgPUYAARclC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgkDgPUYAARclC.jpg",
+            "expanded_url": "http://twitter.com/MayorSRB/status/628291800571203584/photo/1",
+            "id_str": "628291790630576128",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/2miBaBXKZe",
+            "id": 628291790630576128
+          }
+        ]
+      },
+      "text": "This is the next step of an all-hands-on-deck movement working day and night to stop the violence in our city. (4/4) http://t.co/2miBaBXKZe",
+      "lang": "en",
+      "created_at": "Mon Aug 03 19:50:13 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Bfa5drC8u3",
+          "indices": [
+            12,
+            34
+          ],
+          "display_url": "ruppersberger.house.gov/newsroom/press\u2026",
+          "expanded_url": "http://ruppersberger.house.gov/newsroom/press-releases/ruppersberger-issues-statement-on-local-federal-taskforce-to-address"
+        },
+        {
+          "url": "https://t.co/Rw3ZwzjTLw",
+          "indices": [
+            35,
+            58
+          ],
+          "display_url": "twitter.com/MayorSRB/statu\u2026",
+          "expanded_url": "https://twitter.com/MayorSRB/status/628291800571203584"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628291800571203584",
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "created_at": "2015-08-03 20:26:56+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Smart move! http://t.co/Bfa5drC8u3 https://t.co/Rw3ZwzjTLw",
+    "lang": "en",
+    "quoted_status_id": 628291800571203584
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628218534158536704,
+    "id_str": "628218534158536704",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Baltimore Sun",
+          "indices": [
+            9,
+            22
+          ],
+          "id_str": "8861752",
+          "id": 8861752,
+          "screen_name": "baltimoresun"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Quote in @baltimoresun: Put POTUS, Congressional leadership in room w/o water + food + don't let them out until they repeal sequestration",
+    "lang": "en",
+    "created_at": "2015-08-03 14:59:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628217600963702784,
+    "id_str": "628217600963702784",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/cY7rEUSEXc",
+          "indices": [
+            56,
+            78
+          ],
+          "display_url": "fw.to/qX3InFZ",
+          "expanded_url": "http://fw.to/qX3InFZ"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Marylanders brace for possible U.S. government shutdown http://t.co/cY7rEUSEXc",
+    "lang": "en",
+    "created_at": "2015-08-03 14:55:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626818987674992641,
+    "id_str": "626818987674992641",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            61,
+            75
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/iYYpWsiLjS",
+          "media_url": "http://pbs.twimg.com/media/CLLojBqUYAA1VGF.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLojBqUYAA1VGF.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/626818987674992641/photo/1",
+          "id_str": "626818986596917248",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iYYpWsiLjS",
+          "id": 626818986596917248
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/iYYpWsiLjS",
+          "media_url": "http://pbs.twimg.com/media/CLLojBqUYAA1VGF.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLojBqUYAA1VGF.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/626818987674992641/photo/1",
+          "id_str": "626818986596917248",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iYYpWsiLjS",
+          "id": 626818986596917248
+        }
+      ]
+    },
+    "text": "Joined colleagues on the Capitol steps this AM in calling to #RestoreTheVRA - time to end all voter suppression! http://t.co/iYYpWsiLjS",
+    "lang": "en",
+    "created_at": "2015-07-30 18:17:47+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626796090503860224,
+    "id_str": "626796090503860224",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/IspldDKcsu",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "ruppersberger.house.gov/newsroom/press\u2026",
+          "expanded_url": "http://ruppersberger.house.gov/newsroom/press-releases/ruppersberger-introduces-bill-to-help-prevent-future-cyber-attacks-against"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "cyber",
+          "indices": [
+            48,
+            54
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I have introduced a bill to help prevent future #cyber attacks against our govt workers: http://t.co/IspldDKcsu",
+    "lang": "en",
+    "created_at": "2015-07-30 16:46:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626411136024453120,
+    "id_str": "626411136024453120",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MD02",
+          "indices": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "veteran",
+          "indices": [
+            69,
+            77
+          ]
+        },
+        {
+          "text": "Hometownhero",
+          "indices": [
+            104,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/YJ9VW0CYzS",
+          "media_url": "http://pbs.twimg.com/media/CLF1m-aWIAAe7rC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLF1m-aWIAAe7rC.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/626411136024453120/photo/1",
+          "id_str": "626411135630188544",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 512
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 510,
+              "resize": "fit",
+              "h": 768
+            },
+            "large": {
+              "w": 510,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/YJ9VW0CYzS",
+          "id": 626411135630188544
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/YJ9VW0CYzS",
+          "media_url": "http://pbs.twimg.com/media/CLF1m-aWIAAe7rC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLF1m-aWIAAe7rC.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/626411136024453120/photo/1",
+          "id_str": "626411135630188544",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 512
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 510,
+              "resize": "fit",
+              "h": 768
+            },
+            "large": {
+              "w": 510,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/YJ9VW0CYzS",
+          "id": 626411135630188544
+        }
+      ]
+    },
+    "text": "Just had the pleasure of mtg #MD02 constituent Vernon Denison, a WW2 #veteran! Thanks for your service! #Hometownhero http://t.co/YJ9VW0CYzS",
+    "lang": "en",
+    "created_at": "2015-07-29 15:17:07+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 18,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625762928055222272,
+    "id_str": "625762928055222272",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/rfHFkAMy8q",
+          "media_url": "http://pbs.twimg.com/media/CK8oES8WgAAMmeA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8oES8WgAAMmeA.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/625762928055222272/photo/1",
+          "id_str": "625762927497347072",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 1280
+            }
+          },
+          "display_url": "pic.twitter.com/rfHFkAMy8q",
+          "id": 625762927497347072
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Balt. Co. Pub. Lib",
+          "indices": [
+            58,
+            67
+          ],
+          "id_str": "116831739",
+          "id": 116831739,
+          "screen_name": "bcplinfo"
+        },
+        {
+          "name": "No Kid Hungry ",
+          "indices": [
+            98,
+            110
+          ],
+          "id_str": "14463848",
+          "id": 14463848,
+          "screen_name": "nokidhungry"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/rfHFkAMy8q",
+          "media_url": "http://pbs.twimg.com/media/CK8oES8WgAAMmeA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8oES8WgAAMmeA.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/625762928055222272/photo/1",
+          "id_str": "625762927497347072",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 1280
+            }
+          },
+          "display_url": "pic.twitter.com/rfHFkAMy8q",
+          "id": 625762927497347072
+        }
+      ]
+    },
+    "text": "No kid should go hungry this summer - check ur your local @bcplinfo for info on free meals w/ the @nokidhungry effort http://t.co/rfHFkAMy8q",
+    "lang": "en",
+    "created_at": "2015-07-27 20:21:22+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625690384258076672,
+      "id_str": "625690384258076672",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "irandeal",
+            "indices": [
+              9,
+              18
+            ]
+          },
+          {
+            "text": "SanctuaryCities",
+            "indices": [
+              20,
+              36
+            ]
+          },
+          {
+            "text": "GMOlabeling",
+            "indices": [
+              38,
+              50
+            ]
+          },
+          {
+            "text": "RedLine",
+            "indices": [
+              57,
+              65
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Midday WYPR",
+            "indices": [
+              89,
+              100
+            ],
+            "id_str": "241481855",
+            "id": 241481855,
+            "screen_name": "MiddayWYPR"
+          },
+          {
+            "name": "Dutch Ruppersberger",
+            "indices": [
+              101,
+              115
+            ],
+            "id_str": "305620929",
+            "id": 305620929,
+            "screen_name": "Call_Me_Dutch"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "26458435",
+        "id": 26458435
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Dutch on #irandeal, #SanctuaryCities, #GMOlabeling &amp; #RedLine decision, 12-1 pm live @MiddayWYPR @Call_Me_Dutch questions 410-662-8780",
+      "lang": "en",
+      "created_at": "Mon Jul 27 15:33:07 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625709739268251649,
+    "id_str": "625709739268251649",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "irandeal",
+          "indices": [
+            26,
+            35
+          ]
+        },
+        {
+          "text": "SanctuaryCities",
+          "indices": [
+            37,
+            53
+          ]
+        },
+        {
+          "text": "GMOlabeling",
+          "indices": [
+            55,
+            67
+          ]
+        },
+        {
+          "text": "RedLine",
+          "indices": [
+            74,
+            82
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Dan Rodricks",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "26458435",
+          "id": 26458435,
+          "screen_name": "DanRodricks"
+        },
+        {
+          "name": "Midday WYPR",
+          "indices": [
+            106,
+            117
+          ],
+          "id_str": "241481855",
+          "id": 241481855,
+          "screen_name": "MiddayWYPR"
+        },
+        {
+          "name": "Dutch Ruppersberger",
+          "indices": [
+            118,
+            132
+          ],
+          "id_str": "305620929",
+          "id": 305620929,
+          "screen_name": "Call_Me_Dutch"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @DanRodricks: Dutch on #irandeal, #SanctuaryCities, #GMOlabeling &amp; #RedLine decision, 12-1 pm live @MiddayWYPR @Call_Me_Dutch questions \u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 16:50:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623586774212833281,
+    "id_str": "623586774212833281",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/w3xIJQMGdZ",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "baltimoresun.com/health/blog/bs\u2026",
+          "expanded_url": "http://www.baltimoresun.com/health/blog/bs-hs-noridian-settlement-20150721-story.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Brian Frosh",
+          "indices": [
+            12,
+            23
+          ],
+          "id_str": "743292565",
+          "id": 743292565,
+          "screen_name": "BrianFrosh"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Props to AG @BrianFrosh for recouping $45M for MD taxpayers for failed health exchange rollout http://t.co/w3xIJQMGdZ",
+    "lang": "en",
+    "created_at": "2015-07-21 20:14:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "46405156",
+    "id": 623581151664414720,
+    "id_str": "623581151664414720",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MD02",
+          "indices": [
+            28,
+            33
+          ]
+        },
+        {
+          "text": "SparrowsPoint",
+          "indices": [
+            34,
+            48
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/pcNKsUbPIo",
+          "media_url": "http://pbs.twimg.com/media/CKdnwMtUYAAtjC5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdnwMtUYAAtjC5.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/623581151664414720/photo/1",
+          "id_str": "623581151156789248",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/pcNKsUbPIo",
+          "id": 623581151156789248
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Lorraine Kelly",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "46405156",
+          "id": 46405156,
+          "screen_name": "TEAMDUTCH"
+        },
+        {
+          "name": "LafargeHolcim",
+          "indices": [
+            79,
+            93
+          ],
+          "id_str": "47911050",
+          "id": 47911050,
+          "screen_name": "LafargeHolcim"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 46405156,
+    "in_reply_to_screen_name": "TEAMDUTCH",
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pcNKsUbPIo",
+          "media_url": "http://pbs.twimg.com/media/CKdnwMtUYAAtjC5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdnwMtUYAAtjC5.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/623581151664414720/photo/1",
+          "id_str": "623581151156789248",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/pcNKsUbPIo",
+          "id": 623581151156789248
+        }
+      ]
+    },
+    "text": "@TeamDutch's Michael was in #MD02 #SparrowsPoint today meeting w/ employees of @LafargeHolcim! http://t.co/pcNKsUbPIo",
+    "lang": "en",
+    "created_at": "2015-07-21 19:51:46+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622011179062444032,
+    "id_str": "622011179062444032",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "terrorism",
+          "indices": [
+            8,
+            18
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "FOX Baltimore",
+          "indices": [
+            22,
+            35
+          ],
+          "id_str": "27706099",
+          "id": 27706099,
+          "screen_name": "FOXBaltimore"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Talking #terrorism w/ @FOXBaltimore, tune in!",
+    "lang": "en",
+    "created_at": "2015-07-17 11:53:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 620931162719035393,
+      "id_str": "620931162719035393",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/KkwkYwHLfn",
+            "media_url": "http://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+            "expanded_url": "http://twitter.com/baltimoresun/status/620931162719035393/photo/1",
+            "id_str": "620931162119114752",
+            "indices": [
+              102,
+              124
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 212
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 374
+              },
+              "large": {
+                "w": 700,
+                "resize": "fit",
+                "h": 437
+              }
+            },
+            "display_url": "pic.twitter.com/KkwkYwHLfn",
+            "id": 620931162119114752
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/fr4tLy7DQN",
+            "indices": [
+              79,
+              101
+            ],
+            "display_url": "bsun.md/1IXCFqv",
+            "expanded_url": "http://bsun.md/1IXCFqv"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Johns Hopkins APL",
+            "indices": [
+              59,
+              66
+            ],
+            "id_str": "22032817",
+            "id": 22032817,
+            "screen_name": "JHUAPL"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "8861752",
+        "id": 8861752
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/KkwkYwHLfn",
+            "media_url": "http://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+            "expanded_url": "http://twitter.com/baltimoresun/status/620931162719035393/photo/1",
+            "id_str": "620931162119114752",
+            "indices": [
+              102,
+              124
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 212
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 374
+              },
+              "large": {
+                "w": 700,
+                "resize": "fit",
+                "h": 437
+              }
+            },
+            "display_url": "pic.twitter.com/KkwkYwHLfn",
+            "id": 620931162119114752
+          }
+        ]
+      },
+      "text": "New Horizons makes historic fly-by of Pluto under watch of @JHUAPL scientists. http://t.co/fr4tLy7DQN http://t.co/KkwkYwHLfn",
+      "lang": "en",
+      "created_at": "Tue Jul 14 12:21:40 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 8861752,
+          "media_url": "http://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+          "source_user_id_str": "8861752",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/KkwkYwHLfn",
+          "expanded_url": "http://twitter.com/baltimoresun/status/620931162719035393/photo/1",
+          "url": "http://t.co/KkwkYwHLfn",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+          "source_status_id_str": "620931162719035393",
+          "id_str": "620931162119114752",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 212
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 374
+            },
+            "large": {
+              "w": 700,
+              "resize": "fit",
+              "h": 437
+            }
+          },
+          "id": 620931162119114752,
+          "source_status_id": 620931162719035393
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621031159443681280,
+    "id_str": "621031159443681280",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 8861752,
+          "media_url": "http://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+          "source_user_id_str": "8861752",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/KkwkYwHLfn",
+          "expanded_url": "http://twitter.com/baltimoresun/status/620931162719035393/photo/1",
+          "url": "http://t.co/KkwkYwHLfn",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ39miQUkAAaT6v.jpg",
+          "source_status_id_str": "620931162719035393",
+          "id_str": "620931162119114752",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 212
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 374
+            },
+            "large": {
+              "w": 700,
+              "resize": "fit",
+              "h": 437
+            }
+          },
+          "id": 620931162119114752,
+          "source_status_id": 620931162719035393
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/fr4tLy7DQN",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "bsun.md/1IXCFqv",
+          "expanded_url": "http://bsun.md/1IXCFqv"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Baltimore Sun",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "8861752",
+          "id": 8861752,
+          "screen_name": "baltimoresun"
+        },
+        {
+          "name": "Johns Hopkins APL",
+          "indices": [
+            77,
+            84
+          ],
+          "id_str": "22032817",
+          "id": 22032817,
+          "screen_name": "JHUAPL"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @baltimoresun: New Horizons makes historic fly-by of Pluto under watch of @JHUAPL scientists. http://t.co/fr4tLy7DQN http://t.co/KkwkYwH\u2026",
+    "lang": "en",
+    "created_at": "2015-07-14 18:59:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621030819864412161,
+    "id_str": "621030819864412161",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Laurel",
+          "indices": [
+            28,
+            35
+          ]
+        },
+        {
+          "text": "PlutoFlyby",
+          "indices": [
+            73,
+            84
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Johns Hopkins APL",
+          "indices": [
+            17,
+            24
+          ],
+          "id_str": "22032817",
+          "id": 22032817,
+          "screen_name": "JHUAPL"
+        },
+        {
+          "name": "NASA New Horizons",
+          "indices": [
+            56,
+            72
+          ],
+          "id_str": "2734713482",
+          "id": 2734713482,
+          "screen_name": "NASANewHorizons"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats to team @JHUAPL in #Laurel Maryland for making @NASANewHorizons #PlutoFlyby a reality!",
+    "lang": "en",
+    "created_at": "2015-07-14 18:57:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620985537281806336,
+    "id_str": "620985537281806336",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MD02",
+          "indices": [
+            78,
+            83
+          ]
+        },
+        {
+          "text": "Linthicum",
+          "indices": [
+            84,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/HJEThZB3JE",
+          "media_url": "http://pbs.twimg.com/media/CJ4vDhRVEAQgJA9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ4vDhRVEAQgJA9.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/620985537281806336/photo/1",
+          "id_str": "620985536140873732",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 253
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 448
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 764
+            }
+          },
+          "display_url": "pic.twitter.com/HJEThZB3JE",
+          "id": 620985536140873732
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Baltimore Truck Ctr",
+          "indices": [
+            36,
+            52
+          ],
+          "id_str": "241222434",
+          "id": 241222434,
+          "screen_name": "BaltTruckCenter"
+        },
+        {
+          "name": "NADA",
+          "indices": [
+            53,
+            64
+          ],
+          "id_str": "337941418",
+          "id": 337941418,
+          "screen_name": "NADAUpdate"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/HJEThZB3JE",
+          "media_url": "http://pbs.twimg.com/media/CJ4vDhRVEAQgJA9.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ4vDhRVEAQgJA9.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/620985537281806336/photo/1",
+          "id_str": "620985536140873732",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 253
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 448
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 764
+            }
+          },
+          "display_url": "pic.twitter.com/HJEThZB3JE",
+          "id": 620985536140873732
+        }
+      ]
+    },
+    "text": "Enjoyed a visit w/ the employees of @BaltTruckCenter @NADAUpdate yesterday in #MD02 #Linthicum! http://t.co/HJEThZB3JE",
+    "lang": "en",
+    "created_at": "2015-07-14 15:57:44+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 360,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 654,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 620751384913268736,
+      "id_str": "620751384913268736",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "HRDerby",
+            "indices": [
+              16,
+              24
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/yhWsU1jDO7",
+            "media_url": "http://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+            "expanded_url": "http://twitter.com/zbritton/status/620751384913268736/photo/1",
+            "id_str": "620751376407240704",
+            "indices": [
+              25,
+              47
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/yhWsU1jDO7",
+            "id": 620751376407240704
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "63906207",
+        "id": 63906207
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/yhWsU1jDO7",
+            "media_url": "http://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+            "expanded_url": "http://twitter.com/zbritton/status/620751384913268736/photo/1",
+            "id_str": "620751376407240704",
+            "indices": [
+              25,
+              47
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/yhWsU1jDO7",
+            "id": 620751376407240704
+          }
+        ]
+      },
+      "text": "Ready to crush!\n#HRDerby http://t.co/yhWsU1jDO7",
+      "lang": "en",
+      "created_at": "Tue Jul 14 00:27:17 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 360,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 63906207,
+          "media_url": "http://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+          "source_user_id_str": "63906207",
+          "indices": [
+            39,
+            61
+          ],
+          "display_url": "pic.twitter.com/yhWsU1jDO7",
+          "expanded_url": "http://twitter.com/zbritton/status/620751384913268736/photo/1",
+          "url": "http://t.co/yhWsU1jDO7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+          "source_status_id_str": "620751384913268736",
+          "id_str": "620751376407240704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 620751376407240704,
+          "source_status_id": 620751384913268736
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 620756916268982273,
+    "id_str": "620756916268982273",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "HRDerby",
+          "indices": [
+            30,
+            38
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 63906207,
+          "media_url": "http://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+          "source_user_id_str": "63906207",
+          "indices": [
+            39,
+            61
+          ],
+          "display_url": "pic.twitter.com/yhWsU1jDO7",
+          "expanded_url": "http://twitter.com/zbritton/status/620751384913268736/photo/1",
+          "url": "http://t.co/yhWsU1jDO7",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ1aFoSWoAAubWA.jpg",
+          "source_status_id_str": "620751384913268736",
+          "id_str": "620751376407240704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 620751376407240704,
+          "source_status_id": 620751384913268736
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Zach Britton",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "63906207",
+          "id": 63906207,
+          "screen_name": "zbritton"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @zbritton: Ready to crush!\n#HRDerby http://t.co/yhWsU1jDO7",
+    "lang": "en",
+    "created_at": "2015-07-14 00:49:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620669056186753024,
+    "id_str": "620669056186753024",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/gWyFfyjI4j",
+          "media_url": "http://pbs.twimg.com/media/CJ0PN6zUkAAZiSe.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ0PN6zUkAAZiSe.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/620669056186753024/photo/1",
+          "id_str": "620669055444226048",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/gWyFfyjI4j",
+          "id": 620669055444226048
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "josebowen",
+          "indices": [
+            36,
+            46
+          ],
+          "id_str": "18470222",
+          "id": 18470222,
+          "screen_name": "josebowen"
+        },
+        {
+          "name": "Goucher College",
+          "indices": [
+            63,
+            78
+          ],
+          "id_str": "25119699",
+          "id": 25119699,
+          "screen_name": "gouchercollege"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gWyFfyjI4j",
+          "media_url": "http://pbs.twimg.com/media/CJ0PN6zUkAAZiSe.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ0PN6zUkAAZiSe.jpg",
+          "expanded_url": "http://twitter.com/Call_Me_Dutch/status/620669056186753024/photo/1",
+          "id_str": "620669055444226048",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/gWyFfyjI4j",
+          "id": 620669055444226048
+        }
+      ]
+    },
+    "text": "Had a great conversation this AM w/ @josebowen, the new presof @gouchercollege - looking forward to working together http://t.co/gWyFfyjI4j",
+    "lang": "en",
+    "created_at": "2015-07-13 19:00:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620665357523644417,
+    "id_str": "620665357523644417",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/k5iaNYBW2l",
+          "indices": [
+            105,
+            128
+          ],
+          "display_url": "norton.house.gov/media-center/p\u2026",
+          "expanded_url": "https://norton.house.gov/media-center/press-releases/norton-introduces-bill-with-national-capital-region-house-members-to"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "OPMHack",
+          "indices": [
+            96,
+            104
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Eleanor H. Norton",
+          "indices": [
+            16,
+            30
+          ],
+          "id_str": "23600262",
+          "id": 23600262,
+          "screen_name": "EleanorNorton"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Pleased to join @EleanorNorton on bill to help protect federal employees who are victims of the #OPMHack https://t.co/k5iaNYBW2l",
+    "lang": "en",
+    "created_at": "2015-07-13 18:45:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619230143647772672,
+    "id_str": "619230143647772672",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "USAG APG",
+          "indices": [
+            57,
+            65
+          ],
+          "id_str": "102086132",
+          "id": 102086132,
+          "screen_name": "USAGAPG"
+        },
+        {
+          "name": "Fort Meade PAO",
+          "indices": [
+            68,
+            78
+          ],
+          "id_str": "20717232",
+          "id": 20717232,
+          "screen_name": "FtMeadeMD"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Pleased the Army has recognized the invaluable work done @USAGAPG + @FtMeadeMD, sparing them the worst of the troop cuts announced today",
+    "lang": "en",
+    "created_at": "2015-07-09 19:42:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619207844152352769,
+    "id_str": "619207844152352769",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Confederateflag",
+          "indices": [
+            33,
+            49
+          ]
+        },
+        {
+          "text": "TakeItDown",
+          "indices": [
+            102,
+            113
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "305620929",
+      "screen_name": "call_me_dutch",
+      "id": 305620929
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Supporting efforts to remove the #Confederateflag from House office buildings and federal cemeteries. #TakeItDown",
+    "lang": "en",
+    "created_at": "2015-07-09 18:13:49+00:00"
+  }
+]

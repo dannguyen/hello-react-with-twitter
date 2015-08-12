@@ -1,0 +1,3251 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626770441416364032,
+    "id_str": "626770441416364032",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MedicareMedicaid50",
+          "indices": [
+            102,
+            121
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ucf13RPrAO",
+          "media_url": "http://pbs.twimg.com/media/CLK8ZSYUcAAcR1H.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLK8ZSYUcAAcR1H.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/626770441416364032/photo/1",
+          "id_str": "626770440774512640",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 352
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 602
+            }
+          },
+          "display_url": "pic.twitter.com/ucf13RPrAO",
+          "id": 626770440774512640
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ucf13RPrAO",
+          "media_url": "http://pbs.twimg.com/media/CLK8ZSYUcAAcR1H.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLK8ZSYUcAAcR1H.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/626770441416364032/photo/1",
+          "id_str": "626770440774512640",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 352
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 602
+            }
+          },
+          "display_url": "pic.twitter.com/ucf13RPrAO",
+          "id": 626770440774512640
+        }
+      ]
+    },
+    "text": "50 yrs ago, 30% of seniors lived below the poverty line &amp; only 51% of seniors had health coverage #MedicareMedicaid50 http://t.co/ucf13RPrAO",
+    "lang": "en",
+    "created_at": "2015-07-30 15:04:52+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626420629177266176,
+      "id_str": "626420629177266176",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Rhf7gR9CVs",
+            "indices": [
+              121,
+              143
+            ],
+            "display_url": "1.usa.gov/1LRnXBI",
+            "expanded_url": "http://1.usa.gov/1LRnXBI"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "manufacturers",
+            "indices": [
+              74,
+              88
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Energy and Commerce",
+            "indices": [
+              14,
+              28
+            ],
+            "id_str": "114756202",
+            "id": 114756202,
+            "screen_name": "HouseCommerce"
+          },
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              106,
+              119
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1060370282",
+        "id": 1060370282
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "HR3154 passes @HouseCommerce unanimously. Closer to giving flexibility to #manufacturers &amp; consumers, @daveloebsack! http://t.co/Rhf7gR9CVs",
+      "lang": "en",
+      "created_at": "Wed Jul 29 15:54:50 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626425723809583104,
+    "id_str": "626425723809583104",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Rhf7gR9CVs",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "1.usa.gov/1LRnXBI",
+          "expanded_url": "http://1.usa.gov/1LRnXBI"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "manufacturers",
+          "indices": [
+            89,
+            103
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Markwayne Mullin",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "1060370282",
+          "id": 1060370282,
+          "screen_name": "RepMullin"
+        },
+        {
+          "name": "Energy and Commerce",
+          "indices": [
+            29,
+            43
+          ],
+          "id_str": "114756202",
+          "id": 114756202,
+          "screen_name": "HouseCommerce"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            121,
+            134
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepMullin: HR3154 passes @HouseCommerce unanimously. Closer to giving flexibility to #manufacturers &amp; consumers, @daveloebsack! http://\u2026",
+    "lang": "en",
+    "created_at": "2015-07-29 16:15:05+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625752866075111428,
+      "id_str": "625752866075111428",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/46BOX0IrK4",
+            "indices": [
+              119,
+              141
+            ],
+            "display_url": "1.usa.gov/1IpRQbf",
+            "expanded_url": "http://1.usa.gov/1IpRQbf"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Tammy Duckworth",
+            "indices": [
+              10,
+              23
+            ],
+            "id_str": "1058520120",
+            "id": 1058520120,
+            "screen_name": "RepDuckworth"
+          },
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              30,
+              43
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1092979962",
+        "id": 1092979962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Joined w/ @RepDuckworth &amp; @daveloebsack today to make it easier for drivers w/ disabilities to fill up at gas pump http://t.co/46BOX0IrK4",
+      "lang": "en",
+      "created_at": "Mon Jul 27 19:41:23 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625805814901682176,
+    "id_str": "625805814901682176",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/46BOX0IrK4",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "1.usa.gov/1IpRQbf",
+          "expanded_url": "http://1.usa.gov/1IpRQbf"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Cheri Bustos",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "1092979962",
+          "id": 1092979962,
+          "screen_name": "RepCheri"
+        },
+        {
+          "name": "Tammy Duckworth",
+          "indices": [
+            24,
+            37
+          ],
+          "id_str": "1058520120",
+          "id": 1058520120,
+          "screen_name": "RepDuckworth"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            44,
+            57
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepCheri: Joined w/ @RepDuckworth &amp; @daveloebsack today to make it easier for drivers w/ disabilities to fill up at gas pump http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 23:11:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625726036018360320,
+    "id_str": "625726036018360320",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/PTShVe1Ebh",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "regulations.gov/#!docketDetail\u2026",
+          "expanded_url": "http://www.regulations.gov/#!docketDetail;D=EPA-HQ-OAR-2015-0111"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RFSworks",
+          "indices": [
+            33,
+            42
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "U.S. EPA",
+          "indices": [
+            23,
+            27
+          ],
+          "id_str": "14615871",
+          "id": 14615871,
+          "screen_name": "EPA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Join me in telling the @EPA that #RFSworks! Comment period closes at midnight tonight! Click this link NOW! http://t.co/PTShVe1Ebh",
+    "lang": "en",
+    "created_at": "2015-07-27 17:54:47+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624693873789440000,
+      "id_str": "624693873789440000",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/aCOpC2XnwF",
+            "media_url": "http://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+            "expanded_url": "http://twitter.com/stopdvsa/status/624693873789440000/photo/1",
+            "id_str": "624693872367550464",
+            "indices": [
+              103,
+              125
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 600
+              }
+            },
+            "display_url": "pic.twitter.com/aCOpC2XnwF",
+            "id": 624693872367550464
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              13,
+              26
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2282586054",
+        "id": 2282586054
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/aCOpC2XnwF",
+            "media_url": "http://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+            "expanded_url": "http://twitter.com/stopdvsa/status/624693873789440000/photo/1",
+            "id_str": "624693872367550464",
+            "indices": [
+              103,
+              125
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 600
+              }
+            },
+            "display_url": "pic.twitter.com/aCOpC2XnwF",
+            "id": 624693872367550464
+          }
+        ]
+      },
+      "text": "Thank you to @daveloebsack for taking the time to meet with CIS. We enjoyed sharing our work with you. http://t.co/aCOpC2XnwF",
+      "lang": "en",
+      "created_at": "Fri Jul 24 21:33:20 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2282586054,
+          "media_url": "http://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+          "source_user_id_str": "2282586054",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "pic.twitter.com/aCOpC2XnwF",
+          "expanded_url": "http://twitter.com/stopdvsa/status/624693873789440000/photo/1",
+          "url": "http://t.co/aCOpC2XnwF",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+          "source_status_id_str": "624693873789440000",
+          "id_str": "624693872367550464",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "id": 624693872367550464,
+          "source_status_id": 624693873789440000
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624694294172028928,
+    "id_str": "624694294172028928",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 2282586054,
+          "media_url": "http://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+          "source_user_id_str": "2282586054",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "pic.twitter.com/aCOpC2XnwF",
+          "expanded_url": "http://twitter.com/stopdvsa/status/624693873789440000/photo/1",
+          "url": "http://t.co/aCOpC2XnwF",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKtbxGPUwAAifzn.jpg",
+          "source_status_id_str": "624693873789440000",
+          "id_str": "624693872367550464",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "id": 624693872367550464,
+          "source_status_id": 624693873789440000
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Crisis Intervention",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "2282586054",
+          "id": 2282586054,
+          "screen_name": "stopdvsa"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            27,
+            40
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @stopdvsa: Thank you to @daveloebsack for taking the time to meet with CIS. We enjoyed sharing our work with you. http://t.co/aCOpC2XnwF",
+    "lang": "en",
+    "created_at": "2015-07-24 21:35:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624293821279506432,
+    "id_str": "624293821279506432",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "SCOTUS",
+          "indices": [
+            30,
+            37
+          ]
+        },
+        {
+          "text": "EqualityForward",
+          "indices": [
+            127,
+            143
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Discrimination doesn\u2019t end w/ #SCOTUS ruling. Time to pass a bill to prevent LGBT discrimination at work, school &amp; housing #EqualityForward",
+    "lang": "en",
+    "created_at": "2015-07-23 19:03:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623933783243423744,
+    "id_str": "623933783243423744",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/XmbEak45ee",
+          "media_url": "http://pbs.twimg.com/media/CKiodw_WcAAB6Or.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKiodw_WcAAB6Or.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/623933783243423744/photo/1",
+          "id_str": "623933777711099904",
+          "indices": [
+            126,
+            148
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 197
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 348
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 595
+            }
+          },
+          "display_url": "pic.twitter.com/XmbEak45ee",
+          "id": 623933777711099904
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Terry Branstad",
+          "indices": [
+            7,
+            21
+          ],
+          "id_str": "84406725",
+          "id": 84406725,
+          "screen_name": "TerryBranstad"
+        },
+        {
+          "name": "Joni Ernst",
+          "indices": [
+            23,
+            33
+          ],
+          "id_str": "1383059977",
+          "id": 1383059977,
+          "screen_name": "joniernst"
+        },
+        {
+          "name": "ChuckGrassley",
+          "indices": [
+            35,
+            49
+          ],
+          "id_str": "10615232",
+          "id": 10615232,
+          "screen_name": "ChuckGrassley"
+        },
+        {
+          "name": "Rod Blum",
+          "indices": [
+            68,
+            84
+          ],
+          "id_str": "1268220421",
+          "id": 1268220421,
+          "screen_name": "BlumforCongress"
+        },
+        {
+          "name": "Steve King",
+          "indices": [
+            86,
+            98
+          ],
+          "id_str": "48117116",
+          "id": 48117116,
+          "screen_name": "SteveKingIA"
+        },
+        {
+          "name": "David Young (IA-3)",
+          "indices": [
+            105,
+            119
+          ],
+          "id_str": "314205957",
+          "id": 314205957,
+          "screen_name": "RepDavidYoung"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/XmbEak45ee",
+          "media_url": "http://pbs.twimg.com/media/CKiodw_WcAAB6Or.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKiodw_WcAAB6Or.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/623933783243423744/photo/1",
+          "id_str": "623933777711099904",
+          "indices": [
+            126,
+            148
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 197
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 348
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 595
+            }
+          },
+          "display_url": "pic.twitter.com/XmbEak45ee",
+          "id": 623933777711099904
+        }
+      ]
+    },
+    "text": "Joined @TerryBranstad, @joniernst, @ChuckGrassley &amp; fellow Reps @BlumforCongress, @SteveKingIA &amp; @RepDavidYoung in DC http://t.co/XmbEak45ee",
+    "lang": "en",
+    "created_at": "2015-07-22 19:13:00+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623930538966040577,
+    "id_str": "623930538966040577",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tWS9M0Jcfq",
+          "indices": [
+            84,
+            106
+          ],
+          "display_url": "thndr.it/1Hq34HY",
+          "expanded_url": "http://thndr.it/1Hq34HY"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            7,
+            11
+          ]
+        },
+        {
+          "text": "RFSWorks",
+          "indices": [
+            74,
+            83
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"https://www.thunderclap.it\" rel=\"nofollow\">Thunderclap</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I told #EPA to stand up to Big Oil and support renewable fuels! Have you? #RFSWorks http://t.co/tWS9M0Jcfq",
+    "lang": "en",
+    "created_at": "2015-07-22 19:00:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623206740411183105,
+    "id_str": "623206740411183105",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "OpenChampionship",
+          "indices": [
+            73,
+            90
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Zach Johnson",
+          "indices": [
+            33,
+            48
+          ],
+          "id_str": "130594732",
+          "id": 130594732,
+          "screen_name": "ZachJohnsonPGA"
+        },
+        {
+          "name": "The Open",
+          "indices": [
+            52,
+            60
+          ],
+          "id_str": "26981013",
+          "id": 26981013,
+          "screen_name": "TheOpen"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great playoff win for Iowa's own @ZachJohnsonPGA at @TheOpen. Way to go! #OpenChampionship",
+    "lang": "en",
+    "created_at": "2015-07-20 19:04:00+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622542014572183552,
+      "id_str": "622542014572183552",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RFSWorks",
+            "indices": [
+              73,
+              82
+            ]
+          },
+          {
+            "text": "ethanol",
+            "indices": [
+              83,
+              91
+            ]
+          },
+          {
+            "text": "iowacorn300",
+            "indices": [
+              92,
+              104
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/CKHSLYXqZq",
+            "media_url": "http://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+            "expanded_url": "http://twitter.com/iowa_corn/status/622542014572183552/photo/1",
+            "id_str": "622541751710957569",
+            "indices": [
+              119,
+              141
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/CKHSLYXqZq",
+            "id": 622541751710957569
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              59,
+              72
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          },
+          {
+            "name": "Iowa Speedway",
+            "indices": [
+              105,
+              118
+            ],
+            "id_str": "18811814",
+            "id": 18811814,
+            "screen_name": "iowaspeedway"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "26022905",
+        "id": 26022905
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/CKHSLYXqZq",
+            "media_url": "http://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+            "expanded_url": "http://twitter.com/iowa_corn/status/622542014572183552/photo/1",
+            "id_str": "622541751710957569",
+            "indices": [
+              119,
+              141
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/CKHSLYXqZq",
+            "id": 622541751710957569
+          }
+        ]
+      },
+      "text": "\"I promise you I will fight tooth &amp; nail for the RFS.\" @daveloebsack #RFSWorks #ethanol #iowacorn300 @iowaspeedway http://t.co/CKHSLYXqZq",
+      "lang": "en",
+      "created_at": "Sat Jul 18 23:02:37 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 26022905,
+          "media_url": "http://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+          "source_user_id_str": "26022905",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/CKHSLYXqZq",
+          "expanded_url": "http://twitter.com/iowa_corn/status/622542014572183552/photo/1",
+          "url": "http://t.co/CKHSLYXqZq",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+          "source_status_id_str": "622542014572183552",
+          "id_str": "622541751710957569",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 622541751710957569,
+          "source_status_id": 622542014572183552
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 622911311677145088,
+    "id_str": "622911311677145088",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RFSWorks",
+          "indices": [
+            88,
+            97
+          ]
+        },
+        {
+          "text": "ethanol",
+          "indices": [
+            98,
+            106
+          ]
+        },
+        {
+          "text": "iowacorn300",
+          "indices": [
+            107,
+            119
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 26022905,
+          "media_url": "http://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+          "source_user_id_str": "26022905",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/CKHSLYXqZq",
+          "expanded_url": "http://twitter.com/iowa_corn/status/622542014572183552/photo/1",
+          "url": "http://t.co/CKHSLYXqZq",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKO2bMCUwAEAl_8.jpg",
+          "source_status_id_str": "622542014572183552",
+          "id_str": "622541751710957569",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 622541751710957569,
+          "source_status_id": 622542014572183552
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Iowa Corn",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "26022905",
+          "id": 26022905,
+          "screen_name": "iowa_corn"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            74,
+            87
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        },
+        {
+          "name": "Iowa Speedway",
+          "indices": [
+            120,
+            133
+          ],
+          "id_str": "18811814",
+          "id": 18811814,
+          "screen_name": "iowaspeedway"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @iowa_corn: \"I promise you I will fight tooth &amp; nail for the RFS.\" @daveloebsack #RFSWorks #ethanol #iowacorn300 @iowaspeedway http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-19 23:30:04+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "name": "Washington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "01fbe706f872cb32"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621751886631333889,
+      "id_str": "621751886631333889",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "patentreform",
+            "indices": [
+              65,
+              78
+            ]
+          },
+          {
+            "text": "Medicare",
+            "indices": [
+              79,
+              88
+            ]
+          },
+          {
+            "text": "WWFH15",
+            "indices": [
+              89,
+              96
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/aJa2ikiFLK",
+            "media_url": "http://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+            "expanded_url": "http://twitter.com/IowaBio/status/621751886631333889/photo/1",
+            "id_str": "621751880994172929",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/aJa2ikiFLK",
+            "id": 621751880994172929
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              23,
+              36
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          },
+          {
+            "name": "GreaterDMPartnership",
+            "indices": [
+              97,
+              112
+            ],
+            "id_str": "25367445",
+            "id": 25367445,
+            "screen_name": "DesMoinesMetro"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "335470872",
+        "id": 335470872
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/aJa2ikiFLK",
+            "media_url": "http://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+            "expanded_url": "http://twitter.com/IowaBio/status/621751886631333889/photo/1",
+            "id_str": "621751880994172929",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/aJa2ikiFLK",
+            "id": 621751880994172929
+          }
+        ]
+      },
+      "text": "Thanks to the staff of @daveloebsack for a productive meeting on #patentreform #Medicare #WWFH15 @DesMoinesMetro http://t.co/aJa2ikiFLK",
+      "lang": "en",
+      "created_at": "Thu Jul 16 18:42:56 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 335470872,
+          "media_url": "http://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+          "source_user_id_str": "335470872",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/aJa2ikiFLK",
+          "expanded_url": "http://twitter.com/IowaBio/status/621751886631333889/photo/1",
+          "url": "http://t.co/aJa2ikiFLK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+          "source_status_id_str": "621751886631333889",
+          "id_str": "621751880994172929",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 621751880994172929,
+          "source_status_id": 621751886631333889
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621753731772776448,
+    "id_str": "621753731772776448",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "patentreform",
+          "indices": [
+            78,
+            91
+          ]
+        },
+        {
+          "text": "Medicare",
+          "indices": [
+            92,
+            101
+          ]
+        },
+        {
+          "text": "WWFH15",
+          "indices": [
+            102,
+            109
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 335470872,
+          "media_url": "http://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+          "source_user_id_str": "335470872",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/aJa2ikiFLK",
+          "expanded_url": "http://twitter.com/IowaBio/status/621751886631333889/photo/1",
+          "url": "http://t.co/aJa2ikiFLK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKDoCqUWsAEY4TN.jpg",
+          "source_status_id_str": "621751886631333889",
+          "id_str": "621751880994172929",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 621751880994172929,
+          "source_status_id": 621751886631333889
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Iowa Biotech Assoc.",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "335470872",
+          "id": 335470872,
+          "screen_name": "IowaBio"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            36,
+            49
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        },
+        {
+          "name": "GreaterDMPartnership",
+          "indices": [
+            110,
+            125
+          ],
+          "id_str": "25367445",
+          "id": 25367445,
+          "screen_name": "DesMoinesMetro"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @IowaBio: Thanks to the staff of @daveloebsack for a productive meeting on #patentreform #Medicare #WWFH15 @DesMoinesMetro http://t.co/a\u2026",
+    "lang": "en",
+    "created_at": "2015-07-16 18:50:15+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621700472227782656,
+      "id_str": "621700472227782656",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/D3ANYqMiJc",
+            "indices": [
+              113,
+              136
+            ],
+            "display_url": "facebook.com/RepKinzinger/p\u2026",
+            "expanded_url": "https://www.facebook.com/RepKinzinger/photos/a.188031487890408.53931.187811174579106/1152921154734765/?type=1&theater"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              25,
+              38
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "219429281",
+        "id": 219429281
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Today I intro'd a bill w @daveloebsack to help rural America reap the full benefits of communications technology https://t.co/D3ANYqMiJc",
+      "lang": "en",
+      "created_at": "Thu Jul 16 15:18:37 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621701853978456064,
+    "id_str": "621701853978456064",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/D3ANYqMiJc",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "facebook.com/RepKinzinger/p\u2026",
+          "expanded_url": "https://www.facebook.com/RepKinzinger/photos/a.188031487890408.53931.187811174579106/1152921154734765/?type=1&theater"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Adam Kinzinger",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "219429281",
+          "id": 219429281,
+          "screen_name": "RepKinzinger"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            43,
+            56
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepKinzinger: Today I intro'd a bill w @daveloebsack to help rural America reap the full benefits of communications technology https://\u2026",
+    "lang": "en",
+    "created_at": "2015-07-16 15:24:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621701806595440640,
+    "id_str": "621701806595440640",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/w12iLQ7VEP",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "loebsack.house.gov/news/documents\u2026",
+          "expanded_url": "http://loebsack.house.gov/news/documentsingle.aspx?DocumentID=394819"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Adam Kinzinger",
+          "indices": [
+            12,
+            25
+          ],
+          "id_str": "219429281",
+          "id": 219429281,
+          "screen_name": "RepKinzinger"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joined with @RepKinzinger to intro legislation that would boost access to wireless broadband in rural areas. http://t.co/w12iLQ7VEP",
+    "lang": "en",
+    "created_at": "2015-07-16 15:23:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621690377846804481,
+    "id_str": "621690377846804481",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RFS",
+          "indices": [
+            48,
+            52
+          ]
+        },
+        {
+          "text": "cornonthehill",
+          "indices": [
+            71,
+            85
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/pwKg4wPK0m",
+          "media_url": "http://pbs.twimg.com/media/CKCwGo4UMAAA9pB.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKCwGo4UMAAA9pB.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/621690377846804481/photo/1",
+          "id_str": "621690376676454400",
+          "indices": [
+            86,
+            108
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 406
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 693
+            }
+          },
+          "display_url": "pic.twitter.com/pwKg4wPK0m",
+          "id": 621690376676454400
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Iowa Corn",
+          "indices": [
+            21,
+            31
+          ],
+          "id_str": "26022905",
+          "id": 26022905,
+          "screen_name": "iowa_corn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pwKg4wPK0m",
+          "media_url": "http://pbs.twimg.com/media/CKCwGo4UMAAA9pB.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKCwGo4UMAAA9pB.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/621690377846804481/photo/1",
+          "id_str": "621690376676454400",
+          "indices": [
+            86,
+            108
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 406
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 693
+            }
+          },
+          "display_url": "pic.twitter.com/pwKg4wPK0m",
+          "id": 621690376676454400
+        }
+      ]
+    },
+    "text": "Pleased to meet with @iowa_corn farmers to talk #RFS and other issues. #cornonthehill http://t.co/pwKg4wPK0m",
+    "lang": "en",
+    "created_at": "2015-07-16 14:38:31+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621673063969456129,
+      "id_str": "621673063969456129",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "TRIOWorks",
+            "indices": [
+              128,
+              138
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              91,
+              104
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "430132570",
+        "id": 430132570
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "GRATEFUL for the 27 Iowa colleges/universities whose TRIO SSS prgrms were refunded! THX to @daveloebsack for continued support! #TRIOWorks",
+      "lang": "en",
+      "created_at": "Thu Jul 16 13:29:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621684424640491520,
+    "id_str": "621684424640491520",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TRIOWorks",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Tiffany Berkenes ",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "430132570",
+          "id": 430132570,
+          "screen_name": "GEARUPTiffany"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            110,
+            123
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GEARUPTiffany: GRATEFUL for the 27 Iowa colleges/universities whose TRIO SSS prgrms were refunded! THX to @daveloebsack for continued s\u2026",
+    "lang": "en",
+    "created_at": "2015-07-16 14:14:51+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621423603846905856,
+      "id_str": "621423603846905856",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RFS",
+            "indices": [
+              87,
+              91
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Renewable Fuels ",
+            "indices": [
+              16,
+              27
+            ],
+            "id_str": "20456357",
+            "id": 20456357,
+            "screen_name": "EthanolRFA"
+          },
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              43,
+              56
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "348063877",
+        "id": 348063877
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Iowa members of @EthanolRFA met today with @daveloebsack staff to thank him for strong #RFS support.",
+      "lang": "en",
+      "created_at": "Wed Jul 15 20:58:27 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621440750316834817,
+    "id_str": "621440750316834817",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RFS",
+          "indices": [
+            101,
+            105
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Iowa RFA",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "348063877",
+          "id": 348063877,
+          "screen_name": "iowafuel"
+        },
+        {
+          "name": "Renewable Fuels ",
+          "indices": [
+            30,
+            41
+          ],
+          "id_str": "20456357",
+          "id": 20456357,
+          "screen_name": "EthanolRFA"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            57,
+            70
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @iowafuel: Iowa members of @EthanolRFA met today with @daveloebsack staff to thank him for strong #RFS support.",
+    "lang": "en",
+    "created_at": "2015-07-15 22:06:35+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "510516465",
+      "id": 621043915290996736,
+      "id_str": "621043915290996736",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "HAN15",
+            "indices": [
+              103,
+              109
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/CFOEKZtqfA",
+            "media_url": "http://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+            "expanded_url": "http://twitter.com/hospiceladydoc/status/621043915290996736/photo/1",
+            "id_str": "621043897918193664",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 212
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 375
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 640
+              }
+            },
+            "display_url": "pic.twitter.com/CFOEKZtqfA",
+            "id": 621043897918193664
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              0,
+              13
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3372839193",
+        "id": 3372839193
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 510516465,
+      "in_reply_to_screen_name": "daveloebsack",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/CFOEKZtqfA",
+            "media_url": "http://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+            "expanded_url": "http://twitter.com/hospiceladydoc/status/621043915290996736/photo/1",
+            "id_str": "621043897918193664",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 212
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 375
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 640
+              }
+            },
+            "display_url": "pic.twitter.com/CFOEKZtqfA",
+            "id": 621043897918193664
+          }
+        ]
+      },
+      "text": "@daveloebsack We appreciate Vonnie meeting to talk about the importance of end of life care and HR3037 #HAN15 http://t.co/CFOEKZtqfA",
+      "lang": "en",
+      "created_at": "Tue Jul 14 19:49:42 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 3372839193,
+          "media_url": "http://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+          "source_user_id_str": "3372839193",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/CFOEKZtqfA",
+          "expanded_url": "http://twitter.com/hospiceladydoc/status/621043915290996736/photo/1",
+          "url": "http://t.co/CFOEKZtqfA",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+          "source_status_id_str": "621043915290996736",
+          "id_str": "621043897918193664",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 212
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 375
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "id": 621043897918193664,
+          "source_status_id": 621043915290996736
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621120777774088193,
+    "id_str": "621120777774088193",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "HAN15",
+          "indices": [
+            123,
+            129
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 3372839193,
+          "media_url": "http://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+          "source_user_id_str": "3372839193",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/CFOEKZtqfA",
+          "expanded_url": "http://twitter.com/hospiceladydoc/status/621043915290996736/photo/1",
+          "url": "http://t.co/CFOEKZtqfA",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ5kIn1WgAAKHay.jpg",
+          "source_status_id_str": "621043915290996736",
+          "id_str": "621043897918193664",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 212
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 375
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "id": 621043897918193664,
+          "source_status_id": 621043915290996736
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Amanda Sommerfeldt",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "3372839193",
+          "id": 3372839193,
+          "screen_name": "hospiceladydoc"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            20,
+            33
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @hospiceladydoc: @daveloebsack We appreciate Vonnie meeting to talk about the importance of end of life care and HR3037 #HAN15 http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-15 00:55:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620998428550647808,
+    "id_str": "620998428550647808",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "iacaucus",
+          "indices": [
+            39,
+            48
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ikvM7IRI7n",
+          "media_url": "http://pbs.twimg.com/media/CJ46xUgWIAAhHEQ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ46xUgWIAAhHEQ.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/620998428550647808/photo/1",
+          "id_str": "620998417616084992",
+          "indices": [
+            120,
+            142
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/ikvM7IRI7n",
+          "id": 620998417616084992
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Jeff Zeleny",
+          "indices": [
+            7,
+            18
+          ],
+          "id_str": "85131054",
+          "id": 85131054,
+          "screen_name": "jeffzeleny"
+        },
+        {
+          "name": "Simpson College",
+          "indices": [
+            60,
+            75
+          ],
+          "id_str": "271552278",
+          "id": 271552278,
+          "screen_name": "SimpsonCollege"
+        },
+        {
+          "name": "Culver Center",
+          "indices": [
+            104,
+            119
+          ],
+          "id_str": "384662684",
+          "id": 384662684,
+          "screen_name": "SCCulverCenter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ikvM7IRI7n",
+          "media_url": "http://pbs.twimg.com/media/CJ46xUgWIAAhHEQ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ46xUgWIAAhHEQ.jpg",
+          "expanded_url": "http://twitter.com/daveloebsack/status/620998428550647808/photo/1",
+          "id_str": "620998417616084992",
+          "indices": [
+            120,
+            142
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/ikvM7IRI7n",
+          "id": 620998417616084992
+        }
+      ]
+    },
+    "text": "Joined @jeffzeleny &amp; staff to talk #iacaucus history at @SimpsonCollege Edward M. Kennedy luncheon. @SCCulverCenter http://t.co/ikvM7IRI7n",
+    "lang": "en",
+    "created_at": "2015-07-14 16:48:57+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619965483270303744,
+      "id_str": "619965483270303744",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/p06dqLqrbY",
+            "media_url": "http://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+            "expanded_url": "http://twitter.com/sixersoldman/status/619965483270303744/photo/1",
+            "id_str": "619965469043265536",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/p06dqLqrbY",
+            "id": 619965469043265536
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Chaz Allen",
+            "indices": [
+              88,
+              102
+            ],
+            "id_str": "1074945512",
+            "id": 1074945512,
+            "screen_name": "ChazAllen2013"
+          },
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              103,
+              116
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2854623044",
+        "id": 2854623044
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/p06dqLqrbY",
+            "media_url": "http://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+            "expanded_url": "http://twitter.com/sixersoldman/status/619965483270303744/photo/1",
+            "id_str": "619965469043265536",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/p06dqLqrbY",
+            "id": 619965469043265536
+          }
+        ]
+      },
+      "text": "ConLoebsack and SenAllen supporting small town EconDev in Baxter @ new Gigabyte center. @ChazAllen2013 @daveloebsack http://t.co/p06dqLqrbY",
+      "lang": "en",
+      "created_at": "Sat Jul 11 20:24:24 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2854623044,
+          "media_url": "http://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+          "source_user_id_str": "2854623044",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/p06dqLqrbY",
+          "expanded_url": "http://twitter.com/sixersoldman/status/619965483270303744/photo/1",
+          "url": "http://t.co/p06dqLqrbY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+          "source_status_id_str": "619965483270303744",
+          "id_str": "619965469043265536",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 619965469043265536,
+          "source_status_id": 619965483270303744
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 620263084041449472,
+    "id_str": "620263084041449472",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 2854623044,
+          "media_url": "http://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+          "source_user_id_str": "2854623044",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/p06dqLqrbY",
+          "expanded_url": "http://twitter.com/sixersoldman/status/619965483270303744/photo/1",
+          "url": "http://t.co/p06dqLqrbY",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJqPTzNVEAADZFI.jpg",
+          "source_status_id_str": "619965483270303744",
+          "id_str": "619965469043265536",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 619965469043265536,
+          "source_status_id": 619965483270303744
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Doug Bishop",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "2854623044",
+          "id": 2854623044,
+          "screen_name": "sixersoldman"
+        },
+        {
+          "name": "Chaz Allen",
+          "indices": [
+            106,
+            120
+          ],
+          "id_str": "1074945512",
+          "id": 1074945512,
+          "screen_name": "ChazAllen2013"
+        },
+        {
+          "name": "Dave Loebsack",
+          "indices": [
+            121,
+            134
+          ],
+          "id_str": "510516465",
+          "id": 510516465,
+          "screen_name": "daveloebsack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sixersoldman: ConLoebsack and SenAllen supporting small town EconDev in Baxter @ new Gigabyte center. @ChazAllen2013 @daveloebsack http\u2026",
+    "lang": "en",
+    "created_at": "2015-07-12 16:06:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620263054178041856,
+    "id_str": "620263054178041856",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "510516465",
+      "id": 620022108840701952,
+      "id_str": "620022108840701952",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/Z5koENJxOI",
+            "media_url": "http://pbs.twimg.com/media/CJrC0ISWsAE81tq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJrC0ISWsAE81tq.jpg",
+            "expanded_url": "http://twitter.com/NLAmyNielsen/status/620022108840701952/photo/1",
+            "id_str": "620022099550318593",
+            "indices": [
+              59,
+              81
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/Z5koENJxOI",
+            "id": 620022099550318593
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dave Loebsack",
+            "indices": [
+              0,
+              13
+            ],
+            "id_str": "510516465",
+            "id": 510516465,
+            "screen_name": "daveloebsack"
+          },
+          {
+            "name": "Blues & BBQ",
+            "indices": [
+              39,
+              51
+            ],
+            "id_str": "124563878",
+            "id": 124563878,
+            "screen_name": "bluesandbbq"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2785968110",
+        "id": 2785968110
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 510516465,
+      "in_reply_to_screen_name": "daveloebsack",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Z5koENJxOI",
+            "media_url": "http://pbs.twimg.com/media/CJrC0ISWsAE81tq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJrC0ISWsAE81tq.jpg",
+            "expanded_url": "http://twitter.com/NLAmyNielsen/status/620022108840701952/photo/1",
+            "id_str": "620022099550318593",
+            "indices": [
+              59,
+              81
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/Z5koENJxOI",
+            "id": 620022099550318593
+          }
+        ]
+      },
+      "text": "@daveloebsack thanks for coming out to @bluesandbbq today! http://t.co/Z5koENJxOI",
+      "lang": "en",
+      "created_at": "Sun Jul 12 00:09:24 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/0QlEGyHnxA",
+          "indices": [
+            20,
+            43
+          ],
+          "display_url": "twitter.com/nlamynielsen/s\u2026",
+          "expanded_url": "https://twitter.com/nlamynielsen/status/620022108840701952"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "620022108840701952",
+    "user": {
+      "id_str": "510516465",
+      "screen_name": "daveloebsack",
+      "id": 510516465
+    },
+    "favorited": false,
+    "created_at": "2015-07-12 16:06:50+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Always a fun event! https://t.co/0QlEGyHnxA",
+    "lang": "en",
+    "quoted_status_id": 620022108840701952
+  }
+]

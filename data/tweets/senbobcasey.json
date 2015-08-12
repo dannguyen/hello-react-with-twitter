@@ -1,0 +1,1840 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 20,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630070073806462976,
+    "id_str": "630070073806462976",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TheBus",
+          "indices": [
+            107,
+            114
+          ]
+        },
+        {
+          "text": "PFHOF15",
+          "indices": [
+            115,
+            123
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Pittsburgh Steelers",
+          "indices": [
+            19,
+            28
+          ],
+          "id_str": "19426729",
+          "id": 19426729,
+          "screen_name": "steelers"
+        },
+        {
+          "name": "Jerome Bettis",
+          "indices": [
+            37,
+            52
+          ],
+          "id_str": "87518270",
+          "id": 87518270,
+          "screen_name": "JeromeBettis36"
+        },
+        {
+          "name": "Pro Football HOF",
+          "indices": [
+            77,
+            92
+          ],
+          "id_str": "23632910",
+          "id": 23632910,
+          "screen_name": "ProFootballHOF"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congratulations to @steelers legend, @JeromeBettis36 as he's inducted to the @ProFootballHOF this evening! #TheBus #PFHOF15",
+    "lang": "en",
+    "created_at": "2015-08-08 17:36:26+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630055467788726272,
+      "id_str": "630055467788726272",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Senator Bob Casey",
+            "indices": [
+              14,
+              26
+            ],
+            "id_str": "171598736",
+            "id": 171598736,
+            "screen_name": "SenBobCasey"
+          },
+          {
+            "name": "Wilkes University",
+            "indices": [
+              27,
+              35
+            ],
+            "id_str": "23446723",
+            "id": 23446723,
+            "screen_name": "WilkesU"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "898858177",
+        "id": 898858177
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Proud to have @SenBobCasey @WilkesU yesterday to talk about keeping our campuses safer. Thank you, Sen Casey, for your leadership.",
+      "lang": "en",
+      "created_at": "Sat Aug 08 16:38:24 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630060953896402944,
+    "id_str": "630060953896402944",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Patrick F. Leahy",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "898858177",
+          "id": 898858177,
+          "screen_name": "PatrickFLeahy"
+        },
+        {
+          "name": "Senator Bob Casey",
+          "indices": [
+            33,
+            45
+          ],
+          "id_str": "171598736",
+          "id": 171598736,
+          "screen_name": "SenBobCasey"
+        },
+        {
+          "name": "Wilkes University",
+          "indices": [
+            46,
+            54
+          ],
+          "id_str": "23446723",
+          "id": 23446723,
+          "screen_name": "WilkesU"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @PatrickFLeahy: Proud to have @SenBobCasey @WilkesU yesterday to talk about keeping our campuses safer. Thank you, Sen Casey, for your l\u2026",
+    "lang": "en",
+    "created_at": "2015-08-08 17:00:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 110,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 55,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630060573321859072,
+      "id_str": "630060573321859072",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/bX1QtlfTyY",
+            "indices": [
+              117,
+              139
+            ],
+            "display_url": "buzzfeed.com/azmatkhan/sena\u2026",
+            "expanded_url": "http://www.buzzfeed.com/azmatkhan/senator-calls-for-answers-on-afghanistans-ghost-schools"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Senator Bob Casey",
+            "indices": [
+              38,
+              50
+            ],
+            "id_str": "171598736",
+            "id": 171598736,
+            "screen_name": "SenBobCasey"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16109501",
+        "id": 16109501
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "An update on our ghost schools story: @SenBobCasey is pressing USAID for answers about its Afghan education programs http://t.co/bX1QtlfTyY",
+      "lang": "en",
+      "created_at": "Sat Aug 08 16:58:41 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 110,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630060675885334528,
+    "id_str": "630060675885334528",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bX1QtlfTyY",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "buzzfeed.com/azmatkhan/sena\u2026",
+          "expanded_url": "http://www.buzzfeed.com/azmatkhan/senator-calls-for-answers-on-afghanistans-ghost-schools"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Azmat Khan",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "16109501",
+          "id": 16109501,
+          "screen_name": "AzmatZahra"
+        },
+        {
+          "name": "Senator Bob Casey",
+          "indices": [
+            54,
+            66
+          ],
+          "id_str": "171598736",
+          "id": 171598736,
+          "screen_name": "SenBobCasey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AzmatZahra: An update on our ghost schools story: @SenBobCasey is pressing USAID for answers about its Afghan education programs http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-08 16:59:05+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629678575747244033,
+      "id_str": "629678575747244033",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/z47CdiPBll",
+            "indices": [
+              117,
+              139
+            ],
+            "display_url": "buzzfeed.com/mikegiglio/sen\u2026",
+            "expanded_url": "http://www.buzzfeed.com/mikegiglio/senate-bill-hopes-to-stop-looted-syrian-artifacts-from-reach#.qv7JnDz2V"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Senator Bob Casey",
+            "indices": [
+              1,
+              13
+            ],
+            "id_str": "171598736",
+            "id": 171598736,
+            "screen_name": "SenBobCasey"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "244743317",
+        "id": 244743317
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@SenBobCasey tells me he hopes a new bill restricting Syrian antiquities will \"intimidate\" buyers of looted history http://t.co/z47CdiPBll",
+      "lang": "en",
+      "created_at": "Fri Aug 07 15:40:45 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629687087193845760,
+    "id_str": "629687087193845760",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/z47CdiPBll",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "buzzfeed.com/mikegiglio/sen\u2026",
+          "expanded_url": "http://www.buzzfeed.com/mikegiglio/senate-bill-hopes-to-stop-looted-syrian-artifacts-from-reach#.qv7JnDz2V"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Mike Giglio",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "244743317",
+          "id": 244743317,
+          "screen_name": "mike_giglio"
+        },
+        {
+          "name": "Senator Bob Casey",
+          "indices": [
+            18,
+            30
+          ],
+          "id_str": "171598736",
+          "id": 171598736,
+          "screen_name": "SenBobCasey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @mike_giglio: .@SenBobCasey tells me he hopes a new bill restricting Syrian antiquities will \"intimidate\" buyers of looted history http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 16:14:35+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629656217087049728,
+      "id_str": "629656217087049728",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/wKIMfpfU2l",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "goo.gl/iHMhwR",
+            "expanded_url": "http://goo.gl/iHMhwR"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "WilkesU",
+            "indices": [
+              10,
+              18
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Senator Bob Casey",
+            "indices": [
+              30,
+              42
+            ],
+            "id_str": "171598736",
+            "id": 171598736,
+            "screen_name": "SenBobCasey"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "23446723",
+        "id": 23446723
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "A Special #WilkesU Welcome to @SenBobCasey! Sen. Casey will be holding a news conf. at 10:45 a.m. in the Miller Room: http://t.co/wKIMfpfU2l",
+      "lang": "en",
+      "created_at": "Fri Aug 07 14:11:55 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629665967996600320,
+    "id_str": "629665967996600320",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/wKIMfpfU2l",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "goo.gl/iHMhwR",
+          "expanded_url": "http://goo.gl/iHMhwR"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WilkesU",
+          "indices": [
+            23,
+            31
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Wilkes University",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "23446723",
+          "id": 23446723,
+          "screen_name": "WilkesU"
+        },
+        {
+          "name": "Senator Bob Casey",
+          "indices": [
+            43,
+            55
+          ],
+          "id_str": "171598736",
+          "id": 171598736,
+          "screen_name": "SenBobCasey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WilkesU: A Special #WilkesU Welcome to @SenBobCasey! Sen. Casey will be holding a news conf. at 10:45 a.m. in the Miller Room: http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 14:50:40+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629648869752741889,
+      "id_str": "629648869752741889",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/yHdukIw8vJ",
+            "indices": [
+              75,
+              97
+            ],
+            "display_url": "cbsloc.al/1UqL8pG",
+            "expanded_url": "http://cbsloc.al/1UqL8pG"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Senator Bob Casey",
+            "indices": [
+              1,
+              13
+            ],
+            "id_str": "171598736",
+            "id": 171598736,
+            "screen_name": "SenBobCasey"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16083576",
+        "id": 16083576
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@SenBobCasey Asks Federal Officials To Review Nursing Home Rating System: http://t.co/yHdukIw8vJ",
+      "lang": "en",
+      "created_at": "Fri Aug 07 13:42:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629657633453117440,
+    "id_str": "629657633453117440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/yHdukIw8vJ",
+          "indices": [
+            90,
+            112
+          ],
+          "display_url": "cbsloc.al/1UqL8pG",
+          "expanded_url": "http://cbsloc.al/1UqL8pG"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "CBS Philly",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "16083576",
+          "id": 16083576,
+          "screen_name": "CBSPhilly"
+        },
+        {
+          "name": "Senator Bob Casey",
+          "indices": [
+            16,
+            28
+          ],
+          "id_str": "171598736",
+          "id": 171598736,
+          "screen_name": "SenBobCasey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CBSPhilly: .@SenBobCasey Asks Federal Officials To Review Nursing Home Rating System: http://t.co/yHdukIw8vJ",
+    "lang": "en",
+    "created_at": "2015-08-07 14:17:32+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629357789236690944,
+      "id_str": "629357789236690944",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/hUXlW61cen",
+            "indices": [
+              84,
+              106
+            ],
+            "display_url": "bizj.us/1iowcu",
+            "expanded_url": "http://bizj.us/1iowcu"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "24247996",
+        "id": 24247996
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Sen. Bob Casey is asking for a probe of Medicare's rating system for nursing homes: http://t.co/hUXlW61cen",
+      "lang": "en",
+      "created_at": "Thu Aug 06 18:26:04 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629633180056875012,
+    "id_str": "629633180056875012",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/hUXlW61cen",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "bizj.us/1iowcu",
+          "expanded_url": "http://bizj.us/1iowcu"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "PBT",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "24247996",
+          "id": 24247996,
+          "screen_name": "PghBizTimes"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @PghBizTimes: Sen. Bob Casey is asking for a probe of Medicare's rating system for nursing homes: http://t.co/hUXlW61cen",
+    "lang": "en",
+    "created_at": "2015-08-07 12:40:22+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629426805594652673,
+      "id_str": "629426805594652673",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/jCLSzeAwYy",
+            "indices": [
+              85,
+              107
+            ],
+            "display_url": "cbsloc.al/1UqL8pG",
+            "expanded_url": "http://cbsloc.al/1UqL8pG"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Senator Bob Casey",
+            "indices": [
+              11,
+              23
+            ],
+            "id_str": "171598736",
+            "id": 171598736,
+            "screen_name": "SenBobCasey"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "52293877",
+        "id": 52293877
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thoughts?\n\n@SenBobCasey Asks Federal Officials To Review Nursing Home Rating System: http://t.co/jCLSzeAwYy",
+      "lang": "en",
+      "created_at": "Thu Aug 06 23:00:19 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629439652567625728,
+    "id_str": "629439652567625728",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jCLSzeAwYy",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "cbsloc.al/1UqL8pG",
+          "expanded_url": "http://cbsloc.al/1UqL8pG"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "KYW Newsradio",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "52293877",
+          "id": 52293877,
+          "screen_name": "KYWNewsradio"
+        },
+        {
+          "name": "Senator Bob Casey",
+          "indices": [
+            29,
+            41
+          ],
+          "id_str": "171598736",
+          "id": 171598736,
+          "screen_name": "SenBobCasey"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @KYWNewsradio: Thoughts?\n\n@SenBobCasey Asks Federal Officials To Review Nursing Home Rating System: http://t.co/jCLSzeAwYy",
+    "lang": "en",
+    "created_at": "2015-08-06 23:51:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629323367095603200,
+    "id_str": "629323367095603200",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            102,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/W9Zs1vwVjA",
+          "media_url": "http://pbs.twimg.com/media/CLvORH9WEAAH94g.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvORH9WEAAH94g.png",
+          "expanded_url": "http://twitter.com/SenBobCasey/status/629323367095603200/photo/1",
+          "id_str": "629323366537760768",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/W9Zs1vwVjA",
+          "id": 629323366537760768
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/W9Zs1vwVjA",
+          "media_url": "http://pbs.twimg.com/media/CLvORH9WEAAH94g.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvORH9WEAAH94g.png",
+          "expanded_url": "http://twitter.com/SenBobCasey/status/629323367095603200/photo/1",
+          "id_str": "629323366537760768",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/W9Zs1vwVjA",
+          "id": 629323366537760768
+        }
+      ]
+    },
+    "text": "\"No State shall make or enforce any law which shall abridge the privileges or immunities of citizens\" #RestoreTheVRA http://t.co/W9Zs1vwVjA",
+    "lang": "en",
+    "created_at": "2015-08-06 16:09:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629322804400365568,
+    "id_str": "629322804400365568",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            100,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/IaVo7yTqN9",
+          "media_url": "http://pbs.twimg.com/media/CLvNwYIWsAAI6PN.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvNwYIWsAAI6PN.png",
+          "expanded_url": "http://twitter.com/SenBobCasey/status/629322804400365568/photo/1",
+          "id_str": "629322803943223296",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/IaVo7yTqN9",
+          "id": 629322803943223296
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/IaVo7yTqN9",
+          "media_url": "http://pbs.twimg.com/media/CLvNwYIWsAAI6PN.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvNwYIWsAAI6PN.png",
+          "expanded_url": "http://twitter.com/SenBobCasey/status/629322804400365568/photo/1",
+          "id_str": "629322803943223296",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/IaVo7yTqN9",
+          "id": 629322803943223296
+        }
+      ]
+    },
+    "text": "The right to vote \u201cis one which no American, true to our principles, can deny\u201d \u2013 President Johnson, #RestoretheVRA http://t.co/IaVo7yTqN9",
+    "lang": "en",
+    "created_at": "2015-08-06 16:07:03+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629322465337024512,
+    "id_str": "629322465337024512",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jd9lieGrno",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "nyti.ms/1KMsUNN",
+          "expanded_url": "http://nyti.ms/1KMsUNN"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA",
+          "indices": [
+            31,
+            35
+          ]
+        },
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            89,
+            103
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            104,
+            110
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On the 50th anniversary of the #VRA, let this be a reminder that the fight is not over - #RestoretheVRA #VRA50 http://t.co/jd9lieGrno",
+    "lang": "en",
+    "created_at": "2015-08-06 16:05:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 23,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629285380295102464,
+    "id_str": "629285380295102464",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/vkJOYBUCtS",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "nytimes.com/2015/08/06/us/\u2026",
+          "expanded_url": "http://www.nytimes.com/2015/08/06/us/appellate-panel-says-texas-id-law-broke-us-voting-rights-act.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VoterID",
+          "indices": [
+            48,
+            56
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great news- Fed appeals court has ruled against #VoterID in Texas. We should be making it easier to vote, not harder: http://t.co/vkJOYBUCtS",
+    "lang": "en",
+    "created_at": "2015-08-06 13:38:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629057372737155073,
+    "id_str": "629057372737155073",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Patrick J. Murphy",
+          "indices": [
+            1,
+            17
+          ],
+          "id_str": "206721200",
+          "id": 206721200,
+          "screen_name": "PatrickMurphyPA"
+        },
+        {
+          "name": "U.S. Army",
+          "indices": [
+            97,
+            104
+          ],
+          "id_str": "8775672",
+          "id": 8775672,
+          "screen_name": "USArmy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@patrickmurphypa will be a great addition to the Obama Administration as Undersecretary for the @USArmy",
+    "lang": "en",
+    "created_at": "2015-08-05 22:32:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629002581885497344,
+    "id_str": "629002581885497344",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "KDKA Radio",
+          "indices": [
+            31,
+            41
+          ],
+          "id_str": "22013225",
+          "id": 22013225,
+          "screen_name": "KDKARadio"
+        },
+        {
+          "name": "Pittsburgh Pirates",
+          "indices": [
+            108,
+            116
+          ],
+          "id_str": "37947138",
+          "id": 37947138,
+          "screen_name": "Pirates"
+        },
+        {
+          "name": "Phillies",
+          "indices": [
+            126,
+            135
+          ],
+          "id_str": "53178109",
+          "id": 53178109,
+          "screen_name": "Phillies"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "A PA 1st: On this day in 1921, @KDKARadio did the first radio play-by-play of a professional baseball game, @Pirates beat the @Phillies 8-5.",
+    "lang": "en",
+    "created_at": "2015-08-05 18:54:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628973326417960960,
+    "id_str": "628973326417960960",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/SUctZeUbqe",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "npr.org/sections/thetw\u2026",
+          "expanded_url": "http://www.npr.org/sections/thetwo-way/2015/08/05/429628037/sec-to-vote-on-requiring-companies-to-disclose-ceo-pay-ratio"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Glad to see the SEC finally pass a CEO-to-Worker pay disclosure rule that I called for back in 2013. - http://t.co/SUctZeUbqe",
+    "lang": "en",
+    "created_at": "2015-08-05 16:58:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628905725528547328,
+    "id_str": "628905725528547328",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/0Xilhaabd1",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "wfmz.com/news/news-regi\u2026",
+          "expanded_url": "http://www.wfmz.com/news/news-regional-lehighvalley/lvhn-joining-sloan-kettering-cancer-alliance/34536336?item=0"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "LV Health Network",
+          "indices": [
+            19,
+            24
+          ],
+          "id_str": "20774402",
+          "id": 20774402,
+          "screen_name": "LVHN"
+        },
+        {
+          "name": "Sloan Kettering",
+          "indices": [
+            55,
+            71
+          ],
+          "id_str": "27295244",
+          "id": 27295244,
+          "screen_name": "sloan_kettering"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congratulations to @LVHN on their new partnership with @sloan_kettering - http://t.co/0Xilhaabd1",
+    "lang": "en",
+    "created_at": "2015-08-05 12:29:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628630532734222336",
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "171598736",
+    "id": 628630683683004416,
+    "id_str": "628630683683004416",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/yGyawUPcIs",
+          "indices": [
+            39,
+            61
+          ],
+          "display_url": "casey.senate.gov/newsroom/relea\u2026",
+          "expanded_url": "http://www.casey.senate.gov/newsroom/releases/casey-statement-on-planned-parenthood"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": 628630532734222336,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 171598736,
+    "in_reply_to_screen_name": "SenBobCasey",
+    "retweeted": false,
+    "text": "Full statement on Planned Parenthood - http://t.co/yGyawUPcIs",
+    "lang": "en",
+    "created_at": "2015-08-04 18:16:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 12,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628630532734222336,
+    "id_str": "628630532734222336",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I will continue to support Title X funding because these programs reduce unintended pregnancies and, as a result, the number of abortions.",
+    "lang": "en",
+    "created_at": "2015-08-04 18:16:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Philadelphia, PA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.280284,
+              39.871811
+            ],
+            [
+              -74.955712,
+              39.871811
+            ],
+            [
+              -74.955712,
+              40.13792
+            ],
+            [
+              -75.280284,
+              40.13792
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/e4a0d228eb6be76b.json",
+      "name": "Philadelphia",
+      "country": "United States",
+      "place_type": "city",
+      "id": "e4a0d228eb6be76b"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628233769850421248,
+    "id_str": "628233769850421248",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/ptGjXhxImo",
+          "media_url": "http://pbs.twimg.com/media/CLfvSDGWgAAhqwK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfvSDGWgAAhqwK.jpg",
+          "expanded_url": "http://twitter.com/SenBobCasey/status/628233769850421248/photo/1",
+          "id_str": "628233766390104064",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/ptGjXhxImo",
+          "id": 628233766390104064
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Children's Hospital",
+          "indices": [
+            9,
+            24
+          ],
+          "id_str": "120165462",
+          "id": 120165462,
+          "screen_name": "ChildrensPhila"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ptGjXhxImo",
+          "media_url": "http://pbs.twimg.com/media/CLfvSDGWgAAhqwK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfvSDGWgAAhqwK.jpg",
+          "expanded_url": "http://twitter.com/SenBobCasey/status/628233769850421248/photo/1",
+          "id_str": "628233766390104064",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/ptGjXhxImo",
+          "id": 628233766390104064
+        }
+      ]
+    },
+    "text": "Visiting @ChildrensPhila to push for a new plan to drive research and find cures for rare pediatric diseases. http://t.co/ptGjXhxImo",
+    "lang": "en",
+    "created_at": "2015-08-03 15:59:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Scranton, PA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -75.719751,
+              41.369442
+            ],
+            [
+              -75.617789,
+              41.369442
+            ],
+            [
+              -75.617789,
+              41.469377
+            ],
+            [
+              -75.719751,
+              41.469377
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/8e67b1e195b34dd8.json",
+      "name": "Scranton",
+      "country": "United States",
+      "place_type": "city",
+      "id": "8e67b1e195b34dd8"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627835022947545088,
+    "id_str": "627835022947545088",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/p08Qi6nEU1",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "pennlive.com/sports/index.s\u2026",
+          "expanded_url": "http://www.pennlive.com/sports/index.ssf/2015/08/red_land_wins_state_little_lea.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Little League ",
+          "indices": [
+            46,
+            59
+          ],
+          "id_str": "14460611",
+          "id": 14460611,
+          "screen_name": "LittleLeague"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "171598736",
+      "screen_name": "senbobcasey",
+      "id": 171598736
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congratulations to Red Land on winning the PA @LittleLeague state title! Good luck in Bristol! http://t.co/p08Qi6nEU1",
+    "lang": "en",
+    "created_at": "2015-08-02 13:35:08+00:00"
+  }
+]

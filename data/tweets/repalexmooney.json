@@ -1,0 +1,2601 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "West Virginia, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.644739,
+              37.201483
+            ],
+            [
+              -77.718935,
+              37.201483
+            ],
+            [
+              -77.718935,
+              40.638802
+            ],
+            [
+              -82.644739,
+              40.638802
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json",
+      "name": "West Virginia",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "2d83c71ce16cd187"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629053934049599488,
+    "id_str": "629053934049599488",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/5Zf9BeLJ9s",
+          "media_url": "http://pbs.twimg.com/media/CLrZF9pW8AAwmka.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrZF9pW8AAwmka.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/629053934049599488/photo/1",
+          "id_str": "629053794442211328",
+          "indices": [
+            84,
+            106
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 371
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 655
+            },
+            "large": {
+              "w": 938,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/5Zf9BeLJ9s",
+          "id": 629053794442211328
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/5Zf9BeLJ9s",
+          "media_url": "http://pbs.twimg.com/media/CLrZF9pW8AAwmka.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrZF9pW8AAwmka.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/629053934049599488/photo/1",
+          "id_str": "629053794442211328",
+          "indices": [
+            84,
+            106
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 371
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 655
+            },
+            "large": {
+              "w": 938,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/5Zf9BeLJ9s",
+          "id": 629053794442211328
+        }
+      ]
+    },
+    "text": "Just toured Weyerhaeuser. It's amazing what we have going on here in West Virginia. http://t.co/5Zf9BeLJ9s",
+    "lang": "en",
+    "created_at": "2015-08-05 22:18:39+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628565116414488576,
+      "id_str": "628565116414488576",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/wF20TR1zPJ",
+            "media_url": "http://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+            "expanded_url": "http://twitter.com/wvstatejournal/status/628565116414488576/photo/1",
+            "id_str": "628564924491530240",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 247
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 437
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 746
+              }
+            },
+            "display_url": "pic.twitter.com/wF20TR1zPJ",
+            "id": 628564924491530240
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/4qAmAq8xQU",
+            "indices": [
+              99,
+              121
+            ],
+            "display_url": "statejournal.com/story/29698438\u2026",
+            "expanded_url": "http://www.statejournal.com/story/29698438/us-rep-alex-mooney-meets-with-wv-constituents-to-discuss-the-iran-nuclear-deal"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19773907",
+        "id": 19773907
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/wF20TR1zPJ",
+            "media_url": "http://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+            "expanded_url": "http://twitter.com/wvstatejournal/status/628565116414488576/photo/1",
+            "id_str": "628564924491530240",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 247
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 437
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 746
+              }
+            },
+            "display_url": "pic.twitter.com/wF20TR1zPJ",
+            "id": 628564924491530240
+          }
+        ]
+      },
+      "text": "This past weekend US Rep. Alex Mooney &amp; others discussed the Iran Nuclear Deal. Find out more-\nhttp://t.co/4qAmAq8xQU http://t.co/wF20TR1zPJ",
+      "lang": "en",
+      "created_at": "Tue Aug 04 13:56:16 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 19773907,
+          "media_url": "http://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+          "source_user_id_str": "19773907",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/wF20TR1zPJ",
+          "expanded_url": "http://twitter.com/wvstatejournal/status/628565116414488576/photo/1",
+          "url": "http://t.co/wF20TR1zPJ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+          "source_status_id_str": "628565116414488576",
+          "id_str": "628564924491530240",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 247
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 437
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 746
+            }
+          },
+          "id": 628564924491530240,
+          "source_status_id": 628565116414488576
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628985134608482304,
+    "id_str": "628985134608482304",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 19773907,
+          "media_url": "http://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+          "source_user_id_str": "19773907",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/wF20TR1zPJ",
+          "expanded_url": "http://twitter.com/wvstatejournal/status/628565116414488576/photo/1",
+          "url": "http://t.co/wF20TR1zPJ",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkcd_KWgAAM_Fc.jpg",
+          "source_status_id_str": "628565116414488576",
+          "id_str": "628564924491530240",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 247
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 437
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 746
+            }
+          },
+          "id": 628564924491530240,
+          "source_status_id": 628565116414488576
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/4qAmAq8xQU",
+          "indices": [
+            119,
+            141
+          ],
+          "display_url": "statejournal.com/story/29698438\u2026",
+          "expanded_url": "http://www.statejournal.com/story/29698438/us-rep-alex-mooney-meets-with-wv-constituents-to-discuss-the-iran-nuclear-deal"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The State Journal",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "19773907",
+          "id": 19773907,
+          "screen_name": "wvstatejournal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @wvstatejournal: This past weekend US Rep. Alex Mooney &amp; others discussed the Iran Nuclear Deal. Find out more-\nhttp://t.co/4qAmAq8xQU h\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 17:45:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "West Virginia, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.644739,
+              37.201483
+            ],
+            [
+              -77.718935,
+              37.201483
+            ],
+            [
+              -77.718935,
+              40.638802
+            ],
+            [
+              -82.644739,
+              40.638802
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json",
+      "name": "West Virginia",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "2d83c71ce16cd187"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628958931897950208,
+    "id_str": "628958931897950208",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/1nM7EmVC24",
+          "media_url": "http://pbs.twimg.com/media/CLqCsRYW8AAogNy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqCsRYW8AAogNy.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628958931897950208/photo/1",
+          "id_str": "628958795063029760",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 182
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 321
+            },
+            "large": {
+              "w": 1023,
+              "resize": "fit",
+              "h": 548
+            }
+          },
+          "display_url": "pic.twitter.com/1nM7EmVC24",
+          "id": 628958795063029760
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/1nM7EmVC24",
+          "media_url": "http://pbs.twimg.com/media/CLqCsRYW8AAogNy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqCsRYW8AAogNy.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628958931897950208/photo/1",
+          "id_str": "628958795063029760",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 182
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 321
+            },
+            "large": {
+              "w": 1023,
+              "resize": "fit",
+              "h": 548
+            }
+          },
+          "display_url": "pic.twitter.com/1nM7EmVC24",
+          "id": 628958795063029760
+        }
+      ]
+    },
+    "text": "Toured AF Wendling's Food Service in Buckhannon. They've been a great family run business for over 100 years. http://t.co/1nM7EmVC24",
+    "lang": "en",
+    "created_at": "2015-08-05 16:01:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "West Virginia, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.644739,
+              37.201483
+            ],
+            [
+              -77.718935,
+              37.201483
+            ],
+            [
+              -77.718935,
+              40.638802
+            ],
+            [
+              -82.644739,
+              40.638802
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json",
+      "name": "West Virginia",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "2d83c71ce16cd187"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628710723577712640,
+    "id_str": "628710723577712640",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/HLFD2TyCv1",
+          "media_url": "http://pbs.twimg.com/media/CLmgngSVEAA0kMH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmgngSVEAA0kMH.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628710723577712640/photo/1",
+          "id_str": "628710223537049600",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/HLFD2TyCv1",
+          "id": 628710223537049600
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/HLFD2TyCv1",
+          "media_url": "http://pbs.twimg.com/media/CLmgngSVEAA0kMH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmgngSVEAA0kMH.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628710723577712640/photo/1",
+          "id_str": "628710223537049600",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/HLFD2TyCv1",
+          "id": 628710223537049600
+        }
+      ]
+    },
+    "text": "I toured Corhart Refractories this afternoon. They're an outstanding business in Upshur County. http://t.co/HLFD2TyCv1",
+    "lang": "en",
+    "created_at": "2015-08-04 23:34:52+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "West Virginia, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.644739,
+              37.201483
+            ],
+            [
+              -77.718935,
+              37.201483
+            ],
+            [
+              -77.718935,
+              40.638802
+            ],
+            [
+              -82.644739,
+              40.638802
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json",
+      "name": "West Virginia",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "2d83c71ce16cd187"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628605911687405568,
+    "id_str": "628605911687405568",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/hAJDz7YIcz",
+          "media_url": "http://pbs.twimg.com/media/CLlBvFOWoAAQ3Jq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlBvFOWoAAQ3Jq.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628605911687405568/photo/1",
+          "id_str": "628605900106932224",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/hAJDz7YIcz",
+          "id": 628605900106932224
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/hAJDz7YIcz",
+          "media_url": "http://pbs.twimg.com/media/CLlBvFOWoAAQ3Jq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlBvFOWoAAQ3Jq.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628605911687405568/photo/1",
+          "id_str": "628605900106932224",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/hAJDz7YIcz",
+          "id": 628605900106932224
+        }
+      ]
+    },
+    "text": "Stopped into the local barber shop in Spencer after touring Casto &amp; Harris. Big day for Tucker; first hair cut. http://t.co/hAJDz7YIcz",
+    "lang": "en",
+    "created_at": "2015-08-04 16:38:22+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "West Virginia, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -82.644739,
+              37.201483
+            ],
+            [
+              -77.718935,
+              37.201483
+            ],
+            [
+              -77.718935,
+              40.638802
+            ],
+            [
+              -82.644739,
+              40.638802
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/2d83c71ce16cd187.json",
+      "name": "West Virginia",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "2d83c71ce16cd187"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628260789074403328,
+    "id_str": "628260789074403328",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/dWFykIQxvV",
+          "media_url": "http://pbs.twimg.com/media/CLgH2RnUsAApDoK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgH2RnUsAApDoK.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628260789074403328/photo/1",
+          "id_str": "628260777040850944",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/dWFykIQxvV",
+          "id": 628260777040850944
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/dWFykIQxvV",
+          "media_url": "http://pbs.twimg.com/media/CLgH2RnUsAApDoK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgH2RnUsAApDoK.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/628260789074403328/photo/1",
+          "id_str": "628260777040850944",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/dWFykIQxvV",
+          "id": 628260777040850944
+        }
+      ]
+    },
+    "text": "Appreciated the opportunity to visit the Constellium plant in Ravenswood. They're the largest employer in Jackson Co http://t.co/dWFykIQxvV",
+    "lang": "en",
+    "created_at": "2015-08-03 17:46:59+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628212169436491776,
+      "id_str": "628212169436491776",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 3,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 2,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 628203764684562432,
+        "id_str": "628203764684562432",
+        "entities": {
+          "symbols": [],
+          "urls": [
+            {
+              "url": "http://t.co/HAYXtbsf2l",
+              "indices": [
+                111,
+                133
+              ],
+              "display_url": "governor.wv.gov/media/pressrel\u2026",
+              "expanded_url": "http://www.governor.wv.gov/media/pressreleases/2015/Pages/Governor-Tomblin,-Congressional-Delegation-Announce-$20-Million-Scientific-Research-Grant.aspx"
+            }
+          ],
+          "hashtags": [
+            {
+              "text": "wvstem",
+              "indices": [
+                103,
+                110
+              ]
+            }
+          ],
+          "user_mentions": [
+            {
+              "name": "National Science Fdn",
+              "indices": [
+                41,
+                45
+              ],
+              "id_str": "16245822",
+              "id": 16245822,
+              "screen_name": "NSF"
+            }
+          ]
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "104507032",
+          "id": 104507032
+        },
+        "favorited": false,
+        "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "retweeted": false,
+        "text": "We are SO pleased to announce a new 5-yr @NSF EPSCoR grant for WV! Big news for research in our state! #wvstem http://t.co/HAYXtbsf2l",
+        "lang": "en",
+        "created_at": "Mon Aug 03 14:00:23 +0000 2015"
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/C6ggaBXpze",
+            "indices": [
+              116,
+              139
+            ],
+            "display_url": "twitter.com/researchwv/sta\u2026",
+            "expanded_url": "https://twitter.com/researchwv/status/628203764684562432"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Governor Tomblin",
+            "indices": [
+              22,
+              33
+            ],
+            "id_str": "607332953",
+            "id": 607332953,
+            "screen_name": "GovTomblin"
+          },
+          {
+            "name": "Senator Joe Manchin",
+            "indices": [
+              35,
+              50
+            ],
+            "id_str": "234374703",
+            "id": 234374703,
+            "screen_name": "Sen_JoeManchin"
+          },
+          {
+            "name": "Shelley Moore Capito",
+            "indices": [
+              52,
+              62
+            ],
+            "id_str": "193794406",
+            "id": 193794406,
+            "screen_name": "SenCapito"
+          },
+          {
+            "name": "Rep. Evan Jenkins",
+            "indices": [
+              64,
+              79
+            ],
+            "id_str": "2953713339",
+            "id": 2953713339,
+            "screen_name": "RepEvanJenkins"
+          },
+          {
+            "name": "Rep. Alex Mooney",
+            "indices": [
+              81,
+              95
+            ],
+            "id_str": "2964526557",
+            "id": 2964526557,
+            "screen_name": "RepAlexMooney"
+          },
+          {
+            "name": "David B. McKinley",
+            "indices": [
+              102,
+              114
+            ],
+            "id_str": "240427862",
+            "id": 240427862,
+            "screen_name": "RepMcKinley"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "628203764684562432",
+      "user": {
+        "id_str": "292439628",
+        "id": 292439628
+      },
+      "favorited": false,
+      "created_at": "Mon Aug 03 14:33:47 +0000 2015",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Announcement today by @GovTomblin, @Sen_JoeManchin, @SenCapito, @RepEvanJenkins, @RepAlexMooney &amp; @RepMcKinley  https://t.co/C6ggaBXpze",
+      "lang": "en",
+      "quoted_status_id": 628203764684562432
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628230719630917632,
+    "id_str": "628230719630917632",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/C6ggaBXpze",
+          "indices": [
+            128,
+            144
+          ],
+          "display_url": "twitter.com/researchwv/sta\u2026",
+          "expanded_url": "https://twitter.com/researchwv/status/628203764684562432"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WV HEPC",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "292439628",
+          "id": 292439628,
+          "screen_name": "WVHEPC"
+        },
+        {
+          "name": "Governor Tomblin",
+          "indices": [
+            34,
+            45
+          ],
+          "id_str": "607332953",
+          "id": 607332953,
+          "screen_name": "GovTomblin"
+        },
+        {
+          "name": "Senator Joe Manchin",
+          "indices": [
+            47,
+            62
+          ],
+          "id_str": "234374703",
+          "id": 234374703,
+          "screen_name": "Sen_JoeManchin"
+        },
+        {
+          "name": "Shelley Moore Capito",
+          "indices": [
+            64,
+            74
+          ],
+          "id_str": "193794406",
+          "id": 193794406,
+          "screen_name": "SenCapito"
+        },
+        {
+          "name": "Rep. Evan Jenkins",
+          "indices": [
+            76,
+            91
+          ],
+          "id_str": "2953713339",
+          "id": 2953713339,
+          "screen_name": "RepEvanJenkins"
+        },
+        {
+          "name": "Rep. Alex Mooney",
+          "indices": [
+            93,
+            107
+          ],
+          "id_str": "2964526557",
+          "id": 2964526557,
+          "screen_name": "RepAlexMooney"
+        },
+        {
+          "name": "David B. McKinley",
+          "indices": [
+            114,
+            126
+          ],
+          "id_str": "240427862",
+          "id": 240427862,
+          "screen_name": "RepMcKinley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WVHEPC: Announcement today by @GovTomblin, @Sen_JoeManchin, @SenCapito, @RepEvanJenkins, @RepAlexMooney &amp; @RepMcKinley  https://t.co/C6\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 15:47:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Charleston, WV",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -81.7071748,
+              38.293241
+            ],
+            [
+              -81.560235,
+              38.293241
+            ],
+            [
+              -81.560235,
+              38.401731
+            ],
+            [
+              -81.7071748,
+              38.401731
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/71f2805dd75bc147.json",
+      "name": "Charleston",
+      "country": "United States",
+      "place_type": "city",
+      "id": "71f2805dd75bc147"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627950147742367744,
+    "id_str": "627950147742367744",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/FbGAiGwF9o",
+          "media_url": "http://pbs.twimg.com/media/CLbtU6vWsAAWedE.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLbtU6vWsAAWedE.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/627950147742367744/photo/1",
+          "id_str": "627950141685805056",
+          "indices": [
+            92,
+            114
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 164
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 290
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 496
+            }
+          },
+          "display_url": "pic.twitter.com/FbGAiGwF9o",
+          "id": 627950141685805056
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/FbGAiGwF9o",
+          "media_url": "http://pbs.twimg.com/media/CLbtU6vWsAAWedE.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLbtU6vWsAAWedE.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/627950147742367744/photo/1",
+          "id_str": "627950141685805056",
+          "indices": [
+            92,
+            114
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 164
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 290
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 496
+            }
+          },
+          "display_url": "pic.twitter.com/FbGAiGwF9o",
+          "id": 627950141685805056
+        }
+      ]
+    },
+    "text": "It is a privilege to hear the concerns and opinions of my constituents about the Iran deal. http://t.co/FbGAiGwF9o",
+    "lang": "en",
+    "created_at": "2015-08-02 21:12:36+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626516541148917760,
+    "id_str": "626516541148917760",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VAaccountability",
+          "indices": [
+            93,
+            110
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/I70XlSmRmf",
+          "media_url": "http://pbs.twimg.com/media/CLHVeXBWIAALXiD.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLHVeXBWIAALXiD.png",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/626516541148917760/photo/1",
+          "id_str": "626516540733661184",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 314
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/I70XlSmRmf",
+          "id": 626516540733661184
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/I70XlSmRmf",
+          "media_url": "http://pbs.twimg.com/media/CLHVeXBWIAALXiD.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLHVeXBWIAALXiD.png",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/626516541148917760/photo/1",
+          "id_str": "626516540733661184",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 314
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/I70XlSmRmf",
+          "id": 626516540733661184
+        }
+      ]
+    },
+    "text": "VA officials need to be held accountable for their actions. That\u2019s why I voted for H.R. 1994 #VAaccountability http://t.co/I70XlSmRmf",
+    "lang": "en",
+    "created_at": "2015-07-29 22:15:58+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626514251771957248,
+    "id_str": "626514251771957248",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I voted for H.R.3236 so we can continue to repair and improve roads and bridges in WV through the rest of the summer construction season",
+    "lang": "en",
+    "created_at": "2015-07-29 22:06:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626388194284728320,
+    "id_str": "626388194284728320",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/EP4qbNhP5P",
+          "media_url": "http://pbs.twimg.com/media/CLFgvlHUMAAi8up.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLFgvlHUMAAi8up.png",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/626388194284728320/photo/1",
+          "id_str": "626388193714122752",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/EP4qbNhP5P",
+          "id": 626388193714122752
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/EP4qbNhP5P",
+          "media_url": "http://pbs.twimg.com/media/CLFgvlHUMAAi8up.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLFgvlHUMAAi8up.png",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/626388194284728320/photo/1",
+          "id_str": "626388193714122752",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/EP4qbNhP5P",
+          "id": 626388193714122752
+        }
+      ]
+    },
+    "text": "Spoke on the House floor to call out the Administration for the ridiculous rules in the Stream Buffer Zone regulation http://t.co/EP4qbNhP5P",
+    "lang": "en",
+    "created_at": "2015-07-29 13:45:57+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626040026019856384,
+    "id_str": "626040026019856384",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/5RNHChiKnJ",
+          "media_url": "http://pbs.twimg.com/media/CLAkFMPWwAAawDp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLAkFMPWwAAawDp.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/626040026019856384/photo/1",
+          "id_str": "626040019808075776",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/5RNHChiKnJ",
+          "id": 626040019808075776
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "yaf",
+          "indices": [
+            107,
+            111
+          ],
+          "id_str": "16148677",
+          "id": 16148677,
+          "screen_name": "yaf"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/5RNHChiKnJ",
+          "media_url": "http://pbs.twimg.com/media/CLAkFMPWwAAawDp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLAkFMPWwAAawDp.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/626040026019856384/photo/1",
+          "id_str": "626040019808075776",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/5RNHChiKnJ",
+          "id": 626040019808075776
+        }
+      ]
+    },
+    "text": "It was a privilege to kickoff NCSC with over 250 young conservatives from around the country this morning! @YAF http://t.co/5RNHChiKnJ",
+    "lang": "en",
+    "created_at": "2015-07-28 14:42:28+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625654080078278656,
+    "id_str": "625654080078278656",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ADA",
+          "indices": [
+            19,
+            23
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/UZkpJRDBfP",
+          "media_url": "http://pbs.twimg.com/media/CK7FEhmWsAAXv3J.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7FEhmWsAAXv3J.png",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/625654080078278656/photo/1",
+          "id_str": "625654079780466688",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 175
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 310
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 529
+            }
+          },
+          "display_url": "pic.twitter.com/UZkpJRDBfP",
+          "id": 625654079780466688
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/UZkpJRDBfP",
+          "media_url": "http://pbs.twimg.com/media/CK7FEhmWsAAXv3J.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK7FEhmWsAAXv3J.png",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/625654080078278656/photo/1",
+          "id_str": "625654079780466688",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 175
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 310
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 529
+            }
+          },
+          "display_url": "pic.twitter.com/UZkpJRDBfP",
+          "id": 625654079780466688
+        }
+      ]
+    },
+    "text": "After 25 years the #ADA is still empowering people with disabilities to seek the American Dream. http://t.co/UZkpJRDBfP",
+    "lang": "en",
+    "created_at": "2015-07-27 13:08:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624581118273175552,
+    "id_str": "624581118273175552",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/ZjFWrQJcWf",
+          "media_url": "http://pbs.twimg.com/media/CKr1MnyWsAAl4nN.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKr1MnyWsAAl4nN.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/624581118273175552/photo/1",
+          "id_str": "624581095531655168",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 353
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 604
+            }
+          },
+          "display_url": "pic.twitter.com/ZjFWrQJcWf",
+          "id": 624581095531655168
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZjFWrQJcWf",
+          "media_url": "http://pbs.twimg.com/media/CKr1MnyWsAAl4nN.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKr1MnyWsAAl4nN.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/624581118273175552/photo/1",
+          "id_str": "624581095531655168",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 353
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 604
+            }
+          },
+          "display_url": "pic.twitter.com/ZjFWrQJcWf",
+          "id": 624581095531655168
+        }
+      ]
+    },
+    "text": "Great speaking w college students from across the country about what it means to be a conservative in society today http://t.co/ZjFWrQJcWf",
+    "lang": "en",
+    "created_at": "2015-07-24 14:05:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624577803770535936,
+    "id_str": "624577803770535936",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/zYUjW7qg2L",
+          "media_url": "http://pbs.twimg.com/media/CKryMhlVEAAZ0Vf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKryMhlVEAAZ0Vf.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/624577803770535936/photo/1",
+          "id_str": "624577795331526656",
+          "indices": [
+            88,
+            110
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/zYUjW7qg2L",
+          "id": 624577795331526656
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/zYUjW7qg2L",
+          "media_url": "http://pbs.twimg.com/media/CKryMhlVEAAZ0Vf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKryMhlVEAAZ0Vf.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/624577803770535936/photo/1",
+          "id_str": "624577795331526656",
+          "indices": [
+            88,
+            110
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/zYUjW7qg2L",
+          "id": 624577795331526656
+        }
+      ]
+    },
+    "text": "Glad to have members of the Mountaineer Boys State Program stop by my office yesterday! http://t.co/zYUjW7qg2L",
+    "lang": "en",
+    "created_at": "2015-07-24 13:52:07+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624236490244145152,
+    "id_str": "624236490244145152",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts and prayers are with the town of Harpers Ferry. Please call our office in Martinsburg should you need any help 304-264-8810.",
+    "lang": "en",
+    "created_at": "2015-07-23 15:15:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624226055860129793,
+    "id_str": "624226055860129793",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/9y3JbTBKkM",
+          "media_url": "http://pbs.twimg.com/media/CKmySj6XAAA66c_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKmySj6XAAA66c_.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/624226055860129793/photo/1",
+          "id_str": "624226055314931712",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/9y3JbTBKkM",
+          "id": 624226055314931712
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/9y3JbTBKkM",
+          "media_url": "http://pbs.twimg.com/media/CKmySj6XAAA66c_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKmySj6XAAA66c_.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/624226055860129793/photo/1",
+          "id_str": "624226055314931712",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/9y3JbTBKkM",
+          "id": 624226055314931712
+        }
+      ]
+    },
+    "text": "Was great meeting w members of the Society of Independent Gasoline Marketers, especially w Sam Heater of Gassaway, WV http://t.co/9y3JbTBKkM",
+    "lang": "en",
+    "created_at": "2015-07-23 14:34:23+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623969163502047233,
+    "id_str": "623969163502047233",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/idaF2MH7U8",
+          "media_url": "http://pbs.twimg.com/media/CKjIpduWsAEZs_o.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjIpduWsAEZs_o.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/623969163502047233/photo/1",
+          "id_str": "623969163070058497",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/idaF2MH7U8",
+          "id": 623969163070058497
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/idaF2MH7U8",
+          "media_url": "http://pbs.twimg.com/media/CKjIpduWsAEZs_o.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjIpduWsAEZs_o.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/623969163502047233/photo/1",
+          "id_str": "623969163070058497",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 900,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/idaF2MH7U8",
+          "id": 623969163070058497
+        }
+      ]
+    },
+    "text": "Improving Coal Combustion Residuals Regulation Act of 2015 helps protect jobs, the environment, and public health. http://t.co/idaF2MH7U8",
+    "lang": "en",
+    "created_at": "2015-07-22 21:33:36+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623897974125522944,
+    "id_str": "623897974125522944",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/E4wJwY3j8g",
+          "indices": [
+            93,
+            116
+          ],
+          "display_url": "youtube.com/watch?v=_Icqll\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=_Icqllxy0zc"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AudittheFed",
+          "indices": [
+            80,
+            92
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Fed cannot continue to conduct its monetary policy in secret. It is time to #AudittheFed https://t.co/E4wJwY3j8g",
+    "lang": "en",
+    "created_at": "2015-07-22 16:50:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623532373309792256,
+    "id_str": "623532373309792256",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Chattanooga",
+          "indices": [
+            104,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ZjDi6RNEnd",
+          "media_url": "http://pbs.twimg.com/media/CKc7YVxUYAEJ7Fs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKc7YVxUYAEJ7Fs.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/623532373309792256/photo/1",
+          "id_str": "623532362761003009",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ZjDi6RNEnd",
+          "id": 623532362761003009
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964526557",
+      "screen_name": "repalexmooney",
+      "id": 2964526557
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ZjDi6RNEnd",
+          "media_url": "http://pbs.twimg.com/media/CKc7YVxUYAEJ7Fs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKc7YVxUYAEJ7Fs.jpg",
+          "expanded_url": "http://twitter.com/RepAlexMooney/status/623532373309792256/photo/1",
+          "id_str": "623532362761003009",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ZjDi6RNEnd",
+          "id": 623532362761003009
+        }
+      ]
+    },
+    "text": "Our flags are flying at half staff in honor of the 5 courageous service members who lost their lives in #Chattanooga http://t.co/ZjDi6RNEnd",
+    "lang": "en",
+    "created_at": "2015-07-21 16:37:57+00:00",
+    "retweeted": false
+  }
+]

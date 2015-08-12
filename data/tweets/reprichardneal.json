@@ -1,0 +1,2739 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626743980185780224,
+    "id_str": "626743980185780224",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Medicare",
+          "indices": [
+            25,
+            34
+          ]
+        },
+        {
+          "text": "Medicaid",
+          "indices": [
+            41,
+            50
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "President Johnson signed #Medicare &amp; #Medicaid into law 50 years ago today, huge achievement adding years to life &amp; life to years.",
+    "lang": "en",
+    "created_at": "2015-07-30 13:19:43+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626073362297556992,
+      "id_str": "626073362297556992",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/M9TKAuFKVd",
+            "media_url": "http://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+            "expanded_url": "http://twitter.com/sinnfeinireland/status/626073362297556992/photo/1",
+            "id_str": "626073360921800704",
+            "indices": [
+              77,
+              99
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/M9TKAuFKVd",
+            "id": 626073360921800704
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Martin McGuinness",
+            "indices": [
+              1,
+              17
+            ],
+            "id_str": "1189889046",
+            "id": 1189889046,
+            "screen_name": "M_McGuinness_SF"
+          },
+          {
+            "name": "Rep. Richard Neal",
+            "indices": [
+              39,
+              54
+            ],
+            "id_str": "442824717",
+            "id": 442824717,
+            "screen_name": "RepRichardNeal"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22628924",
+        "id": 22628924
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/M9TKAuFKVd",
+            "media_url": "http://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+            "expanded_url": "http://twitter.com/sinnfeinireland/status/626073362297556992/photo/1",
+            "id_str": "626073360921800704",
+            "indices": [
+              77,
+              99
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/M9TKAuFKVd",
+            "id": 626073360921800704
+          }
+        ]
+      },
+      "text": ".@M_McGuinness_SF meeting Congressman .@RepRichardNeal on Capitol Hill today http://t.co/M9TKAuFKVd",
+      "lang": "en",
+      "created_at": "Tue Jul 28 16:54:56 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 22628924,
+          "media_url": "http://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+          "source_user_id_str": "22628924",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "pic.twitter.com/M9TKAuFKVd",
+          "expanded_url": "http://twitter.com/sinnfeinireland/status/626073362297556992/photo/1",
+          "url": "http://t.co/M9TKAuFKVd",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+          "source_status_id_str": "626073362297556992",
+          "id_str": "626073360921800704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 626073360921800704,
+          "source_status_id": 626073362297556992
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626483195333242881,
+    "id_str": "626483195333242881",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 22628924,
+          "media_url": "http://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+          "source_user_id_str": "22628924",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "pic.twitter.com/M9TKAuFKVd",
+          "expanded_url": "http://twitter.com/sinnfeinireland/status/626073362297556992/photo/1",
+          "url": "http://t.co/M9TKAuFKVd",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBCZ5kUMAAsBdo.jpg",
+          "source_status_id_str": "626073362297556992",
+          "id_str": "626073360921800704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 626073360921800704,
+          "source_status_id": 626073362297556992
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Sinn F\u00e9in",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "22628924",
+          "id": 22628924,
+          "screen_name": "sinnfeinireland"
+        },
+        {
+          "name": "Martin McGuinness",
+          "indices": [
+            22,
+            38
+          ],
+          "id_str": "1189889046",
+          "id": 1189889046,
+          "screen_name": "M_McGuinness_SF"
+        },
+        {
+          "name": "Rep. Richard Neal",
+          "indices": [
+            60,
+            75
+          ],
+          "id_str": "442824717",
+          "id": 442824717,
+          "screen_name": "RepRichardNeal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sinnfeinireland: .@M_McGuinness_SF meeting Congressman .@RepRichardNeal on Capitol Hill today http://t.co/M9TKAuFKVd",
+    "lang": "en",
+    "created_at": "2015-07-29 20:03:27+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626088972008165376,
+      "id_str": "626088972008165376",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Swiss",
+            "indices": [
+              68,
+              74
+            ]
+          },
+          {
+            "text": "Caucus",
+            "indices": [
+              75,
+              82
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/JhayBUsBId",
+            "media_url": "http://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+            "expanded_url": "http://twitter.com/Martin_Dahinden/status/626088972008165376/photo/1",
+            "id_str": "626088969927684096",
+            "indices": [
+              100,
+              122
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 455
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 803
+              },
+              "large": {
+                "w": 968,
+                "resize": "fit",
+                "h": 1296
+              }
+            },
+            "display_url": "pic.twitter.com/JhayBUsBId",
+            "id": 626088969927684096
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Richard Neal",
+            "indices": [
+              27,
+              42
+            ],
+            "id_str": "442824717",
+            "id": 442824717,
+            "screen_name": "RepRichardNeal"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "248119592",
+        "id": 248119592
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/JhayBUsBId",
+            "media_url": "http://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+            "expanded_url": "http://twitter.com/Martin_Dahinden/status/626088972008165376/photo/1",
+            "id_str": "626088969927684096",
+            "indices": [
+              100,
+              122
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 455
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 803
+              },
+              "large": {
+                "w": 968,
+                "resize": "fit",
+                "h": 1296
+              }
+            },
+            "display_url": "pic.twitter.com/JhayBUsBId",
+            "id": 626088969927684096
+          }
+        ]
+      },
+      "text": "Enjoyed a great lunch with @RepRichardNeal the newest member of the #Swiss #Caucus on Capitol Hill! http://t.co/JhayBUsBId",
+      "lang": "en",
+      "created_at": "Tue Jul 28 17:56:57 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 248119592,
+          "media_url": "http://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+          "source_user_id_str": "248119592",
+          "indices": [
+            121,
+            140
+          ],
+          "display_url": "pic.twitter.com/JhayBUsBId",
+          "expanded_url": "http://twitter.com/Martin_Dahinden/status/626088972008165376/photo/1",
+          "url": "http://t.co/JhayBUsBId",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+          "source_status_id_str": "626088972008165376",
+          "id_str": "626088969927684096",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 455
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 803
+            },
+            "large": {
+              "w": 968,
+              "resize": "fit",
+              "h": 1296
+            }
+          },
+          "id": 626088969927684096,
+          "source_status_id": 626088972008165376
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626483125036691457,
+    "id_str": "626483125036691457",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Swiss",
+          "indices": [
+            89,
+            95
+          ]
+        },
+        {
+          "text": "Caucus",
+          "indices": [
+            96,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 248119592,
+          "media_url": "http://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+          "source_user_id_str": "248119592",
+          "indices": [
+            121,
+            140
+          ],
+          "display_url": "pic.twitter.com/JhayBUsBId",
+          "expanded_url": "http://twitter.com/Martin_Dahinden/status/626088972008165376/photo/1",
+          "url": "http://t.co/JhayBUsBId",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBQmdpUcAA_3NT.jpg",
+          "source_status_id_str": "626088972008165376",
+          "id_str": "626088969927684096",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 455
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 803
+            },
+            "large": {
+              "w": 968,
+              "resize": "fit",
+              "h": 1296
+            }
+          },
+          "id": 626088969927684096,
+          "source_status_id": 626088972008165376
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Martin Dahinden",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "248119592",
+          "id": 248119592,
+          "screen_name": "Martin_Dahinden"
+        },
+        {
+          "name": "Rep. Richard Neal",
+          "indices": [
+            48,
+            63
+          ],
+          "id_str": "442824717",
+          "id": 442824717,
+          "screen_name": "RepRichardNeal"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Martin_Dahinden: Enjoyed a great lunch with @RepRichardNeal the newest member of the #Swiss #Caucus on Capitol Hill! http://t.co/JhayBU\u2026",
+    "lang": "en",
+    "created_at": "2015-07-29 20:03:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622112934832041984,
+    "id_str": "622112934832041984",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oSMLlCf0Jo",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "on.fb.me/1HWa0wC",
+          "expanded_url": "http://on.fb.me/1HWa0wC"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Springfield",
+          "indices": [
+            10,
+            22
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Raised in #Springfield, graduate of Cathedral, Sgt Tommy Sullivan represented the best of what our city has to offer http://t.co/oSMLlCf0Jo",
+    "lang": "en",
+    "created_at": "2015-07-17 18:37:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621324406879592448,
+    "id_str": "621324406879592448",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tBmLxcQvRa",
+          "indices": [
+            113,
+            135
+          ],
+          "display_url": "on.fb.me/1TCvqHy",
+          "expanded_url": "http://on.fb.me/1TCvqHy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NewHorizons",
+          "indices": [
+            55,
+            67
+          ]
+        },
+        {
+          "text": "Pluto",
+          "indices": [
+            88,
+            94
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I spoke on the House floor to mark the occasion of the #NewHorizons spacecraft reaching #Pluto. An amazing feat: http://t.co/tBmLxcQvRa",
+    "lang": "en",
+    "created_at": "2015-07-15 14:24:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 616577781313445888,
+    "id_str": "616577781313445888",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/EfeHRDXT6m",
+          "media_url": "http://pbs.twimg.com/media/CI6GNfDUEAAu0ZH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CI6GNfDUEAAu0ZH.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/616577781313445888/photo/1",
+          "id_str": "616577765228154880",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/EfeHRDXT6m",
+          "id": 616577765228154880
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "The Adam Wright Show",
+          "indices": [
+            41,
+            56
+          ],
+          "id_str": "2853345568",
+          "id": 2853345568,
+          "screen_name": "adamwrightshow"
+        },
+        {
+          "name": "NewsRadio 560 WHYN",
+          "indices": [
+            60,
+            68
+          ],
+          "id_str": "111012277",
+          "id": 111012277,
+          "screen_name": "WHYN560"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/EfeHRDXT6m",
+          "media_url": "http://pbs.twimg.com/media/CI6GNfDUEAAu0ZH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CI6GNfDUEAAu0ZH.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/616577781313445888/photo/1",
+          "id_str": "616577765228154880",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/EfeHRDXT6m",
+          "id": 616577765228154880
+        }
+      ]
+    },
+    "text": "Lively morning here at Student Prince on @adamwrightshow as @WHYN560 has their big breakfast broadcasting here today http://t.co/EfeHRDXT6m",
+    "lang": "en",
+    "created_at": "2015-07-02 12:02:53+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 615885286984273924,
+    "id_str": "615885286984273924",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Wilbraham",
+          "indices": [
+            27,
+            37
+          ]
+        },
+        {
+          "text": "CD1",
+          "indices": [
+            117,
+            121
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/kdANDHWkRN",
+          "media_url": "http://pbs.twimg.com/media/CIwQZ1qUwAAJ2Ho.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIwQZ1qUwAAJ2Ho.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/615885286984273924/photo/1",
+          "id_str": "615885285130289152",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/kdANDHWkRN",
+          "id": 615885285130289152
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Warren",
+          "indices": [
+            50,
+            60
+          ],
+          "id_str": "970207298",
+          "id": 970207298,
+          "screen_name": "SenWarren"
+        },
+        {
+          "name": "Eric Lesser",
+          "indices": [
+            67,
+            78
+          ],
+          "id_str": "235809142",
+          "id": 235809142,
+          "screen_name": "EricLesser"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kdANDHWkRN",
+          "media_url": "http://pbs.twimg.com/media/CIwQZ1qUwAAJ2Ho.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIwQZ1qUwAAJ2Ho.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/615885286984273924/photo/1",
+          "id_str": "615885285130289152",
+          "indices": [
+            122,
+            144
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/kdANDHWkRN",
+          "id": 615885285130289152
+        }
+      ]
+    },
+    "text": "Great tour of FloDesign in #Wilbraham yesterday w @SenWarren &amp; @EricLesser. So much innovation happening here in #CD1 http://t.co/kdANDHWkRN",
+    "lang": "en",
+    "created_at": "2015-06-30 14:11:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 613781318325936128,
+    "id_str": "613781318325936128",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Williamstown",
+          "indices": [
+            27,
+            40
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/s5WnxgBoAd",
+          "media_url": "http://pbs.twimg.com/media/CISW2yNUsAE6KQ_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CISW2yNUsAE6KQ_.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/613781318325936128/photo/1",
+          "id_str": "613781317163986945",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 480
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 847
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1446
+            }
+          },
+          "display_url": "pic.twitter.com/s5WnxgBoAd",
+          "id": 613781317163986945
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "U.S. Capitol",
+          "indices": [
+            54,
+            64
+          ],
+          "id_str": "17539497",
+          "id": 17539497,
+          "screen_name": "uscapitol"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/s5WnxgBoAd",
+          "media_url": "http://pbs.twimg.com/media/CISW2yNUsAE6KQ_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CISW2yNUsAE6KQ_.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/613781318325936128/photo/1",
+          "id_str": "613781317163986945",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 480
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 847
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1446
+            }
+          },
+          "display_url": "pic.twitter.com/s5WnxgBoAd",
+          "id": 613781317163986945
+        }
+      ]
+    },
+    "text": "I met with Anya Sheldon of #Williamstown today at the @uscapitol as her award-winning art was unveiled http://t.co/s5WnxgBoAd",
+    "lang": "en",
+    "created_at": "2015-06-24 18:50:44+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 613778066347831296,
+    "id_str": "613778066347831296",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Westfield",
+          "indices": [
+            32,
+            42
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/kCvynuuBr3",
+          "media_url": "http://pbs.twimg.com/media/CIST5fqUcAADsYb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIST5fqUcAADsYb.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/613778066347831296/photo/1",
+          "id_str": "613778065190055936",
+          "indices": [
+            76,
+            98
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 336
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 594
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1014
+            }
+          },
+          "display_url": "pic.twitter.com/kCvynuuBr3",
+          "id": 613778065190055936
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Congressional Award",
+          "indices": [
+            55,
+            64
+          ],
+          "id_str": "34402366",
+          "id": 34402366,
+          "screen_name": "theaward"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kCvynuuBr3",
+          "media_url": "http://pbs.twimg.com/media/CIST5fqUcAADsYb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIST5fqUcAADsYb.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/613778066347831296/photo/1",
+          "id_str": "613778065190055936",
+          "indices": [
+            76,
+            98
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 336
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 594
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1014
+            }
+          },
+          "display_url": "pic.twitter.com/kCvynuuBr3",
+          "id": 613778065190055936
+        }
+      ]
+    },
+    "text": "Congrats to Cassandra Steele of #Westfield for winning @theaward Gold Medal http://t.co/kCvynuuBr3",
+    "lang": "en",
+    "created_at": "2015-06-24 18:37:49+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 613039309722157057,
+    "id_str": "613039309722157057",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/sI80PhYxia",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "on.fb.me/1K6IWjh",
+          "expanded_url": "http://on.fb.me/1K6IWjh"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Springfield",
+          "indices": [
+            28,
+            40
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Karyn Polito",
+          "indices": [
+            14,
+            24
+          ],
+          "id_str": "253193437",
+          "id": 253193437,
+          "screen_name": "MassLtGov"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy to have @MassLtGov at #Springfield Union Station today to help announce final $12 mil funding: http://t.co/sI80PhYxia",
+    "lang": "en",
+    "created_at": "2015-06-22 17:42:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 608674157463785472,
+    "id_str": "608674157463785472",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Pittsfield",
+          "indices": [
+            41,
+            52
+          ]
+        },
+        {
+          "text": "Holyoke",
+          "indices": [
+            56,
+            64
+          ]
+        },
+        {
+          "text": "Springfield",
+          "indices": [
+            68,
+            80
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/lWFaIlPRD6",
+          "media_url": "http://pbs.twimg.com/media/CHJx625VAAALEsf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHJx625VAAALEsf.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/608674157463785472/photo/1",
+          "id_str": "608674155630755840",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 513
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 905
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1546
+            }
+          },
+          "display_url": "pic.twitter.com/lWFaIlPRD6",
+          "id": 608674155630755840
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "NMTC Coalition",
+          "indices": [
+            9,
+            23
+          ],
+          "id_str": "237428415",
+          "id": 237428415,
+          "screen_name": "NMTCCoalition"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/lWFaIlPRD6",
+          "media_url": "http://pbs.twimg.com/media/CHJx625VAAALEsf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHJx625VAAALEsf.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/608674157463785472/photo/1",
+          "id_str": "608674155630755840",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 513
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 905
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1546
+            }
+          },
+          "display_url": "pic.twitter.com/lWFaIlPRD6",
+          "id": 608674155630755840
+        }
+      ]
+    },
+    "text": "Spoke at @NMTCCoalition last night. From #Pittsfield to #Holyoke to #Springfield, these tax credits work. http://t.co/lWFaIlPRD6",
+    "lang": "en",
+    "created_at": "2015-06-10 16:36:42+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 606119793029193728,
+    "id_str": "606119793029193728",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Chicopee",
+          "indices": [
+            69,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/FCfwinCdqU",
+          "media_url": "http://pbs.twimg.com/media/CGlevURWQAAV3K3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGlevURWQAAV3K3.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/606119793029193728/photo/1",
+          "id_str": "606119791846375424",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 397
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 678
+            }
+          },
+          "display_url": "pic.twitter.com/FCfwinCdqU",
+          "id": 606119791846375424
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/FCfwinCdqU",
+          "media_url": "http://pbs.twimg.com/media/CGlevURWQAAV3K3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGlevURWQAAV3K3.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/606119793029193728/photo/1",
+          "id_str": "606119791846375424",
+          "indices": [
+            107,
+            129
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 397
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 678
+            }
+          },
+          "display_url": "pic.twitter.com/FCfwinCdqU",
+          "id": 606119791846375424
+        }
+      ]
+    },
+    "text": "Welcomed a terrific group of students from Fairview Middle School in #Chicopee to the Capitol this morning http://t.co/FCfwinCdqU",
+    "lang": "en",
+    "created_at": "2015-06-03 15:26:34+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 605472722488016898,
+    "id_str": "605472722488016898",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "PatriotAct",
+          "indices": [
+            123,
+            134
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Adam Wright Show",
+          "indices": [
+            14,
+            29
+          ],
+          "id_str": "2853345568",
+          "id": 2853345568,
+          "screen_name": "adamwrightshow"
+        },
+        {
+          "name": "NewsRadio 560 WHYN",
+          "indices": [
+            33,
+            41
+          ],
+          "id_str": "111012277",
+          "id": 111012277,
+          "screen_name": "WHYN560"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Listen to the @adamwrightshow on @WHYN560 tomorrow at 8:05am as I discuss the tornado anniversary, Pope Francis HS and the #PatriotAct",
+    "lang": "en",
+    "created_at": "2015-06-01 20:35:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 605431925889765377,
+    "id_str": "605431925889765377",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "SpringfieldMA",
+          "indices": [
+            76,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/iV72B3kUWQ",
+          "media_url": "http://pbs.twimg.com/media/CGbtIMSVIAAHh2z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGbtIMSVIAAHh2z.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/605431925889765377/photo/1",
+          "id_str": "605431924920754176",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iV72B3kUWQ",
+          "id": 605431924920754176
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "HUDgov",
+          "indices": [
+            111,
+            118
+          ],
+          "id_str": "19948202",
+          "id": 19948202,
+          "screen_name": "HUDgov"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/iV72B3kUWQ",
+          "media_url": "http://pbs.twimg.com/media/CGbtIMSVIAAHh2z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGbtIMSVIAAHh2z.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/605431925889765377/photo/1",
+          "id_str": "605431924920754176",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iV72B3kUWQ",
+          "id": 605431924920754176
+        }
+      ]
+    },
+    "text": "On the 4th anniversary of the June 1 tornado, I viewed recovery progress in #SpringfieldMA w Mayor Sarno &amp; @HUDgov http://t.co/iV72B3kUWQ",
+    "lang": "en",
+    "created_at": "2015-06-01 17:53:14+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 600404654405644288,
+    "id_str": "600404654405644288",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/1xObez7H56",
+          "media_url": "http://pbs.twimg.com/media/CFUQ2THWAAACJM8.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFUQ2THWAAACJM8.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/600404654405644288/photo/1",
+          "id_str": "600404650353885184",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/1xObez7H56",
+          "id": 600404650353885184
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Boston Logan Airport",
+          "indices": [
+            49,
+            61
+          ],
+          "id_str": "16888241",
+          "id": 16888241,
+          "screen_name": "BostonLogan"
+        },
+        {
+          "name": "Massport",
+          "indices": [
+            73,
+            82
+          ],
+          "id_str": "15581794",
+          "id": 15581794,
+          "screen_name": "Massport"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/1xObez7H56",
+          "media_url": "http://pbs.twimg.com/media/CFUQ2THWAAACJM8.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFUQ2THWAAACJM8.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/600404654405644288/photo/1",
+          "id_str": "600404650353885184",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/1xObez7H56",
+          "id": 600404650353885184
+        },
+        {
+          "url": "http://t.co/1xObez7H56",
+          "media_url": "http://pbs.twimg.com/media/CFUQ2gJXIAIB5Bh.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFUQ2gJXIAIB5Bh.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/600404654405644288/photo/1",
+          "id_str": "600404653852008450",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/1xObez7H56",
+          "id": 600404653852008450
+        },
+        {
+          "url": "http://t.co/1xObez7H56",
+          "media_url": "http://pbs.twimg.com/media/CFUQ2YbWAAEaH5f.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFUQ2YbWAAEaH5f.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/600404654405644288/photo/1",
+          "id_str": "600404651779948545",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/1xObez7H56",
+          "id": 600404651779948545
+        }
+      ]
+    },
+    "text": "Great morning visiting Berkshire Farms Market at @BostonLogan. Thanks to @Massport for bringing the 413 to the 617 http://t.co/1xObez7H56",
+    "lang": "en",
+    "created_at": "2015-05-18 20:56:39+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 598942945719537664,
+    "id_str": "598942945719537664",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Adam Wright Show",
+          "indices": [
+            15,
+            30
+          ],
+          "id_str": "2853345568",
+          "id": 2853345568,
+          "screen_name": "adamwrightshow"
+        },
+        {
+          "name": "NewsRadio 560 WHYN",
+          "indices": [
+            34,
+            42
+          ],
+          "id_str": "111012277",
+          "id": 111012277,
+          "screen_name": "WHYN560"
+        },
+        {
+          "name": "John Lewis",
+          "indices": [
+            79,
+            92
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        },
+        {
+          "name": "Elms College",
+          "indices": [
+            117,
+            129
+          ],
+          "id_str": "256632596",
+          "id": 256632596,
+          "screen_name": "ElmsCollege"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'll be on the @adamwrightshow on @WHYN560 tomorrow morning at 8:05 discussing @repjohnlewis visit to the area &amp; @ElmsCollege this weekend",
+    "lang": "en",
+    "created_at": "2015-05-14 20:08:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 598573504041197569,
+    "id_str": "598573504041197569",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "mapoli",
+          "indices": [
+            87,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/8t1LqJxRC7",
+          "media_url": "http://pbs.twimg.com/media/CE6PbfQUMAAfCok.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CE6PbfQUMAAfCok.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/598573504041197569/photo/1",
+          "id_str": "598573502896025600",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 397
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 678
+            }
+          },
+          "display_url": "pic.twitter.com/8t1LqJxRC7",
+          "id": 598573502896025600
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Charlie Baker",
+          "indices": [
+            7,
+            20
+          ],
+          "id_str": "18023868",
+          "id": 18023868,
+          "screen_name": "MassGovernor"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8t1LqJxRC7",
+          "media_url": "http://pbs.twimg.com/media/CE6PbfQUMAAfCok.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CE6PbfQUMAAfCok.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/598573504041197569/photo/1",
+          "id_str": "598573502896025600",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 397
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 678
+            }
+          },
+          "display_url": "pic.twitter.com/8t1LqJxRC7",
+          "id": 598573502896025600
+        }
+      ]
+    },
+    "text": "Hosted @MassGovernor in DC today w/ rest of MA Delegation to talk state/federal issues #mapoli http://t.co/8t1LqJxRC7",
+    "lang": "en",
+    "created_at": "2015-05-13 19:40:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 597881308992446465,
+    "id_str": "597881308992446465",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Massachusetts, USA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -73.508143,
+                41.187054
+              ],
+              [
+                -69.858861,
+                41.187054
+              ],
+              [
+                -69.858861,
+                42.8868114
+              ],
+              [
+                -73.508143,
+                42.8868114
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/cd450c94084cbf9b.json",
+        "name": "Massachusetts",
+        "country": "United States",
+        "place_type": "admin",
+        "id": "cd450c94084cbf9b"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 597809505909481472,
+      "id_str": "597809505909481472",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/xw4hhkgir0",
+            "media_url": "http://pbs.twimg.com/media/CEvYk58UkAElC8V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CEvYk58UkAElC8V.jpg",
+            "expanded_url": "http://twitter.com/iberkshires/status/597809505909481472/photo/1",
+            "id_str": "597809504097439745",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/xw4hhkgir0",
+            "id": 597809504097439745
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18701779",
+        "id": 18701779
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/xw4hhkgir0",
+            "media_url": "http://pbs.twimg.com/media/CEvYk58UkAElC8V.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CEvYk58UkAElC8V.jpg",
+            "expanded_url": "http://twitter.com/iberkshires/status/597809505909481472/photo/1",
+            "id_str": "597809504097439745",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/xw4hhkgir0",
+            "id": 597809504097439745
+          }
+        ]
+      },
+      "text": "Rep  Neal on Monday recognizes Mt. Greylock junior Anya Sheldon for winning a district-wide art contest http://t.co/xw4hhkgir0",
+      "lang": "en",
+      "created_at": "Mon May 11 17:04:27 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Ctf0XucL0C",
+          "indices": [
+            106,
+            129
+          ],
+          "display_url": "twitter.com/iberkshires/st\u2026",
+          "expanded_url": "https://twitter.com/iberkshires/status/597809505909481472"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CD1",
+          "indices": [
+            100,
+            104
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "597809505909481472",
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "created_at": "2015-05-11 21:49:46+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congratulations to Anya - her art will hang in the Capitol Building for an entire year on behalf of #CD1  https://t.co/Ctf0XucL0C",
+    "lang": "en",
+    "quoted_status_id": 597809505909481472
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 596379357762953217,
+    "id_str": "596379357762953217",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Holyoke",
+          "indices": [
+            8,
+            16
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/MstuhaHLr6",
+          "media_url": "http://pbs.twimg.com/media/CEbD3X8UIAAsIeK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CEbD3X8UIAAsIeK.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/596379357762953217/photo/1",
+          "id_str": "596379356760383488",
+          "indices": [
+            120,
+            142
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/MstuhaHLr6",
+          "id": 596379356760383488
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Alex Morse",
+          "indices": [
+            82,
+            93
+          ],
+          "id_str": "234785973",
+          "id": 234785973,
+          "screen_name": "MayorMorse"
+        },
+        {
+          "name": "Aaron Vega",
+          "indices": [
+            94,
+            105
+          ],
+          "id_str": "158814186",
+          "id": 158814186,
+          "screen_name": "AaronMVega"
+        },
+        {
+          "name": "PPC",
+          "indices": [
+            112,
+            119
+          ],
+          "id_str": "205400806",
+          "id": 205400806,
+          "screen_name": "ppcnet"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/MstuhaHLr6",
+          "media_url": "http://pbs.twimg.com/media/CEbD3X8UIAAsIeK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CEbD3X8UIAAsIeK.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/596379357762953217/photo/1",
+          "id_str": "596379356760383488",
+          "indices": [
+            120,
+            142
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/MstuhaHLr6",
+          "id": 596379356760383488
+        }
+      ]
+    },
+    "text": "Also in #Holyoke, planted a heritage birch tree at Lawrence School with help from @MayorMorse @aaronmvega &amp; @ppcnet http://t.co/MstuhaHLr6",
+    "lang": "en",
+    "created_at": "2015-05-07 18:21:33+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 596378218690646016,
+    "id_str": "596378218690646016",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Holyoke",
+          "indices": [
+            36,
+            44
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/iyjxPF66rn",
+          "media_url": "http://pbs.twimg.com/media/CEbCzuaUsAA3xwB.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CEbCzuaUsAA3xwB.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/596378218690646016/photo/1",
+          "id_str": "596378194560724992",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iyjxPF66rn",
+          "id": 596378194560724992
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "442824717",
+      "screen_name": "reprichardneal",
+      "id": 442824717
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/iyjxPF66rn",
+          "media_url": "http://pbs.twimg.com/media/CEbCzuaUsAA3xwB.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CEbCzuaUsAA3xwB.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/596378218690646016/photo/1",
+          "id_str": "596378194560724992",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iyjxPF66rn",
+          "id": 596378194560724992
+        },
+        {
+          "url": "http://t.co/iyjxPF66rn",
+          "media_url": "http://pbs.twimg.com/media/CEbC0-UUkAAAnIW.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CEbC0-UUkAAAnIW.jpg",
+          "expanded_url": "http://twitter.com/RepRichardNeal/status/596378218690646016/photo/1",
+          "id_str": "596378216010387456",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/iyjxPF66rn",
+          "id": 596378216010387456
+        }
+      ]
+    },
+    "text": "Toured Meridian Industrial Group in #Holyoke, precision manufacturing focusing on commercial, aerospace, &amp; defense http://t.co/iyjxPF66rn",
+    "lang": "en",
+    "created_at": "2015-05-07 18:17:02+00:00",
+    "retweeted": false
+  }
+]

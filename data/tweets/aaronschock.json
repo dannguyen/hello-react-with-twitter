@@ -1,0 +1,3259 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 46,
+    "favorite_count": 131,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "594130655820312576",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 33,
+      "favorite_count": 65,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 593875759938334720,
+      "id_str": "593875759938334720",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16031927",
+        "id": 16031927
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "I saw the report Rep Aaron Schock missing-I called his cell phone and he answered....so not missing :)",
+      "lang": "en",
+      "created_at": "Thu Apr 30 20:33:09 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/CM1D1WNflP",
+          "indices": [
+            49,
+            72
+          ],
+          "display_url": "twitter.com/greta/status/5\u2026",
+          "expanded_url": "https://twitter.com/greta/status/593875759938334720"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "593875759938334720",
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "favorited": false,
+    "created_at": "2015-05-01 13:26:01+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 594130655820312576,
+    "text": "Glad to know one reporter does her homework..... https://t.co/CM1D1WNflP",
+    "lang": "en",
+    "quoted_status_id": 593875759938334720,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.59349241,
+        40.78569148
+      ]
+    },
+    "retweet_count": 20,
+    "favorite_count": 56,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.78569148,
+        -89.59349241
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/9igqX13aF8",
+          "media_url": "http://pbs.twimg.com/media/CAJBpg_UMAMV2-1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAJBpg_UMAMV2-1.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/577095893209460736/photo/1",
+          "id_str": "577095883742785539",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/9igqX13aF8",
+          "id": 577095883742785539
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 577095893209460736,
+    "id_str": "577095893209460736",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/9igqX13aF8",
+          "media_url": "http://pbs.twimg.com/media/CAJBpg_UMAMV2-1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAJBpg_UMAMV2-1.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/577095893209460736/photo/1",
+          "id_str": "577095883742785539",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/9igqX13aF8",
+          "id": 577095883742785539
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "59143682",
+          "indices": [
+            18,
+            31
+          ],
+          "name": "Illinois Farm Bureau",
+          "id": 59143682,
+          "screen_name": "ILFarmBureau"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "working chow line @ILFarmBureau Farmer's Share of the Food Dollar Breakfast.  This yr: $0.85 cents &amp; 1,800 served http://t.co/9igqX13aF8",
+    "lang": "en",
+    "created_at": "2015-03-15 13:15:57+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.67643884,
+        40.79718153
+      ]
+    },
+    "retweet_count": 10,
+    "favorite_count": 27,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.79718153,
+        -89.67643884
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/q6jdUKDTwA",
+          "media_url": "http://pbs.twimg.com/media/CAFDotBXIAAfOLt.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAFDotBXIAAfOLt.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/576816601690935297/photo/1",
+          "id_str": "576816593839267840",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/q6jdUKDTwA",
+          "id": 576816593839267840
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 576816601690935297,
+    "id_str": "576816601690935297",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/q6jdUKDTwA",
+          "media_url": "http://pbs.twimg.com/media/CAFDotBXIAAfOLt.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAFDotBXIAAfOLt.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/576816601690935297/photo/1",
+          "id_str": "576816593839267840",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/q6jdUKDTwA",
+          "id": 576816593839267840
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Oorah",
+          "indices": [
+            111,
+            117
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "In Jacksonville for Rotary w/my friend Dick Johnson a Congressional Gold Medal recipient Montford Point Marine #Oorah http://t.co/q6jdUKDTwA",
+    "lang": "en",
+    "created_at": "2015-03-14 18:46:09+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 6,
+      "favorite_count": 13,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/l8nyanmo36",
+            "media_url": "http://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+            "expanded_url": "http://twitter.com/mooreforquincy/status/576136783148232704/photo/1",
+            "id_str": "576136745202241536",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 640
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/l8nyanmo36",
+            "id": 576136745202241536
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 576136783148232704,
+      "id_str": "576136783148232704",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/l8nyanmo36",
+            "media_url": "http://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+            "expanded_url": "http://twitter.com/mooreforquincy/status/576136783148232704/photo/1",
+            "id_str": "576136745202241536",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 640
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/l8nyanmo36",
+            "id": 576136745202241536
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "23951197",
+            "indices": [
+              68,
+              80
+            ],
+            "name": "Aaron Schock",
+            "id": 23951197,
+            "screen_name": "aaronschock"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "868408652",
+        "id": 868408652
+      },
+      "text": "At Grown N' Gathered, a local grocery store in downtown Quincy with @aaronschock. Lots going on in the District! http://t.co/l8nyanmo36",
+      "lang": "en",
+      "created_at": "Thu Mar 12 21:44:47 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 868408652,
+          "media_url": "http://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+          "source_user_id_str": "868408652",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/l8nyanmo36",
+          "expanded_url": "http://twitter.com/mooreforquincy/status/576136783148232704/photo/1",
+          "url": "http://t.co/l8nyanmo36",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+          "source_status_id_str": "576136783148232704",
+          "id_str": "576136745202241536",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 576136745202241536,
+          "source_status_id": 576136783148232704
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 576236990552641536,
+    "id_str": "576236990552641536",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 868408652,
+          "media_url": "http://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+          "source_user_id_str": "868408652",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/l8nyanmo36",
+          "expanded_url": "http://twitter.com/mooreforquincy/status/576136783148232704/photo/1",
+          "url": "http://t.co/l8nyanmo36",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_7ZUTfUUAAeeIh.jpg",
+          "source_status_id_str": "576136783148232704",
+          "id_str": "576136745202241536",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 576136745202241536,
+          "source_status_id": 576136783148232704
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "868408652",
+          "indices": [
+            3,
+            18
+          ],
+          "name": "Kyle Moore",
+          "id": 868408652,
+          "screen_name": "mooreforquincy"
+        },
+        {
+          "id_str": "23951197",
+          "indices": [
+            88,
+            100
+          ],
+          "name": "Aaron Schock",
+          "id": 23951197,
+          "screen_name": "aaronschock"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "RT @mooreforquincy: At Grown N' Gathered, a local grocery store in downtown Quincy with @aaronschock. Lots going on in the District! http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-03-13 04:22:59+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.59335633,
+        40.78556383
+      ]
+    },
+    "retweet_count": 7,
+    "favorite_count": 24,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.78556383,
+        -89.59335633
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kUxQpwqyfb",
+          "media_url": "http://pbs.twimg.com/media/B_4_buHUQAAEO8c.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_4_buHUQAAEO8c.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575967560102993920/photo/1",
+          "id_str": "575967547817738240",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kUxQpwqyfb",
+          "id": 575967547817738240
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 575967560102993920,
+    "id_str": "575967560102993920",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/kUxQpwqyfb",
+          "media_url": "http://pbs.twimg.com/media/B_4_buHUQAAEO8c.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_4_buHUQAAEO8c.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575967560102993920/photo/1",
+          "id_str": "575967547817738240",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kUxQpwqyfb",
+          "id": 575967547817738240
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "Sharing some laughs w/Peoria Lion's Club members before addressing their group. Lion's is oldest service org in world http://t.co/kUxQpwqyfb",
+    "lang": "en",
+    "created_at": "2015-03-12 10:32:21+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.63085126,
+        40.74768086
+      ]
+    },
+    "retweet_count": 8,
+    "favorite_count": 20,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.74768086,
+        -89.63085126
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/lEBzRSg0K4",
+          "media_url": "http://pbs.twimg.com/media/B_2lyqbW8AALJIY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_2lyqbW8AALJIY.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575798624384389120/photo/1",
+          "id_str": "575798617174372352",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/lEBzRSg0K4",
+          "id": 575798617174372352
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 575798624384389120,
+    "id_str": "575798624384389120",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/lEBzRSg0K4",
+          "media_url": "http://pbs.twimg.com/media/B_2lyqbW8AALJIY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_2lyqbW8AALJIY.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575798624384389120/photo/1",
+          "id_str": "575798617174372352",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/lEBzRSg0K4",
+          "id": 575798617174372352
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "readytovote",
+          "indices": [
+            102,
+            114
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "Fantastic ?s from the Jr and Sr Olympia High School Class students. Federal debt, Common Core, Israel #readytovote http://t.co/lEBzRSg0K4",
+    "lang": "en",
+    "created_at": "2015-03-11 23:21:04+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.59362731,
+        40.71604663
+      ]
+    },
+    "retweet_count": 3,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.71604663,
+        -89.59362731
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Q82zpoKcXN",
+          "media_url": "http://pbs.twimg.com/media/B_1iW6hWIAErv2b.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_1iW6hWIAErv2b.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575724478992355328/photo/1",
+          "id_str": "575724473179054081",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 190
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 336
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Q82zpoKcXN",
+          "id": 575724473179054081
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 575724478992355328,
+    "id_str": "575724478992355328",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/Q82zpoKcXN",
+          "media_url": "http://pbs.twimg.com/media/B_1iW6hWIAErv2b.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_1iW6hWIAErv2b.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575724478992355328/photo/1",
+          "id_str": "575724473179054081",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 190
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 575
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 336
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/Q82zpoKcXN",
+          "id": 575724473179054081
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "Enjoyed hearing from our 5 outstanding Republican candidates for Peoria City Council early Vote March 23 until Apr 4 http://t.co/Q82zpoKcXN",
+    "lang": "en",
+    "created_at": "2015-03-11 18:26:26+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.59311779,
+        40.78549484
+      ]
+    },
+    "retweet_count": 4,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.78549484,
+        -89.59311779
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/rh5Cu7kCcc",
+          "media_url": "http://pbs.twimg.com/media/B_ybbP1UIAASN3d.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_ybbP1UIAASN3d.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575505758328086528/photo/1",
+          "id_str": "575505744805502976",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/rh5Cu7kCcc",
+          "id": 575505744805502976
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 575505758328086528,
+    "id_str": "575505758328086528",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/rh5Cu7kCcc",
+          "media_url": "http://pbs.twimg.com/media/B_ybbP1UIAASN3d.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_ybbP1UIAASN3d.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575505758328086528/photo/1",
+          "id_str": "575505744805502976",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/rh5Cu7kCcc",
+          "id": 575505744805502976
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "futureleaders",
+          "indices": [
+            99,
+            113
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "Great discussion on congress and the constitution with 8th grade class at Mark Bills Middle School #futureleaders http://t.co/rh5Cu7kCcc",
+    "lang": "en",
+    "created_at": "2015-03-11 03:57:19+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.60353632,
+        40.73897302
+      ]
+    },
+    "retweet_count": 17,
+    "favorite_count": 36,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.73897302,
+        -89.60353632
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/RKsAXHwgF2",
+          "media_url": "http://pbs.twimg.com/media/B_vJC6UVEAASryF.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_vJC6UVEAASryF.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575274437399941120/photo/1",
+          "id_str": "575274429271314432",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/RKsAXHwgF2",
+          "id": 575274429271314432
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 575274437399941120,
+    "id_str": "575274437399941120",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/RKsAXHwgF2",
+          "media_url": "http://pbs.twimg.com/media/B_vJC6UVEAASryF.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B_vJC6UVEAASryF.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/575274437399941120/photo/1",
+          "id_str": "575274429271314432",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/RKsAXHwgF2",
+          "id": 575274429271314432
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "buylocal",
+          "indices": [
+            105,
+            114
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "978853435",
+          "indices": [
+            35,
+            50
+          ],
+          "name": "DESTIHL Brewery",
+          "id": 978853435,
+          "screen_name": "DESTIHLbrewery"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "Learning from the guys on the line @DESTIHLbrewery who has grown from startup to 165 employees in 7 yrs. #buylocal http://t.co/RKsAXHwgF2",
+    "lang": "en",
+    "created_at": "2015-03-10 12:38:08+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -77.01081848,
+          38.88883972
+        ]
+      },
+      "retweet_count": 4,
+      "favorite_count": 11,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "attributes": {},
+        "name": "Washington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "01fbe706f872cb32"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          38.88883972,
+          -77.01081848
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 572534994394083328,
+      "id_str": "572534994394083328",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "23951197",
+            "indices": [
+              6,
+              18
+            ],
+            "name": "Aaron Schock",
+            "id": 23951197,
+            "screen_name": "aaronschock"
+          }
+        ],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "26548315",
+        "id": 26548315
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Cong. @AaronSchock at the Global Poverty Hearing: He's \"committed to bi-partisan muscle when it's time to... help end global poverty\".",
+      "lang": "en",
+      "created_at": "Mon Mar 02 23:12:34 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "572535109359931392",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "26548315",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "Soledad O'Brien",
+          "id": 26548315,
+          "screen_name": "soledadobrien"
+        },
+        {
+          "id_str": "23951197",
+          "indices": [
+            25,
+            37
+          ],
+          "name": "Aaron Schock",
+          "id": 23951197,
+          "screen_name": "aaronschock"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572535109359931392,
+    "text": "RT @soledadobrien: Cong. @AaronSchock at the Global Poverty Hearing: He's \"committed to bi-partisan muscle when it's time to... help end gl\u2026",
+    "lang": "en",
+    "created_at": "2015-03-02 23:13:01+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 8,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/YhFe9BUF4h",
+            "media_url": "http://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+            "expanded_url": "http://twitter.com/Wilderness/status/571418354302517248/photo/1",
+            "id_str": "571418353840947200",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 680
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/YhFe9BUF4h",
+            "id": 571418353840947200
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 571418354302517248,
+      "id_str": "571418354302517248",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/YhFe9BUF4h",
+            "media_url": "http://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+            "expanded_url": "http://twitter.com/Wilderness/status/571418354302517248/photo/1",
+            "id_str": "571418353840947200",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 680
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/YhFe9BUF4h",
+            "id": 571418353840947200
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "993153006",
+            "indices": [
+              4,
+              16
+            ],
+            "name": "US Rep Rodney Davis",
+            "id": 993153006,
+            "screen_name": "RodneyDavis"
+          },
+          {
+            "id_str": "23951197",
+            "indices": [
+              17,
+              29
+            ],
+            "name": "Aaron Schock",
+            "id": 23951197,
+            "screen_name": "aaronschock"
+          },
+          {
+            "id_str": "219429281",
+            "indices": [
+              30,
+              43
+            ],
+            "name": "Adam Kinzinger",
+            "id": 219429281,
+            "screen_name": "RepKinzinger"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "5031151",
+        "id": 5031151
+      },
+      "text": "Thx @RodneyDavis @aaronschock @RepKinzinger for recognizing need to preserve history in Pullman Natl Monument! http://t.co/YhFe9BUF4h",
+      "lang": "en",
+      "created_at": "Fri Feb 27 21:15:26 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 5031151,
+          "media_url": "http://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+          "source_user_id_str": "5031151",
+          "indices": [
+            127,
+            140
+          ],
+          "display_url": "pic.twitter.com/YhFe9BUF4h",
+          "expanded_url": "http://twitter.com/Wilderness/status/571418354302517248/photo/1",
+          "url": "http://t.co/YhFe9BUF4h",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+          "source_status_id_str": "571418354302517248",
+          "id_str": "571418353840947200",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 571418353840947200,
+          "source_status_id": 571418354302517248
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 571450406771027968,
+    "id_str": "571450406771027968",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 5031151,
+          "media_url": "http://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+          "source_user_id_str": "5031151",
+          "indices": [
+            127,
+            140
+          ],
+          "display_url": "pic.twitter.com/YhFe9BUF4h",
+          "expanded_url": "http://twitter.com/Wilderness/status/571418354302517248/photo/1",
+          "url": "http://t.co/YhFe9BUF4h",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-4V9x7UAAA2cw3.jpg",
+          "source_status_id_str": "571418354302517248",
+          "id_str": "571418353840947200",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 571418353840947200,
+          "source_status_id": 571418354302517248
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "5031151",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "Wilderness Society",
+          "id": 5031151,
+          "screen_name": "Wilderness"
+        },
+        {
+          "id_str": "993153006",
+          "indices": [
+            20,
+            32
+          ],
+          "name": "US Rep Rodney Davis",
+          "id": 993153006,
+          "screen_name": "RodneyDavis"
+        },
+        {
+          "id_str": "23951197",
+          "indices": [
+            33,
+            45
+          ],
+          "name": "Aaron Schock",
+          "id": 23951197,
+          "screen_name": "aaronschock"
+        },
+        {
+          "id_str": "219429281",
+          "indices": [
+            46,
+            59
+          ],
+          "name": "Adam Kinzinger",
+          "id": 219429281,
+          "screen_name": "RepKinzinger"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "RT @Wilderness: Thx @RodneyDavis @aaronschock @RepKinzinger for recognizing need to preserve history in Pullman Natl Monument! http://t.co/\u2026",
+    "lang": "en",
+    "created_at": "2015-02-27 23:22:48+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.62359522,
+        40.79180797
+      ]
+    },
+    "retweet_count": 20,
+    "favorite_count": 61,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.79180797,
+        -89.62359522
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/VsPuaeKmNk",
+          "media_url": "http://pbs.twimg.com/media/B-YNaipCIAAv4X6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-YNaipCIAAv4X6.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/569157158954274816/photo/1",
+          "id_str": "569157152535617536",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/VsPuaeKmNk",
+          "id": 569157152535617536
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 569157158954274816,
+    "id_str": "569157158954274816",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/VsPuaeKmNk",
+          "media_url": "http://pbs.twimg.com/media/B-YNaipCIAAv4X6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-YNaipCIAAv4X6.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/569157158954274816/photo/1",
+          "id_str": "569157152535617536",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/VsPuaeKmNk",
+          "id": 569157152535617536
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "freedomisnotfree",
+          "indices": [
+            103,
+            120
+          ]
+        }
+      ],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "Wishing our troops well &amp; thanking their families as the Bartonville 419 heads to the Middle East. #freedomisnotfree http://t.co/VsPuaeKmNk",
+    "lang": "en",
+    "created_at": "2015-02-21 15:30:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.59861101,
+        40.68577753
+      ]
+    },
+    "retweet_count": 5,
+    "favorite_count": 16,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.68577753,
+        -89.59861101
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/DkKHONPb8q",
+          "media_url": "http://pbs.twimg.com/media/B-T0Og3IMAAPgHC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-T0Og3IMAAPgHC.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/568847989604798464/photo/1",
+          "id_str": "568847983132028928",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/DkKHONPb8q",
+          "id": 568847983132028928
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 568847989604798464,
+    "id_str": "568847989604798464",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/DkKHONPb8q",
+          "media_url": "http://pbs.twimg.com/media/B-T0Og3IMAAPgHC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-T0Og3IMAAPgHC.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/568847989604798464/photo/1",
+          "id_str": "568847983132028928",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/DkKHONPb8q",
+          "id": 568847983132028928
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "1004855106",
+          "indices": [
+            31,
+            43
+          ],
+          "name": "Bruce Rauner",
+          "id": 1004855106,
+          "screen_name": "BruceRauner"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "CEO Doug Oberhelman and IL Gov @BruceRauner unveiling the new design..This will have a huge ripple effect on downtown http://t.co/DkKHONPb8q",
+    "lang": "en",
+    "created_at": "2015-02-20 19:01:44+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.59879207,
+        40.68576935
+      ]
+    },
+    "retweet_count": 17,
+    "favorite_count": 32,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/f54a2170ff4b15f7.json",
+      "country_code": "US",
+      "full_name": "Illinois, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -91.51308,
+              36.970298
+            ],
+            [
+              -87.019935,
+              36.970298
+            ],
+            [
+              -87.019935,
+              42.508303
+            ],
+            [
+              -91.51308,
+              42.508303
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Illinois",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "f54a2170ff4b15f7"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.68576935,
+        -89.59879207
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kLc8LuCVah",
+          "media_url": "http://pbs.twimg.com/media/B-TzqDRIIAAPQFs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-TzqDRIIAAPQFs.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/568847363894353920/photo/1",
+          "id_str": "568847356712722432",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kLc8LuCVah",
+          "id": 568847356712722432
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 568847363894353920,
+    "id_str": "568847363894353920",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/kLc8LuCVah",
+          "media_url": "http://pbs.twimg.com/media/B-TzqDRIIAAPQFs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-TzqDRIIAAPQFs.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/568847363894353920/photo/1",
+          "id_str": "568847356712722432",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/kLc8LuCVah",
+          "id": 568847356712722432
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "15101714",
+          "indices": [
+            15,
+            30
+          ],
+          "name": "Caterpillar Inc.",
+          "id": 15101714,
+          "screen_name": "CaterpillarInc"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "GAME CHANGER - @CaterpillarInc announces new world headquarters in Peoria, IL.  State's largest employer stays put. http://t.co/kLc8LuCVah",
+    "lang": "en",
+    "created_at": "2015-02-20 18:59:14+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.59347571,
+        40.78532085
+      ]
+    },
+    "retweet_count": 8,
+    "favorite_count": 22,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/7021e749f1518e43.json",
+      "country_code": "US",
+      "full_name": "Peoria Heights, IL",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -89.591033,
+              40.728668
+            ],
+            [
+              -89.552232,
+              40.728668
+            ],
+            [
+              -89.552232,
+              40.7610612
+            ],
+            [
+              -89.591033,
+              40.7610612
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Peoria Heights",
+      "country": "United States",
+      "place_type": "city",
+      "id": "7021e749f1518e43"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        40.78532085,
+        -89.59347571
+      ]
+    },
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/KUv0bZGkbz",
+          "media_url": "http://pbs.twimg.com/media/B-QvlDsIAAAmM09.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-QvlDsIAAAmM09.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/568631772193419264/photo/1",
+          "id_str": "568631766647570432",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 681
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/KUv0bZGkbz",
+          "id": 568631766647570432
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 568631772193419264,
+    "id_str": "568631772193419264",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/KUv0bZGkbz",
+          "media_url": "http://pbs.twimg.com/media/B-QvlDsIAAAmM09.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B-QvlDsIAAAmM09.jpg",
+          "expanded_url": "http://twitter.com/aaronschock/status/568631772193419264/photo/1",
+          "id_str": "568631766647570432",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 681
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/KUv0bZGkbz",
+          "id": 568631766647570432
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "Great visit to St. Thomas School, Peoria Heights as they prepare for their Constitution test.  Good luck on the exam! http://t.co/KUv0bZGkbz",
+    "lang": "en",
+    "created_at": "2015-02-20 04:42:33+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 16,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "568011527447568384",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "41873654",
+          "indices": [
+            58,
+            73
+          ],
+          "name": "Illinois State",
+          "id": 41873654,
+          "screen_name": "IllinoisStateU"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/QsCsVXKUhc",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "video-static.clipsyndicate.com/zStorage/syndi\u2026",
+          "expanded_url": "http://video-static.clipsyndicate.com/zStorage/syndicaster2/154/2015/02/18/04/49/54e419bc8a47.mp4?co_id=118"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 568011527447568384,
+    "text": "Thanks to all who attended the Human Trafficking event at @IllinoisStateU to learn more watch:  http://t.co/QsCsVXKUhc",
+    "lang": "en",
+    "created_at": "2015-02-18 11:37:55+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -89.68702021,
+        39.80433149
+      ]
+    },
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "url": "https://api.twitter.com/1.1/geo/id/ce1765e3abafe93e.json",
+      "country_code": "US",
+      "full_name": "Springfield, IL",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -89.7731855,
+              39.673272
+            ],
+            [
+              -89.546193,
+              39.673272
+            ],
+            [
+              -89.546193,
+              39.87542
+            ],
+            [
+              -89.7731855,
+              39.87542
+            ]
+          ]
+        ]
+      },
+      "attributes": {},
+      "name": "Springfield",
+      "country": "United States",
+      "place_type": "city",
+      "id": "ce1765e3abafe93e"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        39.80433149,
+        -89.68702021
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id_str": "567798999336648705",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/HRDYCePF37",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "instagram.com/p/zN69FiJPtU/",
+          "expanded_url": "http://instagram.com/p/zN69FiJPtU/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 567798999336648705,
+    "text": "Proud to support SPARC - who is making a difference for constituents with disabilities.  Giving them\u2026 http://t.co/HRDYCePF37",
+    "lang": "en",
+    "created_at": "2015-02-17 21:33:25+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "567742102327418880",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "23951197",
+            "indices": [
+              93,
+              105
+            ],
+            "name": "Aaron Schock",
+            "id": 23951197,
+            "screen_name": "aaronschock"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "taxfreeIRA",
+            "indices": [
+              106,
+              117
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/P6KG05C7l3",
+            "indices": [
+              70,
+              92
+            ],
+            "display_url": "riponadvance.com/news/house-pas\u2026",
+            "expanded_url": "http://riponadvance.com/news/house-passes-schock-bill-making-tax-free-ira-contributions-permanent/10563"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1613575663",
+        "id": 1613575663
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 567742102327418880,
+      "text": "House passes Schock bill making tax-free IRA contributions permanent: http://t.co/P6KG05C7l3 @aaronschock #taxfreeIRA",
+      "lang": "en",
+      "created_at": "Tue Feb 17 17:47:19 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "567744515604508673",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "1613575663",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "Ripon Advance",
+          "id": 1613575663,
+          "screen_name": "RiponAdvance"
+        },
+        {
+          "id_str": "23951197",
+          "indices": [
+            111,
+            123
+          ],
+          "name": "Aaron Schock",
+          "id": 23951197,
+          "screen_name": "aaronschock"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "taxfreeIRA",
+          "indices": [
+            124,
+            135
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/P6KG05C7l3",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "riponadvance.com/news/house-pas\u2026",
+          "expanded_url": "http://riponadvance.com/news/house-passes-schock-bill-making-tax-free-ira-contributions-permanent/10563"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 567744515604508673,
+    "text": "RT @RiponAdvance: House passes Schock bill making tax-free IRA contributions permanent: http://t.co/P6KG05C7l3 @aaronschock #taxfreeIRA",
+    "lang": "en",
+    "created_at": "2015-02-17 17:56:55+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 398,
+      "favorite_count": 151,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/yV0aKjmY8y",
+            "media_url": "http://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+            "expanded_url": "http://twitter.com/AnneBayefsky/status/567324466061930496/photo/1",
+            "id_str": "567324465931902976",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 370
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1117
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 654
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/yV0aKjmY8y",
+            "id": 567324465931902976
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 567324466061930496,
+      "id_str": "567324466061930496",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/yV0aKjmY8y",
+            "media_url": "http://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+            "expanded_url": "http://twitter.com/AnneBayefsky/status/567324466061930496/photo/1",
+            "id_str": "567324465931902976",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 370
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1117
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 654
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/yV0aKjmY8y",
+            "id": 567324465931902976
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Christians",
+            "indices": [
+              25,
+              36
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/ZzcS5nFONl",
+            "indices": [
+              90,
+              112
+            ],
+            "display_url": "1.usa.gov/1yLwuMh",
+            "expanded_url": "http://1.usa.gov/1yLwuMh"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "342894187",
+        "id": 342894187
+      },
+      "text": "WH condemns slaughter of #Christians by Islamists, w/o mentioning Christian or Islamists! http://t.co/ZzcS5nFONl http://t.co/yV0aKjmY8y",
+      "lang": "en",
+      "created_at": "Mon Feb 16 14:07:47 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 398,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 342894187,
+          "media_url": "http://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+          "source_user_id_str": "342894187",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/yV0aKjmY8y",
+          "expanded_url": "http://twitter.com/AnneBayefsky/status/567324466061930496/photo/1",
+          "url": "http://t.co/yV0aKjmY8y",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+          "source_status_id_str": "567324466061930496",
+          "id_str": "567324465931902976",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 370
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1117
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 654
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 567324465931902976,
+          "source_status_id": 567324466061930496
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 567439824576331777,
+    "id_str": "567439824576331777",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 342894187,
+          "media_url": "http://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+          "source_user_id_str": "342894187",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/yV0aKjmY8y",
+          "expanded_url": "http://twitter.com/AnneBayefsky/status/567324466061930496/photo/1",
+          "url": "http://t.co/yV0aKjmY8y",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B9-KmJBCYAABcjg.jpg",
+          "source_status_id_str": "567324466061930496",
+          "id_str": "567324465931902976",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 370
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1117
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 654
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 567324465931902976,
+          "source_status_id": 567324466061930496
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Christians",
+          "indices": [
+            43,
+            54
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "342894187",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "Anne Bayefsky",
+          "id": 342894187,
+          "screen_name": "AnneBayefsky"
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/ZzcS5nFONl",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "1.usa.gov/1yLwuMh",
+          "expanded_url": "http://1.usa.gov/1yLwuMh"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "text": "RT @AnneBayefsky: WH condemns slaughter of #Christians by Islamists, w/o mentioning Christian or Islamists! http://t.co/ZzcS5nFONl http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-02-16 21:46:11+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "565894456260694016",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/TrVcq7XGWY",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "aaronschock.com/lincoln-day-tr\u2026",
+          "expanded_url": "http://www.aaronschock.com/lincoln-day-trivia-challenge/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "23951197",
+      "screen_name": "aaronschock",
+      "id": 23951197
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 565894456260694016,
+    "text": "I'm celebrating President Lincoln's birthday and giving you the chance to win a Schock t-shirt!  http://t.co/TrVcq7XGWY",
+    "lang": "en",
+    "created_at": "2015-02-12 15:25:26+00:00",
+    "retweeted": false
+  }
+]

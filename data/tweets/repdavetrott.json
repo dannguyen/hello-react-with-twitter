@@ -1,0 +1,2738 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626104147696156672,
+    "id_str": "626104147696156672",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/pRh3oP5dPj",
+          "indices": [
+            114,
+            137
+          ],
+          "display_url": "youtu.be/V9dAy4cMwXw",
+          "expanded_url": "https://youtu.be/V9dAy4cMwXw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            80,
+            89
+          ]
+        },
+        {
+          "text": "BadDeal",
+          "indices": [
+            90,
+            98
+          ]
+        },
+        {
+          "text": "NoNuclearIran",
+          "indices": [
+            99,
+            113
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Kerry",
+          "indices": [
+            23,
+            33
+          ],
+          "id_str": "15007149",
+          "id": 15007149,
+          "screen_name": "JohnKerry"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Reminding Sec.of State @JohnKerry that you can't do a good deal with a bad guy. #IranDeal #BadDeal #NoNuclearIran https://t.co/pRh3oP5dPj",
+    "lang": "en",
+    "created_at": "2015-07-28 18:57:15+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623500967716241408,
+      "id_str": "623500967716241408",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/w0AAtf6NQw",
+            "media_url": "http://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+            "expanded_url": "http://twitter.com/ANCofMI/status/623500967716241408/photo/1",
+            "id_str": "623500957473640449",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 386
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 682
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1164
+              }
+            },
+            "display_url": "pic.twitter.com/w0AAtf6NQw",
+            "id": 623500957473640449
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "ANC-MI",
+            "indices": [
+              5,
+              13
+            ],
+            "id_str": "1421897719",
+            "id": 1421897719,
+            "screen_name": "ANCofMI"
+          },
+          {
+            "name": "Rep. Dave Trott",
+            "indices": [
+              31,
+              44
+            ],
+            "id_str": "2869746172",
+            "id": 2869746172,
+            "screen_name": "repdavetrott"
+          },
+          {
+            "name": "Marty Knollenberg",
+            "indices": [
+              69,
+              81
+            ],
+            "id_str": "27557053",
+            "id": 27557053,
+            "screen_name": "knollenberg"
+          },
+          {
+            "name": "ANCA Eastern Region",
+            "indices": [
+              104,
+              112
+            ],
+            "id_str": "858677732",
+            "id": 858677732,
+            "screen_name": "ANCA_ER"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1421897719",
+        "id": 1421897719
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/w0AAtf6NQw",
+            "media_url": "http://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+            "expanded_url": "http://twitter.com/ANCofMI/status/623500967716241408/photo/1",
+            "id_str": "623500957473640449",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 386
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 682
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1164
+              }
+            },
+            "display_url": "pic.twitter.com/w0AAtf6NQw",
+            "id": 623500957473640449
+          },
+          {
+            "url": "http://t.co/w0AAtf6NQw",
+            "media_url": "http://pbs.twimg.com/media/CKce01FUsAASy-K.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKce01FUsAASy-K.jpg",
+            "expanded_url": "http://twitter.com/ANCofMI/status/623500967716241408/photo/1",
+            "id_str": "623500966365540352",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1365
+              }
+            },
+            "display_url": "pic.twitter.com/w0AAtf6NQw",
+            "id": 623500966365540352
+          }
+        ]
+      },
+      "text": "Team @ANCofMI with Congressman @repdavetrott and State Senator Marty @knollenberg at Armenia Fest 2015. @ANCA_ER http://t.co/w0AAtf6NQw",
+      "lang": "en",
+      "created_at": "Tue Jul 21 14:33:09 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1421897719,
+          "media_url": "http://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+          "source_user_id_str": "1421897719",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/w0AAtf6NQw",
+          "expanded_url": "http://twitter.com/ANCofMI/status/623500967716241408/photo/1",
+          "url": "http://t.co/w0AAtf6NQw",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+          "source_status_id_str": "623500967716241408",
+          "id_str": "623500957473640449",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 386
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 682
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1164
+            }
+          },
+          "id": 623500957473640449,
+          "source_status_id": 623500967716241408
+        },
+        {
+          "source_user_id": 1421897719,
+          "media_url": "http://pbs.twimg.com/media/CKce01FUsAASy-K.jpg",
+          "source_user_id_str": "1421897719",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/w0AAtf6NQw",
+          "expanded_url": "http://twitter.com/ANCofMI/status/623500967716241408/photo/1",
+          "url": "http://t.co/w0AAtf6NQw",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKce01FUsAASy-K.jpg",
+          "source_status_id_str": "623500967716241408",
+          "id_str": "623500966365540352",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "id": 623500966365540352,
+          "source_status_id": 623500967716241408
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624570174948175873,
+    "id_str": "624570174948175873",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 1421897719,
+          "media_url": "http://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+          "source_user_id_str": "1421897719",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/w0AAtf6NQw",
+          "expanded_url": "http://twitter.com/ANCofMI/status/623500967716241408/photo/1",
+          "url": "http://t.co/w0AAtf6NQw",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKce0T9VEAEJbre.jpg",
+          "source_status_id_str": "623500967716241408",
+          "id_str": "623500957473640449",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 386
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 682
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1164
+            }
+          },
+          "id": 623500957473640449,
+          "source_status_id": 623500967716241408
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "ANC-MI",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "1421897719",
+          "id": 1421897719,
+          "screen_name": "ANCofMI"
+        },
+        {
+          "name": "ANC-MI",
+          "indices": [
+            18,
+            26
+          ],
+          "id_str": "1421897719",
+          "id": 1421897719,
+          "screen_name": "ANCofMI"
+        },
+        {
+          "name": "Rep. Dave Trott",
+          "indices": [
+            44,
+            57
+          ],
+          "id_str": "2869746172",
+          "id": 2869746172,
+          "screen_name": "repdavetrott"
+        },
+        {
+          "name": "Marty Knollenberg",
+          "indices": [
+            82,
+            94
+          ],
+          "id_str": "27557053",
+          "id": 27557053,
+          "screen_name": "knollenberg"
+        },
+        {
+          "name": "ANCA Eastern Region",
+          "indices": [
+            117,
+            125
+          ],
+          "id_str": "858677732",
+          "id": 858677732,
+          "screen_name": "ANCA_ER"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ANCofMI: Team @ANCofMI with Congressman @repdavetrott and State Senator Marty @knollenberg at Armenia Fest 2015. @ANCA_ER http://t.co/w\u2026",
+    "lang": "en",
+    "created_at": "2015-07-24 13:21:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623563429161357312",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "29614859",
+    "id": 624570103661756416,
+    "id_str": "624570103661756416",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Duane Marshall",
+          "indices": [
+            0,
+            14
+          ],
+          "id_str": "29614859",
+          "id": 29614859,
+          "screen_name": "duanemarshall"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623563429161357312,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 29614859,
+    "in_reply_to_screen_name": "duanemarshall",
+    "retweeted": false,
+    "text": "@duanemarshall Thanks for stopping by!  Hope you enjoyed your time in Washington!",
+    "lang": "en",
+    "created_at": "2015-07-24 13:21:31+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "2869746172",
+      "id": 623563429161357312,
+      "id_str": "623563429161357312",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/uEcNiTKHR4",
+            "media_url": "http://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+            "expanded_url": "http://twitter.com/duanemarshall/status/623563429161357312/photo/1",
+            "id_str": "623563419464019968",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/uEcNiTKHR4",
+            "id": 623563419464019968
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Dave Trott",
+            "indices": [
+              0,
+              13
+            ],
+            "id_str": "2869746172",
+            "id": 2869746172,
+            "screen_name": "repdavetrott"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29614859",
+        "id": 29614859
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 2869746172,
+      "in_reply_to_screen_name": "repdavetrott",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/uEcNiTKHR4",
+            "media_url": "http://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+            "expanded_url": "http://twitter.com/duanemarshall/status/623563429161357312/photo/1",
+            "id_str": "623563419464019968",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/uEcNiTKHR4",
+            "id": 623563419464019968
+          }
+        ]
+      },
+      "text": "@repdavetrott your staff was great yesterday! Thanks for the tour we really enjoyed it. http://t.co/uEcNiTKHR4",
+      "lang": "en",
+      "created_at": "Tue Jul 21 18:41:21 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 29614859,
+          "media_url": "http://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+          "source_user_id_str": "29614859",
+          "indices": [
+            107,
+            129
+          ],
+          "display_url": "pic.twitter.com/uEcNiTKHR4",
+          "expanded_url": "http://twitter.com/duanemarshall/status/623563429161357312/photo/1",
+          "url": "http://t.co/uEcNiTKHR4",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+          "source_status_id_str": "623563429161357312",
+          "id_str": "623563419464019968",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 623563419464019968,
+          "source_status_id": 623563429161357312
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624570015489110016,
+    "id_str": "624570015489110016",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 29614859,
+          "media_url": "http://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+          "source_user_id_str": "29614859",
+          "indices": [
+            107,
+            129
+          ],
+          "display_url": "pic.twitter.com/uEcNiTKHR4",
+          "expanded_url": "http://twitter.com/duanemarshall/status/623563429161357312/photo/1",
+          "url": "http://t.co/uEcNiTKHR4",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdXoFAUsAAzCSk.jpg",
+          "source_status_id_str": "623563429161357312",
+          "id_str": "623563419464019968",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 623563419464019968,
+          "source_status_id": 623563429161357312
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Duane Marshall",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "29614859",
+          "id": 29614859,
+          "screen_name": "duanemarshall"
+        },
+        {
+          "name": "Rep. Dave Trott",
+          "indices": [
+            19,
+            32
+          ],
+          "id_str": "2869746172",
+          "id": 2869746172,
+          "screen_name": "repdavetrott"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @duanemarshall: @repdavetrott your staff was great yesterday! Thanks for the tour we really enjoyed it. http://t.co/uEcNiTKHR4",
+    "lang": "en",
+    "created_at": "2015-07-24 13:21:10+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "name": "Washington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "01fbe706f872cb32"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623888095302316036,
+      "id_str": "623888095302316036",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "hpm",
+            "indices": [
+              109,
+              113
+            ]
+          },
+          {
+            "text": "PQLC",
+            "indices": [
+              114,
+              119
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/tlcbXb1PCP",
+            "media_url": "http://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+            "expanded_url": "http://twitter.com/liz3305/status/623888095302316036/photo/1",
+            "id_str": "623888016445165568",
+            "indices": [
+              120,
+              142
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/tlcbXb1PCP",
+            "id": 623888016445165568
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Dave Trott",
+            "indices": [
+              10,
+              23
+            ],
+            "id_str": "2869746172",
+            "id": 2869746172,
+            "screen_name": "repdavetrott"
+          },
+          {
+            "name": "St. John Providence",
+            "indices": [
+              83,
+              94
+            ],
+            "id_str": "18190848",
+            "id": 18190848,
+            "screen_name": "StJohnProv"
+          },
+          {
+            "name": "Ascension",
+            "indices": [
+              95,
+              108
+            ],
+            "id_str": "19782216",
+            "id": 19782216,
+            "screen_name": "Ascensionorg"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "93773275",
+        "id": 93773275
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/tlcbXb1PCP",
+            "media_url": "http://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+            "expanded_url": "http://twitter.com/liz3305/status/623888095302316036/photo/1",
+            "id_str": "623888016445165568",
+            "indices": [
+              120,
+              142
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/tlcbXb1PCP",
+            "id": 623888016445165568
+          }
+        ]
+      },
+      "text": "Thank you @repdavetrott &amp; Anna Leieritz for discussing Palliative Care HR3119. @StJohnProv @Ascensionorg #hpm #PQLC http://t.co/tlcbXb1PCP",
+      "lang": "en",
+      "created_at": "Wed Jul 22 16:11:27 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 93773275,
+          "media_url": "http://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+          "source_user_id_str": "93773275",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/tlcbXb1PCP",
+          "expanded_url": "http://twitter.com/liz3305/status/623888095302316036/photo/1",
+          "url": "http://t.co/tlcbXb1PCP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+          "source_status_id_str": "623888095302316036",
+          "id_str": "623888016445165568",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623888016445165568,
+          "source_status_id": 623888095302316036
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624569824925097984,
+    "id_str": "624569824925097984",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "hpm",
+          "indices": [
+            122,
+            126
+          ]
+        },
+        {
+          "text": "PQLC",
+          "indices": [
+            127,
+            132
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 93773275,
+          "media_url": "http://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+          "source_user_id_str": "93773275",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/tlcbXb1PCP",
+          "expanded_url": "http://twitter.com/liz3305/status/623888095302316036/photo/1",
+          "url": "http://t.co/tlcbXb1PCP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKh-2G_WUAAI7cZ.jpg",
+          "source_status_id_str": "623888095302316036",
+          "id_str": "623888016445165568",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623888016445165568,
+          "source_status_id": 623888095302316036
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Liz DiStefano",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "93773275",
+          "id": 93773275,
+          "screen_name": "liz3305"
+        },
+        {
+          "name": "Rep. Dave Trott",
+          "indices": [
+            23,
+            36
+          ],
+          "id_str": "2869746172",
+          "id": 2869746172,
+          "screen_name": "repdavetrott"
+        },
+        {
+          "name": "St. John Providence",
+          "indices": [
+            96,
+            107
+          ],
+          "id_str": "18190848",
+          "id": 18190848,
+          "screen_name": "StJohnProv"
+        },
+        {
+          "name": "Ascension",
+          "indices": [
+            108,
+            121
+          ],
+          "id_str": "19782216",
+          "id": 19782216,
+          "screen_name": "Ascensionorg"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @liz3305: Thank you @repdavetrott &amp; Anna Leieritz for discussing Palliative Care HR3119. @StJohnProv @Ascensionorg #hpm #PQLC http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-07-24 13:20:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624240555736846337,
+    "id_str": "624240555736846337",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/9FsH74dhDq",
+          "indices": [
+            58,
+            81
+          ],
+          "display_url": "youtu.be/GD8zBP5B0OY",
+          "expanded_url": "https://youtu.be/GD8zBP5B0OY"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            17,
+            26
+          ]
+        },
+        {
+          "text": "NoNuclearIran",
+          "indices": [
+            33,
+            47
+          ]
+        },
+        {
+          "text": "BadDeal",
+          "indices": [
+            48,
+            56
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We can vote this #IranDeal down. #NoNuclearIran #BadDeal  https://t.co/9FsH74dhDq",
+    "lang": "en",
+    "created_at": "2015-07-23 15:32:00+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623146186959097856,
+      "id_str": "623146186959097856",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/deOyJw1Jdr",
+            "indices": [
+              59,
+              81
+            ],
+            "display_url": "ow.ly/PNSrK",
+            "expanded_url": "http://ow.ly/PNSrK"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Dave Trott",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "2869746172",
+            "id": 2869746172,
+            "screen_name": "repdavetrott"
+          },
+          {
+            "name": "C-SPAN2's BookTV",
+            "indices": [
+              51,
+              58
+            ],
+            "id_str": "60628575",
+            "id": 60628575,
+            "screen_name": "BookTV"
+          },
+          {
+            "name": "Robin Sharma",
+            "indices": [
+              82,
+              96
+            ],
+            "id_str": "26244629",
+            "id": 26244629,
+            "screen_name": "_robin_sharma"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "60628575",
+        "id": 60628575
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@repdavetrott shared his summer reading list with @BookTV http://t.co/deOyJw1Jdr @_robin_sharma Tell us what you're reading this summer...",
+      "lang": "en",
+      "created_at": "Mon Jul 20 15:03:23 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623156446885249025,
+    "id_str": "623156446885249025",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/deOyJw1Jdr",
+          "indices": [
+            71,
+            93
+          ],
+          "display_url": "ow.ly/PNSrK",
+          "expanded_url": "http://ow.ly/PNSrK"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "C-SPAN2's BookTV",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "60628575",
+          "id": 60628575,
+          "screen_name": "BookTV"
+        },
+        {
+          "name": "Rep. Dave Trott",
+          "indices": [
+            13,
+            26
+          ],
+          "id_str": "2869746172",
+          "id": 2869746172,
+          "screen_name": "repdavetrott"
+        },
+        {
+          "name": "C-SPAN2's BookTV",
+          "indices": [
+            63,
+            70
+          ],
+          "id_str": "60628575",
+          "id": 60628575,
+          "screen_name": "BookTV"
+        },
+        {
+          "name": "Robin Sharma",
+          "indices": [
+            94,
+            108
+          ],
+          "id_str": "26244629",
+          "id": 26244629,
+          "screen_name": "_robin_sharma"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @BookTV: .@repdavetrott shared his summer reading list with @BookTV http://t.co/deOyJw1Jdr @_robin_sharma Tell us what you're reading th\u2026",
+    "lang": "en",
+    "created_at": "2015-07-20 15:44:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621339791410503681,
+    "id_str": "621339791410503681",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            37,
+            46
+          ]
+        },
+        {
+          "text": "NoNuclearIran",
+          "indices": [
+            85,
+            99
+          ]
+        },
+        {
+          "text": "MI11",
+          "indices": [
+            100,
+            105
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/R7N5fySKxm",
+          "media_url": "http://pbs.twimg.com/media/CJ9xP3bWEAA_cmo.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ9xP3bWEAA_cmo.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/621339791410503681/photo/1",
+          "id_str": "621339790991036416",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 262
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 462
+            },
+            "large": {
+              "w": 611,
+              "resize": "fit",
+              "h": 471
+            }
+          },
+          "display_url": "pic.twitter.com/R7N5fySKxm",
+          "id": 621339790991036416
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/R7N5fySKxm",
+          "media_url": "http://pbs.twimg.com/media/CJ9xP3bWEAA_cmo.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ9xP3bWEAA_cmo.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/621339791410503681/photo/1",
+          "id_str": "621339790991036416",
+          "indices": [
+            106,
+            128
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 262
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 462
+            },
+            "large": {
+              "w": 611,
+              "resize": "fit",
+              "h": 471
+            }
+          },
+          "display_url": "pic.twitter.com/R7N5fySKxm",
+          "id": 621339790991036416
+        }
+      ]
+    },
+    "text": "From yesterday...reading through the #IranDeal page by page. This deal is a mistake. #NoNuclearIran #MI11 http://t.co/R7N5fySKxm",
+    "lang": "en",
+    "created_at": "2015-07-15 15:25:24+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620961510081318916,
+    "id_str": "620961510081318916",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/NkuJmaCGgq",
+          "indices": [
+            36,
+            58
+          ],
+          "display_url": "1.usa.gov/1K5IMaW",
+          "expanded_url": "http://1.usa.gov/1K5IMaW"
+        },
+        {
+          "url": "https://t.co/YYTVQE8Xlj",
+          "indices": [
+            61,
+            84
+          ],
+          "display_url": "youtu.be/Nx_dkuaR0H4",
+          "expanded_url": "https://youtu.be/Nx_dkuaR0H4"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            12,
+            21
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "President's #IranDeal is a mistake. http://t.co/NkuJmaCGgq   https://t.co/YYTVQE8Xlj",
+    "lang": "en",
+    "created_at": "2015-07-14 14:22:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619211502554365952,
+    "id_str": "619211502554365952",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/gz1IUzcqgv",
+          "indices": [
+            105,
+            128
+          ],
+          "display_url": "youtu.be/jCONVl0lluw",
+          "expanded_url": "https://youtu.be/jCONVl0lluw"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "POTUS",
+          "indices": [
+            7,
+            13
+          ]
+        },
+        {
+          "text": "Iran",
+          "indices": [
+            55,
+            60
+          ]
+        },
+        {
+          "text": "IranTalks",
+          "indices": [
+            93,
+            103
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Why is #POTUS so determined to make this bad deal with #Iran?  Why doesn't he walk away from #IranTalks? https://t.co/gz1IUzcqgv",
+    "lang": "en",
+    "created_at": "2015-07-09 18:28:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "614496307059798017",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2785969180",
+    "id": 615532852713791489,
+    "id_str": "615532852713791489",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Bill Vincent",
+          "indices": [
+            0,
+            16
+          ],
+          "id_str": "2785969180",
+          "id": 2785969180,
+          "screen_name": "billvincent5637"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 614496307059798017,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 2785969180,
+    "in_reply_to_screen_name": "billvincent5637",
+    "retweeted": false,
+    "text": "@billvincent5637, thanks for sharing your thoughts on this issue. I am already a  proud cosponsor of 21st Century Cures bill.",
+    "lang": "en",
+    "created_at": "2015-06-29 14:50:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 615530621595701248,
+    "id_str": "615530621595701248",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/rNApXTU4jY",
+          "indices": [
+            53,
+            75
+          ],
+          "display_url": "on.freep.com/1SXJomW",
+          "expanded_url": "http://on.freep.com/1SXJomW"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PureMichigan",
+          "indices": [
+            5,
+            18
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Yes, #PureMichigan is the best state in the country! http://t.co/rNApXTU4jY",
+    "lang": "en",
+    "created_at": "2015-06-29 14:41:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 613718551157964800,
+    "id_str": "613718551157964800",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MI11",
+          "indices": [
+            23,
+            28
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/j5NW5uzyVO",
+          "media_url": "http://pbs.twimg.com/media/CIRdxSIUkAAA6HL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIRdxSIUkAAA6HL.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/613718551157964800/photo/1",
+          "id_str": "613718550490943488",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/j5NW5uzyVO",
+          "id": 613718550490943488
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/j5NW5uzyVO",
+          "media_url": "http://pbs.twimg.com/media/CIRdxSIUkAAA6HL.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIRdxSIUkAAA6HL.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/613718551157964800/photo/1",
+          "id_str": "613718550490943488",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "display_url": "pic.twitter.com/j5NW5uzyVO",
+          "id": 613718550490943488
+        }
+      ]
+    },
+    "text": "Sending letters out to #MI11 citizens who have written to me about the important issues facing Southeast Michigan. http://t.co/j5NW5uzyVO",
+    "lang": "en",
+    "created_at": "2015-06-24 14:41:19+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 611157298032037889,
+    "id_str": "611157298032037889",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MI11",
+          "indices": [
+            112,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Po3uirCd7h",
+          "media_url": "http://pbs.twimg.com/media/CHtEUuFUcAEGJF6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHtEUuFUcAEGJF6.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/611157298032037889/photo/1",
+          "id_str": "611157297197248513",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/Po3uirCd7h",
+          "id": 611157297197248513
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Po3uirCd7h",
+          "media_url": "http://pbs.twimg.com/media/CHtEUuFUcAEGJF6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CHtEUuFUcAEGJF6.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/611157298032037889/photo/1",
+          "id_str": "611157297197248513",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/Po3uirCd7h",
+          "id": 611157297197248513
+        }
+      ]
+    },
+    "text": "It was great to talk with Bloomfield Hills High School students in Washington. Thanks for coming by the office! #MI11 http://t.co/Po3uirCd7h",
+    "lang": "en",
+    "created_at": "2015-06-17 13:03:49+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 605358860279390208,
+    "id_str": "605358860279390208",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MI11",
+          "indices": [
+            30,
+            35
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/xrfsrcWCUW",
+          "media_url": "http://pbs.twimg.com/media/CGaqrPNUcAAdfZy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGaqrPNUcAAdfZy.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/605358860279390208/photo/1",
+          "id_str": "605358859721404416",
+          "indices": [
+            59,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/xrfsrcWCUW",
+          "id": 605358859721404416
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/Q6W4Iz1PQx",
+          "indices": [
+            36,
+            58
+          ],
+          "display_url": "bit.ly/1K4fxX5",
+          "expanded_url": "http://bit.ly/1K4fxX5"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Chaldean News",
+          "indices": [
+            16,
+            29
+          ],
+          "id_str": "77223748",
+          "id": 77223748,
+          "screen_name": "chaldeannews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xrfsrcWCUW",
+          "media_url": "http://pbs.twimg.com/media/CGaqrPNUcAAdfZy.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CGaqrPNUcAAdfZy.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/605358860279390208/photo/1",
+          "id_str": "605358859721404416",
+          "indices": [
+            59,
+            81
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/xrfsrcWCUW",
+          "id": 605358859721404416
+        }
+      ]
+    },
+    "text": "My op-ed in the @chaldeannews #MI11 http://t.co/Q6W4Iz1PQx http://t.co/xrfsrcWCUW",
+    "lang": "en",
+    "created_at": "2015-06-01 13:02:53+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 603193952502689792,
+    "id_str": "603193952502689792",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/hSn1oTEs4k",
+          "indices": [
+            96,
+            119
+          ],
+          "display_url": "youtu.be/GU4Hl1zf1g4",
+          "expanded_url": "https://youtu.be/GU4Hl1zf1g4"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AwesomeClawsonKids",
+          "indices": [
+            18,
+            37
+          ]
+        },
+        {
+          "text": "MI11",
+          "indices": [
+            39,
+            44
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My interview with #AwesomeClawsonKids. #MI11 is lucky to be home to such great young reporters! https://t.co/hSn1oTEs4k",
+    "lang": "en",
+    "created_at": "2015-05-26 13:40:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 602819529102721026,
+    "id_str": "602819529102721026",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MemorialDay",
+          "indices": [
+            8,
+            20
+          ]
+        },
+        {
+          "text": "MI11",
+          "indices": [
+            22,
+            27
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/I1KokjYT78",
+          "media_url": "http://pbs.twimg.com/media/CF2lKt5WAAA0jk5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CF2lKt5WAAA0jk5.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/602819529102721026/photo/1",
+          "id_str": "602819528674902016",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 208
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 367
+            },
+            "large": {
+              "w": 694,
+              "resize": "fit",
+              "h": 425
+            }
+          },
+          "display_url": "pic.twitter.com/I1KokjYT78",
+          "id": 602819528674902016
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/I1KokjYT78",
+          "media_url": "http://pbs.twimg.com/media/CF2lKt5WAAA0jk5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CF2lKt5WAAA0jk5.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/602819529102721026/photo/1",
+          "id_str": "602819528674902016",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 208
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 367
+            },
+            "large": {
+              "w": 694,
+              "resize": "fit",
+              "h": 425
+            }
+          },
+          "display_url": "pic.twitter.com/I1KokjYT78",
+          "id": 602819528674902016
+        }
+      ]
+    },
+    "text": "On this #MemorialDay, #MI11 honors the brave men and women who have given their lives for the cause of freedom. http://t.co/I1KokjYT78",
+    "lang": "en",
+    "created_at": "2015-05-25 12:52:30+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 600673689449975808,
+      "id_str": "600673689449975808",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/gUqbyPXYXo",
+            "indices": [
+              110,
+              132
+            ],
+            "display_url": "bit.ly/1HK115k",
+            "expanded_url": "http://bit.ly/1HK115k"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "PSAs",
+            "indices": [
+              64,
+              69
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Dave Trott",
+            "indices": [
+              13,
+              26
+            ],
+            "id_str": "2869746172",
+            "id": 2869746172,
+            "screen_name": "repdavetrott"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "180914207",
+        "id": 180914207
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you to @repdavetrott of MI and his wife Kappy for filming #PSAs on healthy kids and distracted driving! http://t.co/gUqbyPXYXo",
+      "lang": "en",
+      "created_at": "Tue May 19 14:45:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 601425027460915200,
+    "id_str": "601425027460915200",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/gUqbyPXYXo",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "bit.ly/1HK115k",
+          "expanded_url": "http://bit.ly/1HK115k"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PSAs",
+          "indices": [
+            84,
+            89
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "NAB Public Service",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "180914207",
+          "id": 180914207,
+          "screen_name": "BroadlyServing"
+        },
+        {
+          "name": "Rep. Dave Trott",
+          "indices": [
+            33,
+            46
+          ],
+          "id_str": "2869746172",
+          "id": 2869746172,
+          "screen_name": "repdavetrott"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @BroadlyServing: Thank you to @repdavetrott of MI and his wife Kappy for filming #PSAs on healthy kids and distracted driving! http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-05-21 16:31:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 599593397268119552,
+    "id_str": "599593397268119552",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ArmedForcesDay",
+          "indices": [
+            94,
+            109
+          ]
+        },
+        {
+          "text": "MI11",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/qxqQe0nChT",
+          "media_url": "http://pbs.twimg.com/media/CFIvBHnWgAAkzz1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFIvBHnWgAAkzz1.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/599593397268119552/photo/1",
+          "id_str": "599593396664172544",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 175
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 310
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 529
+            }
+          },
+          "display_url": "pic.twitter.com/qxqQe0nChT",
+          "id": 599593396664172544
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/qxqQe0nChT",
+          "media_url": "http://pbs.twimg.com/media/CFIvBHnWgAAkzz1.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CFIvBHnWgAAkzz1.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/599593397268119552/photo/1",
+          "id_str": "599593396664172544",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 175
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 310
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 529
+            }
+          },
+          "display_url": "pic.twitter.com/qxqQe0nChT",
+          "id": 599593396664172544
+        }
+      ]
+    },
+    "text": "We are in Southeast Michigan today honoring the brave men &amp; women who serve our nation on #ArmedForcesDay #MI11 http://t.co/qxqQe0nChT",
+    "lang": "en",
+    "created_at": "2015-05-16 15:13:00+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 598946236650106880,
+    "id_str": "598946236650106880",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "POTUS",
+          "indices": [
+            17,
+            23
+          ]
+        },
+        {
+          "text": "IranDeal",
+          "indices": [
+            60,
+            69
+          ]
+        },
+        {
+          "text": "NoNuclearIran",
+          "indices": [
+            70,
+            84
+          ]
+        },
+        {
+          "text": "MI11",
+          "indices": [
+            85,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/zRRSf6SMZS",
+          "media_url": "http://pbs.twimg.com/media/CE_ibajWEAAiA-t.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CE_ibajWEAAiA-t.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/598946236650106880/photo/1",
+          "id_str": "598946236075479040",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 180
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 318
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 543
+            }
+          },
+          "display_url": "pic.twitter.com/zRRSf6SMZS",
+          "id": 598946236075479040
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/CtVm4xOax4",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "1.usa.gov/1FnpAqc",
+          "expanded_url": "http://1.usa.gov/1FnpAqc"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2869746172",
+      "screen_name": "repdavetrott",
+      "id": 2869746172
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/zRRSf6SMZS",
+          "media_url": "http://pbs.twimg.com/media/CE_ibajWEAAiA-t.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CE_ibajWEAAiA-t.jpg",
+          "expanded_url": "http://twitter.com/repdavetrott/status/598946236650106880/photo/1",
+          "id_str": "598946236075479040",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 180
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 318
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 543
+            }
+          },
+          "display_url": "pic.twitter.com/zRRSf6SMZS",
+          "id": 598946236075479040
+        }
+      ]
+    },
+    "text": "I voted to force #POTUS to have Congress review any nuclear #IranDeal.#NoNuclearIran #MI11 http://t.co/CtVm4xOax4 http://t.co/zRRSf6SMZS",
+    "lang": "en",
+    "created_at": "2015-05-14 20:21:25+00:00",
+    "retweeted": false
+  }
+]

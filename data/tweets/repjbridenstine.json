@@ -1,0 +1,1515 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 28,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 27,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626408277488861184,
+    "id_str": "626408277488861184",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/9LKWzbx1BO",
+          "indices": [
+            63,
+            85
+          ],
+          "display_url": "dailysignal.com/2015/07/28/sen\u2026",
+          "expanded_url": "http://dailysignal.com/2015/07/28/senate-will-attempt-to-defund-planned-parenthood-before-recess/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            30,
+            48
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Senate Will Attempt to Defund #PlannedParenthood Before Recess http://t.co/9LKWzbx1BO",
+    "lang": "en",
+    "created_at": "2015-07-29 15:05:46+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 14,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626160692043890688,
+      "id_str": "626160692043890688",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/E3wTAzyTAS",
+            "indices": [
+              114,
+              136
+            ],
+            "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+            "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "PlannedParenthood",
+            "indices": [
+              95,
+              113
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Jim Bridenstine",
+            "indices": [
+              10,
+              26
+            ],
+            "id_str": "1092757885",
+            "id": 1092757885,
+            "screen_name": "RepJBridenstine"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "17918065",
+        "id": 17918065
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thanks to @RepJBridenstine for introducing bill banning gov contracts to companies donating to #PlannedParenthood http://t.co/E3wTAzyTAS",
+      "lang": "en",
+      "created_at": "Tue Jul 28 22:41:57 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626160754752786432,
+    "id_str": "626160754752786432",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E3wTAzyTAS",
+          "indices": [
+            127,
+            140
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            108,
+            126
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Susan B Anthony List",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "17918065",
+          "id": 17918065,
+          "screen_name": "SBAList"
+        },
+        {
+          "name": "Jim Bridenstine",
+          "indices": [
+            23,
+            39
+          ],
+          "id_str": "1092757885",
+          "id": 1092757885,
+          "screen_name": "RepJBridenstine"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SBAList: Thanks to @RepJBridenstine for introducing bill banning gov contracts to companies donating to #PlannedParenthood http://t.co/\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 22:42:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "9508922",
+    "id": 626159848867168256,
+    "id_str": "626159848867168256",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LnPpfchqIE",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            74,
+            92
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Jim DeMint",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "9508922",
+          "id": 9508922,
+          "screen_name": "JimDeMint"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 9508922,
+    "in_reply_to_screen_name": "JimDeMint",
+    "retweeted": false,
+    "text": "@JimDeMint GRACE Act: No government contracts for companies who donate to #PlannedParenthood. http://t.co/LnPpfchqIE",
+    "lang": "en",
+    "created_at": "2015-07-28 22:38:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "522526229",
+    "id": 626159770911789056,
+    "id_str": "626159770911789056",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LnPpfchqIE",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            76,
+            94
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "MarjorieDannenfelser",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "522526229",
+          "id": 522526229,
+          "screen_name": "marjoriesba"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 522526229,
+    "in_reply_to_screen_name": "marjoriesba",
+    "retweeted": false,
+    "text": "@marjoriesba GRACE Act: No government contracts for companies who donate to #PlannedParenthood. http://t.co/LnPpfchqIE",
+    "lang": "en",
+    "created_at": "2015-07-28 22:38:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "17918065",
+    "id": 626159634013941761,
+    "id_str": "626159634013941761",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LnPpfchqIE",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            72,
+            90
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Susan B Anthony List",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "17918065",
+          "id": 17918065,
+          "screen_name": "SBAList"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 17918065,
+    "in_reply_to_screen_name": "SBAList",
+    "retweeted": false,
+    "text": "@SBAList GRACE Act: No government contracts for companies who donate to #PlannedParenthood. http://t.co/LnPpfchqIE",
+    "lang": "en",
+    "created_at": "2015-07-28 22:37:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "18958999",
+    "id": 626159491365609472,
+    "id_str": "626159491365609472",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LnPpfchqIE",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            73,
+            91
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Tony Perkins",
+          "indices": [
+            0,
+            9
+          ],
+          "id_str": "18958999",
+          "id": 18958999,
+          "screen_name": "tperkins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 18958999,
+    "in_reply_to_screen_name": "tperkins",
+    "retweeted": false,
+    "text": "@tperkins GRACE Act: No government contracts for companies who donate to #PlannedParenthood. http://t.co/LnPpfchqIE",
+    "lang": "en",
+    "created_at": "2015-07-28 22:37:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "844401067",
+    "id": 626159409534763008,
+    "id_str": "626159409534763008",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LnPpfchqIE",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            77,
+            95
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Kate Scanlon",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "844401067",
+          "id": 844401067,
+          "screen_name": "scanlon_kate"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 844401067,
+    "in_reply_to_screen_name": "scanlon_kate",
+    "retweeted": false,
+    "text": "@scanlon_kate GRACE Act: No government contracts for companies who donate to #PlannedParenthood. http://t.co/LnPpfchqIE",
+    "lang": "en",
+    "created_at": "2015-07-28 22:36:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "389034983",
+    "id": 626159111751737344,
+    "id_str": "626159111751737344",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LnPpfchqIE",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            79,
+            97
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Melissa Quinn",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "389034983",
+          "id": 389034983,
+          "screen_name": "MelissaQuinn97"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 389034983,
+    "in_reply_to_screen_name": "MelissaQuinn97",
+    "retweeted": false,
+    "text": "@MelissaQuinn97 GRACE Act: No government contracts for companies who donate to #PlannedParenthood. http://t.co/LnPpfchqIE",
+    "lang": "en",
+    "created_at": "2015-07-28 22:35:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 37,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 25,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626157170900533248,
+    "id_str": "626157170900533248",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/LnPpfchqIE",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=497"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            98,
+            116
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today, I introduced the GRACE Act, a bill that denies govt contracts for companies that donate to #PlannedParenthood. http://t.co/LnPpfchqIE",
+    "lang": "en",
+    "created_at": "2015-07-28 22:27:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 24,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 20,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623525704999796736,
+    "id_str": "623525704999796736",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/S4fBz3heuH",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "tulsaworld.com/opinion/reader\u2026",
+          "expanded_url": "http://www.tulsaworld.com/opinion/readersforum/u-s-rep-jim-bridenstine-iran-nuclear-deal-is-a/article_2b8f2b35-c250-5715-bc3a-588611f0e3d1.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            27,
+            32
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            59,
+            64
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "U.S. Rep. Jim Bridenstine: #Iran nuclear deal is a failure #tcot http://t.co/S4fBz3heuH",
+    "lang": "en",
+    "created_at": "2015-07-21 16:11:27+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 276,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 232,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621785842944733185,
+      "id_str": "621785842944733185",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/FWDOGuhXXV",
+            "indices": [
+              111,
+              134
+            ],
+            "display_url": "youtube.com/watch?v=7bYeLo\u2026",
+            "expanded_url": "https://www.youtube.com/watch?v=7bYeLo0fASU&feature=youtu.be"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "225921757",
+        "id": 225921757
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"Every adult who can hear me now was once 20 weeks old in the womb. That's a human being we're talking about.\" https://t.co/FWDOGuhXXV",
+      "lang": "en",
+      "created_at": "Thu Jul 16 20:57:51 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 276,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622098007970983936,
+    "id_str": "622098007970983936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/FWDOGuhXXV",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "youtube.com/watch?v=7bYeLo\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=7bYeLo0fASU&feature=youtu.be"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sen. James Lankford",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "225921757",
+          "id": 225921757,
+          "screen_name": "SenatorLankford"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenatorLankford: \"Every adult who can hear me now was once 20 weeks old in the womb. That's a human being we're talking about.\" https:/\u2026",
+    "lang": "en",
+    "created_at": "2015-07-17 17:38:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 270,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 230,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621793851183792128,
+    "id_str": "621793851183792128",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Chattanooga",
+          "indices": [
+            82,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/qAtkrSpq0j",
+          "media_url": "http://pbs.twimg.com/media/CKEONi_UsAALRur.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKEONi_UsAALRur.png",
+          "expanded_url": "http://twitter.com/RepJBridenstine/status/621793851183792128/photo/1",
+          "id_str": "621793849447329792",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/qAtkrSpq0j",
+          "id": 621793849447329792
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/qAtkrSpq0j",
+          "media_url": "http://pbs.twimg.com/media/CKEONi_UsAALRur.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKEONi_UsAALRur.png",
+          "expanded_url": "http://twitter.com/RepJBridenstine/status/621793851183792128/photo/1",
+          "id_str": "621793849447329792",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/qAtkrSpq0j",
+          "id": 621793849447329792
+        }
+      ]
+    },
+    "text": "Please join me in prayer for the families of the Marines who were killed today in #Chattanooga. http://t.co/qAtkrSpq0j",
+    "lang": "en",
+    "created_at": "2015-07-16 21:29:41+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 18,
+    "favorite_count": 28,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621767120959897600,
+    "id_str": "621767120959897600",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Chattanooga",
+          "indices": [
+            34,
+            46
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I am devastated by the tragedy in #Chattanooga.  Please join me in prayer for all those affected.",
+    "lang": "en",
+    "created_at": "2015-07-16 19:43:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 55,
+    "favorite_count": 44,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621703971384725504,
+    "id_str": "621703971384725504",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            113,
+            131
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I am a cosponsor of H.R.217 \u2013 Title X Abortion Provider Prohibition Act, which would revoke taxpayer funding for #PlannedParenthood .",
+    "lang": "en",
+    "created_at": "2015-07-16 15:32:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 45,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 41,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620971257597706240,
+    "id_str": "620971257597706240",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/lykXfBCzyu",
+          "indices": [
+            81,
+            103
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=484"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            65,
+            74
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            75,
+            80
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I will not be complicit in paving Iran's way to a nuclear weapon #IranDeal #tcot http://t.co/lykXfBCzyu",
+    "lang": "en",
+    "created_at": "2015-07-14 15:00:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 17,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 18,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 620628375837757440,
+    "id_str": "620628375837757440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/QieFvSh3Y1",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "youtube.com/watch?v=wLqOWm\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=wLqOWm0mCLk"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            22,
+            26
+          ]
+        },
+        {
+          "text": "WOTUS",
+          "indices": [
+            102,
+            108
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I recently called out #EPA Administrator McCarthy for inappropriately pressuring employees to promote #WOTUS. Video: https://t.co/QieFvSh3Y1",
+    "lang": "en",
+    "created_at": "2015-07-13 16:18:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 615936653979426816,
+    "id_str": "615936653979426816",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/c2QaYXbgUS",
+          "indices": [
+            47,
+            69
+          ],
+          "display_url": "tulsaworld.com/opinion/otherv\u2026",
+          "expanded_url": "http://www.tulsaworld.com/opinion/othervoices/u-s-rep-jim-bridenstine-necessary-conditions-for-an-iran/article_218f7a41-f7eb-5252-9368-d9ab06238954.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            35,
+            44
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            70,
+            75
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Op-Ed: Necessary conditions for an #IranDeal : http://t.co/c2QaYXbgUS #tcot",
+    "lang": "en",
+    "created_at": "2015-06-30 17:35:16+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 96,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 59,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 614200610511060992,
+      "id_str": "614200610511060992",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/5C6SGSButb",
+            "indices": [
+              111,
+              133
+            ],
+            "display_url": "bit.ly/1GAMCUY",
+            "expanded_url": "http://bit.ly/1GAMCUY"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "SCOTUScare",
+            "indices": [
+              4,
+              15
+            ]
+          },
+          {
+            "text": "SupremeCourt",
+            "indices": [
+              29,
+              42
+            ]
+          },
+          {
+            "text": "Obamacare",
+            "indices": [
+              60,
+              70
+            ]
+          },
+          {
+            "text": "PJNET",
+            "indices": [
+              134,
+              140
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2929491549",
+        "id": 2929491549
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The #SCOTUScare Act requires #SupremeCourt Justices to join #Obamacare - ensuring they feel impact of decision http://t.co/5C6SGSButb #PJNET",
+      "lang": "en",
+      "created_at": "Thu Jun 25 22:36:51 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 96,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 614530456135036929,
+    "id_str": "614530456135036929",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/5C6SGSButb",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "bit.ly/1GAMCUY",
+          "expanded_url": "http://bit.ly/1GAMCUY"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SCOTUScare",
+          "indices": [
+            23,
+            34
+          ]
+        },
+        {
+          "text": "SupremeCourt",
+          "indices": [
+            48,
+            61
+          ]
+        },
+        {
+          "text": "Obamacare",
+          "indices": [
+            79,
+            89
+          ]
+        },
+        {
+          "text": "PJNET",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Brian Babin",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "2929491549",
+          "id": 2929491549,
+          "screen_name": "RepBrianBabin"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepBrianBabin: The #SCOTUScare Act requires #SupremeCourt Justices to join #Obamacare - ensuring they feel impact of decision http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-06-26 20:27:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 43,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 30,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 614193516302962688,
+    "id_str": "614193516302962688",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            77,
+            87
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            89,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/bl9GpB8aBi",
+          "media_url": "http://pbs.twimg.com/media/CIYNv4OWsAA_BxM.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIYNv4OWsAA_BxM.png",
+          "expanded_url": "http://twitter.com/RepJBridenstine/status/614193516302962688/photo/1",
+          "id_str": "614193515380256768",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/bl9GpB8aBi",
+          "id": 614193515380256768
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/T7Upc3PKd0",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "bridenstine.house.gov/blog/?postid=4\u2026",
+          "expanded_url": "http://bridenstine.house.gov/blog/?postid=464"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/bl9GpB8aBi",
+          "media_url": "http://pbs.twimg.com/media/CIYNv4OWsAA_BxM.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIYNv4OWsAA_BxM.png",
+          "expanded_url": "http://twitter.com/RepJBridenstine/status/614193516302962688/photo/1",
+          "id_str": "614193515380256768",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/bl9GpB8aBi",
+          "id": 614193515380256768
+        }
+      ]
+    },
+    "text": "Despite the SCOTUS decision, I'm committed to repealing every single word of #Obamacare. #tcot http://t.co/T7Upc3PKd0 http://t.co/bl9GpB8aBi",
+    "lang": "en",
+    "created_at": "2015-06-25 22:08:40+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 613709603621203968,
+    "id_str": "613709603621203968",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/x0R2BV1GOG",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "ustream.tv/channel/hclive\u2026",
+          "expanded_url": "http://www.ustream.tv/channel/hclive10"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1092757885",
+      "screen_name": "repjbridenstine",
+      "id": 1092757885
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "HAPPENING NOW: I am chairing a hearing to examine how the EPA's Clean Power Plan will raise electricity rates: http://t.co/x0R2BV1GOG",
+    "lang": "en",
+    "created_at": "2015-06-24 14:05:46+00:00"
+  }
+]

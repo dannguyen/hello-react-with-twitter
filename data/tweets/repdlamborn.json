@@ -1,0 +1,2029 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629684319884345344,
+    "id_str": "629684319884345344",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VAAccountability",
+          "indices": [
+            0,
+            17
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/z9BVlRHpkP",
+          "media_url": "http://pbs.twimg.com/media/CL0WjVLWsAAkN0M.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0WjVLWsAAkN0M.png",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/629684319884345344/photo/1",
+          "id_str": "629684319137738752",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/z9BVlRHpkP",
+          "id": 629684319137738752
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/uer5tqMfTe",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "gop.gov/yourstory/",
+          "expanded_url": "http://www.gop.gov/yourstory/"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/z9BVlRHpkP",
+          "media_url": "http://pbs.twimg.com/media/CL0WjVLWsAAkN0M.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0WjVLWsAAkN0M.png",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/629684319884345344/photo/1",
+          "id_str": "629684319137738752",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 500
+            }
+          },
+          "display_url": "pic.twitter.com/z9BVlRHpkP",
+          "id": 629684319137738752
+        }
+      ]
+    },
+    "text": "#VAAccountability is so important &amp; veterans deserve better.\nPlease visit http://t.co/uer5tqMfTe to share your story http://t.co/z9BVlRHpkP",
+    "lang": "en",
+    "created_at": "2015-08-07 16:03:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629303625463033856,
+    "id_str": "629303625463033856",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/N2B1QQkFEg",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "wsj.com/articles/thank\u2026",
+          "expanded_url": "http://www.wsj.com/articles/thank-god-for-the-atom-bomb-1438642925"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Bret Stephens",
+          "indices": [
+            23,
+            35
+          ],
+          "id_str": "1428659995",
+          "id": 1428659995,
+          "screen_name": "StephensWSJ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Interesting piece from @StephensWSJ on the 70th Anniversary of the bombing of Hiroshima. http://t.co/N2B1QQkFEg",
+    "lang": "en",
+    "created_at": "2015-08-06 14:50:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629299817743826948,
+    "id_str": "629299817743826948",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tgk4BeS8sb",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "bizjournals.com/sacramento/new\u2026",
+          "expanded_url": "http://www.bizjournals.com/sacramento/news/2015/08/05/local-biomedical-companyloses-customer-over.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            74,
+            98
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'm working hard to keep up the pressure and end this appalling practice. #DefundPlannedParenthood\nhttp://t.co/tgk4BeS8sb",
+    "lang": "en",
+    "created_at": "2015-08-06 14:35:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628971418995302401,
+    "id_str": "628971418995302401",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            74,
+            83
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ag7dXam8N6",
+          "media_url": "http://pbs.twimg.com/media/CLqOLCgW8AEpqyG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqOLCgW8AEpqyG.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/628971418995302401/photo/1",
+          "id_str": "628971418273902593",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 777
+            },
+            "large": {
+              "w": 699,
+              "resize": "fit",
+              "h": 906
+            }
+          },
+          "display_url": "pic.twitter.com/ag7dXam8N6",
+          "id": 628971418273902593
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            40,
+            46
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ag7dXam8N6",
+          "media_url": "http://pbs.twimg.com/media/CLqOLCgW8AEpqyG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqOLCgW8AEpqyG.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/628971418995302401/photo/1",
+          "id_str": "628971418273902593",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 777
+            },
+            "large": {
+              "w": 699,
+              "resize": "fit",
+              "h": 906
+            }
+          },
+          "display_url": "pic.twitter.com/ag7dXam8N6",
+          "id": 628971418273902593
+        },
+        {
+          "url": "http://t.co/ag7dXam8N6",
+          "media_url": "http://pbs.twimg.com/media/CLqOK9DXAAELjq8.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqOK9DXAAELjq8.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/628971418995302401/photo/1",
+          "id_str": "628971416810094593",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 778
+            },
+            "large": {
+              "w": 697,
+              "resize": "fit",
+              "h": 904
+            }
+          },
+          "display_url": "pic.twitter.com/ag7dXam8N6",
+          "id": 628971416810094593
+        }
+      ]
+    },
+    "text": "Joining my colleagues in calling on the @POTUS to release the text of the #IranDeal side deals. http://t.co/ag7dXam8N6",
+    "lang": "en",
+    "created_at": "2015-08-05 16:50:46+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628954280133791744,
+    "id_str": "628954280133791744",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1aU85va3zB",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "s59.podbean.com/pb/b6bbb355c96\u2026",
+          "expanded_url": "http://s59.podbean.com/pb/b6bbb355c96562c73df32bf0be9ba269/55c21c60/data2/blogs18/266312/uploads/08042015_Seg3_Lamborn_web.mp3"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            72,
+            81
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Secure Freedom",
+          "indices": [
+            20,
+            34
+          ],
+          "id_str": "20708260",
+          "id": 20708260,
+          "screen_name": "securefreedom"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Yesterday, I joined @securefreedom radio's Frank Gaffney to discuss the #IranDeal &amp; give a status update on the NDAA. http://t.co/1aU85va3zB",
+    "lang": "en",
+    "created_at": "2015-08-05 15:42:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628589920140021760,
+    "id_str": "628589920140021760",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 229,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 83,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628582205900591105,
+      "id_str": "628582205900591105",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/lDptTPCWxN",
+            "media_url": "http://pbs.twimg.com/media/CLksGRRWgAAOI2O.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLksGRRWgAAOI2O.png",
+            "expanded_url": "http://twitter.com/LifeNewsHQ/status/628582205900591105/photo/1",
+            "id_str": "628582109221912576",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 397
+              },
+              "large": {
+                "w": 699,
+                "resize": "fit",
+                "h": 463
+              }
+            },
+            "display_url": "pic.twitter.com/lDptTPCWxN",
+            "id": 628582109221912576
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/0RglnkTVvl",
+            "indices": [
+              93,
+              115
+            ],
+            "display_url": "bit.ly/1KO29bz",
+            "expanded_url": "http://bit.ly/1KO29bz"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "50434933",
+        "id": 50434933
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/lDptTPCWxN",
+            "media_url": "http://pbs.twimg.com/media/CLksGRRWgAAOI2O.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLksGRRWgAAOI2O.png",
+            "expanded_url": "http://twitter.com/LifeNewsHQ/status/628582205900591105/photo/1",
+            "id_str": "628582109221912576",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 397
+              },
+              "large": {
+                "w": 699,
+                "resize": "fit",
+                "h": 463
+              }
+            },
+            "display_url": "pic.twitter.com/lDptTPCWxN",
+            "id": 628582109221912576
+          }
+        ]
+      },
+      "text": "NEW VIDEO: Planned Parenthood official: We \"deviate\" from federal law to sell aborted babies http://t.co/0RglnkTVvl http://t.co/lDptTPCWxN",
+      "lang": "en",
+      "created_at": "Tue Aug 04 15:04:11 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/WRS0GLmwEU",
+          "indices": [
+            94,
+            117
+          ],
+          "display_url": "twitter.com/LifeNewsHQ/sta\u2026",
+          "expanded_url": "https://twitter.com/LifeNewsHQ/status/628582205900591105"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            42,
+            66
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628582205900591105",
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 15:34:50+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The horrors continue. This is why we must #DefundPlannedParenthood and pass my bill H.R. 3215 https://t.co/WRS0GLmwEU",
+    "lang": "en",
+    "quoted_status_id": 628582205900591105
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628390677315915776,
+    "id_str": "628390677315915776",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/6dmw7ojLTe",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "krdo.com/news/video-all\u2026",
+          "expanded_url": "http://www.krdo.com/news/video-allegedly-from-inside-colorado-planned-parenthood-facility-released-as-group-faces-funding-cut/34480726"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            69,
+            87
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "KRDO NewsChannel 13",
+          "indices": [
+            45,
+            54
+          ],
+          "id_str": "16296575",
+          "id": 16296575,
+          "screen_name": "KRDONC13"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Please click here to watch my interview with @KRDONC13 regarding the #PlannedParenthood videos.\n\nhttp://t.co/6dmw7ojLTe",
+    "lang": "en",
+    "created_at": "2015-08-04 02:23:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "174051474",
+    "id": 628247015638462464,
+    "id_str": "628247015638462464",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/gtdVvAu75u",
+          "indices": [
+            94,
+            116
+          ],
+          "display_url": "wallethub.com/edu/best-worst\u2026",
+          "expanded_url": "http://wallethub.com/edu/best-worst-large-cities-to-live-in/14358/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WalletHub",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "174051474",
+          "id": 174051474,
+          "screen_name": "wallethub"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": 174051474,
+    "in_reply_to_screen_name": "wallethub",
+    "retweeted": false,
+    "text": "@wallethub has just ranked Colorado Springs as the 3rd best large city to live in in the USA! http://t.co/gtdVvAu75u",
+    "lang": "en",
+    "created_at": "2015-08-03 16:52:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 23,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 16,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628214874204708864,
+    "id_str": "628214874204708864",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EKcptXgI3O",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "lifenews.com/2015/07/31/con\u2026",
+          "expanded_url": "http://www.lifenews.com/2015/07/31/congressman-introduces-bill-to-ban-sales-of-body-parts-from-aborted-babies/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            73,
+            91
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "LifeNews.com",
+          "indices": [
+            10,
+            21
+          ],
+          "id_str": "50434933",
+          "id": 50434933,
+          "screen_name": "LifeNewsHQ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks to @LifeNewsHQ for reporting on my legislation in response to the #PlannedParenthood videos.\n\nhttp://t.co/EKcptXgI3O",
+    "lang": "en",
+    "created_at": "2015-08-03 14:44:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "8983712",
+    "id": 627124738721214464,
+    "id_str": "627124738721214464",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "FaithitForward",
+          "indices": [
+            128,
+            143
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Compassion Intl",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "8983712",
+          "id": 8983712,
+          "screen_name": "compassion"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 8983712,
+    "in_reply_to_screen_name": "compassion",
+    "retweeted": false,
+    "text": "@Compassion serves 1.7 million children in 26 countries. Join me in recognizing their hard work &amp; faithful acts of service. #FaithitForward.",
+    "lang": "en",
+    "created_at": "2015-07-31 14:32:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627122335812816896,
+    "id_str": "627122335812816896",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fzUt1hpfe0",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "heritage.org/research/repor\u2026",
+          "expanded_url": "http://www.heritage.org/research/reports/2013/11/how-the-a-plus-act-can-rein-in-the-governments-education-power-grab"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'm an original cosponsor of the A-PLUS Act to restore state &amp; local control of education.\nMore info: http://t.co/fzUt1hpfe0",
+    "lang": "en",
+    "created_at": "2015-07-31 14:23:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626757646633304064,
+    "id_str": "626757646633304064",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/6x36NLrmSN",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "gazette.com/homes-for-all-\u2026",
+          "expanded_url": "http://gazette.com/homes-for-all-veterans-aims-to-help-homeless-vets-reach-functional-zero/article/1556297"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Gazette",
+          "indices": [
+            87,
+            97
+          ],
+          "id_str": "12837932",
+          "id": 12837932,
+          "screen_name": "csgazette"
+        },
+        {
+          "name": "Jakob Rodgers",
+          "indices": [
+            98,
+            111
+          ],
+          "id_str": "19452494",
+          "id": 19452494,
+          "screen_name": "JakobRodgers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks to everyone playing a part in addressing this important topic! Please read this @csgazette @JakobRodgers piece http://t.co/6x36NLrmSN",
+    "lang": "en",
+    "created_at": "2015-07-30 14:14:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626757093186473984,
+    "id_str": "626757093186473984",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VAaccountability",
+          "indices": [
+            0,
+            17
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/8aQ3t1hia2",
+          "media_url": "http://pbs.twimg.com/media/CLKwQUNWcAEX3Fc.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLKwQUNWcAEX3Fc.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/626757093186473984/photo/1",
+          "id_str": "626757092507021313",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 188
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 332
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 472
+            }
+          },
+          "display_url": "pic.twitter.com/8aQ3t1hia2",
+          "id": 626757092507021313
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/gcAEn8wo2l",
+          "indices": [
+            81,
+            104
+          ],
+          "display_url": "youtube.com/watch?v=BBUBMH\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=BBUBMHATMro"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8aQ3t1hia2",
+          "media_url": "http://pbs.twimg.com/media/CLKwQUNWcAEX3Fc.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLKwQUNWcAEX3Fc.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/626757093186473984/photo/1",
+          "id_str": "626757092507021313",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 188
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 332
+            },
+            "large": {
+              "w": 852,
+              "resize": "fit",
+              "h": 472
+            }
+          },
+          "display_url": "pic.twitter.com/8aQ3t1hia2",
+          "id": 626757092507021313
+        }
+      ]
+    },
+    "text": "#VAaccountability is important. That's why passage of  HR 1994 was so important. https://t.co/gcAEn8wo2l http://t.co/8aQ3t1hia2",
+    "lang": "en",
+    "created_at": "2015-07-30 14:11:50+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Kentwood, MI",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -85.665318,
+                42.854479
+              ],
+              [
+                -85.544605,
+                42.854479
+              ],
+              [
+                -85.544605,
+                42.971056
+              ],
+              [
+                -85.665318,
+                42.971056
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/638adca1ca0cd926.json",
+        "name": "Kentwood",
+        "country": "United States",
+        "place_type": "city",
+        "id": "638adca1ca0cd926"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626468272095952896,
+      "id_str": "626468272095952896",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "VAaccountability",
+            "indices": [
+              62,
+              79
+            ]
+          },
+          {
+            "text": "EndStatusQuo",
+            "indices": [
+              99,
+              112
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Doug Lamborn",
+            "indices": [
+              1,
+              13
+            ],
+            "id_str": "584012853",
+            "id": 584012853,
+            "screen_name": "RepDLamborn"
+          },
+          {
+            "name": "Veterans Affairs",
+            "indices": [
+              116,
+              131
+            ],
+            "id_str": "78408666",
+            "id": 78408666,
+            "screen_name": "DeptVetAffairs"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2976527217",
+        "id": 2976527217
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepDLamborn We thank you for your strong support of HR 1994 #VAaccountability Act.  It's time to #EndStatusQuo at @DeptVetAffairs!",
+      "lang": "en",
+      "created_at": "Wed Jul 29 19:04:09 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626473090906759168,
+    "id_str": "626473090906759168",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VAaccountability",
+          "indices": [
+            83,
+            100
+          ]
+        },
+        {
+          "text": "EndStatusQuo",
+          "indices": [
+            120,
+            133
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Concerned Vets CO",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2976527217",
+          "id": 2976527217,
+          "screen_name": "ConcernedVetsCO"
+        },
+        {
+          "name": "Rep. Doug Lamborn",
+          "indices": [
+            22,
+            34
+          ],
+          "id_str": "584012853",
+          "id": 584012853,
+          "screen_name": "RepDLamborn"
+        },
+        {
+          "name": "Veterans Affairs",
+          "indices": [
+            137,
+            140
+          ],
+          "id_str": "78408666",
+          "id": 78408666,
+          "screen_name": "DeptVetAffairs"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ConcernedVetsCO: .@RepDLamborn We thank you for your strong support of HR 1994 #VAaccountability Act.  It's time to #EndStatusQuo at @D\u2026",
+    "lang": "en",
+    "created_at": "2015-07-29 19:23:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626465791102349316,
+    "id_str": "626465791102349316",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            0,
+            24
+          ]
+        },
+        {
+          "text": "copolitics",
+          "indices": [
+            104,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/7VDjIv07Ha",
+          "media_url": "http://pbs.twimg.com/media/CLGnUTFUsAAuYOP.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGnUTFUsAAuYOP.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/626465791102349316/photo/1",
+          "id_str": "626465790343032832",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 776
+            },
+            "large": {
+              "w": 727,
+              "resize": "fit",
+              "h": 941
+            }
+          },
+          "display_url": "pic.twitter.com/7VDjIv07Ha",
+          "id": 626465790343032832
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Colorado State Univ",
+          "indices": [
+            25,
+            40
+          ],
+          "id_str": "27098495",
+          "id": 27098495,
+          "screen_name": "ColoradoStateU"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/7VDjIv07Ha",
+          "media_url": "http://pbs.twimg.com/media/CLGnUTFUsAAuYOP.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGnUTFUsAAuYOP.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/626465791102349316/photo/1",
+          "id_str": "626465790343032832",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 776
+            },
+            "large": {
+              "w": 727,
+              "resize": "fit",
+              "h": 941
+            }
+          },
+          "display_url": "pic.twitter.com/7VDjIv07Ha",
+          "id": 626465790343032832
+        },
+        {
+          "url": "http://t.co/7VDjIv07Ha",
+          "media_url": "http://pbs.twimg.com/media/CLGnUKZVEAA0-HA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGnUKZVEAA0-HA.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/626465791102349316/photo/1",
+          "id_str": "626465788011024384",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 438
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 774
+            },
+            "large": {
+              "w": 731,
+              "resize": "fit",
+              "h": 943
+            }
+          },
+          "display_url": "pic.twitter.com/7VDjIv07Ha",
+          "id": 626465788011024384
+        }
+      ]
+    },
+    "text": "#DefundPlannedParenthood @ColoradoStateU must stop doing business with ABR. These pictures explain why. #copolitics http://t.co/7VDjIv07Ha",
+    "lang": "en",
+    "created_at": "2015-07-29 18:54:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626429949923184640,
+    "id_str": "626429949923184640",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VAAccountability",
+          "indices": [
+            83,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/n9dSD6kjK9",
+          "media_url": "http://pbs.twimg.com/media/CLGGuCjUcAArkqC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGGuCjUcAArkqC.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/626429949923184640/photo/1",
+          "id_str": "626429948698324992",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 193
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 341
+            },
+            "large": {
+              "w": 637,
+              "resize": "fit",
+              "h": 363
+            }
+          },
+          "display_url": "pic.twitter.com/n9dSD6kjK9",
+          "id": 626429948698324992
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/n9dSD6kjK9",
+          "media_url": "http://pbs.twimg.com/media/CLGGuCjUcAArkqC.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGGuCjUcAArkqC.jpg",
+          "expanded_url": "http://twitter.com/RepDLamborn/status/626429949923184640/photo/1",
+          "id_str": "626429948698324992",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 193
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 341
+            },
+            "large": {
+              "w": 637,
+              "resize": "fit",
+              "h": 363
+            }
+          },
+          "display_url": "pic.twitter.com/n9dSD6kjK9",
+          "id": 626429948698324992
+        }
+      ]
+    },
+    "text": "At roughly 12noon MT, I'll be speaking on the House Floor in support of H.R. 1994, #VAAccountability Act of 2015. http://t.co/n9dSD6kjK9",
+    "lang": "en",
+    "created_at": "2015-07-29 16:31:53+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626192951090155520,
+      "id_str": "626192951090155520",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/ogWRQp158n",
+            "media_url": "http://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+            "expanded_url": "http://twitter.com/csgazette/status/626192951090155520/photo/1",
+            "id_str": "626188701194817536",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 300,
+                "resize": "fit",
+                "h": 200
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 300,
+                "resize": "fit",
+                "h": 200
+              },
+              "large": {
+                "w": 300,
+                "resize": "fit",
+                "h": 200
+              }
+            },
+            "display_url": "pic.twitter.com/ogWRQp158n",
+            "id": 626188701194817536
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/H4iaftDlAG",
+            "indices": [
+              64,
+              86
+            ],
+            "display_url": "gazette.com/lamborn-legisl\u2026",
+            "expanded_url": "http://gazette.com/lamborn-legislation-would-ban-acquisition-of-some-fetal-tissue/article/1556425#.VbgfJFwb80c.twitter"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "12837932",
+        "id": 12837932
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/ogWRQp158n",
+            "media_url": "http://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+            "expanded_url": "http://twitter.com/csgazette/status/626192951090155520/photo/1",
+            "id_str": "626188701194817536",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 300,
+                "resize": "fit",
+                "h": 200
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 300,
+                "resize": "fit",
+                "h": 200
+              },
+              "large": {
+                "w": 300,
+                "resize": "fit",
+                "h": 200
+              }
+            },
+            "display_url": "pic.twitter.com/ogWRQp158n",
+            "id": 626188701194817536
+          }
+        ]
+      },
+      "text": "Lamborn legislation would ban acquisition of some fetal tissue \nhttp://t.co/H4iaftDlAG http://t.co/ogWRQp158n",
+      "lang": "en",
+      "created_at": "Wed Jul 29 00:50:08 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 12837932,
+          "media_url": "http://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+          "source_user_id_str": "12837932",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "pic.twitter.com/ogWRQp158n",
+          "expanded_url": "http://twitter.com/csgazette/status/626192951090155520/photo/1",
+          "url": "http://t.co/ogWRQp158n",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+          "source_status_id_str": "626192951090155520",
+          "id_str": "626188701194817536",
+          "sizes": {
+            "small": {
+              "w": 300,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 300,
+              "resize": "fit",
+              "h": 200
+            },
+            "large": {
+              "w": 300,
+              "resize": "fit",
+              "h": 200
+            }
+          },
+          "id": 626188701194817536,
+          "source_status_id": 626192951090155520
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626424300321513472,
+    "id_str": "626424300321513472",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 12837932,
+          "media_url": "http://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+          "source_user_id_str": "12837932",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "pic.twitter.com/ogWRQp158n",
+          "expanded_url": "http://twitter.com/csgazette/status/626192951090155520/photo/1",
+          "url": "http://t.co/ogWRQp158n",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLCrTlkUkAACMv2.jpg",
+          "source_status_id_str": "626192951090155520",
+          "id_str": "626188701194817536",
+          "sizes": {
+            "small": {
+              "w": 300,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 300,
+              "resize": "fit",
+              "h": 200
+            },
+            "large": {
+              "w": 300,
+              "resize": "fit",
+              "h": 200
+            }
+          },
+          "id": 626188701194817536,
+          "source_status_id": 626192951090155520
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/H4iaftDlAG",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "gazette.com/lamborn-legisl\u2026",
+          "expanded_url": "http://gazette.com/lamborn-legislation-would-ban-acquisition-of-some-fetal-tissue/article/1556425#.VbgfJFwb80c.twitter"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Gazette",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "12837932",
+          "id": 12837932,
+          "screen_name": "csgazette"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @csgazette: Lamborn legislation would ban acquisition of some fetal tissue \nhttp://t.co/H4iaftDlAG http://t.co/ogWRQp158n",
+    "lang": "en",
+    "created_at": "2015-07-29 16:09:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "626131499830501376",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "172157075",
+    "id": 626132316839112704,
+    "id_str": "626132316839112704",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "White Dog",
+          "indices": [
+            0,
+            8
+          ],
+          "id_str": "172157075",
+          "id": 172157075,
+          "screen_name": "TOBIE72"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 626131499830501376,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 172157075,
+    "in_reply_to_screen_name": "TOBIE72",
+    "retweeted": false,
+    "text": "@TOBIE72 Yes, I am an original co-sponsor of this legislation.",
+    "lang": "en",
+    "created_at": "2015-07-28 20:49:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626131614964285440,
+    "id_str": "626131614964285440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zAhL9A6qwC",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "lifenews.com/2015/07/28/col\u2026",
+          "expanded_url": "http://www.lifenews.com/2015/07/28/colorado-state-university-still-wont-stop-research-using-body-parts-from-aborted-babies/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "ColoradoProLife",
+          "indices": [
+            1,
+            17
+          ],
+          "id_str": "1868997518",
+          "id": 1868997518,
+          "screen_name": "ColoradoProLife"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"@ColoradoProLife agrees 100% with Rep. Lamborn and calls on CSU to end research on all aborted babies immediately.\" http://t.co/zAhL9A6qwC",
+    "lang": "en",
+    "created_at": "2015-07-28 20:46:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626130687180042244,
+    "id_str": "626130687180042244",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1cUKGq4xLz",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "washex.am/1OzJX3i",
+          "expanded_url": "http://washex.am/1OzJX3i"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Washington Examiner",
+          "indices": [
+            118,
+            129
+          ],
+          "id_str": "18956073",
+          "id": 18956073,
+          "screen_name": "dcexaminer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "584012853",
+      "screen_name": "repdlamborn",
+      "id": 584012853
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Lawmaker pressures Colorado State University stop using aborted fetus samples for research http://t.co/1cUKGq4xLz via @DCExaminer",
+    "lang": "en",
+    "created_at": "2015-07-28 20:42:43+00:00"
+  }
+]

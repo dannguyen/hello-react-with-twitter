@@ -1,0 +1,2978 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630057773200474112,
+    "id_str": "630057773200474112",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/j61O6GJany",
+          "indices": [
+            103,
+            126
+          ],
+          "display_url": "instagram.com/p/6IS92DGQ6l/",
+          "expanded_url": "https://instagram.com/p/6IS92DGQ6l/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Woke up to a beautiful morning in Ketchikan. So glad to be home in state for the next month where the\u2026 https://t.co/j61O6GJany",
+    "lang": "en",
+    "created_at": "2015-08-08 16:47:33+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629398652088287232,
+      "id_str": "629398652088287232",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "GoodRead",
+            "indices": [
+              0,
+              9
+            ]
+          },
+          {
+            "text": "Arctic",
+            "indices": [
+              47,
+              54
+            ]
+          },
+          {
+            "text": "alaska",
+            "indices": [
+              102,
+              109
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/YpAiQ5ysPt",
+            "media_url": "http://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+            "expanded_url": "http://twitter.com/EnergyGOP/status/629398652088287232/photo/1",
+            "id_str": "629398562544062464",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 795,
+                "resize": "fit",
+                "h": 530
+              }
+            },
+            "display_url": "pic.twitter.com/YpAiQ5ysPt",
+            "id": 629398562544062464
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/lF7LWo8sQa",
+            "indices": [
+              65,
+              87
+            ],
+            "display_url": "bloom.bg/1W3RzRk",
+            "expanded_url": "http://bloom.bg/1W3RzRk"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Bloomberg Business",
+            "indices": [
+              92,
+              101
+            ],
+            "id_str": "34713362",
+            "id": 34713362,
+            "screen_name": "business"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "82657929",
+        "id": 82657929
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/YpAiQ5ysPt",
+            "media_url": "http://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+            "expanded_url": "http://twitter.com/EnergyGOP/status/629398652088287232/photo/1",
+            "id_str": "629398562544062464",
+            "indices": [
+              110,
+              132
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 795,
+                "resize": "fit",
+                "h": 530
+              }
+            },
+            "display_url": "pic.twitter.com/YpAiQ5ysPt",
+            "id": 629398562544062464
+          }
+        ]
+      },
+      "text": "#GoodRead: Why Native Alaskans Support Shell's #Arctic Drilling: http://t.co/lF7LWo8sQa via @business #alaska http://t.co/YpAiQ5ysPt",
+      "lang": "en",
+      "created_at": "Thu Aug 06 21:08:26 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 82657929,
+          "media_url": "http://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+          "source_user_id_str": "82657929",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/YpAiQ5ysPt",
+          "expanded_url": "http://twitter.com/EnergyGOP/status/629398652088287232/photo/1",
+          "url": "http://t.co/YpAiQ5ysPt",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+          "source_status_id_str": "629398652088287232",
+          "id_str": "629398562544062464",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 795,
+              "resize": "fit",
+              "h": 530
+            }
+          },
+          "id": 629398562544062464,
+          "source_status_id": 629398652088287232
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629402369000759296,
+    "id_str": "629402369000759296",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "GoodRead",
+          "indices": [
+            15,
+            24
+          ]
+        },
+        {
+          "text": "Arctic",
+          "indices": [
+            62,
+            69
+          ]
+        },
+        {
+          "text": "alaska",
+          "indices": [
+            117,
+            124
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 82657929,
+          "media_url": "http://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+          "source_user_id_str": "82657929",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/YpAiQ5ysPt",
+          "expanded_url": "http://twitter.com/EnergyGOP/status/629398652088287232/photo/1",
+          "url": "http://t.co/YpAiQ5ysPt",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwSqG6UkAAilUN.jpg",
+          "source_status_id_str": "629398652088287232",
+          "id_str": "629398562544062464",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 795,
+              "resize": "fit",
+              "h": 530
+            }
+          },
+          "id": 629398562544062464,
+          "source_status_id": 629398652088287232
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/lF7LWo8sQa",
+          "indices": [
+            80,
+            102
+          ],
+          "display_url": "bloom.bg/1W3RzRk",
+          "expanded_url": "http://bloom.bg/1W3RzRk"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Senate Energy GOP",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "82657929",
+          "id": 82657929,
+          "screen_name": "EnergyGOP"
+        },
+        {
+          "name": "Bloomberg Business",
+          "indices": [
+            107,
+            116
+          ],
+          "id_str": "34713362",
+          "id": 34713362,
+          "screen_name": "business"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EnergyGOP: #GoodRead: Why Native Alaskans Support Shell's #Arctic Drilling: http://t.co/lF7LWo8sQa via @business #alaska http://t.co/Yp\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 21:23:13+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629381556017086465,
+      "id_str": "629381556017086465",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/9Y8ycVoe5D",
+            "media_url": "http://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+            "expanded_url": "http://twitter.com/adndotcom/status/629381556017086465/photo/1",
+            "id_str": "629381454573649920",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 620,
+                "resize": "fit",
+                "h": 413
+              }
+            },
+            "display_url": "pic.twitter.com/9Y8ycVoe5D",
+            "id": 629381454573649920
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/bcMlHuROzC",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "adn.com/article/201508\u2026",
+            "expanded_url": "http://www.adn.com/article/20150806/alaska-calendar-full-arctic-meetings-and-conferences"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15828025",
+        "id": 15828025
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/9Y8ycVoe5D",
+            "media_url": "http://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+            "expanded_url": "http://twitter.com/adndotcom/status/629381556017086465/photo/1",
+            "id_str": "629381454573649920",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 620,
+                "resize": "fit",
+                "h": 413
+              }
+            },
+            "display_url": "pic.twitter.com/9Y8ycVoe5D",
+            "id": 629381454573649920
+          }
+        ]
+      },
+      "text": "Alaska has a calendar full of Arctic meetings and conferences. Here's an overview http://t.co/bcMlHuROzC http://t.co/9Y8ycVoe5D",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:00:30 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 15828025,
+          "media_url": "http://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+          "source_user_id_str": "15828025",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/9Y8ycVoe5D",
+          "expanded_url": "http://twitter.com/adndotcom/status/629381556017086465/photo/1",
+          "url": "http://t.co/9Y8ycVoe5D",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+          "source_status_id_str": "629381556017086465",
+          "id_str": "629381454573649920",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 413
+            }
+          },
+          "id": 629381454573649920,
+          "source_status_id": 629381556017086465
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629382612541272064,
+    "id_str": "629382612541272064",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 15828025,
+          "media_url": "http://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+          "source_user_id_str": "15828025",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/9Y8ycVoe5D",
+          "expanded_url": "http://twitter.com/adndotcom/status/629381556017086465/photo/1",
+          "url": "http://t.co/9Y8ycVoe5D",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwDGSwUwAAYuHm.jpg",
+          "source_status_id_str": "629381556017086465",
+          "id_str": "629381454573649920",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 413
+            }
+          },
+          "id": 629381454573649920,
+          "source_status_id": 629381556017086465
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/bcMlHuROzC",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "adn.com/article/201508\u2026",
+          "expanded_url": "http://www.adn.com/article/20150806/alaska-calendar-full-arctic-meetings-and-conferences"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Alaska Dispatch News",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "15828025",
+          "id": 15828025,
+          "screen_name": "adndotcom"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @adndotcom: Alaska has a calendar full of Arctic meetings and conferences. Here's an overview http://t.co/bcMlHuROzC http://t.co/9Y8ycVo\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 20:04:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 361,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 508,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629319798816698368,
+      "id_str": "629319798816698368",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/BUbJTbN60m",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+            "expanded_url": "http://twitter.com/nytimes/status/629319798816698368/photo/1",
+            "id_str": "629319797520531457",
+            "indices": [
+              83,
+              105
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 190
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 540,
+                "resize": "fit",
+                "h": 302
+              },
+              "large": {
+                "w": 540,
+                "resize": "fit",
+                "h": 302
+              }
+            },
+            "display_url": "pic.twitter.com/BUbJTbN60m",
+            "id": 629319797520531457
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/bcE5AD4rbl",
+            "indices": [
+              60,
+              82
+            ],
+            "display_url": "nyti.ms/1OTcocC",
+            "expanded_url": "http://nyti.ms/1OTcocC"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "807095",
+        "id": 807095
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/BUbJTbN60m",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+            "type": "animated_gif",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+            "expanded_url": "http://twitter.com/nytimes/status/629319798816698368/photo/1",
+            "video_info": {
+              "variants": [
+                {
+                  "url": "https://pbs.twimg.com/tweet_video/CLvLBYVVAAECaL-.mp4",
+                  "bitrate": 0,
+                  "content_type": "video/mp4"
+                }
+              ],
+              "aspect_ratio": [
+                270,
+                151
+              ]
+            },
+            "id_str": "629319797520531457",
+            "indices": [
+              83,
+              105
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 190
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 540,
+                "resize": "fit",
+                "h": 302
+              },
+              "large": {
+                "w": 540,
+                "resize": "fit",
+                "h": 302
+              }
+            },
+            "display_url": "pic.twitter.com/BUbJTbN60m",
+            "id": 629319797520531457
+          }
+        ]
+      },
+      "text": "At Katmai National Park in Alaska, it's all about the bears http://t.co/bcE5AD4rbl http://t.co/BUbJTbN60m",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:55:06 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 361,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 807095,
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+          "source_user_id_str": "807095",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "pic.twitter.com/BUbJTbN60m",
+          "expanded_url": "http://twitter.com/nytimes/status/629319798816698368/photo/1",
+          "url": "http://t.co/BUbJTbN60m",
+          "type": "animated_gif",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+          "source_status_id_str": "629319798816698368",
+          "video_info": {
+            "variants": [
+              {
+                "url": "https://pbs.twimg.com/tweet_video/CLvLBYVVAAECaL-.mp4",
+                "bitrate": 0,
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              270,
+              151
+            ]
+          },
+          "id_str": "629319797520531457",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 190
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 540,
+              "resize": "fit",
+              "h": 302
+            },
+            "large": {
+              "w": 540,
+              "resize": "fit",
+              "h": 302
+            }
+          },
+          "id": 629319797520531457,
+          "source_status_id": 629319798816698368
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629321238951948288,
+    "id_str": "629321238951948288",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 807095,
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+          "source_user_id_str": "807095",
+          "indices": [
+            96,
+            118
+          ],
+          "display_url": "pic.twitter.com/BUbJTbN60m",
+          "expanded_url": "http://twitter.com/nytimes/status/629319798816698368/photo/1",
+          "url": "http://t.co/BUbJTbN60m",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CLvLBYVVAAECaL-.png",
+          "source_status_id_str": "629319798816698368",
+          "id_str": "629319797520531457",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 190
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 540,
+              "resize": "fit",
+              "h": 302
+            },
+            "large": {
+              "w": 540,
+              "resize": "fit",
+              "h": 302
+            }
+          },
+          "id": 629319797520531457,
+          "source_status_id": 629319798816698368
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/bcE5AD4rbl",
+          "indices": [
+            73,
+            95
+          ],
+          "display_url": "nyti.ms/1OTcocC",
+          "expanded_url": "http://nyti.ms/1OTcocC"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The New York Times",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "807095",
+          "id": 807095,
+          "screen_name": "nytimes"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @nytimes: At Katmai National Park in Alaska, it's all about the bears http://t.co/bcE5AD4rbl http://t.co/BUbJTbN60m",
+    "lang": "en",
+    "created_at": "2015-08-06 16:00:50+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629271961261244420,
+      "id_str": "629271961261244420",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              93,
+              102
+            ]
+          },
+          {
+            "text": "Energy",
+            "indices": [
+              103,
+              110
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/fDlqLmFQIi",
+            "media_url": "http://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+            "expanded_url": "http://twitter.com/EnergyGOP/status/629271961261244420/photo/1",
+            "id_str": "629271945696010240",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 253
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 447
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 764
+              }
+            },
+            "display_url": "pic.twitter.com/fDlqLmFQIi",
+            "id": 629271945696010240
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sen. Lisa Murkowski",
+            "indices": [
+              9,
+              23
+            ],
+            "id_str": "18061669",
+            "id": 18061669,
+            "screen_name": "lisamurkowski"
+          },
+          {
+            "name": "Bloomberg Government",
+            "indices": [
+              30,
+              35
+            ],
+            "id_str": "95506425",
+            "id": 95506425,
+            "screen_name": "BGOV"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "82657929",
+        "id": 82657929
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/fDlqLmFQIi",
+            "media_url": "http://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+            "expanded_url": "http://twitter.com/EnergyGOP/status/629271961261244420/photo/1",
+            "id_str": "629271945696010240",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 253
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 447
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 764
+              }
+            },
+            "display_url": "pic.twitter.com/fDlqLmFQIi",
+            "id": 629271945696010240
+          }
+        ]
+      },
+      "text": "Chairman @lisamurkowski joins @BGOV for an on the record breakfast round table discussion on #IranDeal #Energy http://t.co/fDlqLmFQIi",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:45:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 82657929,
+          "media_url": "http://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+          "source_user_id_str": "82657929",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/fDlqLmFQIi",
+          "expanded_url": "http://twitter.com/EnergyGOP/status/629271961261244420/photo/1",
+          "url": "http://t.co/fDlqLmFQIi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+          "source_status_id_str": "629271961261244420",
+          "id_str": "629271945696010240",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 253
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 447
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 764
+            }
+          },
+          "id": 629271945696010240,
+          "source_status_id": 629271961261244420
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629274442661761025,
+    "id_str": "629274442661761025",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            108,
+            117
+          ]
+        },
+        {
+          "text": "Energy",
+          "indices": [
+            118,
+            125
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 82657929,
+          "media_url": "http://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+          "source_user_id_str": "82657929",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/fDlqLmFQIi",
+          "expanded_url": "http://twitter.com/EnergyGOP/status/629271961261244420/photo/1",
+          "url": "http://t.co/fDlqLmFQIi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLufgCZUYAAvdjK.jpg",
+          "source_status_id_str": "629271961261244420",
+          "id_str": "629271945696010240",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 253
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 447
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 764
+            }
+          },
+          "id": 629271945696010240,
+          "source_status_id": 629271961261244420
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Senate Energy GOP",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "82657929",
+          "id": 82657929,
+          "screen_name": "EnergyGOP"
+        },
+        {
+          "name": "Sen. Lisa Murkowski",
+          "indices": [
+            24,
+            38
+          ],
+          "id_str": "18061669",
+          "id": 18061669,
+          "screen_name": "lisamurkowski"
+        },
+        {
+          "name": "Bloomberg Government",
+          "indices": [
+            45,
+            50
+          ],
+          "id_str": "95506425",
+          "id": 95506425,
+          "screen_name": "BGOV"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EnergyGOP: Chairman @lisamurkowski joins @BGOV for an on the record breakfast round table discussion on #IranDeal #Energy http://t.co/f\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 12:54:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629028856800919552,
+    "id_str": "629028856800919552",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/kdcTX0givp",
+          "indices": [
+            103,
+            126
+          ],
+          "display_url": "instagram.com/p/6A_EcMGQ-o/",
+          "expanded_url": "https://instagram.com/p/6A_EcMGQ-o/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "One of my summer interns, Daniel Cerny, graduated from the same high school as I did (Monroe Catholic\u2026 https://t.co/kdcTX0givp",
+    "lang": "en",
+    "created_at": "2015-08-05 20:39:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629004006946422784,
+    "id_str": "629004006946422784",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/YD7w3rIjpT",
+          "media_url": "http://pbs.twimg.com/media/CLqrzqCWUAA-Ve-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqrzqCWUAA-Ve-.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/629004006946422784/photo/1",
+          "id_str": "629004001917423616",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/YD7w3rIjpT",
+          "id": 629004001917423616
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/YD7w3rIjpT",
+          "media_url": "http://pbs.twimg.com/media/CLqrzqCWUAA-Ve-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqrzqCWUAA-Ve-.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/629004006946422784/photo/1",
+          "id_str": "629004001917423616",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/YD7w3rIjpT",
+          "id": 629004001917423616
+        }
+      ]
+    },
+    "text": "With my Senate colleagues, discussing the energy bill and the accomplishments of this GOP-led Congress. http://t.co/YD7w3rIjpT",
+    "lang": "en",
+    "created_at": "2015-08-05 19:00:16+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628922165534982146,
+      "id_str": "628922165534982146",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Dobd4TH96N",
+            "indices": [
+              48,
+              70
+            ],
+            "display_url": "washex.am/1M4OVG8",
+            "expanded_url": "http://washex.am/1M4OVG8"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Alaska",
+            "indices": [
+              27,
+              34
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Washington Examiner",
+            "indices": [
+              75,
+              86
+            ],
+            "id_str": "18956073",
+            "id": 18956073,
+            "screen_name": "dcexaminer"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "82657929",
+        "id": 82657929
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "We must increase access to #Alaska's resources: http://t.co/Dobd4TH96N via @DCExaminer",
+      "lang": "en",
+      "created_at": "Wed Aug 05 13:35:03 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628968495238266880,
+    "id_str": "628968495238266880",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Dobd4TH96N",
+          "indices": [
+            63,
+            85
+          ],
+          "display_url": "washex.am/1M4OVG8",
+          "expanded_url": "http://washex.am/1M4OVG8"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Alaska",
+          "indices": [
+            42,
+            49
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Senate Energy GOP",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "82657929",
+          "id": 82657929,
+          "screen_name": "EnergyGOP"
+        },
+        {
+          "name": "Washington Examiner",
+          "indices": [
+            90,
+            101
+          ],
+          "id_str": "18956073",
+          "id": 18956073,
+          "screen_name": "dcexaminer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EnergyGOP: We must increase access to #Alaska's resources: http://t.co/Dobd4TH96N via @DCExaminer",
+    "lang": "en",
+    "created_at": "2015-08-05 16:39:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628958417487589376,
+    "id_str": "628958417487589376",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 108,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 114,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628930665728319488,
+      "id_str": "628930665728319488",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/QooYbdrmLV",
+            "media_url": "http://pbs.twimg.com/media/CLppG4sW8AEAhFV.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLppG4sW8AEAhFV.png",
+            "expanded_url": "http://twitter.com/washingtonpost/status/628930665728319488/photo/1",
+            "id_str": "628930664990175233",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 620,
+                "resize": "fit",
+                "h": 349
+              }
+            },
+            "display_url": "pic.twitter.com/QooYbdrmLV",
+            "id": 628930664990175233
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/dvMaFfCEm4",
+            "indices": [
+              85,
+              107
+            ],
+            "display_url": "wapo.st/1DtyNMS",
+            "expanded_url": "http://wapo.st/1DtyNMS"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2467791",
+        "id": 2467791
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/QooYbdrmLV",
+            "media_url": "http://pbs.twimg.com/media/CLppG4sW8AEAhFV.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLppG4sW8AEAhFV.png",
+            "expanded_url": "http://twitter.com/washingtonpost/status/628930665728319488/photo/1",
+            "id_str": "628930664990175233",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 620,
+                "resize": "fit",
+                "h": 349
+              }
+            },
+            "display_url": "pic.twitter.com/QooYbdrmLV",
+            "id": 628930664990175233
+          }
+        ]
+      },
+      "text": "This Army Ranger has ALS \u2014 but he\u2019s still teaching soldiers in the swamps of Florida http://t.co/dvMaFfCEm4 http://t.co/QooYbdrmLV",
+      "lang": "en",
+      "created_at": "Wed Aug 05 14:08:50 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/AbEyiuYXVu",
+          "indices": [
+            15,
+            38
+          ],
+          "display_url": "twitter.com/washingtonpost\u2026",
+          "expanded_url": "https://twitter.com/washingtonpost/status/628930665728319488"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628930665728319488",
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 15:59:06+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Amazing story. https://t.co/AbEyiuYXVu",
+    "lang": "en",
+    "quoted_status_id": 628930665728319488
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628952423374155776,
+      "id_str": "628952423374155776",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "backtowork",
+            "indices": [
+              113,
+              124
+            ]
+          },
+          {
+            "text": "energyisgood",
+            "indices": [
+              125,
+              138
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Sen. Lisa Murkowski",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "18061669",
+            "id": 18061669,
+            "screen_name": "lisamurkowski"
+          },
+          {
+            "name": "Senate Republicans",
+            "indices": [
+              26,
+              38
+            ],
+            "id_str": "14344823",
+            "id": 14344823,
+            "screen_name": "Senate_GOPs"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "82657929",
+        "id": 82657929
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@lisamurkowski will join @Senate_GOPs for a 2:15pm press conference today to highlight GOP-led accomplishments. #backtowork #energyisgood",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:35:17 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628957169984110592,
+    "id_str": "628957169984110592",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "backtowork",
+          "indices": [
+            128,
+            139
+          ]
+        },
+        {
+          "text": "energyisgood",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Senate Energy GOP",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "82657929",
+          "id": 82657929,
+          "screen_name": "EnergyGOP"
+        },
+        {
+          "name": "Sen. Lisa Murkowski",
+          "indices": [
+            16,
+            30
+          ],
+          "id_str": "18061669",
+          "id": 18061669,
+          "screen_name": "lisamurkowski"
+        },
+        {
+          "name": "Senate Republicans",
+          "indices": [
+            41,
+            53
+          ],
+          "id_str": "14344823",
+          "id": 14344823,
+          "screen_name": "Senate_GOPs"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EnergyGOP: .@lisamurkowski will join @Senate_GOPs for a 2:15pm press conference today to highlight GOP-led accomplishments. #backtowork\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:54:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628706971907133440,
+    "id_str": "628706971907133440",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/hR9LohfYma",
+          "indices": [
+            96,
+            119
+          ],
+          "display_url": "instagram.com/p/5-ssW_GQ3U/",
+          "expanded_url": "https://instagram.com/p/5-ssW_GQ3U/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Disappointed to hear thieves stole the American and Alaskan flags from the Alaska Capitol last\u2026 https://t.co/hR9LohfYma",
+    "lang": "en",
+    "created_at": "2015-08-04 23:19:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628703317993091072,
+    "id_str": "628703317993091072",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TwitterTakeover",
+          "indices": [
+            123,
+            139
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks, Senator Murkowski 4 an amazing shadow day!  I better understand the federal g'ment and will always remember today! #TwitterTakeover",
+    "lang": "en",
+    "created_at": "2015-08-04 23:05:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628675757380927488,
+    "id_str": "628675757380927488",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/cJ3f5a7nf4",
+          "media_url": "http://pbs.twimg.com/media/CLmBQ7gWgAA3u4b.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmBQ7gWgAA3u4b.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628675757380927488/photo/1",
+          "id_str": "628675750846169088",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 213
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 376
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 642
+            }
+          },
+          "display_url": "pic.twitter.com/cJ3f5a7nf4",
+          "id": 628675750846169088
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Smithsonian",
+          "indices": [
+            74,
+            86
+          ],
+          "id_str": "14199378",
+          "id": 14199378,
+          "screen_name": "smithsonian"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/cJ3f5a7nf4",
+          "media_url": "http://pbs.twimg.com/media/CLmBQ7gWgAA3u4b.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmBQ7gWgAA3u4b.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628675757380927488/photo/1",
+          "id_str": "628675750846169088",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 213
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 376
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 642
+            }
+          },
+          "display_url": "pic.twitter.com/cJ3f5a7nf4",
+          "id": 628675750846169088
+        }
+      ]
+    },
+    "text": "Loved listening to the Senator discuss the Arts with the Secretary of the @smithsonian! I even got a picture! http://t.co/cJ3f5a7nf4",
+    "lang": "en",
+    "created_at": "2015-08-04 21:15:55+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628654100067000321,
+    "id_str": "628654100067000321",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/tXwAW3elhk",
+          "media_url": "http://pbs.twimg.com/media/CLltkK4WoAAWFfJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLltkK4WoAAWFfJ.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628654100067000321/photo/1",
+          "id_str": "628654091158331392",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 289
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 510
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 871
+            }
+          },
+          "display_url": "pic.twitter.com/tXwAW3elhk",
+          "id": 628654091158331392
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Susan Fleurant",
+          "indices": [
+            7,
+            21
+          ],
+          "id_str": "920332171",
+          "id": 920332171,
+          "screen_name": "SusanFleurant"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/tXwAW3elhk",
+          "media_url": "http://pbs.twimg.com/media/CLltkK4WoAAWFfJ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLltkK4WoAAWFfJ.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628654100067000321/photo/1",
+          "id_str": "628654091158331392",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 289
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 510
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 871
+            }
+          },
+          "display_url": "pic.twitter.com/tXwAW3elhk",
+          "id": 628654091158331392
+        }
+      ]
+    },
+    "text": "Thanks @susanfleurant of Chugiak for telling the Sen. &amp; me about your summer internship combatting domestic poverty! http://t.co/tXwAW3elhk",
+    "lang": "en",
+    "created_at": "2015-08-04 19:49:51+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 68,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 67,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628604312550309888,
+      "id_str": "628604312550309888",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/RsXkKPHiE8",
+            "media_url": "http://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+            "expanded_url": "http://twitter.com/TheAtlantic/status/628604312550309888/photo/1",
+            "id_str": "628604311916802049",
+            "indices": [
+              93,
+              115
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 186
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 329
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 563
+              }
+            },
+            "display_url": "pic.twitter.com/RsXkKPHiE8",
+            "id": 628604311916802049
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/4TtZciygxh",
+            "indices": [
+              70,
+              92
+            ],
+            "display_url": "theatln.tc/1ONmvj7",
+            "expanded_url": "http://theatln.tc/1ONmvj7"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "35773039",
+        "id": 35773039
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/RsXkKPHiE8",
+            "media_url": "http://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+            "expanded_url": "http://twitter.com/TheAtlantic/status/628604312550309888/photo/1",
+            "id_str": "628604311916802049",
+            "indices": [
+              93,
+              115
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 186
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 329
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 563
+              }
+            },
+            "display_url": "pic.twitter.com/RsXkKPHiE8",
+            "id": 628604311916802049
+          }
+        ]
+      },
+      "text": "Meet the teen who's bringing back old-school Eskimo songs on Facebook http://t.co/4TtZciygxh http://t.co/RsXkKPHiE8",
+      "lang": "en",
+      "created_at": "Tue Aug 04 16:32:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 68,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 35773039,
+          "media_url": "http://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+          "source_user_id_str": "35773039",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "pic.twitter.com/RsXkKPHiE8",
+          "expanded_url": "http://twitter.com/TheAtlantic/status/628604312550309888/photo/1",
+          "url": "http://t.co/RsXkKPHiE8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+          "source_status_id_str": "628604312550309888",
+          "id_str": "628604311916802049",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 186
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 329
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 563
+            }
+          },
+          "id": 628604311916802049,
+          "source_status_id": 628604312550309888
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628648743957565440,
+    "id_str": "628648743957565440",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 35773039,
+          "media_url": "http://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+          "source_user_id_str": "35773039",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "pic.twitter.com/RsXkKPHiE8",
+          "expanded_url": "http://twitter.com/TheAtlantic/status/628604312550309888/photo/1",
+          "url": "http://t.co/RsXkKPHiE8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlASowUcAEf1_K.jpg",
+          "source_status_id_str": "628604312550309888",
+          "id_str": "628604311916802049",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 186
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 329
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 563
+            }
+          },
+          "id": 628604311916802049,
+          "source_status_id": 628604312550309888
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/4TtZciygxh",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "theatln.tc/1ONmvj7",
+          "expanded_url": "http://theatln.tc/1ONmvj7"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Atlantic",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "35773039",
+          "id": 35773039,
+          "screen_name": "TheAtlantic"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @TheAtlantic: Meet the teen who's bringing back old-school Eskimo songs on Facebook http://t.co/4TtZciygxh http://t.co/RsXkKPHiE8",
+    "lang": "en",
+    "created_at": "2015-08-04 19:28:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628616120854016000,
+    "id_str": "628616120854016000",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "twittertakeover",
+          "indices": [
+            125,
+            141
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The best part of shadowing is taking the steps &amp; subway to each meeting, where I get to ask the Sen. all of my questions #twittertakeover",
+    "lang": "en",
+    "created_at": "2015-08-04 17:18:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628603584972779520,
+    "id_str": "628603584972779520",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "twittertakeover",
+          "indices": [
+            84,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/3nObY2a0lb",
+          "media_url": "http://pbs.twimg.com/media/CLk_nzBWEAEsAwo.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk_nzBWEAEsAwo.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628603584972779520/photo/1",
+          "id_str": "628603575938191361",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/3nObY2a0lb",
+          "id": 628603575938191361
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/3nObY2a0lb",
+          "media_url": "http://pbs.twimg.com/media/CLk_nzBWEAEsAwo.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk_nzBWEAEsAwo.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628603584972779520/photo/1",
+          "id_str": "628603575938191361",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/3nObY2a0lb",
+          "id": 628603575938191361
+        }
+      ]
+    },
+    "text": "A larger staff meeting discussing one of the Senator's favorite topics: the Arctic! #twittertakeover http://t.co/3nObY2a0lb",
+    "lang": "en",
+    "created_at": "2015-08-04 16:29:08+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 39,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628595072225943553,
+    "id_str": "628595072225943553",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/43UpjzbCKJ",
+          "media_url": "http://pbs.twimg.com/media/CLk34GcUsAAM5XK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk34GcUsAAM5XK.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628595072225943553/photo/1",
+          "id_str": "628595059936505856",
+          "indices": [
+            98,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/43UpjzbCKJ",
+          "id": 628595059936505856
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "USCG (Official)",
+          "indices": [
+            28,
+            33
+          ],
+          "id_str": "15113565",
+          "id": 15113565,
+          "screen_name": "USCG"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/43UpjzbCKJ",
+          "media_url": "http://pbs.twimg.com/media/CLk34GcUsAAM5XK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk34GcUsAAM5XK.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628595072225943553/photo/1",
+          "id_str": "628595059936505856",
+          "indices": [
+            98,
+            120
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/43UpjzbCKJ",
+          "id": 628595059936505856
+        }
+      ]
+    },
+    "text": "Happy 225th Birthday to the @USCG! Thanks for all you do to keep Alaska's waters and coasts safe. http://t.co/43UpjzbCKJ",
+    "lang": "en",
+    "created_at": "2015-08-04 15:55:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628592089476038656,
+    "id_str": "628592089476038656",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/RZe2min91i",
+          "media_url": "http://pbs.twimg.com/media/CLk1K4RXAAAGhKs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk1K4RXAAAGhKs.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628592089476038656/photo/1",
+          "id_str": "628592084015054848",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/RZe2min91i",
+          "id": 628592084015054848
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/RZe2min91i",
+          "media_url": "http://pbs.twimg.com/media/CLk1K4RXAAAGhKs.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLk1K4RXAAAGhKs.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628592089476038656/photo/1",
+          "id_str": "628592084015054848",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/RZe2min91i",
+          "id": 628592084015054848
+        }
+      ]
+    },
+    "text": "During staff meetings, I love learning about the projects our office is working on directly affecting Alaska. http://t.co/RZe2min91i",
+    "lang": "en",
+    "created_at": "2015-08-04 15:43:27+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628578631258873857,
+    "id_str": "628578631258873857",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "twittertakeover",
+          "indices": [
+            68,
+            84
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Y99ZbPtLpz",
+          "media_url": "http://pbs.twimg.com/media/CLko7P3UEAAHyL0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLko7P3UEAAHyL0.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628578631258873857/photo/1",
+          "id_str": "628578621330821120",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/Y99ZbPtLpz",
+          "id": 628578621330821120
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "18061669",
+      "screen_name": "lisamurkowski",
+      "id": 18061669
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Y99ZbPtLpz",
+          "media_url": "http://pbs.twimg.com/media/CLko7P3UEAAHyL0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLko7P3UEAAHyL0.jpg",
+          "expanded_url": "http://twitter.com/lisamurkowski/status/628578631258873857/photo/1",
+          "id_str": "628578621330821120",
+          "indices": [
+            85,
+            107
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/Y99ZbPtLpz",
+          "id": 628578621330821120
+        }
+      ]
+    },
+    "text": "Headed to the first of several meetings today, we are ready to go!  #twittertakeover http://t.co/Y99ZbPtLpz",
+    "lang": "en",
+    "created_at": "2015-08-04 14:49:58+00:00",
+    "retweeted": false
+  }
+]

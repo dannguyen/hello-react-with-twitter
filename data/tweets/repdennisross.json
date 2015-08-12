@@ -1,0 +1,2187 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629695527458877441,
+    "id_str": "629695527458877441",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            123,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank you to all of our brave service members who have sacrificed their lives defending our nation. You are in my prayers. #PurpleHeartDay",
+    "lang": "en",
+    "created_at": "2015-08-07 16:48:07+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Lakeland, FL",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -82.042715,
+                27.968692
+              ],
+              [
+                -81.902695,
+                27.968692
+              ],
+              [
+                -81.902695,
+                28.13051
+              ],
+              [
+                -82.042715,
+                28.13051
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/3f7a925ec706ea48.json",
+        "name": "Lakeland",
+        "country": "United States",
+        "place_type": "city",
+        "id": "3f7a925ec706ea48"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629068778299650048,
+      "id_str": "629068778299650048",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "TampaBay",
+            "indices": [
+              41,
+              50
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Dennis Ross",
+            "indices": [
+              7,
+              21
+            ],
+            "id_str": "33655490",
+            "id": 33655490,
+            "screen_name": "RepDennisRoss"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "28130616",
+        "id": 28130616
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thanks @RepDennisRoss for meeting w/ our #TampaBay area prez, Emery Ivery, today! It was wonderful to discuss our ALICE Report with you!",
+      "lang": "en",
+      "created_at": "Wed Aug 05 23:17:38 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629101518319415297,
+    "id_str": "629101518319415297",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TampaBay",
+          "indices": [
+            57,
+            66
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "United Way Suncoast",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "28130616",
+          "id": 28130616,
+          "screen_name": "UWSuncoast"
+        },
+        {
+          "name": "Dennis Ross",
+          "indices": [
+            23,
+            37
+          ],
+          "id_str": "33655490",
+          "id": 33655490,
+          "screen_name": "RepDennisRoss"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @UWSuncoast: Thanks @RepDennisRoss for meeting w/ our #TampaBay area prez, Emery Ivery, today! It was wonderful to discuss our ALICE Rep\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 01:27:44+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "70697619",
+      "id": 628733339889999872,
+      "id_str": "628733339889999872",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/7hkUArckHS",
+            "media_url": "http://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+            "expanded_url": "http://twitter.com/askthedom/status/628733339889999872/photo/1",
+            "id_str": "628733330083590144",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/7hkUArckHS",
+            "id": 628733330083590144
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "102.5 The Bone",
+            "indices": [
+              0,
+              12
+            ],
+            "id_str": "70697619",
+            "id": 70697619,
+            "screen_name": "1025TheBone"
+          },
+          {
+            "name": "Mike Calta ",
+            "indices": [
+              13,
+              25
+            ],
+            "id_str": "21375462",
+            "id": 21375462,
+            "screen_name": "MrMikeCalta"
+          },
+          {
+            "name": "Dennis Ross",
+            "indices": [
+              40,
+              54
+            ],
+            "id_str": "33655490",
+            "id": 33655490,
+            "screen_name": "RepDennisRoss"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "183345692",
+        "id": 183345692
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 70697619,
+      "in_reply_to_screen_name": "1025TheBone",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/7hkUArckHS",
+            "media_url": "http://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+            "expanded_url": "http://twitter.com/askthedom/status/628733339889999872/photo/1",
+            "id_str": "628733330083590144",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/7hkUArckHS",
+            "id": 628733330083590144
+          },
+          {
+            "url": "http://t.co/7hkUArckHS",
+            "media_url": "http://pbs.twimg.com/media/CLm1oe8UMAAfud1.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLm1oe8UMAAfud1.jpg",
+            "expanded_url": "http://twitter.com/askthedom/status/628733339889999872/photo/1",
+            "id_str": "628733330100334592",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/7hkUArckHS",
+            "id": 628733330100334592
+          }
+        ]
+      },
+      "text": "@1025TheBone @MrMikeCalta Great meeting @RepDennisRoss at Lutz town hall tonight. His interview to be set for Sept. http://t.co/7hkUArckHS",
+      "lang": "en",
+      "created_at": "Wed Aug 05 01:04:44 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 183345692,
+          "media_url": "http://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+          "source_user_id_str": "183345692",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/7hkUArckHS",
+          "expanded_url": "http://twitter.com/askthedom/status/628733339889999872/photo/1",
+          "url": "http://t.co/7hkUArckHS",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+          "source_status_id_str": "628733339889999872",
+          "id_str": "628733330083590144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628733330083590144,
+          "source_status_id": 628733339889999872
+        },
+        {
+          "source_user_id": 183345692,
+          "media_url": "http://pbs.twimg.com/media/CLm1oe8UMAAfud1.jpg",
+          "source_user_id_str": "183345692",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/7hkUArckHS",
+          "expanded_url": "http://twitter.com/askthedom/status/628733339889999872/photo/1",
+          "url": "http://t.co/7hkUArckHS",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLm1oe8UMAAfud1.jpg",
+          "source_status_id_str": "628733339889999872",
+          "id_str": "628733330100334592",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628733330100334592,
+          "source_status_id": 628733339889999872
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629101085165252609,
+    "id_str": "629101085165252609",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 183345692,
+          "media_url": "http://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+          "source_user_id_str": "183345692",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/7hkUArckHS",
+          "expanded_url": "http://twitter.com/askthedom/status/628733339889999872/photo/1",
+          "url": "http://t.co/7hkUArckHS",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLm1oe4UsAAF0C7.jpg",
+          "source_status_id_str": "628733339889999872",
+          "id_str": "628733330083590144",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628733330083590144,
+          "source_status_id": 628733339889999872
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Dominic Fariello Esq",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "183345692",
+          "id": 183345692,
+          "screen_name": "askthedom"
+        },
+        {
+          "name": "102.5 The Bone",
+          "indices": [
+            15,
+            27
+          ],
+          "id_str": "70697619",
+          "id": 70697619,
+          "screen_name": "1025TheBone"
+        },
+        {
+          "name": "Mike Calta ",
+          "indices": [
+            28,
+            40
+          ],
+          "id_str": "21375462",
+          "id": 21375462,
+          "screen_name": "MrMikeCalta"
+        },
+        {
+          "name": "Dennis Ross",
+          "indices": [
+            55,
+            69
+          ],
+          "id_str": "33655490",
+          "id": 33655490,
+          "screen_name": "RepDennisRoss"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @askthedom: @1025TheBone @MrMikeCalta Great meeting @RepDennisRoss at Lutz town hall tonight. His interview to be set for Sept. http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 01:26:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628962994265976836,
+    "id_str": "628962994265976836",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "BadIranDeal",
+          "indices": [
+            5,
+            17
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Fox News",
+          "indices": [
+            127,
+            135
+          ],
+          "id_str": "1367531",
+          "id": 1367531,
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "This #BadIranDeal puts America and its allies in grave danger. Iran must be stopped from acquiring or building a nuclear bomb. @FoxNews",
+    "lang": "en",
+    "created_at": "2015-08-05 16:17:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628961923338502144,
+    "id_str": "628961923338502144",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Fox News",
+          "indices": [
+            129,
+            137
+          ],
+          "id_str": "1367531",
+          "id": 1367531,
+          "screen_name": "FoxNews"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congress MUST reject this devastating nuclear deal the president made with the world's largest state sponsor of terrorism--Iran! @FoxNews",
+    "lang": "en",
+    "created_at": "2015-08-05 16:13:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628690007503544320,
+    "id_str": "628690007503544320",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/kMbYNBvCUR",
+          "media_url": "http://pbs.twimg.com/media/CLmOORoUwAA6B3g.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmOORoUwAA6B3g.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628690007503544320/photo/1",
+          "id_str": "628689998896742400",
+          "indices": [
+            77,
+            99
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/kMbYNBvCUR",
+          "id": 628689998896742400
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/kMbYNBvCUR",
+          "media_url": "http://pbs.twimg.com/media/CLmOORoUwAA6B3g.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLmOORoUwAA6B3g.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628690007503544320/photo/1",
+          "id_str": "628689998896742400",
+          "indices": [
+            77,
+            99
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/kMbYNBvCUR",
+          "id": 628689998896742400
+        }
+      ]
+    },
+    "text": "Great turnout tonight at my townhall meeting in Lutz. Still time to join me. http://t.co/kMbYNBvCUR",
+    "lang": "en",
+    "created_at": "2015-08-04 22:12:32+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628633661370441728,
+    "id_str": "628633661370441728",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/vUZbI6Osog",
+          "media_url": "http://pbs.twimg.com/media/CLla-j7VEAA43nA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLla-j7VEAA43nA.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628633661370441728/photo/1",
+          "id_str": "628633653837369344",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/vUZbI6Osog",
+          "id": 628633653837369344
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "SouthernWine&Spirits",
+          "indices": [
+            102,
+            117
+          ],
+          "id_str": "576420187",
+          "id": 576420187,
+          "screen_name": "SWS_Of_America"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/vUZbI6Osog",
+          "media_url": "http://pbs.twimg.com/media/CLla-j7VEAA43nA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLla-j7VEAA43nA.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628633661370441728/photo/1",
+          "id_str": "628633653837369344",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/vUZbI6Osog",
+          "id": 628633653837369344
+        },
+        {
+          "url": "http://t.co/vUZbI6Osog",
+          "media_url": "http://pbs.twimg.com/media/CLla-kHUsAACHZY.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLla-kHUsAACHZY.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628633661370441728/photo/1",
+          "id_str": "628633653887676416",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/vUZbI6Osog",
+          "id": 628633653887676416
+        }
+      ]
+    },
+    "text": "Thank you Southern Wine &amp; Spirits of America for the excellent tour of your facility in Lakeland! @SWS_Of_America http://t.co/vUZbI6Osog",
+    "lang": "en",
+    "created_at": "2015-08-04 18:28:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628576457128837120,
+    "id_str": "628576457128837120",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/pQbE3CDuIe",
+          "media_url": "http://pbs.twimg.com/media/CLkm6MiUcAE6Fj6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkm6MiUcAE6Fj6.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628576457128837120/photo/1",
+          "id_str": "628576404234334209",
+          "indices": [
+            80,
+            102
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/pQbE3CDuIe",
+          "id": 628576404234334209
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "SouthernWine&Spirits",
+          "indices": [
+            34,
+            49
+          ],
+          "id_str": "576420187",
+          "id": 576420187,
+          "screen_name": "SWS_Of_America"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pQbE3CDuIe",
+          "media_url": "http://pbs.twimg.com/media/CLkm6MiUcAE6Fj6.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLkm6MiUcAE6Fj6.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628576457128837120/photo/1",
+          "id_str": "628576404234334209",
+          "indices": [
+            80,
+            102
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/pQbE3CDuIe",
+          "id": 628576404234334209
+        }
+      ]
+    },
+    "text": "Great tour and meeting today with @SWS_Of_America. Over 400 jobs and expanding! http://t.co/pQbE3CDuIe",
+    "lang": "en",
+    "created_at": "2015-08-04 14:41:20+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628273597119885312,
+    "id_str": "628273597119885312",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/FfdA3pSbHb",
+          "media_url": "http://pbs.twimg.com/media/CLgTfGHUMAAfy3Q.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgTfGHUMAAfy3Q.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628273597119885312/photo/1",
+          "id_str": "628273572956352512",
+          "indices": [
+            91,
+            113
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/FfdA3pSbHb",
+          "id": 628273572956352512
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Keel and Curley",
+          "indices": [
+            76,
+            90
+          ],
+          "id_str": "58512448",
+          "id": 58512448,
+          "screen_name": "KeelandCurley"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/FfdA3pSbHb",
+          "media_url": "http://pbs.twimg.com/media/CLgTfGHUMAAfy3Q.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgTfGHUMAAfy3Q.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628273597119885312/photo/1",
+          "id_str": "628273572956352512",
+          "indices": [
+            91,
+            113
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/FfdA3pSbHb",
+          "id": 628273572956352512
+        }
+      ]
+    },
+    "text": "Enjoying a wonderful tour of Keel and Curley Winery in Plant City, Florida! @KeelandCurley http://t.co/FfdA3pSbHb",
+    "lang": "en",
+    "created_at": "2015-08-03 18:37:52+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628257353956200448,
+    "id_str": "628257353956200448",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NationalWatermelonDay",
+          "indices": [
+            6,
+            28
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy #NationalWatermelonDay - be sure to stop by any local Hillsborough County fruit stand or market  and enjoy some fresh watermelon!",
+    "lang": "en",
+    "created_at": "2015-08-03 17:33:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628209589981478913,
+    "id_str": "628209589981478913",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FL15",
+          "indices": [
+            96,
+            101
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Yoid5ktYOv",
+          "media_url": "http://pbs.twimg.com/media/CLfZSgMVAAAt3-h.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfZSgMVAAAt3-h.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628209589981478913/photo/1",
+          "id_str": "628209584943988736",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/Yoid5ktYOv",
+          "id": 628209584943988736
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Yoid5ktYOv",
+          "media_url": "http://pbs.twimg.com/media/CLfZSgMVAAAt3-h.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfZSgMVAAAt3-h.jpg",
+          "expanded_url": "http://twitter.com/RepDennisRoss/status/628209589981478913/photo/1",
+          "id_str": "628209584943988736",
+          "indices": [
+            102,
+            124
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/Yoid5ktYOv",
+          "id": 628209584943988736
+        }
+      ]
+    },
+    "text": "Enjoying some chocolate milk before touring the Southeast Milk facility in Plant City, Florida! #FL15 http://t.co/Yoid5ktYOv",
+    "lang": "en",
+    "created_at": "2015-08-03 14:23:32+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627157244002615297,
+    "id_str": "627157244002615297",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rotary International",
+          "indices": [
+            19,
+            26
+          ],
+          "id_str": "4432431",
+          "id": 4432431,
+          "screen_name": "Rotary"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank you Lakeland @Rotary for a great discussion. Always look forward to spending time with a great group of leaders in our community!",
+    "lang": "en",
+    "created_at": "2015-07-31 16:41:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626080191543136257,
+    "id_str": "626080191543136257",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625738241337995264,
+      "id_str": "625738241337995264",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/iEaYjW8tON",
+            "indices": [
+              109,
+              131
+            ],
+            "display_url": "foxnews.com/opinion/2015/0\u2026",
+            "expanded_url": "http://www.foxnews.com/opinion/2015/07/27/people-is-at-risk-why-america-needs-civics-education.html"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "civicseducation",
+            "indices": [
+              42,
+              58
+            ]
+          },
+          {
+            "text": "UTpol",
+            "indices": [
+              94,
+              100
+            ]
+          },
+          {
+            "text": "Utleg",
+            "indices": [
+              101,
+              107
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Fox News Opinion",
+            "indices": [
+              3,
+              14
+            ],
+            "id_str": "107125748",
+            "id": 107125748,
+            "screen_name": "fxnopinion"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2610905833",
+        "id": 2610905833
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "My @fxnopinion piece on the importance of #civicseducation. Utah has taken a good first step. #UTpol #Utleg  http://t.co/iEaYjW8tON",
+      "lang": "en",
+      "created_at": "Mon Jul 27 18:43:17 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/uqw7fBk13Z",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "dennisross.house.gov/news/documents\u2026",
+          "expanded_url": "http://dennisross.house.gov/news/documentsingle.aspx?DocumentID=398356"
+        },
+        {
+          "url": "https://t.co/7gLlbfPsyB",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "twitter.com/JJohnsonNow/st\u2026",
+          "expanded_url": "https://twitter.com/JJohnsonNow/status/625738241337995264"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CivicsEducation",
+          "indices": [
+            23,
+            39
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "625738241337995264",
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "created_at": "2015-07-28 17:22:04+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great article! We need #CivicsEducation. Polk Cnty is building the 1st civics school in FL. http://t.co/uqw7fBk13Z https://t.co/7gLlbfPsyB",
+    "lang": "en",
+    "quoted_status_id": 625738241337995264
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624644525366054912,
+    "id_str": "624644525366054912",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Dbx4ynpO9J",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "floridaembassy.com/index.php",
+          "expanded_url": "http://floridaembassy.com/index.php"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Florida House",
+          "indices": [
+            52,
+            67
+          ],
+          "id_str": "378160122",
+          "id": 378160122,
+          "screen_name": "FloridaHouseDC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Make sure your trip to D.C. includes a visit to the @FloridaHouseDC, the only state embassy in the nation's capital! http://t.co/Dbx4ynpO9J",
+    "lang": "en",
+    "created_at": "2015-07-24 18:17:14+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624214236357636096,
+      "id_str": "624214236357636096",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/jefvv0EWtm",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "bit.ly/1LFrhQz",
+            "expanded_url": "http://bit.ly/1LFrhQz"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Dennis Ross",
+            "indices": [
+              105,
+              119
+            ],
+            "id_str": "33655490",
+            "id": 33655490,
+            "screen_name": "RepDennisRoss"
+          },
+          {
+            "name": "Rep. Patrick Murphy",
+            "indices": [
+              120,
+              132
+            ],
+            "id_str": "1128781184",
+            "id": 1128781184,
+            "screen_name": "RepMurphyFL"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "84220386",
+        "id": 84220386
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Tampa Tribune: Legislation to enhance private flood insurance is a \"step forward\" http://t.co/jefvv0EWtm @RepDennisRoss @RepMurphyFL",
+      "lang": "en",
+      "created_at": "Thu Jul 23 13:47:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624220935256674304,
+    "id_str": "624220935256674304",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jefvv0EWtm",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "bit.ly/1LFrhQz",
+          "expanded_url": "http://bit.ly/1LFrhQz"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "SmarterSafer",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "84220386",
+          "id": 84220386,
+          "screen_name": "SmarterSafer"
+        },
+        {
+          "name": "Dennis Ross",
+          "indices": [
+            123,
+            137
+          ],
+          "id_str": "33655490",
+          "id": 33655490,
+          "screen_name": "RepDennisRoss"
+        },
+        {
+          "name": "Rep. Patrick Murphy",
+          "indices": [
+            139,
+            140
+          ],
+          "id_str": "1128781184",
+          "id": 1128781184,
+          "screen_name": "RepMurphyFL"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SmarterSafer: Tampa Tribune: Legislation to enhance private flood insurance is a \"step forward\" http://t.co/jefvv0EWtm @RepDennisRoss @\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 14:14:03+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "33655490",
+      "id": 623969304233541632,
+      "id_str": "623969304233541632",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Dennis Ross",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "33655490",
+            "id": 33655490,
+            "screen_name": "RepDennisRoss"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "950328072",
+        "id": 950328072
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 33655490,
+      "in_reply_to_screen_name": "RepDennisRoss",
+      "retweeted": false,
+      "text": "@RepDennisRoss: The premise of this deal has been at the expense of expanding international terrorism.",
+      "lang": "en",
+      "created_at": "Wed Jul 22 21:34:09 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624028339360133120,
+    "id_str": "624028339360133120",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep Robert Pittenger",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "950328072",
+          "id": 950328072,
+          "screen_name": "reppittenger"
+        },
+        {
+          "name": "Dennis Ross",
+          "indices": [
+            18,
+            32
+          ],
+          "id_str": "33655490",
+          "id": 33655490,
+          "screen_name": "RepDennisRoss"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @reppittenger: @RepDennisRoss: The premise of this deal has been at the expense of expanding international terrorism.",
+    "lang": "en",
+    "created_at": "2015-07-23 01:28:44+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 3,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "33655490",
+      "id": 623969990568476672,
+      "id_str": "623969990568476672",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Dennis Ross",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "33655490",
+            "id": 33655490,
+            "screen_name": "RepDennisRoss"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "950328072",
+        "id": 950328072
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 33655490,
+      "in_reply_to_screen_name": "RepDennisRoss",
+      "retweeted": false,
+      "text": "@RepDennisRoss: \"Have we licensed the management of nuclear capabilities in Iran at the expense of expanding terrorism around the world?\"",
+      "lang": "en",
+      "created_at": "Wed Jul 22 21:36:53 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624028079015464960,
+    "id_str": "624028079015464960",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep Robert Pittenger",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "950328072",
+          "id": 950328072,
+          "screen_name": "reppittenger"
+        },
+        {
+          "name": "Dennis Ross",
+          "indices": [
+            18,
+            32
+          ],
+          "id_str": "33655490",
+          "id": 33655490,
+          "screen_name": "RepDennisRoss"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @reppittenger: @RepDennisRoss: \"Have we licensed the management of nuclear capabilities in Iran at the expense of expanding terrorism ar\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 01:27:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623985978932359169,
+    "id_str": "623985978932359169",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/kWbgxHlbxI",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "youtube.com/watch?v=IfTluH\u2026",
+          "expanded_url": "http://www.youtube.com/watch?v=IfTluH275O8"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "StandWithIsrael",
+          "indices": [
+            83,
+            99
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Fox News",
+          "indices": [
+            123,
+            131
+          ],
+          "id_str": "1367531",
+          "id": 1367531,
+          "screen_name": "FoxNews"
+        },
+        {
+          "name": "Wall Street Journal",
+          "indices": [
+            132,
+            136
+          ],
+          "id_str": "3108351",
+          "id": 3108351,
+          "screen_name": "WSJ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The dangerous Iran Nuclear Deal is detrimental to eliminating terrorism financing. #StandWithIsrael http://t.co/kWbgxHlbxI @FoxNews @WSJ",
+    "lang": "en",
+    "created_at": "2015-07-22 22:40:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623910842178744321",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "60628575",
+    "id": 623948685903306752,
+    "id_str": "623948685903306752",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "C-SPAN2's BookTV",
+          "indices": [
+            0,
+            7
+          ],
+          "id_str": "60628575",
+          "id": 60628575,
+          "screen_name": "BookTV"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623910842178744321,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": 60628575,
+    "in_reply_to_screen_name": "BookTV",
+    "retweeted": false,
+    "text": "@BookTV Currently reading the Conservative Heart by Arthur Brooks and Trendsetting Charter Schools by Gary Schmitt &amp; Cheryl Miller.",
+    "lang": "en",
+    "created_at": "2015-07-22 20:12:13+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Lakeland, FL",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -82.042715,
+                27.968692
+              ],
+              [
+                -81.902695,
+                27.968692
+              ],
+              [
+                -81.902695,
+                28.13051
+              ],
+              [
+                -82.042715,
+                28.13051
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/3f7a925ec706ea48.json",
+        "name": "Lakeland",
+        "country": "United States",
+        "place_type": "city",
+        "id": "3f7a925ec706ea48"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623600149231611904,
+      "id_str": "623600149231611904",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Dennis Ross",
+            "indices": [
+              10,
+              24
+            ],
+            "id_str": "33655490",
+            "id": 33655490,
+            "screen_name": "RepDennisRoss"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1022694384",
+        "id": 1022694384
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "OFFICIAL: @RepDennisRoss bill to name Mulberry post office for Sgt. First Class Daniel M. Ferguson signed into law.",
+      "lang": "en",
+      "created_at": "Tue Jul 21 21:07:16 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623921209886003200,
+    "id_str": "623921209886003200",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Daniel Figueroa IV",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "1022694384",
+          "id": 1022694384,
+          "screen_name": "danuscripts"
+        },
+        {
+          "name": "Dennis Ross",
+          "indices": [
+            27,
+            41
+          ],
+          "id_str": "33655490",
+          "id": 33655490,
+          "screen_name": "RepDennisRoss"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33655490",
+      "screen_name": "repdennisross",
+      "id": 33655490
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @danuscripts: OFFICIAL: @RepDennisRoss bill to name Mulberry post office for Sgt. First Class Daniel M. Ferguson signed into law.",
+    "lang": "en",
+    "created_at": "2015-07-22 18:23:02+00:00"
+  }
+]

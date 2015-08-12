@@ -1,0 +1,2881 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Florida, USA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -87.634643,
+                24.396308
+              ],
+              [
+                -79.974307,
+                24.396308
+              ],
+              [
+                -79.974307,
+                31.001056
+              ],
+              [
+                -87.634643,
+                31.001056
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/4ec01c9dbc693497.json",
+        "name": "Florida",
+        "country": "United States",
+        "place_type": "admin",
+        "id": "4ec01c9dbc693497"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629430754141958145,
+      "id_str": "629430754141958145",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "raredisease",
+            "indices": [
+              92,
+              104
+            ]
+          },
+          {
+            "text": "Compassion",
+            "indices": [
+              105,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/iYwvyfI8mT",
+            "media_url": "http://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+            "expanded_url": "http://twitter.com/angels4patients/status/629430754141958145/photo/1",
+            "id_str": "629430753558839296",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 540
+              }
+            },
+            "display_url": "pic.twitter.com/iYwvyfI8mT",
+            "id": 629430753558839296
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Ron DeSantis",
+            "indices": [
+              21,
+              33
+            ],
+            "id_str": "1058807868",
+            "id": 1058807868,
+            "screen_name": "RepDeSantis"
+          },
+          {
+            "name": "RDLA",
+            "indices": [
+              34,
+              48
+            ],
+            "id_str": "705228997",
+            "id": 705228997,
+            "screen_name": "RareAdvocates"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2946200469",
+        "id": 2946200469
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/iYwvyfI8mT",
+            "media_url": "http://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+            "expanded_url": "http://twitter.com/angels4patients/status/629430754141958145/photo/1",
+            "id_str": "629430753558839296",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 960,
+                "resize": "fit",
+                "h": 540
+              }
+            },
+            "display_url": "pic.twitter.com/iYwvyfI8mT",
+            "id": 629430753558839296
+          }
+        ]
+      },
+      "text": "BIG Heartfelt thanks @RepDeSantis @RareAdvocates Robert Mons for your time &amp; assistance #raredisease #Compassion http://t.co/iYwvyfI8mT",
+      "lang": "en",
+      "created_at": "Thu Aug 06 23:16:00 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2946200469,
+          "media_url": "http://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+          "source_user_id_str": "2946200469",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/iYwvyfI8mT",
+          "expanded_url": "http://twitter.com/angels4patients/status/629430754141958145/photo/1",
+          "url": "http://t.co/iYwvyfI8mT",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+          "source_status_id_str": "629430754141958145",
+          "id_str": "629430753558839296",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "id": 629430753558839296,
+          "source_status_id": 629430754141958145
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629664041825341440,
+    "id_str": "629664041825341440",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "raredisease",
+          "indices": [
+            113,
+            125
+          ]
+        },
+        {
+          "text": "Compassion",
+          "indices": [
+            126,
+            137
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2946200469,
+          "media_url": "http://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+          "source_user_id_str": "2946200469",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/iYwvyfI8mT",
+          "expanded_url": "http://twitter.com/angels4patients/status/629430754141958145/photo/1",
+          "url": "http://t.co/iYwvyfI8mT",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwv73yUwAAiQlF.jpg",
+          "source_status_id_str": "629430754141958145",
+          "id_str": "629430753558839296",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "id": 629430753558839296,
+          "source_status_id": 629430754141958145
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Angels4Patients",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2946200469",
+          "id": 2946200469,
+          "screen_name": "angels4patients"
+        },
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            42,
+            54
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        },
+        {
+          "name": "RDLA",
+          "indices": [
+            55,
+            69
+          ],
+          "id_str": "705228997",
+          "id": 705228997,
+          "screen_name": "RareAdvocates"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @angels4patients: BIG Heartfelt thanks @RepDeSantis @RareAdvocates Robert Mons for your time &amp; assistance #raredisease #Compassion http:\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 14:43:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627217540800991237,
+    "id_str": "627217540800991237",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Bunnell",
+          "indices": [
+            60,
+            68
+          ]
+        },
+        {
+          "text": "FL06",
+          "indices": [
+            85,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/gU3cAzZUzb",
+          "media_url": "http://pbs.twimg.com/media/CLRTB6MWoAEemlM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRTB6MWoAEemlM.jpg",
+          "expanded_url": "http://twitter.com/RepDeSantis/status/627217540800991237/photo/1",
+          "id_str": "627217540377387009",
+          "indices": [
+            91,
+            113
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/gU3cAzZUzb",
+          "id": 627217540377387009
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gU3cAzZUzb",
+          "media_url": "http://pbs.twimg.com/media/CLRTB6MWoAEemlM.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRTB6MWoAEemlM.jpg",
+          "expanded_url": "http://twitter.com/RepDeSantis/status/627217540800991237/photo/1",
+          "id_str": "627217540377387009",
+          "indices": [
+            91,
+            113
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/gU3cAzZUzb",
+          "id": 627217540377387009
+        }
+      ]
+    },
+    "text": "Mark your calendars - staff will be holding office hours in #Bunnell next Wednesday. #FL06 http://t.co/gU3cAzZUzb",
+    "lang": "en",
+    "created_at": "2015-07-31 20:41:29+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627201938443096065,
+    "id_str": "627201938443096065",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/xSuZYntXHL",
+          "media_url": "http://pbs.twimg.com/media/CLRE1ugWcAACgoH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRE1ugWcAACgoH.jpg",
+          "expanded_url": "http://twitter.com/RepDeSantis/status/627201938443096065/photo/1",
+          "id_str": "627201937918816256",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 360
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 635
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1084
+            }
+          },
+          "display_url": "pic.twitter.com/xSuZYntXHL",
+          "id": 627201937918816256
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "CAGW",
+          "indices": [
+            47,
+            56
+          ],
+          "id_str": "29487664",
+          "id": 29487664,
+          "screen_name": "GovWaste"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xSuZYntXHL",
+          "media_url": "http://pbs.twimg.com/media/CLRE1ugWcAACgoH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRE1ugWcAACgoH.jpg",
+          "expanded_url": "http://twitter.com/RepDeSantis/status/627201938443096065/photo/1",
+          "id_str": "627201937918816256",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 360
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 635
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1084
+            }
+          },
+          "display_url": "pic.twitter.com/xSuZYntXHL",
+          "id": 627201937918816256
+        }
+      ]
+    },
+    "text": "Honored to be named a \"Taxpayer Super Hero\" by @GovWaste &amp; will continue to stand up for fiscal responsibility! http://t.co/xSuZYntXHL",
+    "lang": "en",
+    "created_at": "2015-07-31 19:39:29+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626864974556725250,
+    "id_str": "626864974556725250",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/4xtJQBpxF6",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "ti.me/1fMlWdY",
+          "expanded_url": "http://ti.me/1fMlWdY"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            102,
+            107
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Tom Cotton",
+          "indices": [
+            22,
+            35
+          ],
+          "id_str": "968650362",
+          "id": 968650362,
+          "screen_name": "SenTomCotton"
+        },
+        {
+          "name": "TIME.com",
+          "indices": [
+            40,
+            45
+          ],
+          "id_str": "14293310",
+          "id": 14293310,
+          "screen_name": "TIME"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I wrote an op-ed with @SenTomCotton for @TIME outlining why we must reject this bad nuclear deal with #Iran: http://t.co/4xtJQBpxF6.",
+    "lang": "en",
+    "created_at": "2015-07-30 21:20:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 20,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626454453273657344,
+    "id_str": "626454453273657344",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/56RvAPZQbp",
+          "media_url": "http://pbs.twimg.com/media/CLGdAW6UsAAqrRX.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGdAW6UsAAqrRX.jpg",
+          "expanded_url": "http://twitter.com/RepDeSantis/status/626454453273657344/photo/1",
+          "id_str": "626454452656975872",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 278
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 490
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 837
+            }
+          },
+          "display_url": "pic.twitter.com/56RvAPZQbp",
+          "id": 626454452656975872
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "FreedomWorks",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "14730894",
+          "id": 14730894,
+          "screen_name": "FreedomWorks"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/56RvAPZQbp",
+          "media_url": "http://pbs.twimg.com/media/CLGdAW6UsAAqrRX.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLGdAW6UsAAqrRX.jpg",
+          "expanded_url": "http://twitter.com/RepDeSantis/status/626454453273657344/photo/1",
+          "id_str": "626454452656975872",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 278
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 490
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 837
+            }
+          },
+          "display_url": "pic.twitter.com/56RvAPZQbp",
+          "id": 626454452656975872
+        }
+      ]
+    },
+    "text": "Proud to receive @FreedomWorks award for defending liberty, reducing bureaucracy &amp; promoting free market principles. http://t.co/56RvAPZQbp",
+    "lang": "en",
+    "created_at": "2015-07-29 18:09:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626120620451835904,
+    "id_str": "626120620451835904",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            113,
+            122
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Neil Cavuto",
+          "indices": [
+            27,
+            38
+          ],
+          "id_str": "223970563",
+          "id": 223970563,
+          "screen_name": "TeamCavuto"
+        },
+        {
+          "name": "Fox News",
+          "indices": [
+            42,
+            50
+          ],
+          "id_str": "1367531",
+          "id": 1367531,
+          "screen_name": "FoxNews"
+        },
+        {
+          "name": "Foreign Affairs Cmte",
+          "indices": [
+            84,
+            97
+          ],
+          "id_str": "75367781",
+          "id": 75367781,
+          "screen_name": "HouseForeign"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Looking forward to joining @TeamCavuto on @FoxNews in 20 minutes to discuss today's @HouseForeign hearing on the #IranDeal. Tune in!",
+    "lang": "en",
+    "created_at": "2015-07-28 20:02:43+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626089066170318848,
+      "id_str": "626089066170318848",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/LIcQqC7Aug",
+            "indices": [
+              97,
+              120
+            ],
+            "display_url": "oversight.house.gov/hearing/impact\u2026",
+            "expanded_url": "https://oversight.house.gov/hearing/impact-of-the-boycott-divestment-and-sanctions-movement/"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Ron DeSantis",
+            "indices": [
+              84,
+              96
+            ],
+            "id_str": "1058807868",
+            "id": 1058807868,
+            "screen_name": "RepDeSantis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22508473",
+        "id": 22508473
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "COMING UP: Impact of the Boycott, Divestment, &amp; Sanctions Movement - chaired by @RepDeSantis https://t.co/LIcQqC7Aug",
+      "lang": "en",
+      "created_at": "Tue Jul 28 17:57:20 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626089423072043008,
+    "id_str": "626089423072043008",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/LIcQqC7Aug",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "oversight.house.gov/hearing/impact\u2026",
+          "expanded_url": "https://oversight.house.gov/hearing/impact-of-the-boycott-divestment-and-sanctions-movement/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        },
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            102,
+            114
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GOPoversight: COMING UP: Impact of the Boycott, Divestment, &amp; Sanctions Movement - chaired by @RepDeSantis https://t.co/LIcQqC7Aug",
+    "lang": "en",
+    "created_at": "2015-07-28 17:58:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626070676387033088,
+    "id_str": "626070676387033088",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jXk8Ct70rA",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "foreignaffairs.house.gov/live-video-feed",
+          "expanded_url": "http://foreignaffairs.house.gov/live-video-feed"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            85,
+            94
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            15,
+            27
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        },
+        {
+          "name": "Foreign Affairs Cmte",
+          "indices": [
+            64,
+            77
+          ],
+          "id_str": "75367781",
+          "id": 75367781,
+          "screen_name": "HouseForeign"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "HAPPENING NOW: @RepDeSantis questioning Secretary John Kerry at @HouseForeign on the #IranDeal. WATCH: http://t.co/jXk8Ct70rA - staff",
+    "lang": "en",
+    "created_at": "2015-07-28 16:44:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626066805711339520,
+    "id_str": "626066805711339520",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jXk8Ct70rA",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "foreignaffairs.house.gov/live-video-feed",
+          "expanded_url": "http://foreignaffairs.house.gov/live-video-feed"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            65,
+            74
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Foreign Affairs Cmte",
+          "indices": [
+            44,
+            57
+          ],
+          "id_str": "75367781",
+          "id": 75367781,
+          "screen_name": "HouseForeign"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Waiting to question Secretary John Kerry at @HouseForeign on the #IranDeal. Watch live here: http://t.co/jXk8Ct70rA.",
+    "lang": "en",
+    "created_at": "2015-07-28 16:28:52+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 39,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 21,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626045067766198272,
+      "id_str": "626045067766198272",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/FiJKQJYM1F",
+            "media_url": "http://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+            "expanded_url": "http://twitter.com/FreeBeacon/status/626045067766198272/photo/1",
+            "id_str": "626044852757770240",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 238
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 485,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 485,
+                "resize": "fit",
+                "h": 340
+              }
+            },
+            "display_url": "pic.twitter.com/FiJKQJYM1F",
+            "id": 626044852757770240
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/bTni0ycG5p",
+            "indices": [
+              77,
+              99
+            ],
+            "display_url": "goo.gl/iDFn7n",
+            "expanded_url": "http://goo.gl/iDFn7n"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Morgan Chalfant",
+            "indices": [
+              104,
+              116
+            ],
+            "id_str": "412791809",
+            "id": 412791809,
+            "screen_name": "mchalfant16"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "455764741",
+        "id": 455764741
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FiJKQJYM1F",
+            "media_url": "http://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+            "expanded_url": "http://twitter.com/FreeBeacon/status/626045067766198272/photo/1",
+            "id_str": "626044852757770240",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 238
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 485,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 485,
+                "resize": "fit",
+                "h": 340
+              }
+            },
+            "display_url": "pic.twitter.com/FiJKQJYM1F",
+            "id": 626044852757770240
+          }
+        ]
+      },
+      "text": "WARNS: GOP Congressmen to Obama: Remove IRS Head Koskinen or We Will Impeach http://t.co/bTni0ycG5p via @mchalfant16 http://t.co/FiJKQJYM1F",
+      "lang": "en",
+      "created_at": "Tue Jul 28 15:02:30 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 39,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 455764741,
+          "media_url": "http://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+          "source_user_id_str": "455764741",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/FiJKQJYM1F",
+          "expanded_url": "http://twitter.com/FreeBeacon/status/626045067766198272/photo/1",
+          "url": "http://t.co/FiJKQJYM1F",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+          "source_status_id_str": "626045067766198272",
+          "id_str": "626044852757770240",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 238
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 485,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 485,
+              "resize": "fit",
+              "h": 340
+            }
+          },
+          "id": 626044852757770240,
+          "source_status_id": 626045067766198272
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626046799896289280,
+    "id_str": "626046799896289280",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 455764741,
+          "media_url": "http://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+          "source_user_id_str": "455764741",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/FiJKQJYM1F",
+          "expanded_url": "http://twitter.com/FreeBeacon/status/626045067766198272/photo/1",
+          "url": "http://t.co/FiJKQJYM1F",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLAoegYWsAAZ124.jpg",
+          "source_status_id_str": "626045067766198272",
+          "id_str": "626044852757770240",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 238
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 485,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 485,
+              "resize": "fit",
+              "h": 340
+            }
+          },
+          "id": 626044852757770240,
+          "source_status_id": 626045067766198272
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/bTni0ycG5p",
+          "indices": [
+            93,
+            115
+          ],
+          "display_url": "goo.gl/iDFn7n",
+          "expanded_url": "http://goo.gl/iDFn7n"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Free Beacon",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "455764741",
+          "id": 455764741,
+          "screen_name": "FreeBeacon"
+        },
+        {
+          "name": "Morgan Chalfant",
+          "indices": [
+            120,
+            132
+          ],
+          "id_str": "412791809",
+          "id": 412791809,
+          "screen_name": "mchalfant16"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FreeBeacon: WARNS: GOP Congressmen to Obama: Remove IRS Head Koskinen or We Will Impeach http://t.co/bTni0ycG5p via @mchalfant16 http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 15:09:23+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 21,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626023841878441984,
+      "id_str": "626023841878441984",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              50,
+              59
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/Q9GzguinDT",
+            "media_url": "http://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+            "expanded_url": "http://twitter.com/cspan/status/626023841878441984/photo/1",
+            "id_str": "626023841408495616",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/Q9GzguinDT",
+            "id": 626023841408495616
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/dr2ACz6DVO",
+            "indices": [
+              98,
+              120
+            ],
+            "display_url": "cs.pn/1OyFXzW",
+            "expanded_url": "http://cs.pn/1OyFXzW"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "John Kerry",
+            "indices": [
+              1,
+              11
+            ],
+            "id_str": "15007149",
+            "id": 15007149,
+            "screen_name": "JohnKerry"
+          },
+          {
+            "name": "Ernest Moniz",
+            "indices": [
+              12,
+              24
+            ],
+            "id_str": "1393155566",
+            "id": 1393155566,
+            "screen_name": "ErnestMoniz"
+          },
+          {
+            "name": "Foreign Affairs Cmte",
+            "indices": [
+              61,
+              74
+            ],
+            "id_str": "75367781",
+            "id": 75367781,
+            "screen_name": "HouseForeign"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15675138",
+        "id": 15675138
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Q9GzguinDT",
+            "media_url": "http://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+            "expanded_url": "http://twitter.com/cspan/status/626023841878441984/photo/1",
+            "id_str": "626023841408495616",
+            "indices": [
+              121,
+              143
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/Q9GzguinDT",
+            "id": 626023841408495616
+          }
+        ]
+      },
+      "text": ".@JohnKerry @ernestmoniz &amp; Sec Lew testify on #IranDeal  @HouseForeign \u2013 LIVE 10am ET C-SPAN3 http://t.co/dr2ACz6DVO http://t.co/Q9GzguinDT",
+      "lang": "ht",
+      "created_at": "Tue Jul 28 13:38:09 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 15675138,
+          "media_url": "http://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+          "source_user_id_str": "15675138",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/Q9GzguinDT",
+          "expanded_url": "http://twitter.com/cspan/status/626023841878441984/photo/1",
+          "url": "http://t.co/Q9GzguinDT",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+          "source_status_id_str": "626023841878441984",
+          "id_str": "626023841408495616",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 626023841408495616,
+          "source_status_id": 626023841878441984
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626037589758353408,
+    "id_str": "626037589758353408",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            61,
+            70
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 15675138,
+          "media_url": "http://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+          "source_user_id_str": "15675138",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/Q9GzguinDT",
+          "expanded_url": "http://twitter.com/cspan/status/626023841878441984/photo/1",
+          "url": "http://t.co/Q9GzguinDT",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLAVXfAUMAAdz9N.jpg",
+          "source_status_id_str": "626023841878441984",
+          "id_str": "626023841408495616",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 626023841408495616,
+          "source_status_id": 626023841878441984
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/dr2ACz6DVO",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "cs.pn/1OyFXzW",
+          "expanded_url": "http://cs.pn/1OyFXzW"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "CSPAN",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "15675138",
+          "id": 15675138,
+          "screen_name": "cspan"
+        },
+        {
+          "name": "John Kerry",
+          "indices": [
+            12,
+            22
+          ],
+          "id_str": "15007149",
+          "id": 15007149,
+          "screen_name": "JohnKerry"
+        },
+        {
+          "name": "Ernest Moniz",
+          "indices": [
+            23,
+            35
+          ],
+          "id_str": "1393155566",
+          "id": 1393155566,
+          "screen_name": "ErnestMoniz"
+        },
+        {
+          "name": "Foreign Affairs Cmte",
+          "indices": [
+            72,
+            85
+          ],
+          "id_str": "75367781",
+          "id": 75367781,
+          "screen_name": "HouseForeign"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @cspan: .@JohnKerry @ernestmoniz &amp; Sec Lew testify on #IranDeal  @HouseForeign \u2013 LIVE 10am ET C-SPAN3 http://t.co/dr2ACz6DVO http://t.co\u2026",
+    "lang": "ht",
+    "created_at": "2015-07-28 14:32:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 19,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626022589983498240,
+    "id_str": "626022589983498240",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ED0qT3GvZD",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "on.wsj.com/1U3SbEB",
+          "expanded_url": "http://on.wsj.com/1U3SbEB"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IRS",
+          "indices": [
+            87,
+            91
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Wall Street Journal",
+          "indices": [
+            37,
+            41
+          ],
+          "id_str": "3108351",
+          "id": 3108351,
+          "screen_name": "WSJ"
+        },
+        {
+          "name": "Rep. Jim Jordan",
+          "indices": [
+            47,
+            58
+          ],
+          "id_str": "18166778",
+          "id": 18166778,
+          "screen_name": "Jim_Jordan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "This morning, I took to the pages of @WSJ with @Jim_Jordan to argue for the removal of #IRS Commissioner Koskinen: http://t.co/ED0qT3GvZD.",
+    "lang": "en",
+    "created_at": "2015-07-28 13:33:11+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 11,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626020976724152320,
+      "id_str": "626020976724152320",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/mRVdVjJkWr",
+            "indices": [
+              90,
+              112
+            ],
+            "display_url": "goo.gl/PPNdkp",
+            "expanded_url": "http://goo.gl/PPNdkp"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "IRS",
+            "indices": [
+              82,
+              86
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Ron DeSantis",
+            "indices": [
+              18,
+              30
+            ],
+            "id_str": "1058807868",
+            "id": 1058807868,
+            "screen_name": "RepDeSantis"
+          },
+          {
+            "name": "Wall Street Journal",
+            "indices": [
+              38,
+              42
+            ],
+            "id_str": "3108351",
+            "id": 3108351,
+            "screen_name": "WSJ"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18166778",
+        "id": 18166778
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "My joint op-ed w/ @RepDeSantis in the @WSJ 2day: \"The Stonewall at the Top of the #IRS\" - http://t.co/mRVdVjJkWr - time for Koskinen to go",
+      "lang": "en",
+      "created_at": "Tue Jul 28 13:26:46 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626021095544594432,
+    "id_str": "626021095544594432",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/mRVdVjJkWr",
+          "indices": [
+            106,
+            128
+          ],
+          "display_url": "goo.gl/PPNdkp",
+          "expanded_url": "http://goo.gl/PPNdkp"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IRS",
+          "indices": [
+            98,
+            102
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Rep. Jim Jordan",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "18166778",
+          "id": 18166778,
+          "screen_name": "Jim_Jordan"
+        },
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            34,
+            46
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        },
+        {
+          "name": "Wall Street Journal",
+          "indices": [
+            54,
+            58
+          ],
+          "id_str": "3108351",
+          "id": 3108351,
+          "screen_name": "WSJ"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Jim_Jordan: My joint op-ed w/ @RepDeSantis in the @WSJ 2day: \"The Stonewall at the Top of the #IRS\" - http://t.co/mRVdVjJkWr - time for\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 13:27:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625803391713853441,
+    "id_str": "625803391713853441",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IRSFail",
+          "indices": [
+            85,
+            93
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The American people deserve better and have demanded accountability from Washington. #IRSFail",
+    "lang": "en",
+    "created_at": "2015-07-27 23:02:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625803279138713600,
+    "id_str": "625803279138713600",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/0qY3sF3IpU",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "bit.ly/1KuA1az",
+          "expanded_url": "http://bit.ly/1KuA1az"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IRS",
+          "indices": [
+            61,
+            65
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            21,
+            34
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Tonight, I joined my @GOPoversight colleagues in calling for #IRS Commissioner Koskinen to be removed. Watch: http://t.co/0qY3sF3IpU.",
+    "lang": "en",
+    "created_at": "2015-07-27 23:01:43+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 10,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625785533613084673,
+      "id_str": "625785533613084673",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Ron DeSantis",
+            "indices": [
+              1,
+              13
+            ],
+            "id_str": "1058807868",
+            "id": 1058807868,
+            "screen_name": "RepDeSantis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22508473",
+        "id": 22508473
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepDeSantis: Is it okay if IRS Commissioner operates under a lower standard than what an American citizen would be expected to live under?",
+      "lang": "en",
+      "created_at": "Mon Jul 27 21:51:12 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625798153669902336,
+    "id_str": "625798153669902336",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        },
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            19,
+            31
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GOPoversight: .@RepDeSantis: Is it okay if IRS Commissioner operates under a lower standard than what an American citizen would be expe\u2026",
+    "lang": "en",
+    "created_at": "2015-07-27 22:41:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "625790040485011458",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "179203796",
+    "id": 625793936557232128,
+    "id_str": "625793936557232128",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Marty Smith",
+          "indices": [
+            27,
+            43
+          ],
+          "id_str": "179203796",
+          "id": 179203796,
+          "screen_name": "commonman_marty"
+        },
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            44,
+            56
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 625790040485011458,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 179203796,
+    "in_reply_to_screen_name": "commonman_marty",
+    "retweeted": false,
+    "text": "Yes, I am a co-sponsor! MT @commonman_marty @RepDeSantis will you support \"Kate's Law\"...?",
+    "lang": "en",
+    "created_at": "2015-07-27 22:24:35+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 9,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625751932733407232,
+      "id_str": "625751932733407232",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "IRS",
+            "indices": [
+              34,
+              38
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/DisGhX2IdW",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+            "expanded_url": "http://twitter.com/GOPoversight/status/625751932733407232/photo/1",
+            "id_str": "625747221498232832",
+            "indices": [
+              70,
+              92
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 999,
+                "resize": "fit",
+                "h": 562
+              }
+            },
+            "display_url": "pic.twitter.com/DisGhX2IdW",
+            "id": 625747221498232832
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/JnpBgYNuv7",
+            "indices": [
+              46,
+              69
+            ],
+            "display_url": "oversight.house.gov/release/irs-pr\u2026",
+            "expanded_url": "https://oversight.house.gov/release/irs-press-conference-today/"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22508473",
+        "id": 22508473
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/DisGhX2IdW",
+            "media_url": "http://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+            "type": "animated_gif",
+            "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+            "expanded_url": "http://twitter.com/GOPoversight/status/625751932733407232/photo/1",
+            "video_info": {
+              "variants": [
+                {
+                  "url": "https://pbs.twimg.com/tweet_video/CK8ZyFiXAAA1Ubd.mp4",
+                  "bitrate": 0,
+                  "content_type": "video/mp4"
+                }
+              ],
+              "aspect_ratio": [
+                500,
+                281
+              ]
+            },
+            "id_str": "625747221498232832",
+            "indices": [
+              70,
+              92
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 999,
+                "resize": "fit",
+                "h": 562
+              }
+            },
+            "display_url": "pic.twitter.com/DisGhX2IdW",
+            "id": 625747221498232832
+          }
+        ]
+      },
+      "text": "LIVE at 5:30: Press Conference on #IRS --&gt; https://t.co/JnpBgYNuv7 http://t.co/DisGhX2IdW",
+      "lang": "en",
+      "created_at": "Mon Jul 27 19:37:41 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 22508473,
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+          "source_user_id_str": "22508473",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "pic.twitter.com/DisGhX2IdW",
+          "expanded_url": "http://twitter.com/GOPoversight/status/625751932733407232/photo/1",
+          "url": "http://t.co/DisGhX2IdW",
+          "type": "animated_gif",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+          "source_status_id_str": "625751932733407232",
+          "video_info": {
+            "variants": [
+              {
+                "url": "https://pbs.twimg.com/tweet_video/CK8ZyFiXAAA1Ubd.mp4",
+                "bitrate": 0,
+                "content_type": "video/mp4"
+              }
+            ],
+            "aspect_ratio": [
+              500,
+              281
+            ]
+          },
+          "id_str": "625747221498232832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 999,
+              "resize": "fit",
+              "h": 562
+            }
+          },
+          "id": 625747221498232832,
+          "source_status_id": 625751932733407232
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625773564038410240,
+    "id_str": "625773564038410240",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IRS",
+          "indices": [
+            52,
+            56
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 22508473,
+          "media_url": "http://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+          "source_user_id_str": "22508473",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "pic.twitter.com/DisGhX2IdW",
+          "expanded_url": "http://twitter.com/GOPoversight/status/625751932733407232/photo/1",
+          "url": "http://t.co/DisGhX2IdW",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/tweet_video_thumb/CK8ZyFiXAAA1Ubd.png",
+          "source_status_id_str": "625751932733407232",
+          "id_str": "625747221498232832",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 999,
+              "resize": "fit",
+              "h": 562
+            }
+          },
+          "id": 625747221498232832,
+          "source_status_id": 625751932733407232
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/JnpBgYNuv7",
+          "indices": [
+            64,
+            87
+          ],
+          "display_url": "oversight.house.gov/release/irs-pr\u2026",
+          "expanded_url": "https://oversight.house.gov/release/irs-press-conference-today/"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GOPoversight: LIVE at 5:30: Press Conference on #IRS --&gt; https://t.co/JnpBgYNuv7 http://t.co/DisGhX2IdW",
+    "lang": "en",
+    "created_at": "2015-07-27 21:03:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624655439465156608,
+    "id_str": "624655439465156608",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/sYveOgbp9r",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "on.fb.me/1IrW5VH",
+          "expanded_url": "http://on.fb.me/1IrW5VH"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Attorney General Lynch should immediately take up investigation into Clinton\u2019s mishandling of classified info: http://t.co/sYveOgbp9r.",
+    "lang": "en",
+    "created_at": "2015-07-24 19:00:36+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624293786047414272,
+      "id_str": "624293786047414272",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "myfloridaembassydc",
+            "indices": [
+              74,
+              93
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/hcekEuR3p2",
+            "media_url": "http://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+            "expanded_url": "http://twitter.com/FloridaHouseDC/status/624293786047414272/photo/1",
+            "id_str": "624293769056227328",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/hcekEuR3p2",
+            "id": 624293769056227328
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Ron DeSantis",
+            "indices": [
+              10,
+              22
+            ],
+            "id_str": "1058807868",
+            "id": 1058807868,
+            "screen_name": "RepDeSantis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "378160122",
+        "id": 378160122
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/hcekEuR3p2",
+            "media_url": "http://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+            "expanded_url": "http://twitter.com/FloridaHouseDC/status/624293786047414272/photo/1",
+            "id_str": "624293769056227328",
+            "indices": [
+              94,
+              116
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/hcekEuR3p2",
+            "id": 624293769056227328
+          }
+        ]
+      },
+      "text": "Thank you @RepDeSantis for joining us at the Intern Seminar Series today! #myfloridaembassydc http://t.co/hcekEuR3p2",
+      "lang": "en",
+      "created_at": "Thu Jul 23 19:03:32 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 378160122,
+          "media_url": "http://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+          "source_user_id_str": "378160122",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "pic.twitter.com/hcekEuR3p2",
+          "expanded_url": "http://twitter.com/FloridaHouseDC/status/624293786047414272/photo/1",
+          "url": "http://t.co/hcekEuR3p2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+          "source_status_id_str": "624293786047414272",
+          "id_str": "624293769056227328",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 624293769056227328,
+          "source_status_id": 624293786047414272
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624309514712453120,
+    "id_str": "624309514712453120",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "myfloridaembassydc",
+          "indices": [
+            94,
+            113
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 378160122,
+          "media_url": "http://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+          "source_user_id_str": "378160122",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "pic.twitter.com/hcekEuR3p2",
+          "expanded_url": "http://twitter.com/FloridaHouseDC/status/624293786047414272/photo/1",
+          "url": "http://t.co/hcekEuR3p2",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnv4BQWEAANYfp.jpg",
+          "source_status_id_str": "624293786047414272",
+          "id_str": "624293769056227328",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 624293769056227328,
+          "source_status_id": 624293786047414272
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Florida House",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "378160122",
+          "id": 378160122,
+          "screen_name": "FloridaHouseDC"
+        },
+        {
+          "name": "Ron DeSantis",
+          "indices": [
+            30,
+            42
+          ],
+          "id_str": "1058807868",
+          "id": 1058807868,
+          "screen_name": "RepDeSantis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1058807868",
+      "screen_name": "repdesantis",
+      "id": 1058807868
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FloridaHouseDC: Thank you @RepDeSantis for joining us at the Intern Seminar Series today! #myfloridaembassydc http://t.co/hcekEuR3p2",
+    "lang": "en",
+    "created_at": "2015-07-23 20:06:02+00:00"
+  }
+]

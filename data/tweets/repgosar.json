@@ -1,0 +1,2057 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": {
+      "type": "Point",
+      "coordinates": [
+        -114.013979,
+        35.213199
+      ]
+    },
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kingman, AZ",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -114.07623,
+              35.1741305
+            ],
+            [
+              -113.959184,
+              35.1741305
+            ],
+            [
+              -113.959184,
+              35.273374
+            ],
+            [
+              -114.07623,
+              35.273374
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/d88ba04b7e693c48.json",
+      "name": "Kingman",
+      "country": "United States",
+      "place_type": "city",
+      "id": "d88ba04b7e693c48"
+    },
+    "geo": {
+      "type": "Point",
+      "coordinates": [
+        35.213199,
+        -114.013979
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629122571896815616,
+    "id_str": "629122571896815616",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ebLNW7GE7T",
+          "indices": [
+            103,
+            126
+          ],
+          "display_url": "instagram.com/p/6Bpr-NBh00/",
+          "expanded_url": "https://instagram.com/p/6Bpr-NBh00/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today, my Washington D.C. staff toured the progress made at the Mineral Park Mine outside of Kingman,\u2026 https://t.co/ebLNW7GE7T",
+    "lang": "en",
+    "created_at": "2015-08-06 02:51:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629020111400144896,
+    "id_str": "629020111400144896",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/vQWuuGaLFE",
+          "indices": [
+            74,
+            96
+          ],
+          "display_url": "azc.cc/1N8PrSa",
+          "expanded_url": "http://azc.cc/1N8PrSa"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Arizona",
+          "indices": [
+            97,
+            105
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "azcentral",
+          "indices": [
+            14,
+            24
+          ],
+          "id_str": "13115682",
+          "id": 13115682,
+          "screen_name": "azcentral"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "1st read from @azcentral: Pilot flying into Sky Harbor spots nearby drone http://t.co/vQWuuGaLFE #Arizona",
+    "lang": "en",
+    "created_at": "2015-08-05 20:04:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628231728113524736,
+    "id_str": "628231728113524736",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1WumnhGcX3",
+          "indices": [
+            102,
+            124
+          ],
+          "display_url": "gosar.house.gov/press-release/\u2026",
+          "expanded_url": "http://gosar.house.gov/press-release/rep-gosar-blasts-epas-clean-power-plan-rule"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CleanPowerPlan",
+          "indices": [
+            125,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today, President Obama &amp; his EPA minions continued their assault on jobs &amp; affordable energy: http://t.co/1WumnhGcX3 #CleanPowerPlan",
+    "lang": "en",
+    "created_at": "2015-08-03 15:51:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627501167325630464,
+    "id_str": "627501167325630464",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/H16VL5Qbxd",
+          "indices": [
+            61,
+            83
+          ],
+          "display_url": "azcentral.com/story/news/ari\u2026",
+          "expanded_url": "http://www.azcentral.com/story/news/arizona/politics/2015/08/01/arizona-john-mccain-paul-gosar-push-repay-nuclear-testing-victims-mohave-county/30978913/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "downwinders",
+          "indices": [
+            110,
+            122
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John McCain",
+          "indices": [
+            84,
+            98
+          ],
+          "id_str": "19394188",
+          "id": 19394188,
+          "screen_name": "SenJohnMcCain"
+        },
+        {
+          "name": "azcentral",
+          "indices": [
+            99,
+            109
+          ],
+          "id_str": "13115682",
+          "id": 13115682,
+          "screen_name": "azcentral"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "McCain, Gosar push to repay Arizona nuclear-testing victims:\nhttp://t.co/H16VL5Qbxd @SenJohnMcCain @azcentral #downwinders",
+    "lang": "en",
+    "created_at": "2015-08-01 15:28:31+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 18,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627182018032484352,
+      "id_str": "627182018032484352",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/5Mdu1KnIW1",
+            "media_url": "http://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+            "expanded_url": "http://twitter.com/FreedomWorks/status/627182018032484352/photo/1",
+            "id_str": "627182017537540097",
+            "indices": [
+              79,
+              101
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/5Mdu1KnIW1",
+            "id": 627182017537540097
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Paul Gosar, DDS",
+            "indices": [
+              12,
+              21
+            ],
+            "id_str": "240760644",
+            "id": 240760644,
+            "screen_name": "RepGosar"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14730894",
+        "id": 14730894
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/5Mdu1KnIW1",
+            "media_url": "http://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+            "expanded_url": "http://twitter.com/FreedomWorks/status/627182018032484352/photo/1",
+            "id_str": "627182017537540097",
+            "indices": [
+              79,
+              101
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/5Mdu1KnIW1",
+            "id": 627182017537540097
+          }
+        ]
+      },
+      "text": "Congrats to @RepGosar for winning FreedomWorks' FreedomFighter Award for 2014! http://t.co/5Mdu1KnIW1",
+      "lang": "en",
+      "created_at": "Fri Jul 31 18:20:20 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 14730894,
+          "media_url": "http://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+          "source_user_id_str": "14730894",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "pic.twitter.com/5Mdu1KnIW1",
+          "expanded_url": "http://twitter.com/FreedomWorks/status/627182018032484352/photo/1",
+          "url": "http://t.co/5Mdu1KnIW1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+          "source_status_id_str": "627182018032484352",
+          "id_str": "627182017537540097",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 627182017537540097,
+          "source_status_id": 627182018032484352
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627288577878175744,
+    "id_str": "627288577878175744",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 14730894,
+          "media_url": "http://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+          "source_user_id_str": "14730894",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "pic.twitter.com/5Mdu1KnIW1",
+          "expanded_url": "http://twitter.com/FreedomWorks/status/627182018032484352/photo/1",
+          "url": "http://t.co/5Mdu1KnIW1",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQyuNTWgAErOVS.jpg",
+          "source_status_id_str": "627182018032484352",
+          "id_str": "627182017537540097",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 627182017537540097,
+          "source_status_id": 627182018032484352
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "FreedomWorks",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "14730894",
+          "id": 14730894,
+          "screen_name": "FreedomWorks"
+        },
+        {
+          "name": "Rep. Paul Gosar, DDS",
+          "indices": [
+            30,
+            39
+          ],
+          "id_str": "240760644",
+          "id": 240760644,
+          "screen_name": "RepGosar"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FreedomWorks: Congrats to @RepGosar for winning FreedomWorks' FreedomFighter Award for 2014! http://t.co/5Mdu1KnIW1",
+    "lang": "en",
+    "created_at": "2015-08-01 01:23:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627245010568749057,
+    "id_str": "627245010568749057",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/DO3EyWk5G5",
+          "indices": [
+            62,
+            84
+          ],
+          "display_url": "defensenews.com/story/defense/\u2026",
+          "expanded_url": "http://www.defensenews.com/story/defense/air-space/2015/07/31/f35-operational-marine-corps-joint-strike-fighter/30937689/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "BREAKING F-35 NEWS: US Marine Corps Declares F-35 Operational http://t.co/DO3EyWk5G5",
+    "lang": "en",
+    "created_at": "2015-07-31 22:30:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627139863637282817,
+    "id_str": "627139863637282817",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/5OEeUOIcPC",
+          "indices": [
+            98,
+            121
+          ],
+          "display_url": "instagram.com/p/5zkDjYBh4E/",
+          "expanded_url": "https://instagram.com/p/5zkDjYBh4E/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "liberty",
+          "indices": [
+            79,
+            87
+          ]
+        },
+        {
+          "text": "freedom",
+          "indices": [
+            88,
+            96
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "FreedomWorks",
+          "indices": [
+            65,
+            78
+          ],
+          "id_str": "14730894",
+          "id": 14730894,
+          "screen_name": "FreedomWorks"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'm honored to have received the 2014 Freedom Fighter Award from @freedomworks #liberty #freedom\u2026 https://t.co/5OEeUOIcPC",
+    "lang": "en",
+    "created_at": "2015-07-31 15:32:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627132157711024128,
+    "id_str": "627132157711024128",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/qmhPr2lkow",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "thehill.com/policy/energy-\u2026",
+          "expanded_url": "http://thehill.com/policy/energy-environment/249860-gop-probes-alleged-internal-problems-with-obama-water-rule"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Hill",
+          "indices": [
+            30,
+            38
+          ],
+          "id_str": "1917731",
+          "id": 1917731,
+          "screen_name": "thehill"
+        },
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            122,
+            135
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My first read of the day from @thehill: GOP Probes Alleged Internal Problems with Obama Water Rule http://t.co/qmhPr2lkow @GOPoversight",
+    "lang": "en",
+    "created_at": "2015-07-31 15:02:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626884450987692032,
+    "id_str": "626884450987692032",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/g1hqiw3lFc",
+          "indices": [
+            103,
+            125
+          ],
+          "display_url": "gosar.house.gov/press-release/\u2026",
+          "expanded_url": "http://gosar.house.gov/press-release/case-you-missed-it-senator-mike-lee-joins-rep-gosar-fight-block-obamas-utopian-housing"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Mike Lee",
+          "indices": [
+            34,
+            45
+          ],
+          "id_str": "88784440",
+          "id": 88784440,
+          "screen_name": "SenMikeLee"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It's great to have the support of @SenMikeLee in the fight to stop Obama's utopian housing regulation: http://t.co/g1hqiw3lFc",
+    "lang": "en",
+    "created_at": "2015-07-30 22:37:54+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626844612716560384,
+      "id_str": "626844612716560384",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/1UYmA0EnZg",
+            "indices": [
+              111,
+              134
+            ],
+            "display_url": "oversight.house.gov/letter/",
+            "expanded_url": "https://oversight.house.gov/letter/"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "wotus",
+            "indices": [
+              27,
+              33
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "GOP Oversight",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "22508473",
+            "id": 22508473,
+            "screen_name": "GOPoversight"
+          },
+          {
+            "name": "Rep. Paul Gosar, DDS",
+            "indices": [
+              70,
+              79
+            ],
+            "id_str": "240760644",
+            "id": 240760644,
+            "screen_name": "RepGosar"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "240737573",
+        "id": 240737573
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@GOPoversight posts corps #wotus memos on their website, a day after @RepGosar submits them to the committee. https://t.co/1UYmA0EnZg",
+      "lang": "en",
+      "created_at": "Thu Jul 30 19:59:36 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626854998262071297,
+    "id_str": "626854998262071297",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/1UYmA0EnZg",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "oversight.house.gov/letter/",
+          "expanded_url": "https://oversight.house.gov/letter/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "wotus",
+          "indices": [
+            44,
+            50
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Amena H. Saiyid",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "240737573",
+          "id": 240737573,
+          "screen_name": "amenasaiyid"
+        },
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            18,
+            31
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        },
+        {
+          "name": "Rep. Paul Gosar, DDS",
+          "indices": [
+            87,
+            96
+          ],
+          "id_str": "240760644",
+          "id": 240760644,
+          "screen_name": "RepGosar"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @amenasaiyid: .@GOPoversight posts corps #wotus memos on their website, a day after @RepGosar submits them to the committee. https://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-07-30 20:40:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626771887553683456,
+    "id_str": "626771887553683456",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jMNVUnNzPJ",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "judicialwatch.org/press-room/pre\u2026",
+          "expanded_url": "http://www.judicialwatch.org/press-room/press-releases/federal-judge-threatens-to-hold-irs-commissioner-doj-lawyers-in-contempt-of-court-over-lerner/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Judicial Watch",
+          "indices": [
+            25,
+            39
+          ],
+          "id_str": "18247062",
+          "id": 18247062,
+          "screen_name": "JudicialWatch"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "1st read of the day from @JudicialWatch: Judge Threatens to Hold IRS Commissioner, DOJ Lawyers in Contempt of Court http://t.co/jMNVUnNzPJ",
+    "lang": "en",
+    "created_at": "2015-07-30 15:10:37+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626429243090714624,
+      "id_str": "626429243090714624",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Qe1hECsPWQ",
+            "indices": [
+              76,
+              98
+            ],
+            "display_url": "bit.ly/1VNdImO",
+            "expanded_url": "http://bit.ly/1VNdImO"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Paul Gosar, DDS",
+            "indices": [
+              103,
+              112
+            ],
+            "id_str": "240760644",
+            "id": 240760644,
+            "screen_name": "RepGosar"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "474464413",
+        "id": 474464413
+      },
+      "favorited": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "I'm Condemning Planned Parenthood For Their Actions, and Millennials Agree. http://t.co/Qe1hECsPWQ via @RepGosar",
+      "lang": "en",
+      "created_at": "Wed Jul 29 16:29:04 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626740359712931840,
+    "id_str": "626740359712931840",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Qe1hECsPWQ",
+          "indices": [
+            90,
+            112
+          ],
+          "display_url": "bit.ly/1VNdImO",
+          "expanded_url": "http://bit.ly/1VNdImO"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "IJReview",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "474464413",
+          "id": 474464413,
+          "screen_name": "ijreview"
+        },
+        {
+          "name": "Rep. Paul Gosar, DDS",
+          "indices": [
+            117,
+            126
+          ],
+          "id_str": "240760644",
+          "id": 240760644,
+          "screen_name": "RepGosar"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ijreview: I'm Condemning Planned Parenthood For Their Actions, and Millennials Agree. http://t.co/Qe1hECsPWQ via @RepGosar",
+    "lang": "en",
+    "created_at": "2015-07-30 13:05:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626489561120698368,
+    "id_str": "626489561120698368",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/K1a9YKocKJ",
+          "indices": [
+            119,
+            142
+          ],
+          "display_url": "youtube.com/watch?v=cYMSA1\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=cYMSA1Il0E8&feature=youtu.be"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            21,
+            25
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            105,
+            118
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "MUST WATCH: Shame on #EPA &amp; Admin. McCarthy for illegally forcing WOTUS rule on the American people. @GOPoversight https://t.co/K1a9YKocKJ",
+    "lang": "en",
+    "created_at": "2015-07-29 20:28:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626461367525081088,
+    "id_str": "626461367525081088",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/EPZQLiMcce",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "gosar.house.gov/press-release/\u2026",
+          "expanded_url": "http://gosar.house.gov/press-release/rep-gosar-34-members-make-bipartisan-push-move-public-lands-renewable-energy"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Federal bureaucracy continues to plague natural energy development on public lands. My bill (H.R. 2663) fixes that: http://t.co/EPZQLiMcce",
+    "lang": "en",
+    "created_at": "2015-07-29 18:36:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 11,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626422044058501120,
+    "id_str": "626422044058501120",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/vX4wrckfHL",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "journal.ijreview.com/2015/07/245495\u2026",
+          "expanded_url": "http://journal.ijreview.com/2015/07/245495-im-condemning-planned-parenthood-actions-millennials-agree/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            54,
+            72
+          ]
+        },
+        {
+          "text": "AZ04",
+          "indices": [
+            124,
+            129
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "IJReview",
+          "indices": [
+            21,
+            30
+          ],
+          "id_str": "474464413",
+          "id": 474464413,
+          "screen_name": "ijreview"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My first article for @ijreview is out: I'm condemning #PlannedParenthood and millennials will agree! http://t.co/vX4wrckfHL #AZ04",
+    "lang": "en",
+    "created_at": "2015-07-29 16:00:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626406448944271360,
+    "id_str": "626406448944271360",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/6C5QXwteOR",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "dailycaller.com/2015/07/13/vet\u2026",
+          "expanded_url": "http://dailycaller.com/2015/07/13/veteran-community-backs-new-accountability-bill-but-this-government-union-stands-in-the-way/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Daily Caller",
+          "indices": [
+            25,
+            37
+          ],
+          "id_str": "39308549",
+          "id": 39308549,
+          "screen_name": "DailyCaller"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "1st read of the day from @DailyCaller: Vet Community Backs New Accountability Bill, But This Union Stands in the Way http://t.co/6C5QXwteOR",
+    "lang": "en",
+    "created_at": "2015-07-29 14:58:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626178254219681792,
+    "id_str": "626178254219681792",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/UtxDvYCZqk",
+          "media_url": "http://pbs.twimg.com/media/CLChzd7WgAEEAoD.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLChzd7WgAEEAoD.png",
+          "expanded_url": "http://twitter.com/RepGosar/status/626178254219681792/photo/1",
+          "id_str": "626178253783465985",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/UtxDvYCZqk",
+          "id": 626178253783465985
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/0aVFVcFwjZ",
+          "indices": [
+            88,
+            110
+          ],
+          "display_url": "gosar.house.gov/press-release/\u2026",
+          "expanded_url": "http://gosar.house.gov/press-release/house-votes-put-brakes-runaway-regulatory-policies-obama-administration"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/UtxDvYCZqk",
+          "media_url": "http://pbs.twimg.com/media/CLChzd7WgAEEAoD.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLChzd7WgAEEAoD.png",
+          "expanded_url": "http://twitter.com/RepGosar/status/626178254219681792/photo/1",
+          "id_str": "626178253783465985",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "display_url": "pic.twitter.com/UtxDvYCZqk",
+          "id": 626178253783465985
+        }
+      ]
+    },
+    "text": "It\u2019s far past time for Congress to take a stand and take back its Constitutional power. http://t.co/0aVFVcFwjZ http://t.co/UtxDvYCZqk",
+    "lang": "en",
+    "created_at": "2015-07-28 23:51:44+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 9,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626143288471482368,
+      "id_str": "626143288471482368",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "tcot",
+            "indices": [
+              109,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/npyGR3Q5Rb",
+            "media_url": "http://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+            "expanded_url": "http://twitter.com/ACUConservative/status/626143288471482368/photo/1",
+            "id_str": "626143213397667842",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 227
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 401
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 428
+              }
+            },
+            "display_url": "pic.twitter.com/npyGR3Q5Rb",
+            "id": 626143213397667842
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Paul Gosar, DDS",
+            "indices": [
+              77,
+              86
+            ],
+            "id_str": "240760644",
+            "id": 240760644,
+            "screen_name": "RepGosar"
+          },
+          {
+            "name": "Matt Schlapp",
+            "indices": [
+              99,
+              108
+            ],
+            "id_str": "138809881",
+            "id": 138809881,
+            "screen_name": "mschlapp"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "56401482",
+        "id": 56401482
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/npyGR3Q5Rb",
+            "media_url": "http://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+            "expanded_url": "http://twitter.com/ACUConservative/status/626143288471482368/photo/1",
+            "id_str": "626143213397667842",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 227
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 401
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 428
+              }
+            },
+            "display_url": "pic.twitter.com/npyGR3Q5Rb",
+            "id": 626143213397667842
+          }
+        ]
+      },
+      "text": "The 2014 ACU Award for Conservative Excellence for a 92% rating presented to @RepGosar by Chairman @mschlapp #tcot http://t.co/npyGR3Q5Rb",
+      "lang": "en",
+      "created_at": "Tue Jul 28 21:32:47 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 56401482,
+          "media_url": "http://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+          "source_user_id_str": "56401482",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/npyGR3Q5Rb",
+          "expanded_url": "http://twitter.com/ACUConservative/status/626143288471482368/photo/1",
+          "url": "http://t.co/npyGR3Q5Rb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+          "source_status_id_str": "626143288471482368",
+          "id_str": "626143213397667842",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 227
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 401
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 428
+            }
+          },
+          "id": 626143213397667842,
+          "source_status_id": 626143288471482368
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626143371409661953,
+    "id_str": "626143371409661953",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "tcot",
+          "indices": [
+            130,
+            135
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 56401482,
+          "media_url": "http://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+          "source_user_id_str": "56401482",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/npyGR3Q5Rb",
+          "expanded_url": "http://twitter.com/ACUConservative/status/626143288471482368/photo/1",
+          "url": "http://t.co/npyGR3Q5Rb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLCB72UW8AI2o74.jpg",
+          "source_status_id_str": "626143288471482368",
+          "id_str": "626143213397667842",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 227
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 401
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 428
+            }
+          },
+          "id": 626143213397667842,
+          "source_status_id": 626143288471482368
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "The ACU",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "56401482",
+          "id": 56401482,
+          "screen_name": "ACUConservative"
+        },
+        {
+          "name": "Rep. Paul Gosar, DDS",
+          "indices": [
+            98,
+            107
+          ],
+          "id_str": "240760644",
+          "id": 240760644,
+          "screen_name": "RepGosar"
+        },
+        {
+          "name": "Matt Schlapp",
+          "indices": [
+            120,
+            129
+          ],
+          "id_str": "138809881",
+          "id": 138809881,
+          "screen_name": "mschlapp"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ACUConservative: The 2014 ACU Award for Conservative Excellence for a 92% rating presented to @RepGosar by Chairman @mschlapp #tcot htt\u2026",
+    "lang": "en",
+    "created_at": "2015-07-28 21:33:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626127667033583616,
+    "id_str": "626127667033583616",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/EDxt4j6lXn",
+          "media_url": "http://pbs.twimg.com/media/CLBzy6sUMAA_Wtp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBzy6sUMAA_Wtp.jpg",
+          "expanded_url": "http://twitter.com/RepGosar/status/626127667033583616/photo/1",
+          "id_str": "626127666790281216",
+          "indices": [
+            93,
+            115
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/EDxt4j6lXn",
+          "id": 626127666790281216
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"http://sproutsocial.com\" rel=\"nofollow\">Sprout Social</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/EDxt4j6lXn",
+          "media_url": "http://pbs.twimg.com/media/CLBzy6sUMAA_Wtp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBzy6sUMAA_Wtp.jpg",
+          "expanded_url": "http://twitter.com/RepGosar/status/626127667033583616/photo/1",
+          "id_str": "626127666790281216",
+          "indices": [
+            93,
+            115
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "display_url": "pic.twitter.com/EDxt4j6lXn",
+          "id": 626127666790281216
+        }
+      ]
+    },
+    "text": "Last week for my D.C. summer interns! Thank you for your hard work, Jack, Josh, &amp; Harry! http://t.co/EDxt4j6lXn",
+    "lang": "en",
+    "created_at": "2015-07-28 20:30:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626085999471296513,
+    "id_str": "626085999471296513",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "AFFH",
+          "indices": [
+            98,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/jwXlYUKe4v",
+          "media_url": "http://pbs.twimg.com/media/CLBLNwXWsAApup8.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBLNwXWsAApup8.jpg",
+          "expanded_url": "http://twitter.com/RepGosar/status/626085999471296513/photo/1",
+          "id_str": "626083047897739264",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 353
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 353
+            }
+          },
+          "display_url": "pic.twitter.com/jwXlYUKe4v",
+          "id": 626083047897739264
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/K8V7lgURdo",
+          "indices": [
+            75,
+            97
+          ],
+          "display_url": "gosar.house.gov/press-release/\u2026",
+          "expanded_url": "http://gosar.house.gov/press-release/rep-gosar-and-17-members-request-hearing-examine-radical-obama-housing-regulation"
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "240760644",
+      "screen_name": "repgosar",
+      "id": 240760644
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/jwXlYUKe4v",
+          "media_url": "http://pbs.twimg.com/media/CLBLNwXWsAApup8.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBLNwXWsAApup8.jpg",
+          "expanded_url": "http://twitter.com/RepGosar/status/626085999471296513/photo/1",
+          "id_str": "626083047897739264",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 200
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 353
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 353
+            }
+          },
+          "display_url": "pic.twitter.com/jwXlYUKe4v",
+          "id": 626083047897739264
+        }
+      ]
+    },
+    "text": "Here is how I'm taking action to stop Obama's most radical regulation yet: http://t.co/K8V7lgURdo #AFFH http://t.co/jwXlYUKe4v",
+    "lang": "en",
+    "created_at": "2015-07-28 17:45:09+00:00",
+    "retweeted": false
+  }
+]

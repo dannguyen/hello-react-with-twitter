@@ -1,0 +1,2589 @@
+[
+  {
+    "in_reply_to_status_id_str": "624676150896254976",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "3091343462",
+    "id": 625677760720191488,
+    "id_str": "625677760720191488",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Mo",
+          "indices": [
+            0,
+            9
+          ],
+          "id_str": "3091343462",
+          "id": 3091343462,
+          "screen_name": "mobahjat"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 624676150896254976,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 3091343462,
+    "in_reply_to_screen_name": "mobahjat",
+    "retweeted": false,
+    "text": "@mobahjat thank you.  Let\u2019s keep up the fight.",
+    "lang": "en",
+    "created_at": "2015-07-27 14:42:57+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 18,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Washington, DC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -77.119401,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.801826
+              ],
+              [
+                -76.909396,
+                38.9953797
+              ],
+              [
+                -77.119401,
+                38.9953797
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+        "name": "Washington",
+        "country": "United States",
+        "place_type": "city",
+        "id": "01fbe706f872cb32"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624315358103470085,
+      "id_str": "624315358103470085",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/E1yY1e5Hec",
+            "indices": [
+              120,
+              142
+            ],
+            "display_url": "j.mp/1RVhGu8",
+            "expanded_url": "http://j.mp/1RVhGu8"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Immigration",
+            "indices": [
+              97,
+              109
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              19,
+              30
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "129879105",
+        "id": 129879105
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Bill introduced by @Rep_Hunter would deny funding for states or local govts that fail to enforce #Immigration laws-&gt; http://t.co/E1yY1e5Hec",
+      "lang": "en",
+      "created_at": "Thu Jul 23 20:29:15 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624323537180848128,
+    "id_str": "624323537180848128",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/E1yY1e5Hec",
+          "indices": [
+            142,
+            143
+          ],
+          "display_url": "j.mp/1RVhGu8",
+          "expanded_url": "http://j.mp/1RVhGu8"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Immigration",
+          "indices": [
+            117,
+            129
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Mike Emanuel",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "129879105",
+          "id": 129879105,
+          "screen_name": "MikeEmanuelFox"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            39,
+            50
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MikeEmanuelFox: Bill introduced by @Rep_Hunter would deny funding for states or local govts that fail to enforce #Immigration laws-&gt; ht\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 21:01:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624067257983967232,
+      "id_str": "624067257983967232",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "ANALobbyDay",
+            "indices": [
+              123,
+              135
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              13,
+              24
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "80062025",
+        "id": 80062025
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Thank you to @Rep_Hunter and his enthusiastic staff for meeting with us to speak of our work to improve care for veterans! #ANALobbyDay",
+      "lang": "en",
+      "created_at": "Thu Jul 23 04:03:23 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624204244862808064,
+    "id_str": "624204244862808064",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ANALobbyDay",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "ANACalifornia",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "80062025",
+          "id": 80062025,
+          "screen_name": "ANACalifornia"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            32,
+            43
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ANACalifornia: Thank you to @Rep_Hunter and his enthusiastic staff for meeting with us to speak of our work to improve care for veteran\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 13:07:43+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 70,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 53,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623931528893079552,
+      "id_str": "623931528893079552",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/IG0RCgLPu5",
+            "indices": [
+              95,
+              117
+            ],
+            "display_url": "bit.ly/1TQZpLX",
+            "expanded_url": "http://bit.ly/1TQZpLX"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "2A",
+            "indices": [
+              118,
+              121
+            ]
+          },
+          {
+            "text": "gunowners",
+            "indices": [
+              122,
+              132
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Steve Daines",
+            "indices": [
+              65,
+              77
+            ],
+            "id_str": "11651202",
+            "id": 11651202,
+            "screen_name": "SteveDaines"
+          },
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              83,
+              94
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22286602",
+        "id": 22286602
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"SEMPER FI Act Introduced to Arm Military Recruiters\" thanks to .@SteveDaines and .@Rep_Hunter http://t.co/IG0RCgLPu5 #2A #gunowners",
+      "lang": "en",
+      "created_at": "Wed Jul 22 19:04:03 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 70,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623932264494288896,
+    "id_str": "623932264494288896",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/IG0RCgLPu5",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "bit.ly/1TQZpLX",
+          "expanded_url": "http://bit.ly/1TQZpLX"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "2A",
+          "indices": [
+            133,
+            136
+          ]
+        },
+        {
+          "text": "gunowners",
+          "indices": [
+            137,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "GunOwnersofAmerica",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "22286602",
+          "id": 22286602,
+          "screen_name": "GunOwners"
+        },
+        {
+          "name": "Steve Daines",
+          "indices": [
+            80,
+            92
+          ],
+          "id_str": "11651202",
+          "id": 11651202,
+          "screen_name": "SteveDaines"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            98,
+            109
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GunOwners: \"SEMPER FI Act Introduced to Arm Military Recruiters\" thanks to .@SteveDaines and .@Rep_Hunter http://t.co/IG0RCgLPu5 #2A #g\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 19:06:58+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 22,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622023687328272384,
+      "id_str": "622023687328272384",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/oW55xuS9xg",
+            "indices": [
+              111,
+              133
+            ],
+            "display_url": "politi.co/1jl8Rqa",
+            "expanded_url": "http://politi.co/1jl8Rqa"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Morning Defense",
+            "indices": [
+              16,
+              31
+            ],
+            "id_str": "200542610",
+            "id": 200542610,
+            "screen_name": "morningdefense"
+          },
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              33,
+              44
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "150686538",
+        "id": 150686538
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Only in today's @Morningdefense: @Rep_Hunter is drafting a bill to allow military recruiters to carry weapons: http://t.co/oW55xuS9xg",
+      "lang": "en",
+      "created_at": "Fri Jul 17 12:42:58 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622035121366003712,
+    "id_str": "622035121366003712",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oW55xuS9xg",
+          "indices": [
+            127,
+            140
+          ],
+          "display_url": "politi.co/1jl8Rqa",
+          "expanded_url": "http://politi.co/1jl8Rqa"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jeremy Herb",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "150686538",
+          "id": 150686538,
+          "screen_name": "jeremyherb"
+        },
+        {
+          "name": "Morning Defense",
+          "indices": [
+            32,
+            47
+          ],
+          "id_str": "200542610",
+          "id": 200542610,
+          "screen_name": "morningdefense"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            49,
+            60
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @jeremyherb: Only in today's @Morningdefense: @Rep_Hunter is drafting a bill to allow military recruiters to carry weapons: http://t.co/\u2026",
+    "lang": "en",
+    "created_at": "2015-07-17 13:28:24+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 148,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 130,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619152961864925184,
+    "id_str": "619152961864925184",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/yKQoWEVOPG",
+          "indices": [
+            59,
+            81
+          ],
+          "display_url": "bit.ly/1eJ6eQe",
+          "expanded_url": "http://bit.ly/1eJ6eQe"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Cut funding to sanctuary cities.  Hit them where it hurts. http://t.co/yKQoWEVOPG",
+    "lang": "en",
+    "created_at": "2015-07-09 14:35:44+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 619134283110682624,
+      "id_str": "619134283110682624",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/zVjhD5MIbb",
+            "indices": [
+              113,
+              135
+            ],
+            "display_url": "sandiegouniontribune.com/news/2015/jul/\u2026",
+            "expanded_url": "http://www.sandiegouniontribune.com/news/2015/jul/08/nih-funding-increase-cancer-cure/"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "EnergyCommerceCures",
+            "indices": [
+              12,
+              20
+            ],
+            "id_str": "2469604452",
+            "id": 2469604452,
+            "screen_name": "ECcures"
+          },
+          {
+            "name": "Rep. Scott Peters",
+            "indices": [
+              41,
+              56
+            ],
+            "id_str": "1135486501",
+            "id": 1135486501,
+            "screen_name": "RepScottPeters"
+          },
+          {
+            "name": "Rep. Susan Davis",
+            "indices": [
+              57,
+              71
+            ],
+            "id_str": "432771620",
+            "id": 432771620,
+            "screen_name": "RepSusanDavis"
+          },
+          {
+            "name": "Rep. Juan Vargas",
+            "indices": [
+              72,
+              86
+            ],
+            "id_str": "1260172386",
+            "id": 1260172386,
+            "screen_name": "RepJuanVargas"
+          },
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              87,
+              98
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          },
+          {
+            "name": "Union-Trib headlines",
+            "indices": [
+              102,
+              112
+            ],
+            "id_str": "451597941",
+            "id": 451597941,
+            "screen_name": "UnionTrib"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "170767454",
+        "id": 170767454
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitterrific.com\" rel=\"nofollow\">Twitterrific</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Recognizing @eccures leadership of Reps. @RepScottPeters @RepSusanDavis @RepJuanVargas @Rep_Hunter in @uniontrib http://t.co/zVjhD5MIbb",
+      "lang": "en",
+      "created_at": "Thu Jul 09 13:21:30 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 619141789241446400,
+    "id_str": "619141789241446400",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/zVjhD5MIbb",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "sandiegouniontribune.com/news/2015/jul/\u2026",
+          "expanded_url": "http://www.sandiegouniontribune.com/news/2015/jul/08/nih-funding-increase-cancer-cure/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Thermo Fisher G.R.",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "170767454",
+          "id": 170767454,
+          "screen_name": "ThermoFisherDC"
+        },
+        {
+          "name": "EnergyCommerceCures",
+          "indices": [
+            32,
+            40
+          ],
+          "id_str": "2469604452",
+          "id": 2469604452,
+          "screen_name": "ECcures"
+        },
+        {
+          "name": "Rep. Scott Peters",
+          "indices": [
+            61,
+            76
+          ],
+          "id_str": "1135486501",
+          "id": 1135486501,
+          "screen_name": "RepScottPeters"
+        },
+        {
+          "name": "Rep. Susan Davis",
+          "indices": [
+            77,
+            91
+          ],
+          "id_str": "432771620",
+          "id": 432771620,
+          "screen_name": "RepSusanDavis"
+        },
+        {
+          "name": "Rep. Juan Vargas",
+          "indices": [
+            92,
+            106
+          ],
+          "id_str": "1260172386",
+          "id": 1260172386,
+          "screen_name": "RepJuanVargas"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            107,
+            118
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        },
+        {
+          "name": "Union-Trib headlines",
+          "indices": [
+            122,
+            132
+          ],
+          "id_str": "451597941",
+          "id": 451597941,
+          "screen_name": "UnionTrib"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ThermoFisherDC: Recognizing @eccures leadership of Reps. @RepScottPeters @RepSusanDavis @RepJuanVargas @Rep_Hunter in @uniontrib http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-07-09 13:51:20+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 12,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 10,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 615873434145329152,
+      "id_str": "615873434145329152",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/cNMkPXcqAW",
+            "indices": [
+              113,
+              135
+            ],
+            "display_url": "fxn.ws/1IHB8jN",
+            "expanded_url": "http://fxn.ws/1IHB8jN"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              1,
+              12
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          },
+          {
+            "name": "U.S. Marines",
+            "indices": [
+              16,
+              21
+            ],
+            "id_str": "10126672",
+            "id": 10126672,
+            "screen_name": "USMC"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1205566242",
+        "id": 1205566242
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@Rep_Hunter on @USMC deployment on foreign vessels: \"Ceding our amphibious ships to other countries [is] silly\" http://t.co/cNMkPXcqAW",
+      "lang": "en",
+      "created_at": "Tue Jun 30 13:24:03 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 615880577594621952,
+    "id_str": "615880577594621952",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/cNMkPXcqAW",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "fxn.ws/1IHB8jN",
+          "expanded_url": "http://fxn.ws/1IHB8jN"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Amphibious Warships ",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "1205566242",
+          "id": 1205566242,
+          "screen_name": "amphibwarships"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            21,
+            32
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        },
+        {
+          "name": "U.S. Marines",
+          "indices": [
+            36,
+            41
+          ],
+          "id_str": "10126672",
+          "id": 10126672,
+          "screen_name": "USMC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @amphibwarships: .@Rep_Hunter on @USMC deployment on foreign vessels: \"Ceding our amphibious ships to other countries [is] silly\" http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-06-30 13:52:26+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 31,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 18,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 613437016357896192,
+      "id_str": "613437016357896192",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/56bHiYXoRb",
+            "media_url": "http://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+            "expanded_url": "http://twitter.com/CNNPolitics/status/613437016357896192/photo/1",
+            "id_str": "613436969004199936",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 189
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 599,
+                "resize": "fit",
+                "h": 334
+              },
+              "large": {
+                "w": 599,
+                "resize": "fit",
+                "h": 334
+              }
+            },
+            "display_url": "pic.twitter.com/56bHiYXoRb",
+            "id": 613436969004199936
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/2BD5jrjhcy",
+            "indices": [
+              78,
+              100
+            ],
+            "display_url": "cnn.it/1HcF9A2",
+            "expanded_url": "http://cnn.it/1HcF9A2"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              22,
+              33
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          },
+          {
+            "name": "The White House",
+            "indices": [
+              44,
+              55
+            ],
+            "id_str": "30313925",
+            "id": 30313925,
+            "screen_name": "WhiteHouse"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "13850422",
+        "id": 13850422
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/56bHiYXoRb",
+            "media_url": "http://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+            "expanded_url": "http://twitter.com/CNNPolitics/status/613437016357896192/photo/1",
+            "id_str": "613436969004199936",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 189
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 599,
+                "resize": "fit",
+                "h": 334
+              },
+              "large": {
+                "w": 599,
+                "resize": "fit",
+                "h": 334
+              }
+            },
+            "display_url": "pic.twitter.com/56bHiYXoRb",
+            "id": 613436969004199936
+          }
+        ]
+      },
+      "text": "California Republican @Rep_Hunter slams the @WhiteHouse hostage policy review http://t.co/2BD5jrjhcy http://t.co/56bHiYXoRb",
+      "lang": "en",
+      "created_at": "Tue Jun 23 20:02:36 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 31,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 13850422,
+          "media_url": "http://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+          "source_user_id_str": "13850422",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/56bHiYXoRb",
+          "expanded_url": "http://twitter.com/CNNPolitics/status/613437016357896192/photo/1",
+          "url": "http://t.co/56bHiYXoRb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+          "source_status_id_str": "613437016357896192",
+          "id_str": "613436969004199936",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 189
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 334
+            },
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 334
+            }
+          },
+          "id": 613436969004199936,
+          "source_status_id": 613437016357896192
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 613444353369972736,
+    "id_str": "613444353369972736",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 13850422,
+          "media_url": "http://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+          "source_user_id_str": "13850422",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "pic.twitter.com/56bHiYXoRb",
+          "expanded_url": "http://twitter.com/CNNPolitics/status/613437016357896192/photo/1",
+          "url": "http://t.co/56bHiYXoRb",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CINdrFWWcAA-o4N.png",
+          "source_status_id_str": "613437016357896192",
+          "id_str": "613436969004199936",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 189
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 334
+            },
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 334
+            }
+          },
+          "id": 613436969004199936,
+          "source_status_id": 613437016357896192
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/2BD5jrjhcy",
+          "indices": [
+            95,
+            117
+          ],
+          "display_url": "cnn.it/1HcF9A2",
+          "expanded_url": "http://cnn.it/1HcF9A2"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "CNN Politics",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "13850422",
+          "id": 13850422,
+          "screen_name": "CNNPolitics"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            39,
+            50
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        },
+        {
+          "name": "The White House",
+          "indices": [
+            61,
+            72
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @CNNPolitics: California Republican @Rep_Hunter slams the @WhiteHouse hostage policy review http://t.co/2BD5jrjhcy http://t.co/56bHiYXoRb",
+    "lang": "en",
+    "created_at": "2015-06-23 20:31:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 613406267353243648,
+      "id_str": "613406267353243648",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/YrWtVyCAXd",
+            "indices": [
+              81,
+              103
+            ],
+            "display_url": "buzzfeed.com/hayesbrown/con\u2026",
+            "expanded_url": "http://www.buzzfeed.com/hayesbrown/congressman-slams-changes-to-hostage-policy-as-window-dressi?utm_term=.imGKqPzkM#.kjMbLAZlW"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              1,
+              12
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "42692687",
+        "id": 42692687
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@Rep_Hunter says White House rule change on hostage policy is \"window dressing\" http://t.co/YrWtVyCAXd",
+      "lang": "en",
+      "created_at": "Tue Jun 23 18:00:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 613444263079215104,
+    "id_str": "613444263079215104",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/YrWtVyCAXd",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "buzzfeed.com/hayesbrown/con\u2026",
+          "expanded_url": "http://www.buzzfeed.com/hayesbrown/congressman-slams-changes-to-hostage-policy-as-window-dressi?utm_term=.imGKqPzkM#.kjMbLAZlW"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Lauren French",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "42692687",
+          "id": 42692687,
+          "screen_name": "laurennfrench"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            20,
+            31
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @laurennfrench: .@Rep_Hunter says White House rule change on hostage policy is \"window dressing\" http://t.co/YrWtVyCAXd",
+    "lang": "en",
+    "created_at": "2015-06-23 20:31:24+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 7,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "1305596696",
+      "id": 613361355672956928,
+      "id_str": "613361355672956928",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Army",
+            "indices": [
+              24,
+              29
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/QpTSG8jdTX",
+            "media_url": "http://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+            "expanded_url": "http://twitter.com/ConcernedVetsSC/status/613361355672956928/photo/1",
+            "id_str": "613361344188948480",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              },
+              "large": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              }
+            },
+            "display_url": "pic.twitter.com/QpTSG8jdTX",
+            "id": 613361344188948480
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/LS5mH7VnHX",
+            "indices": [
+              95,
+              117
+            ],
+            "display_url": "bit.ly/1Hbw8sW",
+            "expanded_url": "http://bit.ly/1Hbw8sW"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              0,
+              11
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          },
+          {
+            "name": "CIA",
+            "indices": [
+              53,
+              57
+            ],
+            "id_str": "2359926157",
+            "id": 2359926157,
+            "screen_name": "CIA"
+          },
+          {
+            "name": "ArmyTimes",
+            "indices": [
+              84,
+              94
+            ],
+            "id_str": "148878245",
+            "id": 148878245,
+            "screen_name": "ArmyTimes"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2992233567",
+        "id": 2992233567
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 1305596696,
+      "in_reply_to_screen_name": "Rep_Hunter",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/QpTSG8jdTX",
+            "media_url": "http://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+            "expanded_url": "http://twitter.com/ConcernedVetsSC/status/613361355672956928/photo/1",
+            "id_str": "613361344188948480",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              },
+              "large": {
+                "w": 534,
+                "resize": "fit",
+                "h": 401
+              }
+            },
+            "display_url": "pic.twitter.com/QpTSG8jdTX",
+            "id": 613361344188948480
+          }
+        ]
+      },
+      "text": "@Rep_Hunter to besieged #Army Major Mathew Golsteyn: @CIA should be paying you -via @ArmyTimes http://t.co/LS5mH7VnHX http://t.co/QpTSG8jdTX",
+      "lang": "en",
+      "created_at": "Tue Jun 23 15:01:57 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2992233567,
+          "media_url": "http://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+          "source_user_id_str": "2992233567",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/QpTSG8jdTX",
+          "expanded_url": "http://twitter.com/ConcernedVetsSC/status/613361355672956928/photo/1",
+          "url": "http://t.co/QpTSG8jdTX",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+          "source_status_id_str": "613361355672956928",
+          "id_str": "613361344188948480",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            },
+            "large": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            }
+          },
+          "id": 613361344188948480,
+          "source_status_id": 613361355672956928
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 613367590149353472,
+    "id_str": "613367590149353472",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Army",
+          "indices": [
+            45,
+            50
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2992233567,
+          "media_url": "http://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+          "source_user_id_str": "2992233567",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/QpTSG8jdTX",
+          "expanded_url": "http://twitter.com/ConcernedVetsSC/status/613361355672956928/photo/1",
+          "url": "http://t.co/QpTSG8jdTX",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CIMY5I9WoAA_vdk.jpg",
+          "source_status_id_str": "613361355672956928",
+          "id_str": "613361344188948480",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            },
+            "large": {
+              "w": 534,
+              "resize": "fit",
+              "h": 401
+            }
+          },
+          "id": 613361344188948480,
+          "source_status_id": 613361355672956928
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/LS5mH7VnHX",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "bit.ly/1Hbw8sW",
+          "expanded_url": "http://bit.ly/1Hbw8sW"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "ConcernedVetsSC",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2992233567",
+          "id": 2992233567,
+          "screen_name": "ConcernedVetsSC"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            21,
+            32
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        },
+        {
+          "name": "CIA",
+          "indices": [
+            74,
+            78
+          ],
+          "id_str": "2359926157",
+          "id": 2359926157,
+          "screen_name": "CIA"
+        },
+        {
+          "name": "ArmyTimes",
+          "indices": [
+            105,
+            115
+          ],
+          "id_str": "148878245",
+          "id": 148878245,
+          "screen_name": "ArmyTimes"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ConcernedVetsSC: @Rep_Hunter to besieged #Army Major Mathew Golsteyn: @CIA should be paying you -via @ArmyTimes http://t.co/LS5mH7VnHX \u2026",
+    "lang": "en",
+    "created_at": "2015-06-23 15:26:43+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "1305596696",
+      "id": 611553330465091584,
+      "id_str": "611553330465091584",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/8HcXzypmrA",
+            "indices": [
+              100,
+              122
+            ],
+            "display_url": "c-span.org/video/?c454131\u2026",
+            "expanded_url": "http://www.c-span.org/video/?c4541311/hunter-hasc-hearing"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              0,
+              11
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16116519",
+        "id": 16116519
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 1305596696,
+      "in_reply_to_screen_name": "Rep_Hunter",
+      "retweeted": false,
+      "text": "@Rep_Hunter voices concern on whistleblower protection in the Army. That's our kind of Congressman! http://t.co/8HcXzypmrA",
+      "lang": "en",
+      "created_at": "Thu Jun 18 15:17:30 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 611573145057783808,
+    "id_str": "611573145057783808",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/8HcXzypmrA",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "c-span.org/video/?c454131\u2026",
+          "expanded_url": "http://www.c-span.org/video/?c4541311/hunter-hasc-hearing"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "POGOBlog",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "16116519",
+          "id": 16116519,
+          "screen_name": "POGOBlog"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            14,
+            25
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @POGOBlog: @Rep_Hunter voices concern on whistleblower protection in the Army. That's our kind of Congressman! http://t.co/8HcXzypmrA",
+    "lang": "en",
+    "created_at": "2015-06-18 16:36:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "38450727",
+    "id": 575369841294589953,
+    "id_str": "575369841294589953",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Pat Patriot",
+          "indices": [
+            0,
+            12
+          ],
+          "id_str": "38450727",
+          "id": 38450727,
+          "screen_name": "DesertRiver"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 38450727,
+    "in_reply_to_screen_name": "DesertRiver",
+    "retweeted": false,
+    "text": "@DesertRiver  I don\u2019t support the ban.  Signed a letter opposing it, too.",
+    "lang": "en",
+    "created_at": "2015-03-10 18:57:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 22,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 19,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 568099611941974016,
+    "id_str": "568099611941974016",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HOVNkk6033",
+          "indices": [
+            71,
+            93
+          ],
+          "display_url": "tinyurl.com/m3zy3mh",
+          "expanded_url": "http://tinyurl.com/m3zy3mh"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Strip service secretary authority to revoke valor medals.  Here\u2019s why. http://t.co/HOVNkk6033",
+    "lang": "en",
+    "created_at": "2015-02-18 17:27:56+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 565587458587627523,
+    "id_str": "565587458587627523",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/pOESc2DYj2",
+          "indices": [
+            104,
+            126
+          ],
+          "display_url": "tinyurl.com/k86ltoa",
+          "expanded_url": "http://tinyurl.com/k86ltoa"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "More on Army\u2019s treatment of Matt Golsteyn.  This one includes an MoH recipient. Writing with Bing West: http://t.co/pOESc2DYj2",
+    "lang": "en",
+    "created_at": "2015-02-11 19:05:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 103,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 56,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 563720184117362688,
+    "id_str": "563720184117362688",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/ZSGfq3m45f",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "freebeacon.com/national-secur\u2026",
+          "expanded_url": "http://freebeacon.com/national-security/afghanistan-war-hero-stripped-of-silver-star/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Feature: Army Major Betrayed by cowardly leaders.  A must read.  http://t.co/ZSGfq3m45f",
+    "lang": "en",
+    "created_at": "2015-02-06 15:25:39+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 14,
+      "favorite_count": 15,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 563342755712475137,
+      "id_str": "563342755712475137",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              65,
+              76
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "312800783",
+        "id": 312800783
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"I don't understand why the President can't call it what it is.\" @Rep_Hunter responds to Obama's response to ISIS atrocities.",
+      "lang": "en",
+      "created_at": "Thu Feb 05 14:25:54 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 14,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 563349140923744257,
+    "id_str": "563349140923744257",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "America's Newsroom",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "312800783",
+          "id": 312800783,
+          "screen_name": "AmericaNewsroom"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            86,
+            97
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AmericaNewsroom: \"I don't understand why the President can't call it what it is.\" @Rep_Hunter responds to Obama's response to ISIS atro\u2026",
+    "lang": "en",
+    "created_at": "2015-02-05 14:51:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 563086521105125376,
+    "id_str": "563086521105125376",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Cd5BFjShRs",
+          "indices": [
+            54,
+            76
+          ],
+          "display_url": "tinyurl.com/ke4lpmc",
+          "expanded_url": "http://tinyurl.com/ke4lpmc"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Top Special Forces soldier has valor awards revoked.  http://t.co/Cd5BFjShRs.",
+    "lang": "en",
+    "created_at": "2015-02-04 21:27:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 116,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 62,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 562627022116388864,
+    "id_str": "562627022116388864",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WAWfXmeGyK",
+          "indices": [
+            70,
+            92
+          ],
+          "display_url": "thebea.st/1zCbFrN",
+          "expanded_url": "http://thebea.st/1zCbFrN"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Many soldiers have difficulty trusting their leadership.  Here\u2019s why: http://t.co/WAWfXmeGyK",
+    "lang": "en",
+    "created_at": "2015-02-03 15:01:49+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 239,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 146,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 560259335419596800,
+      "id_str": "560259335419596800",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "KellyFile",
+            "indices": [
+              85,
+              95
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/zROU6m2m2Z",
+            "media_url": "http://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+            "expanded_url": "http://twitter.com/FoxNews/status/560259335419596800/photo/1",
+            "id_str": "560259334869749760",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/zROU6m2m2Z",
+            "id": 560259334869749760
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Duncan Hunter",
+            "indices": [
+              35,
+              46
+            ],
+            "id_str": "1305596696",
+            "id": 1305596696,
+            "screen_name": "Rep_Hunter"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1367531",
+        "id": 1367531
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/zROU6m2m2Z",
+            "media_url": "http://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+            "expanded_url": "http://twitter.com/FoxNews/status/560259335419596800/photo/1",
+            "id_str": "560259334869749760",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/zROU6m2m2Z",
+            "id": 560259334869749760
+          }
+        ]
+      },
+      "text": "\u201cThis is America in retreat,\u201d says @Rep_Hunter on Al Qaeda operative release by U.S. #KellyFile http://t.co/zROU6m2m2Z",
+      "lang": "en",
+      "created_at": "Wed Jan 28 02:13:29 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 239,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1367531,
+          "media_url": "http://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+          "source_user_id_str": "1367531",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/zROU6m2m2Z",
+          "expanded_url": "http://twitter.com/FoxNews/status/560259335419596800/photo/1",
+          "url": "http://t.co/zROU6m2m2Z",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+          "source_status_id_str": "560259335419596800",
+          "id_str": "560259334869749760",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 560259334869749760,
+          "source_status_id": 560259335419596800
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 560448376320565249,
+    "id_str": "560448376320565249",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "KellyFile",
+          "indices": [
+            98,
+            108
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 1367531,
+          "media_url": "http://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+          "source_user_id_str": "1367531",
+          "indices": [
+            109,
+            131
+          ],
+          "display_url": "pic.twitter.com/zROU6m2m2Z",
+          "expanded_url": "http://twitter.com/FoxNews/status/560259335419596800/photo/1",
+          "url": "http://t.co/zROU6m2m2Z",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/B8Zw5Y0CEAAGaR_.jpg",
+          "source_status_id_str": "560259335419596800",
+          "id_str": "560259334869749760",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 560259334869749760,
+          "source_status_id": 560259335419596800
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Fox News",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "1367531",
+          "id": 1367531,
+          "screen_name": "FoxNews"
+        },
+        {
+          "name": "Rep. Duncan Hunter",
+          "indices": [
+            48,
+            59
+          ],
+          "id_str": "1305596696",
+          "id": 1305596696,
+          "screen_name": "Rep_Hunter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1305596696",
+      "screen_name": "rep_hunter",
+      "id": 1305596696
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FoxNews: \u201cThis is America in retreat,\u201d says @Rep_Hunter on Al Qaeda operative release by U.S. #KellyFile http://t.co/zROU6m2m2Z",
+    "lang": "en",
+    "created_at": "2015-01-28 14:44:40+00:00"
+  }
+]

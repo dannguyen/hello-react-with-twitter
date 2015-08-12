@@ -1,0 +1,2009 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629326995382509568",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 31,
+      "favorite_count": 31,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "url": "https://api.twitter.com/1.1/geo/id/6057f1e35bcc6c20.json",
+        "country_code": "US",
+        "full_name": "South Carolina, USA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -83.353955,
+                32.04683
+              ],
+              [
+                -78.499301,
+                32.04683
+              ],
+              [
+                -78.499301,
+                35.215449
+              ],
+              [
+                -83.353955,
+                35.215449
+              ]
+            ]
+          ]
+        },
+        "attributes": {},
+        "name": "South Carolina",
+        "country": "United States",
+        "place_type": "admin",
+        "id": "6057f1e35bcc6c20"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629306069953683456,
+      "id_str": "629306069953683456",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "25103967",
+            "indices": [
+              26,
+              33
+            ],
+            "name": "The Boeing Company",
+            "id": 25103967,
+            "screen_name": "Boeing"
+          },
+          {
+            "id_str": "1924469148",
+            "indices": [
+              92,
+              102
+            ],
+            "name": "Economic Engagement ",
+            "id": 1924469148,
+            "screen_name": "engageUSC"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "UofSC",
+            "indices": [
+              0,
+              6
+            ]
+          },
+          {
+            "text": "Aerospace",
+            "indices": [
+              68,
+              78
+            ]
+          },
+          {
+            "text": "avgeek",
+            "indices": [
+              133,
+              140
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "28161251",
+        "id": 28161251
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "#UofSC is teaming up with @Boeing for advanced research with McNair #Aerospace Center &amp; @engageUSC. Up to $5 million investment. #avgeek",
+      "lang": "en",
+      "created_at": "Thu Aug 06 15:00:33 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/7qWeBe7yDT",
+          "indices": [
+            80,
+            103
+          ],
+          "display_url": "twitter.com/UofSC/status/6\u2026",
+          "expanded_url": "https://twitter.com/UofSC/status/629306069953683456"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629306069953683456",
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 16:23:42+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629326995382509568,
+    "text": "Exciting announcement today. South Carolina is a great place to live and work.  https://t.co/7qWeBe7yDT",
+    "lang": "en",
+    "quoted_status_id": 629306069953683456,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "627161221280735232",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "217543151",
+    "id": 627173649775259648,
+    "id_str": "627173649775259648",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "217543151",
+          "indices": [
+            0,
+            16
+          ],
+          "name": "Tim Scott",
+          "id": 217543151,
+          "screen_name": "SenatorTimScott"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": 627161221280735232,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 217543151,
+    "in_reply_to_screen_name": "SenatorTimScott",
+    "retweeted": false,
+    "text": "@SenatorTimScott Thank you Senator!",
+    "lang": "en",
+    "created_at": "2015-07-31 17:47:05+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 7,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/93U1sDtSHr",
+            "media_url": "http://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+            "expanded_url": "http://twitter.com/TheCCUL/status/626807680867373056/photo/1",
+            "id_str": "626807680363921408",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 750
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/93U1sDtSHr",
+            "id": 626807680363921408
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 626807680867373056,
+      "id_str": "626807680867373056",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/93U1sDtSHr",
+            "media_url": "http://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+            "expanded_url": "http://twitter.com/TheCCUL/status/626807680867373056/photo/1",
+            "id_str": "626807680363921408",
+            "indices": [
+              87,
+              109
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1000,
+                "resize": "fit",
+                "h": 750
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/93U1sDtSHr",
+            "id": 626807680363921408
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "AdvocacyInAction",
+            "indices": [
+              69,
+              86
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "254082173",
+            "indices": [
+              23,
+              36
+            ],
+            "name": "Joe Wilson",
+            "id": 254082173,
+            "screen_name": "RepJoeWilson"
+          },
+          {
+            "id_str": "77315520",
+            "indices": [
+              59,
+              67
+            ],
+            "name": "SAFE FCU",
+            "id": 77315520,
+            "screen_name": "SAFEFCU"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "2183086016",
+        "id": 2183086016
+      },
+      "text": "Credit union supporter @RepJoeWilson works the teller line @SAFEFCU! #AdvocacyInAction http://t.co/93U1sDtSHr",
+      "lang": "en",
+      "created_at": "Thu Jul 30 17:32:51 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2183086016,
+          "media_url": "http://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+          "source_user_id_str": "2183086016",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/93U1sDtSHr",
+          "expanded_url": "http://twitter.com/TheCCUL/status/626807680867373056/photo/1",
+          "url": "http://t.co/93U1sDtSHr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+          "source_status_id_str": "626807680867373056",
+          "id_str": "626807680363921408",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 750
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 626807680363921408,
+          "source_status_id": 626807680867373056
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626817597758177281,
+    "id_str": "626817597758177281",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 2183086016,
+          "media_url": "http://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+          "source_user_id_str": "2183086016",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/93U1sDtSHr",
+          "expanded_url": "http://twitter.com/TheCCUL/status/626807680867373056/photo/1",
+          "url": "http://t.co/93U1sDtSHr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLeQ6qUAAAYXtI.jpg",
+          "source_status_id_str": "626807680867373056",
+          "id_str": "626807680363921408",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1000,
+              "resize": "fit",
+              "h": 750
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 626807680363921408,
+          "source_status_id": 626807680867373056
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "AdvocacyInAction",
+          "indices": [
+            82,
+            99
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "2183086016",
+          "indices": [
+            3,
+            11
+          ],
+          "name": "Carolinas CU League",
+          "id": 2183086016,
+          "screen_name": "TheCCUL"
+        },
+        {
+          "id_str": "254082173",
+          "indices": [
+            36,
+            49
+          ],
+          "name": "Joe Wilson",
+          "id": 254082173,
+          "screen_name": "RepJoeWilson"
+        },
+        {
+          "id_str": "77315520",
+          "indices": [
+            72,
+            80
+          ],
+          "name": "SAFE FCU",
+          "id": 77315520,
+          "screen_name": "SAFEFCU"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "text": "RT @TheCCUL: Credit union supporter @RepJoeWilson works the teller line @SAFEFCU! #AdvocacyInAction http://t.co/93U1sDtSHr",
+    "lang": "en",
+    "created_at": "2015-07-30 18:12:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626448712764628992",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "TheIranDeal",
+          "indices": [
+            58,
+            70
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/MTJaGEbAwk",
+          "indices": [
+            85,
+            107
+          ],
+          "display_url": "bit.ly/1Is7bIo",
+          "expanded_url": "http://bit.ly/1Is7bIo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626448712764628992,
+    "text": "Today, I asked leading experts  about the implications of #TheIranDeal - Watch here: http://t.co/MTJaGEbAwk",
+    "lang": "en",
+    "created_at": "2015-07-29 17:46:26+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "626116770718314496",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "http://t.co/S2oMNDMj1q",
+            "indices": [
+              73,
+              95
+            ],
+            "display_url": "fb.me/7nQ5PXpJa",
+            "expanded_url": "http://fb.me/7nQ5PXpJa"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "389495064",
+        "id": 389495064
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 626116770718314496,
+      "text": "LaQuanda and Effy meeting with Congressman Joe Wilson in Washington, DC. http://t.co/S2oMNDMj1q",
+      "lang": "en",
+      "created_at": "Tue Jul 28 19:47:25 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626136553971187712",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "389495064",
+          "indices": [
+            3,
+            11
+          ],
+          "name": "Able South Carolina",
+          "id": 389495064,
+          "screen_name": "Able_SC"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/S2oMNDMj1q",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "fb.me/7nQ5PXpJa",
+          "expanded_url": "http://fb.me/7nQ5PXpJa"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626136553971187712,
+    "text": "RT @Able_SC: LaQuanda and Effy meeting with Congressman Joe Wilson in Washington, DC. http://t.co/S2oMNDMj1q",
+    "lang": "en",
+    "created_at": "2015-07-28 21:06:02+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 6,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626057764150775808,
+      "id_str": "626057764150775808",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              90,
+              99
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "89220865",
+        "id": 89220865
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Rep. Joe Wilson: \"The American people need to know there is bipartisan opposition to\" the #IranDeal",
+      "lang": "en",
+      "created_at": "Tue Jul 28 15:52:57 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626069143217930240",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "89220865",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "Patricia Zengerle",
+          "id": 89220865,
+          "screen_name": "ReutersZengerle"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            111,
+            120
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626069143217930240,
+    "text": "RT @ReutersZengerle: Rep. Joe Wilson: \"The American people need to know there is bipartisan opposition to\" the #IranDeal",
+    "lang": "en",
+    "created_at": "2015-07-28 16:38:10+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xwdGzWU5sq",
+          "media_url": "http://pbs.twimg.com/media/CK8J1ndWgAA3RPq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8J1ndWgAA3RPq.jpg",
+          "expanded_url": "http://twitter.com/RepJoeWilson/status/625729695338885121/photo/1",
+          "id_str": "625729689957597184",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xwdGzWU5sq",
+          "id": 625729689957597184
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 625729695338885121,
+    "id_str": "625729695338885121",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/xwdGzWU5sq",
+          "media_url": "http://pbs.twimg.com/media/CK8J1ndWgAA3RPq.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK8J1ndWgAA3RPq.jpg",
+          "expanded_url": "http://twitter.com/RepJoeWilson/status/625729695338885121/photo/1",
+          "id_str": "625729689957597184",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xwdGzWU5sq",
+          "id": 625729689957597184
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "262756641",
+          "indices": [
+            22,
+            36
+          ],
+          "name": "Senator Hatch Office",
+          "id": 262756641,
+          "screen_name": "SenOrrinHatch"
+        },
+        {
+          "id_str": "76649729",
+          "indices": [
+            37,
+            50
+          ],
+          "name": "Sen. Lamar Alexander",
+          "id": 76649729,
+          "screen_name": "SenAlexander"
+        },
+        {
+          "id_str": "6577802",
+          "indices": [
+            51,
+            63
+          ],
+          "name": "Tom Price",
+          "id": 6577802,
+          "screen_name": "RepTomPrice"
+        },
+        {
+          "id_str": "834069080",
+          "indices": [
+            64,
+            79
+          ],
+          "name": "David Rouzer",
+          "id": 834069080,
+          "screen_name": "RepDavidRouzer"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "text": "Right now-I'm joining @SenOrrinHatch @SenAlexander @RepTomPrice @RepDavidRouzer to introduce the Employee Rights Act http://t.co/xwdGzWU5sq",
+    "lang": "en",
+    "created_at": "2015-07-27 18:09:19+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "624315417683603456",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/jaKUe3Dh0h",
+            "media_url": "http://pbs.twimg.com/media/CKn1cNwWEAAZk7Q.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKn1cNwWEAAZk7Q.jpg",
+            "expanded_url": "http://twitter.com/315AW/status/624299916999979008/photo/1",
+            "id_str": "624299888445100032",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/jaKUe3Dh0h",
+            "id": 624299888445100032
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 624299916999979008,
+      "id_str": "624299916999979008",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/jaKUe3Dh0h",
+            "media_url": "http://pbs.twimg.com/media/CKn1cNwWEAAZk7Q.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKn1cNwWEAAZk7Q.jpg",
+            "expanded_url": "http://twitter.com/315AW/status/624299916999979008/photo/1",
+            "id_str": "624299888445100032",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/jaKUe3Dh0h",
+            "id": 624299888445100032
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "42658124",
+        "id": 42658124
+      },
+      "text": "The 315th delegation meeting with Congressman Joe Wilson on their annual visit to Capitol Hill. http://t.co/jaKUe3Dh0h",
+      "lang": "en",
+      "created_at": "Thu Jul 23 19:27:53 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/MUS1JBfLju",
+          "indices": [
+            20,
+            43
+          ],
+          "display_url": "twitter.com/315AW/status/6\u2026",
+          "expanded_url": "https://twitter.com/315AW/status/624299916999979008"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "624299916999979008",
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "created_at": "2015-07-23 20:29:29+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 624315417683603456,
+    "text": "So glad to see you! https://t.co/MUS1JBfLju",
+    "lang": "en",
+    "quoted_status_id": 624299916999979008,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623224988619960324,
+    "id_str": "623224988619960324",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "262756968",
+          "indices": [
+            26,
+            37
+          ],
+          "name": "Keven Cohen",
+          "id": 262756968,
+          "screen_name": "KevenCohen"
+        },
+        {
+          "id_str": "1973338266",
+          "indices": [
+            41,
+            54
+          ],
+          "name": "95-9 The Point",
+          "id": 1973338266,
+          "screen_name": "PointRadioSC"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "sctweets",
+          "indices": [
+            56,
+            65
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Listen now- I'm live with @KevenCohen on @PointRadioSC. #sctweets",
+    "lang": "en",
+    "created_at": "2015-07-20 20:16:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/yFdNMw5DrT",
+          "media_url": "http://pbs.twimg.com/media/CJ-Ka2eVAAArYux.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ-Ka2eVAAArYux.jpg",
+          "expanded_url": "http://twitter.com/RepJoeWilson/status/621368801381216256/photo/1",
+          "id_str": "621367467504369664",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/yFdNMw5DrT",
+          "id": 621367467504369664
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621368801381216256,
+    "id_str": "621368801381216256",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/yFdNMw5DrT",
+          "media_url": "http://pbs.twimg.com/media/CJ-Ka2eVAAArYux.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ-Ka2eVAAArYux.jpg",
+          "expanded_url": "http://twitter.com/RepJoeWilson/status/621368801381216256/photo/1",
+          "id_str": "621367467504369664",
+          "indices": [
+            119,
+            141
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/yFdNMw5DrT",
+          "id": 621367467504369664
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "UofSC",
+          "indices": [
+            61,
+            67
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "28161251",
+          "indices": [
+            13,
+            19
+          ],
+          "name": "U of South Carolina",
+          "id": 28161251,
+          "screen_name": "UofSC"
+        },
+        {
+          "id_str": "494051685",
+          "indices": [
+            30,
+            45
+          ],
+          "name": "Harris Pastides",
+          "id": 494051685,
+          "screen_name": "HarrisPastides"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "text": "Great to see @UofSC President @HarrisPastides! Proud to be a #UofSC grad &amp; have so many alumni work in the office. http://t.co/yFdNMw5DrT",
+    "lang": "en",
+    "created_at": "2015-07-15 17:20:41+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "621016493132783616",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            112,
+            121
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/3k6TVuAqW1",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "1.usa.gov/1UZcVPk",
+          "expanded_url": "http://1.usa.gov/1UZcVPk"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 621016493132783616,
+    "text": "I am disappointed in POTUS\u2019 nuclear agreement w/ Iran. Iran can't be trusted &amp; threatens American families. #IranDeal http://t.co/3k6TVuAqW1",
+    "lang": "en",
+    "created_at": "2015-07-14 18:00:44+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "620732149419917312",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "VeteransEntrepreneurship",
+          "indices": [
+            25,
+            50
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/fciFDAaCgF",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "gop.gov/bill/h-r-2499-\u2026",
+          "expanded_url": "http://www.gop.gov/bill/h-r-2499-veterans-entrepreneurship-act-of-2015/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 620732149419917312,
+    "text": "Grateful to vote for the #VeteransEntrepreneurship Act today. Fighting for our heroes b/c they fought for us. http://t.co/fciFDAaCgF",
+    "lang": "en",
+    "created_at": "2015-07-13 23:10:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "620683172028641280",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 0,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "620650185266462720",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "http://t.co/cNAzgBzisA",
+            "indices": [
+              123,
+              145
+            ],
+            "display_url": "fb.me/2oh1isr4X",
+            "expanded_url": "http://fb.me/2oh1isr4X"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2300010546",
+        "id": 2300010546
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.facebook.com/twitter\" rel=\"nofollow\">Facebook</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 620650185266462720,
+      "text": "SCFA President &amp; CEO Cam Crawford recently met in Washington, DC with SC Congressmen Joe Wilson &amp; Mick Mulvaney... http://t.co/cNAzgBzisA",
+      "lang": "en",
+      "created_at": "Mon Jul 13 17:45:09 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/GeBMsUaIhe",
+          "indices": [
+            106,
+            129
+          ],
+          "display_url": "twitter.com/SCForestryAsso\u2026",
+          "expanded_url": "https://twitter.com/SCForestryAssoc/status/620650185266462720"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "620650185266462720",
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "created_at": "2015-07-13 19:56:14+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 620683172028641280,
+    "text": "Enjoyed our meeting. Removing the Administration's excessive regulations is critical for SC and US jobs.  https://t.co/GeBMsUaIhe",
+    "lang": "en",
+    "quoted_status_id": 620650185266462720,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "618860134131978240",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 13,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "url": "https://api.twitter.com/1.1/geo/id/727398bc2ac5620b.json",
+        "country_code": "US",
+        "full_name": "West Columbia, SC",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -81.152795,
+                33.958527
+              ],
+              [
+                -81.048908,
+                33.958527
+              ],
+              [
+                -81.048908,
+                34.025515
+              ],
+              [
+                -81.152795,
+                34.025515
+              ]
+            ]
+          ]
+        },
+        "attributes": {},
+        "name": "West Columbia",
+        "country": "United States",
+        "place_type": "city",
+        "id": "727398bc2ac5620b"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 618858460017463296,
+      "id_str": "618858460017463296",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "67418649",
+        "id": 67418649
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "West Columbia: Power should be restored for most customers within approximately 10 minutes.",
+      "lang": "en",
+      "created_at": "Wed Jul 08 19:05:29 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/ryBQ9PjsKt",
+          "indices": [
+            79,
+            102
+          ],
+          "display_url": "twitter.com/scegnews/statu\u2026",
+          "expanded_url": "https://twitter.com/scegnews/status/618858460017463296"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "618858460017463296",
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "created_at": "2015-07-08 19:12:08+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 618860134131978240,
+    "text": "West Cola residents--here is an update on the power outage you may be facing.  https://t.co/ryBQ9PjsKt",
+    "lang": "en",
+    "quoted_status_id": 618858460017463296,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "618839609779355653",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14152598",
+          "indices": [
+            13,
+            18
+          ],
+          "name": "wapo",
+          "id": 14152598,
+          "screen_name": "wapo"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/AwE9Oz7J8C",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "wapo.st/1UrZozl",
+          "expanded_url": "http://wapo.st/1UrZozl"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 618839609779355653,
+    "text": "Good read by @wapo highlights the importance of my Cyberattack Standards Study Act--passed as an amendment last month http://t.co/AwE9Oz7J8C",
+    "lang": "en",
+    "created_at": "2015-07-08 17:50:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "618498984106172417",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/tEWlPuh2uK",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "bit.ly/1He1gor",
+          "expanded_url": "http://bit.ly/1He1gor"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 618498984106172417,
+    "text": "Today I recognized the Flying Tigers--courageous, volunteer WW2 pilots. My father served w/ the Flying Tigers. More: http://t.co/tEWlPuh2uK",
+    "lang": "en",
+    "created_at": "2015-07-07 19:17:03+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "618126893049643013",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/P0tIzFoc44",
+            "media_url": "http://pbs.twimg.com/media/CJQDMZ1UEAAmMWD.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJQDMZ1UEAAmMWD.jpg",
+            "expanded_url": "http://twitter.com/NACDS/status/618122562015481856/photo/1",
+            "id_str": "618122560484413440",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 680
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 398
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/P0tIzFoc44",
+            "id": 618122560484413440
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 618122562015481856,
+      "id_str": "618122562015481856",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/P0tIzFoc44",
+            "media_url": "http://pbs.twimg.com/media/CJQDMZ1UEAAmMWD.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJQDMZ1UEAAmMWD.jpg",
+            "expanded_url": "http://twitter.com/NACDS/status/618122562015481856/photo/1",
+            "id_str": "618122560484413440",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 680
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 398
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/P0tIzFoc44",
+            "id": 618122560484413440
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RxIMPACT",
+            "indices": [
+              94,
+              103
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "398942686",
+            "indices": [
+              1,
+              7
+            ],
+            "name": "Kmart",
+            "id": 398942686,
+            "screen_name": "Kmart"
+          },
+          {
+            "id_str": "254082173",
+            "indices": [
+              15,
+              28
+            ],
+            "name": "Joe Wilson",
+            "id": 254082173,
+            "screen_name": "RepJoeWilson"
+          },
+          {
+            "id_str": "18510066",
+            "indices": [
+              79,
+              93
+            ],
+            "name": "Sears Holdings Corp.",
+            "id": 18510066,
+            "screen_name": "SearsHoldings"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "43955137",
+        "id": 43955137
+      },
+      "text": ".@Kmart hosted @RepJoeWilson, showcasing their pharmacy services for patients. @SearsHoldings #RxIMPACT Tour http://t.co/P0tIzFoc44",
+      "lang": "en",
+      "created_at": "Mon Jul 06 18:21:17 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "https://t.co/e6ftZQsP79",
+          "indices": [
+            23,
+            46
+          ],
+          "display_url": "twitter.com/NACDS/status/6\u2026",
+          "expanded_url": "https://twitter.com/NACDS/status/618122562015481856"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "618122562015481856",
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "created_at": "2015-07-06 18:38:30+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 618126893049643013,
+    "text": "Thanks for having me!  https://t.co/e6ftZQsP79",
+    "lang": "en",
+    "quoted_status_id": 618122562015481856,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 617860154218954753,
+    "id_str": "617860154218954753",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "133448051",
+          "indices": [
+            23,
+            36
+          ],
+          "name": "U.S. Soccer WNT",
+          "id": 133448051,
+          "screen_name": "ussoccer_wnt"
+        },
+        {
+          "id_str": "284944250",
+          "indices": [
+            88,
+            96
+          ],
+          "name": "FIFA Women'sWorldCup",
+          "id": 284944250,
+          "screen_name": "FIFAWWC"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "USAvsJPN",
+          "indices": [
+            98,
+            107
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congratulations to the @ussoccer_wnt on their impressive win tonight and victory in the @FIFAWWC  #USAvsJPN",
+    "lang": "en",
+    "created_at": "2015-07-06 00:58:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 614523968352055296,
+    "id_str": "614523968352055296",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Grateful to attend the service to honor my friend &amp; colleague, Rev. Senator Clementa Pinckney. What a beautiful celebration of his life.",
+    "lang": "en",
+    "created_at": "2015-06-26 20:01:46+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 20,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 611401015263408128,
+    "id_str": "611401015263408128",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "254082173",
+      "screen_name": "repjoewilson",
+      "id": 254082173
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Praying for the victims, families, and entire Charleston community tonight.",
+    "lang": "en",
+    "created_at": "2015-06-18 05:12:15+00:00"
+  }
+]

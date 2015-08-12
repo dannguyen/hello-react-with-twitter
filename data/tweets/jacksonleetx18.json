@@ -1,0 +1,3360 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629689231309451264,
+    "id_str": "629689231309451264",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            0,
+            16
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/dtKdVndNxZ",
+          "media_url": "http://pbs.twimg.com/media/CL0bBMRXAAAo2Nf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0bBMRXAAAo2Nf.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629689231309451264/photo/1",
+          "id_str": "629689230189592576",
+          "indices": [
+            17,
+            39
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            }
+          },
+          "display_url": "pic.twitter.com/dtKdVndNxZ",
+          "id": 629689230189592576
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/dtKdVndNxZ",
+          "media_url": "http://pbs.twimg.com/media/CL0bBMRXAAAo2Nf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0bBMRXAAAo2Nf.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629689231309451264/photo/1",
+          "id_str": "629689230189592576",
+          "indices": [
+            17,
+            39
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 398
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 680
+            }
+          },
+          "display_url": "pic.twitter.com/dtKdVndNxZ",
+          "id": 629689230189592576
+        }
+      ]
+    },
+    "text": "#VotingRightsAct http://t.co/dtKdVndNxZ",
+    "lang": "und",
+    "created_at": "2015-08-07 16:23:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629674569113202690,
+    "id_str": "629674569113202690",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VotingRightsNow",
+          "indices": [
+            116,
+            132
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Want to thank everyone who attended the Voting Rights reenactment and registration yesterday. We had a great event! #VotingRightsNow!",
+    "lang": "en",
+    "created_at": "2015-08-07 15:24:50+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 7,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Houston, TX",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -95.823268,
+                29.522325
+              ],
+              [
+                -95.069705,
+                29.522325
+              ],
+              [
+                -95.069705,
+                30.1546646
+              ],
+              [
+                -95.823268,
+                30.1546646
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/1c69a67ad480e1b1.json",
+        "name": "Houston",
+        "country": "United States",
+        "place_type": "city",
+        "id": "1c69a67ad480e1b1"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629430517469835265,
+      "id_str": "629430517469835265",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/J77e4DERa8",
+            "media_url": "http://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+            "expanded_url": "http://twitter.com/HCDPChair/status/629430517469835265/photo/1",
+            "id_str": "629430507604815872",
+            "indices": [
+              71,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/J77e4DERa8",
+            "id": 629430507604815872
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              3,
+              18
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "62101419",
+        "id": 62101419
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/J77e4DERa8",
+            "media_url": "http://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+            "expanded_url": "http://twitter.com/HCDPChair/status/629430517469835265/photo/1",
+            "id_str": "629430507604815872",
+            "indices": [
+              71,
+              93
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/J77e4DERa8",
+            "id": 629430507604815872
+          }
+        ]
+      },
+      "text": "W/ @JacksonLeeTX18 \"The right to vote is precious. Have u registered?\" http://t.co/J77e4DERa8",
+      "lang": "en",
+      "created_at": "Thu Aug 06 23:15:04 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 62101419,
+          "media_url": "http://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+          "source_user_id_str": "62101419",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "pic.twitter.com/J77e4DERa8",
+          "expanded_url": "http://twitter.com/HCDPChair/status/629430517469835265/photo/1",
+          "url": "http://t.co/J77e4DERa8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+          "source_status_id_str": "629430517469835265",
+          "id_str": "629430507604815872",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629430507604815872,
+          "source_status_id": 629430517469835265
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629658524893741057,
+    "id_str": "629658524893741057",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 62101419,
+          "media_url": "http://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+          "source_user_id_str": "62101419",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "pic.twitter.com/J77e4DERa8",
+          "expanded_url": "http://twitter.com/HCDPChair/status/629430517469835265/photo/1",
+          "url": "http://t.co/J77e4DERa8",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwvtjiUMAAepuj.jpg",
+          "source_status_id_str": "629430517469835265",
+          "id_str": "629430507604815872",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629430507604815872,
+          "source_status_id": 629430517469835265
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Lane Lewis",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "62101419",
+          "id": 62101419,
+          "screen_name": "HCDPChair"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            18,
+            33
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HCDPChair: W/ @JacksonLeeTX18 \"The right to vote is precious. Have u registered?\" http://t.co/J77e4DERa8",
+    "lang": "en",
+    "created_at": "2015-08-07 14:21:05+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629483429441081344,
+      "id_str": "629483429441081344",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/Pl9xnIF0Jk",
+            "media_url": "http://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+            "expanded_url": "http://twitter.com/HoustonMAAC/status/629483429441081344/photo/1",
+            "id_str": "629483423237734400",
+            "indices": [
+              81,
+              103
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/Pl9xnIF0Jk",
+            "id": 629483423237734400
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              65,
+              80
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "809434208",
+        "id": 809434208
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Pl9xnIF0Jk",
+            "media_url": "http://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+            "expanded_url": "http://twitter.com/HoustonMAAC/status/629483429441081344/photo/1",
+            "id_str": "629483423237734400",
+            "indices": [
+              81,
+              103
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/Pl9xnIF0Jk",
+            "id": 629483423237734400
+          }
+        ]
+      },
+      "text": "HMAAC intern Leila Jackson with Congresswoman Sheila Jackson Lee @JacksonLeeTX18 http://t.co/Pl9xnIF0Jk",
+      "lang": "en",
+      "created_at": "Fri Aug 07 02:45:19 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 809434208,
+          "media_url": "http://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+          "source_user_id_str": "809434208",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "pic.twitter.com/Pl9xnIF0Jk",
+          "expanded_url": "http://twitter.com/HoustonMAAC/status/629483429441081344/photo/1",
+          "url": "http://t.co/Pl9xnIF0Jk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+          "source_status_id_str": "629483429441081344",
+          "id_str": "629483423237734400",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629483423237734400,
+          "source_status_id": 629483429441081344
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629658431977336832,
+    "id_str": "629658431977336832",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 809434208,
+          "media_url": "http://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+          "source_user_id_str": "809434208",
+          "indices": [
+            98,
+            120
+          ],
+          "display_url": "pic.twitter.com/Pl9xnIF0Jk",
+          "expanded_url": "http://twitter.com/HoustonMAAC/status/629483429441081344/photo/1",
+          "url": "http://t.co/Pl9xnIF0Jk",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLxf1poVAAAsM8k.jpg",
+          "source_status_id_str": "629483429441081344",
+          "id_str": "629483423237734400",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629483423237734400,
+          "source_status_id": 629483429441081344
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "HMAAC",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "809434208",
+          "id": 809434208,
+          "screen_name": "HoustonMAAC"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            82,
+            97
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HoustonMAAC: HMAAC intern Leila Jackson with Congresswoman Sheila Jackson Lee @JacksonLeeTX18 http://t.co/Pl9xnIF0Jk",
+    "lang": "en",
+    "created_at": "2015-08-07 14:20:43+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 149,
+      "favorite_count": 157,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629650509603991557,
+      "id_str": "629650509603991557",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              78,
+              84
+            ]
+          },
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15764644",
+        "id": 15764644
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Fri Aug 07 13:49:14 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 149,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629658152443768832,
+    "id_str": "629658152443768832",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            95,
+            101
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Nancy Pelosi ",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "15764644",
+          "id": 15764644,
+          "screen_name": "NancyPelosi"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NancyPelosi: The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight \u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 14:19:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629335840032821248,
+    "id_str": "629335840032821248",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            55,
+            61
+          ]
+        },
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            62,
+            78
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            79,
+            93
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/ua8Vu7ztak",
+          "media_url": "http://pbs.twimg.com/media/CLvZl8iVAAED8xz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvZl8iVAAED8xz.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629335840032821248/photo/1",
+          "id_str": "629335818876813313",
+          "indices": [
+            94,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/ua8Vu7ztak",
+          "id": 629335818876813313
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ua8Vu7ztak",
+          "media_url": "http://pbs.twimg.com/media/CLvZl8iVAAED8xz.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvZl8iVAAED8xz.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629335840032821248/photo/1",
+          "id_str": "629335818876813313",
+          "indices": [
+            94,
+            116
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/ua8Vu7ztak",
+          "id": 629335818876813313
+        }
+      ]
+    },
+    "text": "The 50th Anniversary signing of the Voting Rights Act! #VRA50 #VotingRightsAct #RestoreTheVRA http://t.co/ua8Vu7ztak",
+    "lang": "en",
+    "created_at": "2015-08-06 16:58:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629332607906398209,
+    "id_str": "629332607906398209",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            47,
+            63
+          ]
+        },
+        {
+          "text": "PresidentLyndonBJohnson",
+          "indices": [
+            69,
+            93
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            95,
+            101
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            102,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/2SOwlG9Rjo",
+          "media_url": "http://pbs.twimg.com/media/CLvWqmDUcAAfjGO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvWqmDUcAAfjGO.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629332607906398209/photo/1",
+          "id_str": "629332600205635584",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/2SOwlG9Rjo",
+          "id": 629332600205635584
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/2SOwlG9Rjo",
+          "media_url": "http://pbs.twimg.com/media/CLvWqmDUcAAfjGO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvWqmDUcAAfjGO.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629332607906398209/photo/1",
+          "id_str": "629332600205635584",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/2SOwlG9Rjo",
+          "id": 629332600205635584
+        }
+      ]
+    },
+    "text": "We celebrate 50 years since the signing of the #VotingRightsAct with #PresidentLyndonBJohnson! #VRA50 #RestoreTheVRA http://t.co/2SOwlG9Rjo",
+    "lang": "en",
+    "created_at": "2015-08-06 16:46:00+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629325992272617473,
+      "id_str": "629325992272617473",
+      "quoted_status": {
+        "in_reply_to_status_id_str": null,
+        "is_quote_status": false,
+        "retweet_count": 7,
+        "coordinates": null,
+        "possibly_sensitive": false,
+        "favorite_count": 5,
+        "truncated": false,
+        "place": null,
+        "geo": null,
+        "in_reply_to_user_id_str": null,
+        "id": 629324955205791746,
+        "id_str": "629324955205791746",
+        "entities": {
+          "symbols": [],
+          "hashtags": [
+            {
+              "text": "VRA50",
+              "indices": [
+                60,
+                66
+              ]
+            },
+            {
+              "text": "VotingRightsAct",
+              "indices": [
+                67,
+                83
+              ]
+            },
+            {
+              "text": "RestoreTheVRA",
+              "indices": [
+                84,
+                98
+              ]
+            },
+            {
+              "text": "TheReenactment",
+              "indices": [
+                99,
+                114
+              ]
+            }
+          ],
+          "media": [
+            {
+              "url": "http://t.co/jpm9M8DAh5",
+              "media_url": "http://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+              "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629324955205791746/photo/1",
+              "id_str": "629324947186290688",
+              "indices": [
+                115,
+                137
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 453
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 800
+                },
+                "large": {
+                  "w": 768,
+                  "resize": "fit",
+                  "h": 1024
+                }
+              },
+              "display_url": "pic.twitter.com/jpm9M8DAh5",
+              "id": 629324947186290688
+            }
+          ],
+          "urls": [],
+          "user_mentions": []
+        },
+        "in_reply_to_status_id": null,
+        "contributors": null,
+        "user": {
+          "id_str": "80612021",
+          "id": 80612021
+        },
+        "favorited": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "in_reply_to_user_id": null,
+        "in_reply_to_screen_name": null,
+        "extended_entities": {
+          "media": [
+            {
+              "url": "http://t.co/jpm9M8DAh5",
+              "media_url": "http://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+              "type": "photo",
+              "media_url_https": "https://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+              "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629324955205791746/photo/1",
+              "id_str": "629324947186290688",
+              "indices": [
+                115,
+                137
+              ],
+              "sizes": {
+                "small": {
+                  "w": 340,
+                  "resize": "fit",
+                  "h": 453
+                },
+                "thumb": {
+                  "w": 150,
+                  "resize": "crop",
+                  "h": 150
+                },
+                "medium": {
+                  "w": 600,
+                  "resize": "fit",
+                  "h": 800
+                },
+                "large": {
+                  "w": 768,
+                  "resize": "fit",
+                  "h": 1024
+                }
+              },
+              "display_url": "pic.twitter.com/jpm9M8DAh5",
+              "id": 629324947186290688
+            }
+          ]
+        },
+        "text": "Congresswoman with President Johnson and Dr. and Mrs. King. #VRA50 #VotingRightsAct #RestoreTheVRA #TheReenactment http://t.co/jpm9M8DAh5",
+        "lang": "en",
+        "created_at": "Thu Aug 06 16:15:36 +0000 2015",
+        "retweeted": false
+      },
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/Hx35SGW5L7",
+            "indices": [
+              106,
+              129
+            ],
+            "display_url": "twitter.com/jacksonleetx18\u2026",
+            "expanded_url": "https://twitter.com/jacksonleetx18/status/629324955205791746"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              54,
+              60
+            ]
+          },
+          {
+            "text": "TwitterNewsChat",
+            "indices": [
+              88,
+              104
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "629324955205791746",
+      "user": {
+        "id_str": "16855894",
+        "id": 16855894
+      },
+      "favorited": false,
+      "created_at": "Thu Aug 06 16:19:43 +0000 2015",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The news conference and reenactment of the signing of #VRA50 is underway at 1919 Smith. #TwitterNewsChat  https://t.co/Hx35SGW5L7",
+      "lang": "en",
+      "quoted_status_id": 629324955205791746
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629326558419943424,
+    "id_str": "629326558419943424",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Hx35SGW5L7",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "twitter.com/jacksonleetx18\u2026",
+          "expanded_url": "https://twitter.com/jacksonleetx18/status/629324955205791746"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            68,
+            74
+          ]
+        },
+        {
+          "text": "TwitterNewsChat",
+          "indices": [
+            102,
+            118
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Serbino Sandifer-Wal",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "16855894",
+          "id": 16855894,
+          "screen_name": "sswalker"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sswalker: The news conference and reenactment of the signing of #VRA50 is underway at 1919 Smith. #TwitterNewsChat  https://t.co/Hx35SG\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 16:21:58+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629324955205791746,
+    "id_str": "629324955205791746",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            60,
+            66
+          ]
+        },
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            67,
+            83
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            84,
+            98
+          ]
+        },
+        {
+          "text": "TheReenactment",
+          "indices": [
+            99,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/jpm9M8DAh5",
+          "media_url": "http://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629324955205791746/photo/1",
+          "id_str": "629324947186290688",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/jpm9M8DAh5",
+          "id": 629324947186290688
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/jpm9M8DAh5",
+          "media_url": "http://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvPtIVUkAAduch.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629324955205791746/photo/1",
+          "id_str": "629324947186290688",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/jpm9M8DAh5",
+          "id": 629324947186290688
+        }
+      ]
+    },
+    "text": "Congresswoman with President Johnson and Dr. and Mrs. King. #VRA50 #VotingRightsAct #RestoreTheVRA #TheReenactment http://t.co/jpm9M8DAh5",
+    "lang": "en",
+    "created_at": "2015-08-06 16:15:36+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629322153763037184,
+    "id_str": "629322153763037184",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "HistoricMoments",
+          "indices": [
+            97,
+            113
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            114,
+            120
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            121,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The Federal Courts have stood behind the voters of Texas! Now do your part and register to vote! #HistoricMoments #VRA50 #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-06 16:04:28+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "80612021",
+      "id": 629289443992547329,
+      "id_str": "629289443992547329",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              136,
+              142
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              0,
+              15
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16855894",
+        "id": 16855894
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 80612021,
+      "in_reply_to_screen_name": "JacksonLeeTX18",
+      "retweeted": false,
+      "text": "@JacksonLeeTX18 holds news conference &amp; re-enactment of the signing of the Act by President Johnson today at 10:30am at 1919 Smith. #VRA50",
+      "lang": "en",
+      "created_at": "Thu Aug 06 13:54:29 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629291131570798592,
+    "id_str": "629291131570798592",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Serbino Sandifer-Wal",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "16855894",
+          "id": 16855894,
+          "screen_name": "sswalker"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            14,
+            29
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sswalker: @JacksonLeeTX18 holds news conference &amp; re-enactment of the signing of the Act by President Johnson today at 10:30am at 1919 \u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 14:01:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629290713335750656,
+      "id_str": "629290713335750656",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Voting",
+            "indices": [
+              0,
+              7
+            ]
+          },
+          {
+            "text": "VRA50",
+            "indices": [
+              76,
+              82
+            ]
+          },
+          {
+            "text": "HistoricDay",
+            "indices": [
+              103,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/QAbs83dtQz",
+            "media_url": "http://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+            "expanded_url": "http://twitter.com/sswalker/status/629290713335750656/photo/1",
+            "id_str": "629290712207462400",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 194
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 342
+              },
+              "large": {
+                "w": 786,
+                "resize": "fit",
+                "h": 449
+              }
+            },
+            "display_url": "pic.twitter.com/QAbs83dtQz",
+            "id": 629290712207462400
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              87,
+              102
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16855894",
+        "id": 16855894
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/QAbs83dtQz",
+            "media_url": "http://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+            "expanded_url": "http://twitter.com/sswalker/status/629290713335750656/photo/1",
+            "id_str": "629290712207462400",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 194
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 342
+              },
+              "large": {
+                "w": 786,
+                "resize": "fit",
+                "h": 449
+              }
+            },
+            "display_url": "pic.twitter.com/QAbs83dtQz",
+            "id": 629290712207462400
+          }
+        ]
+      },
+      "text": "#Voting registration will be held at the following locations to commemorate #VRA50 via @JacksonLeeTX18 #HistoricDay http://t.co/QAbs83dtQz",
+      "lang": "en",
+      "created_at": "Thu Aug 06 13:59:32 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16855894,
+          "media_url": "http://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+          "source_user_id_str": "16855894",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/QAbs83dtQz",
+          "expanded_url": "http://twitter.com/sswalker/status/629290713335750656/photo/1",
+          "url": "http://t.co/QAbs83dtQz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+          "source_status_id_str": "629290713335750656",
+          "id_str": "629290712207462400",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 194
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 342
+            },
+            "large": {
+              "w": 786,
+              "resize": "fit",
+              "h": 449
+            }
+          },
+          "id": 629290712207462400,
+          "source_status_id": 629290713335750656
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629291033990291458,
+    "id_str": "629291033990291458",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Voting",
+          "indices": [
+            14,
+            21
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            90,
+            96
+          ]
+        },
+        {
+          "text": "HistoricDay",
+          "indices": [
+            117,
+            129
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 16855894,
+          "media_url": "http://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+          "source_user_id_str": "16855894",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/QAbs83dtQz",
+          "expanded_url": "http://twitter.com/sswalker/status/629290713335750656/photo/1",
+          "url": "http://t.co/QAbs83dtQz",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwkZGUEAAPk4A.jpg",
+          "source_status_id_str": "629290713335750656",
+          "id_str": "629290712207462400",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 194
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 342
+            },
+            "large": {
+              "w": 786,
+              "resize": "fit",
+              "h": 449
+            }
+          },
+          "id": 629290712207462400,
+          "source_status_id": 629290713335750656
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Serbino Sandifer-Wal",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "16855894",
+          "id": 16855894,
+          "screen_name": "sswalker"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            101,
+            116
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @sswalker: #Voting registration will be held at the following locations to commemorate #VRA50 via @JacksonLeeTX18 #HistoricDay http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 14:00:48+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "80612021",
+      "id": 629279535079424000,
+      "id_str": "629279535079424000",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RestoretheVRA",
+            "indices": [
+              85,
+              99
+            ]
+          },
+          {
+            "text": "JusticeSummer",
+            "indices": [
+              101,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/1IwAIb0Txe",
+            "media_url": "http://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+            "expanded_url": "http://twitter.com/Unite4Democracy/status/629279535079424000/photo/1",
+            "id_str": "629031870798237697",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              }
+            },
+            "display_url": "pic.twitter.com/1IwAIb0Txe",
+            "id": 629031870798237697
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              0,
+              15
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2327617195",
+        "id": 2327617195
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": 80612021,
+      "in_reply_to_screen_name": "JacksonLeeTX18",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/1IwAIb0Txe",
+            "media_url": "http://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+            "expanded_url": "http://twitter.com/Unite4Democracy/status/629279535079424000/photo/1",
+            "id_str": "629031870798237697",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              }
+            },
+            "display_url": "pic.twitter.com/1IwAIb0Txe",
+            "id": 629031870798237697
+          }
+        ]
+      },
+      "text": "@JacksonLeeTX18 Please RT! Commemorate 50th anniversary of VRA signing and commit to #RestoretheVRA. #JusticeSummer http://t.co/1IwAIb0Txe",
+      "lang": "en",
+      "created_at": "Thu Aug 06 13:15:07 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 2327617195,
+          "media_url": "http://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+          "source_user_id_str": "2327617195",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/1IwAIb0Txe",
+          "expanded_url": "http://twitter.com/Unite4Democracy/status/629279535079424000/photo/1",
+          "url": "http://t.co/1IwAIb0Txe",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+          "source_status_id_str": "629279535079424000",
+          "id_str": "629031870798237697",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "id": 629031870798237697,
+          "source_status_id": 629279535079424000
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629287595575537664,
+    "id_str": "629287595575537664",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            106,
+            120
+          ]
+        },
+        {
+          "text": "JusticeSummer",
+          "indices": [
+            122,
+            136
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 2327617195,
+          "media_url": "http://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+          "source_user_id_str": "2327617195",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/1IwAIb0Txe",
+          "expanded_url": "http://twitter.com/Unite4Democracy/status/629279535079424000/photo/1",
+          "url": "http://t.co/1IwAIb0Txe",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrFJ1tUEAEKBP9.jpg",
+          "source_status_id_str": "629279535079424000",
+          "id_str": "629031870798237697",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            }
+          },
+          "id": 629031870798237697,
+          "source_status_id": 629279535079424000
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Democracy Initiative",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "2327617195",
+          "id": 2327617195,
+          "screen_name": "Unite4Democracy"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            21,
+            36
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Unite4Democracy: @JacksonLeeTX18 Please RT! Commemorate 50th anniversary of VRA signing and commit to #RestoretheVRA. #JusticeSummer ht\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:47:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629165146745606145,
+      "id_str": "629165146745606145",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/lLzQJGtOlK",
+            "media_url": "http://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+            "expanded_url": "http://twitter.com/SayTyrone/status/629165146745606145/photo/1",
+            "id_str": "629165145814491136",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 562
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 556,
+                "resize": "fit",
+                "h": 920
+              },
+              "large": {
+                "w": 556,
+                "resize": "fit",
+                "h": 920
+              }
+            },
+            "display_url": "pic.twitter.com/lLzQJGtOlK",
+            "id": 629165145814491136
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              19,
+              34
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1899009452",
+        "id": 1899009452
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/lLzQJGtOlK",
+            "media_url": "http://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+            "expanded_url": "http://twitter.com/SayTyrone/status/629165146745606145/photo/1",
+            "id_str": "629165145814491136",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 562
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 556,
+                "resize": "fit",
+                "h": 920
+              },
+              "large": {
+                "w": 556,
+                "resize": "fit",
+                "h": 920
+              }
+            },
+            "display_url": "pic.twitter.com/lLzQJGtOlK",
+            "id": 629165145814491136
+          }
+        ]
+      },
+      "text": "Join Congresswoman @JacksonLeeTX18 for press conference in honor of the 50th Anniversary of the Voting Rights Act! http://t.co/lLzQJGtOlK",
+      "lang": "en",
+      "created_at": "Thu Aug 06 05:40:34 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 1899009452,
+          "media_url": "http://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+          "source_user_id_str": "1899009452",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/lLzQJGtOlK",
+          "expanded_url": "http://twitter.com/SayTyrone/status/629165146745606145/photo/1",
+          "url": "http://t.co/lLzQJGtOlK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+          "source_status_id_str": "629165146745606145",
+          "id_str": "629165145814491136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 562
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            },
+            "large": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            }
+          },
+          "id": 629165145814491136,
+          "source_status_id": 629165146745606145
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629287431087505408,
+    "id_str": "629287431087505408",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 1899009452,
+          "media_url": "http://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+          "source_user_id_str": "1899009452",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/lLzQJGtOlK",
+          "expanded_url": "http://twitter.com/SayTyrone/status/629165146745606145/photo/1",
+          "url": "http://t.co/lLzQJGtOlK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLs-Xd1UYAA1MPX.jpg",
+          "source_status_id_str": "629165146745606145",
+          "id_str": "629165145814491136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 562
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            },
+            "large": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            }
+          },
+          "id": 629165145814491136,
+          "source_status_id": 629165146745606145
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Tyrone Willis",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "1899009452",
+          "id": 1899009452,
+          "screen_name": "SayTyrone"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            34,
+            49
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SayTyrone: Join Congresswoman @JacksonLeeTX18 for press conference in honor of the 50th Anniversary of the Voting Rights Act! http://t.\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:46:29+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1802,
+      "favorite_count": 1466,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629265088214638592,
+      "id_str": "629265088214638592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1802,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629287319892303872,
+    "id_str": "629287319892303872",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:46:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629278083611099136,
+    "id_str": "629278083611099136",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            105,
+            111
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/BDeycIleGv",
+          "media_url": "http://pbs.twimg.com/media/CLulE2YUsAAS8-w.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLulE2YUsAAS8-w.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629278083611099136/photo/1",
+          "id_str": "629278075683909632",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 562
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            },
+            "large": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            }
+          },
+          "display_url": "pic.twitter.com/BDeycIleGv",
+          "id": 629278075683909632
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/BDeycIleGv",
+          "media_url": "http://pbs.twimg.com/media/CLulE2YUsAAS8-w.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLulE2YUsAAS8-w.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629278083611099136/photo/1",
+          "id_str": "629278075683909632",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 562
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            },
+            "large": {
+              "w": 556,
+              "resize": "fit",
+              "h": 920
+            }
+          },
+          "display_url": "pic.twitter.com/BDeycIleGv",
+          "id": 629278075683909632
+        }
+      ]
+    },
+    "text": "Your voice can't be heard if you're not registered to vote! Stop by one of our 14 locations to register! #VRA50 http://t.co/BDeycIleGv",
+    "lang": "en",
+    "created_at": "2015-08-06 13:09:21+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 15,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629266770461769729,
+    "id_str": "629266770461769729",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            102,
+            108
+          ]
+        },
+        {
+          "text": "VotingRightsNow",
+          "indices": [
+            109,
+            125
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            126,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today marks the 50th Anniversary of the Voting Rights Act! Be sure to come out and celebrate with us! #VRA50 #VotingRightsNow #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-06 12:24:23+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629073197216862209,
+      "id_str": "629073197216862209",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/OunMCLyxfu",
+            "media_url": "http://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+            "expanded_url": "http://twitter.com/Housing4Houston/status/629073197216862209/photo/1",
+            "id_str": "629073196134739969",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/OunMCLyxfu",
+            "id": 629073196134739969
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              15,
+              30
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "770198156",
+        "id": 770198156
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/OunMCLyxfu",
+            "media_url": "http://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+            "expanded_url": "http://twitter.com/Housing4Houston/status/629073197216862209/photo/1",
+            "id_str": "629073196134739969",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 399
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/OunMCLyxfu",
+            "id": 629073196134739969
+          }
+        ]
+      },
+      "text": "Many thanks to @JacksonLeeTX18 for joining the HHA today at the official opening of Kelly Village Park! http://t.co/OunMCLyxfu",
+      "lang": "en",
+      "created_at": "Wed Aug 05 23:35:12 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 770198156,
+          "media_url": "http://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+          "source_user_id_str": "770198156",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/OunMCLyxfu",
+          "expanded_url": "http://twitter.com/Housing4Houston/status/629073197216862209/photo/1",
+          "url": "http://t.co/OunMCLyxfu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+          "source_status_id_str": "629073197216862209",
+          "id_str": "629073196134739969",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 629073196134739969,
+          "source_status_id": 629073197216862209
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629265504310407168,
+    "id_str": "629265504310407168",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 770198156,
+          "media_url": "http://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+          "source_user_id_str": "770198156",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "pic.twitter.com/OunMCLyxfu",
+          "expanded_url": "http://twitter.com/Housing4Houston/status/629073197216862209/photo/1",
+          "url": "http://t.co/OunMCLyxfu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrqvSlUsAECK30.jpg",
+          "source_status_id_str": "629073197216862209",
+          "id_str": "629073196134739969",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 682
+            }
+          },
+          "id": 629073196134739969,
+          "source_status_id": 629073197216862209
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Houston Housing ",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "770198156",
+          "id": 770198156,
+          "screen_name": "Housing4Houston"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            36,
+            51
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Housing4Houston: Many thanks to @JacksonLeeTX18 for joining the HHA today at the official opening of Kelly Village Park! http://t.co/Ou\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 12:19:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 19,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629076623506190337,
+    "id_str": "629076623506190337",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            0,
+            6
+          ]
+        },
+        {
+          "text": "VotingRightsNow",
+          "indices": [
+            7,
+            23
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            24,
+            38
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/NZWwIicJkV",
+          "media_url": "http://pbs.twimg.com/media/CLrt2vRUMAE1A9s.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrt2vRUMAE1A9s.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629076623506190337/photo/1",
+          "id_str": "629076622629416961",
+          "indices": [
+            39,
+            61
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "display_url": "pic.twitter.com/NZWwIicJkV",
+          "id": 629076622629416961
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/NZWwIicJkV",
+          "media_url": "http://pbs.twimg.com/media/CLrt2vRUMAE1A9s.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrt2vRUMAE1A9s.jpg",
+          "expanded_url": "http://twitter.com/JacksonLeeTX18/status/629076623506190337/photo/1",
+          "id_str": "629076622629416961",
+          "indices": [
+            39,
+            61
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            }
+          },
+          "display_url": "pic.twitter.com/NZWwIicJkV",
+          "id": 629076622629416961
+        }
+      ]
+    },
+    "text": "#VRA50 #VotingRightsNow #RestoreTheVRA http://t.co/NZWwIicJkV",
+    "lang": "und",
+    "created_at": "2015-08-05 23:48:49+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": "628641437933027328",
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "80612021",
+      "id": 629030596791148544,
+      "id_str": "629030596791148544",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/bcSuqfTzJt",
+            "indices": [
+              57,
+              79
+            ],
+            "display_url": "greathousetweets.measuredvoice.com/JacksonLeeTX18\u2026",
+            "expanded_url": "http://greathousetweets.measuredvoice.com/JacksonLeeTX18/status/628641437933027328"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Sheila Jackson Lee",
+            "indices": [
+              0,
+              15
+            ],
+            "id_str": "80612021",
+            "id": 80612021,
+            "screen_name": "JacksonLeeTX18"
+          }
+        ]
+      },
+      "in_reply_to_status_id": 628641437933027328,
+      "contributors": null,
+      "user": {
+        "id_str": "3018910586",
+        "id": 3018910586
+      },
+      "favorited": false,
+      "source": "<a href=\"http://greathousetweets.measuredvoice.com\t\" rel=\"nofollow\">Great House Tweets</a>",
+      "in_reply_to_user_id": 80612021,
+      "in_reply_to_screen_name": "JacksonLeeTX18",
+      "retweeted": false,
+      "text": "@JacksonLeeTX18 Congrats on writing a great house tweet! http://t.co/bcSuqfTzJt (Ranked 36th for Aug 4.)",
+      "lang": "en",
+      "created_at": "Wed Aug 05 20:45:55 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629040135099781120,
+    "id_str": "629040135099781120",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bcSuqfTzJt",
+          "indices": [
+            78,
+            100
+          ],
+          "display_url": "greathousetweets.measuredvoice.com/JacksonLeeTX18\u2026",
+          "expanded_url": "http://greathousetweets.measuredvoice.com/JacksonLeeTX18/status/628641437933027328"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Great House Tweets",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "3018910586",
+          "id": 3018910586,
+          "screen_name": "greathousetweet"
+        },
+        {
+          "name": "Sheila Jackson Lee",
+          "indices": [
+            21,
+            36
+          ],
+          "id_str": "80612021",
+          "id": 80612021,
+          "screen_name": "JacksonLeeTX18"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "80612021",
+      "screen_name": "jacksonleetx18",
+      "id": 80612021
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @greathousetweet: @JacksonLeeTX18 Congrats on writing a great house tweet! http://t.co/bcSuqfTzJt (Ranked 36th for Aug 4.)",
+    "lang": "en",
+    "created_at": "2015-08-05 21:23:49+00:00"
+  }
+]

@@ -1,0 +1,2132 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629683837874896896",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 101,
+      "favorite_count": 66,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "url": "https://api.twitter.com/1.1/geo/id/1010ecfa7d3a40f8.json",
+        "country_code": "US",
+        "full_name": "Indiana, USA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -88.097892,
+                37.771743
+              ],
+              [
+                -84.78458,
+                37.771743
+              ],
+              [
+                -84.78458,
+                41.761368
+              ],
+              [
+                -88.097892,
+                41.761368
+              ]
+            ]
+          ]
+        },
+        "attributes": {},
+        "name": "Indiana",
+        "country": "United States",
+        "place_type": "admin",
+        "id": "1010ecfa7d3a40f8"
+      },
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/v0F7R7JA8G",
+            "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+            "id_str": "629628072120074240",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 333,
+                "resize": "fit",
+                "h": 680
+              },
+              "large": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              },
+              "medium": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/v0F7R7JA8G",
+            "id": 629628072120074240
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 629628072719839232,
+      "id_str": "629628072719839232",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/v0F7R7JA8G",
+            "media_url": "http://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLzjZUtUwAAnjeC.jpg",
+            "expanded_url": "http://twitter.com/AmericanLegion/status/629628072719839232/photo/1",
+            "id_str": "629628072120074240",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 333,
+                "resize": "fit",
+                "h": 680
+              },
+              "large": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              },
+              "medium": {
+                "w": 578,
+                "resize": "fit",
+                "h": 1180
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/v0F7R7JA8G",
+            "id": 629628072120074240
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "PurpleHeart",
+            "indices": [
+              57,
+              69
+            ]
+          },
+          {
+            "text": "PurpleHeartDay",
+            "indices": [
+              101,
+              116
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "27048645",
+        "id": 27048645
+      },
+      "text": "Today is set aside to honor those who have ever earned a #PurpleHeart. Thank you for your sacrifice. #PurpleHeartDay http://t.co/v0F7R7JA8G",
+      "lang": "en",
+      "created_at": "Fri Aug 07 12:20:05 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeart",
+          "indices": [
+            27,
+            39
+          ]
+        },
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            97,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/PhOArg5POC",
+          "indices": [
+            113,
+            136
+          ],
+          "display_url": "twitter.com/AmericanLegion\u2026",
+          "expanded_url": "https://twitter.com/AmericanLegion/status/629628072719839232"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629628072719839232",
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "created_at": "2015-08-07 16:01:40+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629683837874896896,
+    "text": "To all who have earned the #PurpleHeart, thank you for your sacrifices in defense of our freedom #PurpleHeartDay https://t.co/PhOArg5POC",
+    "lang": "en",
+    "quoted_status_id": 629628072719839232,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629431320184254464",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/hNrMVBsFP2",
+            "media_url": "http://pbs.twimg.com/media/CLwXYzyUcAEzldN.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwXYzyUcAEzldN.jpg",
+            "expanded_url": "http://twitter.com/NateNews3LV/status/629403813569368064/photo/1",
+            "id_str": "629403762910588929",
+            "indices": [
+              98,
+              120
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/hNrMVBsFP2",
+            "id": 629403762910588929
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 629403813569368064,
+      "id_str": "629403813569368064",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/hNrMVBsFP2",
+            "media_url": "http://pbs.twimg.com/media/CLwXYzyUcAEzldN.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwXYzyUcAEzldN.jpg",
+            "expanded_url": "http://twitter.com/NateNews3LV/status/629403813569368064/photo/1",
+            "id_str": "629403762910588929",
+            "indices": [
+              98,
+              120
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/hNrMVBsFP2",
+            "id": 629403762910588929
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "2964222544",
+            "indices": [
+              1,
+              10
+            ],
+            "name": "Rep. Cresent Hardy",
+            "id": 2964222544,
+            "screen_name": "RepHardy"
+          },
+          {
+            "id_str": "17394793",
+            "indices": [
+              89,
+              97
+            ],
+            "name": "NBC KSNV News 3",
+            "id": 17394793,
+            "screen_name": "News3LV"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "23148516",
+        "id": 23148516
+      },
+      "text": ".@RepHardy on a small business blitz - talking jobs and economy today in North Las Vegas @News3LV http://t.co/hNrMVBsFP2",
+      "lang": "en",
+      "created_at": "Thu Aug 06 21:28:57 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2978291435",
+          "indices": [
+            97,
+            111
+          ],
+          "name": "House Small Business",
+          "id": 2978291435,
+          "screen_name": "HouseSmallBiz"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Smallbiz",
+          "indices": [
+            0,
+            9
+          ]
+        },
+        {
+          "text": "NV04",
+          "indices": [
+            76,
+            81
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/h69hE8EHOl",
+          "indices": [
+            113,
+            136
+          ],
+          "display_url": "twitter.com/NateNews3LV/st\u2026",
+          "expanded_url": "https://twitter.com/NateNews3LV/status/629403813569368064"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629403813569368064",
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 23:18:15+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629431320184254464,
+    "text": "#Smallbiz = backbone of our local economy. Glad to say thanks and hear from #NV04 entrepreneurs! @HouseSmallBiz  https://t.co/h69hE8EHOl",
+    "lang": "en",
+    "quoted_status_id": 629403813569368064,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629376747268624384",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            58,
+            64
+          ]
+        },
+        {
+          "text": "NV04Votes",
+          "indices": [
+            65,
+            75
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/bCgpmMcBDV",
+          "indices": [
+            76,
+            98
+          ],
+          "display_url": "1.usa.gov/1KTktxc",
+          "expanded_url": "http://1.usa.gov/1KTktxc"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629376747268624384,
+    "text": "Everyone deserves to have their voice heard at the polls. #VRA50 #NV04Votes\nhttp://t.co/bCgpmMcBDV",
+    "lang": "en",
+    "created_at": "2015-08-06 19:41:24+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "629355006181965824",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "url": "https://api.twitter.com/1.1/geo/id/5c2b5e46ab891f07.json",
+        "country_code": "US",
+        "full_name": "Las Vegas, NV",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -115.384091,
+                36.129459
+              ],
+              [
+                -115.062159,
+                36.129459
+              ],
+              [
+                -115.062159,
+                36.336251
+              ],
+              [
+                -115.384091,
+                36.336251
+              ]
+            ]
+          ]
+        },
+        "attributes": {},
+        "name": "Las Vegas",
+        "country": "United States",
+        "place_type": "city",
+        "id": "5c2b5e46ab891f07"
+      },
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/NvgskyguxQ",
+            "media_url": "http://pbs.twimg.com/media/CLvdPKEXAAAUo34.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvdPKEXAAAUo34.jpg",
+            "expanded_url": "http://twitter.com/TonyIllia/status/629339850353831938/photo/1",
+            "id_str": "629339825418731520",
+            "indices": [
+              52,
+              74
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/NvgskyguxQ",
+            "id": 629339825418731520
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": "2964222544",
+      "id": 629339850353831938,
+      "id_str": "629339850353831938",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/NvgskyguxQ",
+            "media_url": "http://pbs.twimg.com/media/CLvdPKEXAAAUo34.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvdPKEXAAAUo34.jpg",
+            "expanded_url": "http://twitter.com/TonyIllia/status/629339850353831938/photo/1",
+            "id_str": "629339825418731520",
+            "indices": [
+              52,
+              74
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/NvgskyguxQ",
+            "id": 629339825418731520
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "2964222544",
+            "indices": [
+              0,
+              9
+            ],
+            "name": "Rep. Cresent Hardy",
+            "id": 2964222544,
+            "screen_name": "RepHardy"
+          },
+          {
+            "id_str": "19073628",
+            "indices": [
+              35,
+              45
+            ],
+            "name": "Nevada DOT",
+            "id": 19073628,
+            "screen_name": "nevadadot"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": 2964222544,
+      "in_reply_to_screen_name": "RepHardy",
+      "user": {
+        "id_str": "26427145",
+        "id": 26427145
+      },
+      "text": "@RepHardy speaks at this morning's @nevadadot event http://t.co/NvgskyguxQ",
+      "lang": "en",
+      "created_at": "Thu Aug 06 17:14:47 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "NV04",
+          "indices": [
+            107,
+            112
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NHkOlvF8tY",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "twitter.com/TonyIllia/stat\u2026",
+          "expanded_url": "https://twitter.com/TonyIllia/status/629339850353831938"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629339850353831938",
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 18:15:00+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 629355006181965824,
+    "text": "Long-term hwy funding, collaboration from fed/state/local levels bring needed jobs &amp; give certainty to #NV04 economy https://t.co/NHkOlvF8tY",
+    "lang": "en",
+    "quoted_status_id": 629339850353831938,
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/r5RYTIsPOA",
+          "media_url": "http://pbs.twimg.com/media/CLu_Ox_UMAA9HMF.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu_Ox_UMAA9HMF.jpg",
+          "expanded_url": "http://twitter.com/RepHardy/status/629306839381839872/photo/1",
+          "id_str": "629306833606291456",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/r5RYTIsPOA",
+          "id": 629306833606291456
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629306839381839872,
+    "id_str": "629306839381839872",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/r5RYTIsPOA",
+          "media_url": "http://pbs.twimg.com/media/CLu_Ox_UMAA9HMF.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu_Ox_UMAA9HMF.jpg",
+          "expanded_url": "http://twitter.com/RepHardy/status/629306839381839872/photo/1",
+          "id_str": "629306833606291456",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/r5RYTIsPOA",
+          "id": 629306833606291456
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "vets",
+          "indices": [
+            61,
+            66
+          ]
+        },
+        {
+          "text": "NV04",
+          "indices": [
+            110,
+            115
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "143099084",
+          "indices": [
+            13,
+            25
+          ],
+          "name": "GE Transportation",
+          "id": 143099084,
+          "screen_name": "GETRANSPORT"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "text": "Hearing from @GETRANSPORT Vegas employees, including several #vets. Talent fostered by our mil now at work in #NV04. http://t.co/r5RYTIsPOA",
+    "lang": "en",
+    "created_at": "2015-08-06 15:03:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629304576722604032,
+    "id_str": "629304576722604032",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "143099084",
+          "indices": [
+            9,
+            21
+          ],
+          "name": "GE Transportation",
+          "id": 143099084,
+          "screen_name": "GETRANSPORT"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NV04",
+          "indices": [
+            54,
+            59
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Visiting @GETRANSPORT Las Vegas Plant this morning in #NV04, where they service GE locomotives from across the entire Western U.S.",
+    "lang": "en",
+    "created_at": "2015-08-06 14:54:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gLp45drP4K",
+          "media_url": "http://pbs.twimg.com/media/CLsA57CUMAAsk09.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLsA57CUMAAsk09.jpg",
+          "expanded_url": "http://twitter.com/RepHardy/status/629097619902627840/photo/1",
+          "id_str": "629097568048263168",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 207
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 624
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 365
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/gLp45drP4K",
+          "id": 629097568048263168
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629097619902627840,
+    "id_str": "629097619902627840",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/gLp45drP4K",
+          "media_url": "http://pbs.twimg.com/media/CLsA57CUMAAsk09.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLsA57CUMAAsk09.jpg",
+          "expanded_url": "http://twitter.com/RepHardy/status/629097619902627840/photo/1",
+          "id_str": "629097568048263168",
+          "indices": [
+            101,
+            123
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 207
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 624
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 365
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/gLp45drP4K",
+          "id": 629097568048263168
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NV04",
+          "indices": [
+            77,
+            82
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "43888471",
+          "indices": [
+            18,
+            32
+          ],
+          "name": "HLC",
+          "id": 43888471,
+          "screen_name": "HealthInFocus"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "text": "Glad to meet with @healthinfocus to hear their input on pressing matters for #NV04 &amp; the nation. http://t.co/gLp45drP4K",
+    "lang": "en",
+    "created_at": "2015-08-06 01:12:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628989098527752192,
+    "id_str": "628989098527752192",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2964222544",
+          "indices": [
+            16,
+            25
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"I\u2019m thankful 4 @RepHardy\u2019s continued insistence on cutting red tape to make this reality.\u201d -Joel Forman, 2nd Dist Cmdr, NV Am. Legion (2/2)",
+    "lang": "en",
+    "created_at": "2015-08-05 18:01:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628989026872225792,
+    "id_str": "628989026872225792",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "27048645",
+          "indices": [
+            119,
+            134
+          ],
+          "name": "The American Legion ",
+          "id": 27048645,
+          "screen_name": "AmericanLegion"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "vets",
+          "indices": [
+            30,
+            35
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\u201cIt\u2019s unthinkable Pahrump/Nye #vets have had to wait so long for better healthcare...\u201d -Joel Forman, 2nd Dist Cmdr, NV @americanlegion (1/2)",
+    "lang": "en",
+    "created_at": "2015-08-05 18:00:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628978013225525248",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2964222544",
+          "indices": [
+            11,
+            20
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        },
+        {
+          "id_str": "2247907926",
+          "indices": [
+            96,
+            112
+          ],
+          "name": "James Oscarson",
+          "id": 2247907926,
+          "screen_name": "JamesOscarsonAD"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "vets",
+          "indices": [
+            70,
+            75
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0OIJjQ9fSW",
+          "indices": [
+            113,
+            136
+          ],
+          "display_url": "hardy.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hardy.house.gov/media-center/press-releases/under-pressure-hardy-long-overdue-pahrump-va-clinic-back-track"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628978013225525248,
+    "text": "\"...I join @RepHardy in fighting for best possible healthcare for Nye #vets...\" -NV Assemblyman @JamesOscarsonAD https://t.co/0OIJjQ9fSW",
+    "lang": "en",
+    "created_at": "2015-08-05 17:16:58+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628975778781339649",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2964222544",
+          "indices": [
+            4,
+            13
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "vets",
+          "indices": [
+            47,
+            52
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0OIJjQ9fSW",
+          "indices": [
+            121,
+            144
+          ],
+          "display_url": "hardy.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hardy.house.gov/media-center/press-releases/under-pressure-hardy-long-overdue-pahrump-va-clinic-back-track"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628975778781339649,
+    "text": "\"...@RepHardy &amp; I agree we must... provide #vets best quality, most accessible healthcare.\" -NV Sen. Pete Goicoechea https://t.co/0OIJjQ9fSW",
+    "lang": "en",
+    "created_at": "2015-08-05 17:08:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628971937474211840,
+    "id_str": "628971937474211840",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2964222544",
+          "indices": [
+            16,
+            25
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"We're grateful @RepHardy sees how life-changing it can be for a veteran to have better care closer to home.\" -Tom Vick, cmdr, Pahrump VFW",
+    "lang": "en",
+    "created_at": "2015-08-05 16:52:50+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628970086179700736,
+    "id_str": "628970086179700736",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2964222544",
+          "indices": [
+            11,
+            20
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        },
+        {
+          "id_str": "78408666",
+          "indices": [
+            37,
+            52
+          ],
+          "name": "Veterans Affairs",
+          "id": 78408666,
+          "screen_name": "DeptVetAffairs"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"Thanks to @RepHardy's engagement w/ @DeptVetAffairs, we're getting closer to better healthcare for vets...\" -Tom Vick, cmdr, Pahrump VFW",
+    "lang": "en",
+    "created_at": "2015-08-05 16:45:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628969303530991617,
+    "id_str": "628969303530991617",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2964222544",
+          "indices": [
+            52,
+            61
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        }
+      ],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"...great news for Pahrump veterans... thankful for @RepHardy's ceaseless efforts to fight for us.\" -Carl Jones, cmdr DAV Pahrump Chap. 15",
+    "lang": "en",
+    "created_at": "2015-08-05 16:42:22+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 4,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628948995692462080,
+      "id_str": "628948995692462080",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "2964222544",
+            "indices": [
+              104,
+              113
+            ],
+            "name": "Rep. Cresent Hardy",
+            "id": 2964222544,
+            "screen_name": "RepHardy"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Pahrump",
+            "indices": [
+              90,
+              98
+            ]
+          },
+          {
+            "text": "lvrj",
+            "indices": [
+              125,
+              130
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "43166907",
+        "id": 43166907
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Finally!  VA awards $12m contract to build long-awaited outpatient clinic for veterans in #Pahrump, per @RepHardy Story soon #lvrj",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:21:40 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628951815220891649",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "43166907",
+          "indices": [
+            3,
+            16
+          ],
+          "name": "Steve Tetreault",
+          "id": 43166907,
+          "screen_name": "STetreaultDC"
+        },
+        {
+          "id_str": "2964222544",
+          "indices": [
+            122,
+            131
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Pahrump",
+          "indices": [
+            108,
+            116
+          ]
+        },
+        {
+          "text": "lvrj",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628951815220891649,
+    "text": "RT @STetreaultDC: Finally!  VA awards $12m contract to build long-awaited outpatient clinic for veterans in #Pahrump, per @RepHardy Story s\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:32:52+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 4,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628948995742822400,
+      "id_str": "628948995742822400",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "2964222544",
+            "indices": [
+              104,
+              113
+            ],
+            "name": "Rep. Cresent Hardy",
+            "id": 2964222544,
+            "screen_name": "RepHardy"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "Pahrump",
+            "indices": [
+              90,
+              98
+            ]
+          },
+          {
+            "text": "lvrj",
+            "indices": [
+              125,
+              130
+            ]
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "95735307",
+        "id": 95735307
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Finally!  VA awards $12m contract to build long-awaited outpatient clinic for veterans in #Pahrump, per @RepHardy Story soon #lvrj",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:21:40 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628951799517450240",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "95735307",
+          "indices": [
+            3,
+            14
+          ],
+          "name": "RJ Politics",
+          "id": 95735307,
+          "screen_name": "RJpolitics"
+        },
+        {
+          "id_str": "2964222544",
+          "indices": [
+            120,
+            129
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Pahrump",
+          "indices": [
+            106,
+            114
+          ]
+        },
+        {
+          "text": "lvrj",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628951799517450240,
+    "text": "RT @RJpolitics: Finally!  VA awards $12m contract to build long-awaited outpatient clinic for veterans in #Pahrump, per @RepHardy Story soo\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:32:49+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "628949862269087744",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [
+          {
+            "id_str": "2964222544",
+            "indices": [
+              19,
+              28
+            ],
+            "name": "Rep. Cresent Hardy",
+            "id": 2964222544,
+            "screen_name": "RepHardy"
+          }
+        ],
+        "hashtags": [],
+        "urls": [
+          {
+            "url": "http://t.co/Fee2YW91Yu",
+            "indices": [
+              106,
+              128
+            ],
+            "display_url": "fb.me/7JSciaKMU",
+            "expanded_url": "http://fb.me/7JSciaKMU"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "193131934",
+        "id": 193131934
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 628949862269087744,
+      "text": "Just released from @RepHardy office: \"The VA today awarded a contract to move the (Pahrump VA) forward... http://t.co/Fee2YW91Yu",
+      "lang": "en",
+      "created_at": "Wed Aug 05 15:25:07 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628951787379167232",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "193131934",
+          "indices": [
+            3,
+            17
+          ],
+          "name": "Arnold M. Knightly",
+          "id": 193131934,
+          "screen_name": "KnightlyGrind"
+        },
+        {
+          "id_str": "2964222544",
+          "indices": [
+            38,
+            47
+          ],
+          "name": "Rep. Cresent Hardy",
+          "id": 2964222544,
+          "screen_name": "RepHardy"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/Fee2YW91Yu",
+          "indices": [
+            125,
+            140
+          ],
+          "display_url": "fb.me/7JSciaKMU",
+          "expanded_url": "http://fb.me/7JSciaKMU"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628951787379167232,
+    "text": "RT @KnightlyGrind: Just released from @RepHardy office: \"The VA today awarded a contract to move the (Pahrump VA) forward... http://t.co/Fe\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 15:32:46+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "628947280406691840",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "78408666",
+          "indices": [
+            59,
+            74
+          ],
+          "name": "Veterans Affairs",
+          "id": 78408666,
+          "screen_name": "DeptVetAffairs"
+        },
+        {
+          "id_str": "15358759",
+          "indices": [
+            121,
+            135
+          ],
+          "name": "Las Vegas RJ",
+          "id": 15358759,
+          "screen_name": "reviewjournal"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "BREAKING",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/0OIJjQ9fSW",
+          "indices": [
+            97,
+            120
+          ],
+          "display_url": "hardy.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hardy.house.gov/media-center/press-releases/under-pressure-hardy-long-overdue-pahrump-va-clinic-back-track"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 628947280406691840,
+    "text": "#BREAKING: Under pressure from Hardy, long-delayed Pahrump @DeptVetAffairs Clinic back on track: https://t.co/0OIJjQ9fSW @reviewjournal",
+    "lang": "en",
+    "created_at": "2015-08-05 15:14:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "626812155946528768",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "15358759",
+          "indices": [
+            85,
+            99
+          ],
+          "name": "Las Vegas RJ",
+          "id": 15358759,
+          "screen_name": "reviewjournal"
+        },
+        {
+          "id_str": "216871585",
+          "indices": [
+            100,
+            108
+          ],
+          "name": "Pahrump Valley Times",
+          "id": 216871585,
+          "screen_name": "pvtimes"
+        },
+        {
+          "id_str": "17394793",
+          "indices": [
+            109,
+            117
+          ],
+          "name": "NBC KSNV News 3",
+          "id": 17394793,
+          "screen_name": "News3LV"
+        },
+        {
+          "id_str": "15593696",
+          "indices": [
+            118,
+            127
+          ],
+          "name": "8 News NOW",
+          "id": 15593696,
+          "screen_name": "8NewsNow"
+        },
+        {
+          "id_str": "21021326",
+          "indices": [
+            128,
+            138
+          ],
+          "name": "FOX5 Las Vegas",
+          "id": 21021326,
+          "screen_name": "FOX5Vegas"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "NV04",
+          "indices": [
+            55,
+            60
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/iaxlJwopQv",
+          "indices": [
+            61,
+            84
+          ],
+          "display_url": "hardy.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hardy.house.gov/media-center/press-releases/headed-nevada-hardy-sees-effective-progress-first-seven-months"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 626812155946528768,
+    "text": "Hardy, headed to NV: Strong progress in 1st 7 mos. for #NV04 https://t.co/iaxlJwopQv @reviewjournal @pvtimes @News3LV @8NewsNow @FOX5Vegas",
+    "lang": "en",
+    "created_at": "2015-07-30 17:50:38+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/v9BmLk2N1q",
+          "media_url": "http://pbs.twimg.com/media/CLJfJ-GUYAAqbNd.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLJfJ-GUYAAqbNd.jpg",
+          "expanded_url": "http://twitter.com/RepHardy/status/626740800542502913/photo/1",
+          "id_str": "626667923050881024",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 221
+            },
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 391
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 391
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/v9BmLk2N1q",
+          "id": 626667923050881024
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 626740800542502913,
+    "id_str": "626740800542502913",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/v9BmLk2N1q",
+          "media_url": "http://pbs.twimg.com/media/CLJfJ-GUYAAqbNd.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLJfJ-GUYAAqbNd.jpg",
+          "expanded_url": "http://twitter.com/RepHardy/status/626740800542502913/photo/1",
+          "id_str": "626667923050881024",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 221
+            },
+            "large": {
+              "w": 599,
+              "resize": "fit",
+              "h": 391
+            },
+            "medium": {
+              "w": 599,
+              "resize": "fit",
+              "h": 391
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/v9BmLk2N1q",
+          "id": 626667923050881024
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "smallbiz",
+          "indices": [
+            6,
+            15
+          ]
+        },
+        {
+          "text": "NV04",
+          "indices": [
+            108,
+            113
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "2978291435",
+          "indices": [
+            83,
+            97
+          ],
+          "name": "House Small Business",
+          "id": 2978291435,
+          "screen_name": "HouseSmallBiz"
+        },
+        {
+          "id_str": "15207668",
+          "indices": [
+            98,
+            107
+          ],
+          "name": "House Republicans",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/Z81JLpRgkX",
+          "indices": [
+            55,
+            78
+          ],
+          "display_url": "hardy.house.gov/media-center/p\u2026",
+          "expanded_url": "https://hardy.house.gov/media-center/press-releases/hardy-meet-varied-constituents-visit-israel-during-recess"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "2964222544",
+      "screen_name": "rephardy",
+      "id": 2964222544
+    },
+    "text": "Vets, #smallbiz priorities drive Hardy August schedule https://t.co/Z81JLpRgkX \u2026 \u2026 @HouseSmallBiz @HouseGOP #NV04 http://t.co/v9BmLk2N1q",
+    "lang": "en",
+    "created_at": "2015-07-30 13:07:05+00:00",
+    "retweeted": false
+  }
+]

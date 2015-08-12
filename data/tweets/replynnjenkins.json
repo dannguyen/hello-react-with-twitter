@@ -1,0 +1,1933 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629403749887283201,
+    "id_str": "629403749887283201",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FarmTour",
+          "indices": [
+            23,
+            32
+          ]
+        },
+        {
+          "text": "AgNation",
+          "indices": [
+            59,
+            68
+          ]
+        },
+        {
+          "text": "KansasFarmers",
+          "indices": [
+            69,
+            83
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/7HKaVE84Yp",
+          "media_url": "http://pbs.twimg.com/media/CLwXYAkUYAAmoIf.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwXYAkUYAAmoIf.png",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/629403749887283201/photo/1",
+          "id_str": "629403749161656320",
+          "indices": [
+            84,
+            106
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 329
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 479,
+              "resize": "fit",
+              "h": 464
+            },
+            "large": {
+              "w": 479,
+              "resize": "fit",
+              "h": 464
+            }
+          },
+          "display_url": "pic.twitter.com/7HKaVE84Yp",
+          "id": 629403749161656320
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/7HKaVE84Yp",
+          "media_url": "http://pbs.twimg.com/media/CLwXYAkUYAAmoIf.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwXYAkUYAAmoIf.png",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/629403749887283201/photo/1",
+          "id_str": "629403749161656320",
+          "indices": [
+            84,
+            106
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 329
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 479,
+              "resize": "fit",
+              "h": 464
+            },
+            "large": {
+              "w": 479,
+              "resize": "fit",
+              "h": 464
+            }
+          },
+          "display_url": "pic.twitter.com/7HKaVE84Yp",
+          "id": 629403749161656320
+        }
+      ]
+    },
+    "text": "Had a great time on my #FarmTour in Eastern Kansas today!! #AgNation #KansasFarmers http://t.co/7HKaVE84Yp",
+    "lang": "en",
+    "created_at": "2015-08-06 21:28:42+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629356056859308032,
+    "id_str": "629356056859308032",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "FarmTour",
+          "indices": [
+            83,
+            92
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On my way to tour a sweet corn and cattle farm in Lawrence for the next stop on my #FarmTour!",
+    "lang": "en",
+    "created_at": "2015-08-06 18:19:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629343542893277185,
+    "id_str": "629343542893277185",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FarmTour",
+          "indices": [
+            34,
+            43
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/XMopq9ny4y",
+          "media_url": "http://pbs.twimg.com/media/CLvgnf1WIAAiDnU.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgnf1WIAAiDnU.png",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/629343542893277185/photo/1",
+          "id_str": "629343542113083392",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 456
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 483,
+              "resize": "fit",
+              "h": 649
+            },
+            "large": {
+              "w": 483,
+              "resize": "fit",
+              "h": 649
+            }
+          },
+          "display_url": "pic.twitter.com/XMopq9ny4y",
+          "id": 629343542113083392
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Ottawa COOP",
+          "indices": [
+            16,
+            27
+          ],
+          "id_str": "2308582321",
+          "id": 2308582321,
+          "screen_name": "OttawaCOOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/XMopq9ny4y",
+          "media_url": "http://pbs.twimg.com/media/CLvgnf1WIAAiDnU.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgnf1WIAAiDnU.png",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/629343542893277185/photo/1",
+          "id_str": "629343542113083392",
+          "indices": [
+            96,
+            118
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 456
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 483,
+              "resize": "fit",
+              "h": 649
+            },
+            "large": {
+              "w": 483,
+              "resize": "fit",
+              "h": 649
+            }
+          },
+          "display_url": "pic.twitter.com/XMopq9ny4y",
+          "id": 629343542113083392
+        }
+      ]
+    },
+    "text": "Enjoyed touring @OttawaCOOP on my #FarmTour today and seeing some of their great new facilities http://t.co/XMopq9ny4y",
+    "lang": "en",
+    "created_at": "2015-08-06 17:29:27+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629325222831915008,
+    "id_str": "629325222831915008",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FarmTour",
+          "indices": [
+            69,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/2ejcZm3KBA",
+          "media_url": "http://pbs.twimg.com/media/CLvP9IlWcAAPDJC.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvP9IlWcAAPDJC.png",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/629325222831915008/photo/1",
+          "id_str": "629325222131429376",
+          "indices": [
+            79,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 451
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 479,
+              "resize": "fit",
+              "h": 636
+            },
+            "large": {
+              "w": 479,
+              "resize": "fit",
+              "h": 636
+            }
+          },
+          "display_url": "pic.twitter.com/2ejcZm3KBA",
+          "id": 629325222131429376
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/2ejcZm3KBA",
+          "media_url": "http://pbs.twimg.com/media/CLvP9IlWcAAPDJC.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvP9IlWcAAPDJC.png",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/629325222831915008/photo/1",
+          "id_str": "629325222131429376",
+          "indices": [
+            79,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 451
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 479,
+              "resize": "fit",
+              "h": 636
+            },
+            "large": {
+              "w": 479,
+              "resize": "fit",
+              "h": 636
+            }
+          },
+          "display_url": "pic.twitter.com/2ejcZm3KBA",
+          "id": 629325222131429376
+        }
+      ]
+    },
+    "text": "Had a great time at the Jake Creek Pecan Farm in Paola this morning! #FarmTour http://t.co/2ejcZm3KBA",
+    "lang": "en",
+    "created_at": "2015-08-06 16:16:40+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629291706261835776,
+    "id_str": "629291706261835776",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "About to start my annual farm tour! Heading to Paola for my first stop of the day",
+    "lang": "en",
+    "created_at": "2015-08-06 14:03:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629033701150732288,
+    "id_str": "629033701150732288",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/cO4HuXi8Zq",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "wibw.com/sports/headlin\u2026",
+          "expanded_url": "http://www.wibw.com/sports/headlines/Legendary-Kansas-Track-Coach-Bob-Timmons-passes-away-320803271.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Sad to hear legendary University of Kansas Track Coach Bob Timmons has passed away. Prayers are w/ his family. http://t.co/cO4HuXi8Zq",
+    "lang": "en",
+    "created_at": "2015-08-05 20:58:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628996944111738880,
+    "id_str": "628996944111738880",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On my way Atchison to tour small businesses for the afternoon!",
+    "lang": "en",
+    "created_at": "2015-08-05 18:32:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628962531831320576,
+    "id_str": "628962531831320576",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Heading to my hometown of Holton to tour Holton Chiropractic Clinic!",
+    "lang": "en",
+    "created_at": "2015-08-05 16:15:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628938581776707584,
+    "id_str": "628938581776707584",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On my way to Tanglewood Health &amp; Rehabilitation Center for my first stop of the day - looking forward to meeting folks there!",
+    "lang": "en",
+    "created_at": "2015-08-05 14:40:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628658126137524224,
+    "id_str": "628658126137524224",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "On my way to the Marais de Cygnes National Wildlife Refuge. Looking forward to hearing about the great work they do there!",
+    "lang": "en",
+    "created_at": "2015-08-04 20:05:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628238326907170817,
+    "id_str": "628238326907170817",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/pM2DxBTyll",
+          "media_url": "http://pbs.twimg.com/media/CLfzbeAVAAAuM8n.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfzbeAVAAAuM8n.jpg",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/628238326907170817/photo/1",
+          "id_str": "628238326277931008",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 244
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 432
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 737
+            }
+          },
+          "display_url": "pic.twitter.com/pM2DxBTyll",
+          "id": 628238326277931008
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pM2DxBTyll",
+          "media_url": "http://pbs.twimg.com/media/CLfzbeAVAAAuM8n.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfzbeAVAAAuM8n.jpg",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/628238326907170817/photo/1",
+          "id_str": "628238326277931008",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 244
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 432
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 737
+            }
+          },
+          "display_url": "pic.twitter.com/pM2DxBTyll",
+          "id": 628238326277931008
+        }
+      ]
+    },
+    "text": "Participated in great discussion today on dynamics of energy policy. Important to have frank conversations like today http://t.co/pM2DxBTyll",
+    "lang": "en",
+    "created_at": "2015-08-03 16:17:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626764110588456960,
+    "id_str": "626764110588456960",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Kansas City, MO",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -94.845486,
+                38.868002
+              ],
+              [
+                -94.3854414,
+                38.868002
+              ],
+              [
+                -94.3854414,
+                39.332095
+              ],
+              [
+                -94.845486,
+                39.332095
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/9a974dfc8efb32a0.json",
+        "name": "Kansas City",
+        "country": "United States",
+        "place_type": "city",
+        "id": "9a974dfc8efb32a0"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626747639611170816,
+      "id_str": "626747639611170816",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "journalist",
+            "indices": [
+              4,
+              15
+            ]
+          },
+          {
+            "text": "blizzard",
+            "indices": [
+              36,
+              45
+            ]
+          },
+          {
+            "text": "breakfastofchampions",
+            "indices": [
+              61,
+              82
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/yGSJPcSnXg",
+            "media_url": "http://pbs.twimg.com/media/CLKnpkuVEAA8bUk.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLKnpkuVEAA8bUk.jpg",
+            "expanded_url": "http://twitter.com/TheNowKC/status/626747639611170816/photo/1",
+            "id_str": "626747630832390144",
+            "indices": [
+              106,
+              128
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/yGSJPcSnXg",
+            "id": 626747630832390144
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dairy Queen",
+            "indices": [
+              24,
+              35
+            ],
+            "id_str": "21659166",
+            "id": 21659166,
+            "screen_name": "DairyQueen"
+          },
+          {
+            "name": "Gary Brauer",
+            "indices": [
+              83,
+              91
+            ],
+            "id_str": "89712281",
+            "id": 89712281,
+            "screen_name": "gbrauer"
+          },
+          {
+            "name": "41 Action News",
+            "indices": [
+              92,
+              105
+            ],
+            "id_str": "32545745",
+            "id": 32545745,
+            "screen_name": "41ActionNews"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "2420837119",
+        "id": 2420837119
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/yGSJPcSnXg",
+            "media_url": "http://pbs.twimg.com/media/CLKnpkuVEAA8bUk.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLKnpkuVEAA8bUk.jpg",
+            "expanded_url": "http://twitter.com/TheNowKC/status/626747639611170816/photo/1",
+            "id_str": "626747630832390144",
+            "indices": [
+              106,
+              128
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/yGSJPcSnXg",
+            "id": 626747630832390144
+          }
+        ]
+      },
+      "text": "The #journalist diet: a @DairyQueen #blizzard for breakfast. #breakfastofchampions @gbrauer @41ActionNews http://t.co/yGSJPcSnXg",
+      "lang": "en",
+      "created_at": "Thu Jul 30 13:34:16 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/BJBNeaUdt0",
+          "indices": [
+            26,
+            49
+          ],
+          "display_url": "twitter.com/TheNowKC/statu\u2026",
+          "expanded_url": "https://twitter.com/TheNowKC/status/626747639611170816"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626747639611170816",
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "created_at": "2015-07-30 14:39:43+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "You know I support this!  https://t.co/BJBNeaUdt0",
+    "lang": "en",
+    "quoted_status_id": 626747639611170816
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626760835906539520,
+    "id_str": "626760835906539520",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/IdxiJ17vYd",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "blog.aarp.org/2015/07/28/can\u2026",
+          "expanded_url": "http://blog.aarp.org/2015/07/28/cant-use-your-fsa-or-hsa-to-buy-over-the-counter-drugs-aarp-is-working-to-reverse-that/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "healthcare",
+          "indices": [
+            87,
+            98
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "AARP",
+          "indices": [
+            26,
+            31
+          ],
+          "id_str": "80628196",
+          "id": 80628196,
+          "screen_name": "AARP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Check out this article by @AARP on my bill to help folks get back control of their own #healthcare. http://t.co/IdxiJ17vYd",
+    "lang": "en",
+    "created_at": "2015-07-30 14:26:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 17,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626490442608156674,
+    "id_str": "626490442608156674",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/IoZicFNL9m",
+          "media_url": "http://pbs.twimg.com/media/CLG9vM7VAAAs_13.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLG9vM7VAAAs_13.jpg",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/626490442608156674/photo/1",
+          "id_str": "626490441802776576",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 558
+            }
+          },
+          "display_url": "pic.twitter.com/IoZicFNL9m",
+          "id": 626490441802776576
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Army Chaplain Corps",
+          "indices": [
+            17,
+            31
+          ],
+          "id_str": "1089287436",
+          "id": 1089287436,
+          "screen_name": "ArmyChaplains"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/IoZicFNL9m",
+          "media_url": "http://pbs.twimg.com/media/CLG9vM7VAAAs_13.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLG9vM7VAAAs_13.jpg",
+          "expanded_url": "http://twitter.com/RepLynnJenkins/status/626490442608156674/photo/1",
+          "id_str": "626490441802776576",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 185
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 327
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 558
+            }
+          },
+          "display_url": "pic.twitter.com/IoZicFNL9m",
+          "id": 626490441802776576
+        }
+      ]
+    },
+    "text": "240 years of our @ArmyChaplains supporting our armed forces! Happy birthday - thank you for all that you do! http://t.co/IoZicFNL9m",
+    "lang": "en",
+    "created_at": "2015-07-29 20:32:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626481286278942720,
+    "id_str": "626481286278942720",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/1Dzm67MOCd",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "bit.ly/1I9hXj9",
+          "expanded_url": "http://bit.ly/1I9hXj9"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WIBW",
+          "indices": [
+            15,
+            20
+          ],
+          "id_str": "13111552",
+          "id": 13111552,
+          "screen_name": "wibw"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Take a look at @WIBW\u2019s report on Holton Community Hospital\u2019s CEO Carrie Saia testifying in DC yesterday: http://t.co/1Dzm67MOCd",
+    "lang": "en",
+    "created_at": "2015-07-29 19:55:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626475551042179072,
+    "id_str": "626475551042179072",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/fW1ZkQ5LKy",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "militarytimes.com/story/opinion/\u2026",
+          "expanded_url": "http://www.militarytimes.com/story/opinion/2015/07/29/commentary-veterans-deserve-accountable-va/30822629/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Military Times",
+          "indices": [
+            36,
+            50
+          ],
+          "id_str": "27027979",
+          "id": 27027979,
+          "screen_name": "MilitaryTimes"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "AFTERNOON READ: My editorial in the @MilitaryTimes: \"Veterans deserve an accountable VA\" http://t.co/fW1ZkQ5LKy",
+    "lang": "en",
+    "created_at": "2015-07-29 19:33:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626409403852394496,
+    "id_str": "626409403852394496",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            53,
+            62
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Federal regulators shouldn't make law. Voted for the #REINSAct to bring much needed scrutiny to the regulatory process",
+    "lang": "en",
+    "created_at": "2015-07-29 15:10:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626142030402592768,
+    "id_str": "626142030402592768",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/WEhjj2KK5S",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "cjonline.com/news/2015-07-2\u2026",
+          "expanded_url": "http://cjonline.com/news/2015-07-28/holton-hospital-ceo-testifies-congress-about-unwarranted-regulatory-burdens"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "CJOnline",
+          "indices": [
+            1,
+            10
+          ],
+          "id_str": "16429852",
+          "id": 16429852,
+          "screen_name": "CJOnline"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@CJOnline: Holton hospital CEO testifies before Congress about 'unwarranted regulatory burdens' http://t.co/WEhjj2KK5S",
+    "lang": "en",
+    "created_at": "2015-07-28 21:27:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626104539930886144,
+    "id_str": "626104539930886144",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Na1TEP4RBN",
+          "indices": [
+            92,
+            115
+          ],
+          "display_url": "facebook.com/replynnjenkins\u2026",
+          "expanded_url": "https://www.facebook.com/replynnjenkins/posts/10153020217968663"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Check out photos from today's hearing w/ the CEO of Holton Community Hospital here &gt;&gt; https://t.co/Na1TEP4RBN",
+    "lang": "en",
+    "created_at": "2015-07-28 18:58:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Kansas, USA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -102.051769,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              36.9931101
+            ],
+            [
+              -94.588081,
+              40.003282
+            ],
+            [
+              -102.051769,
+              40.003282
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/27c45d804c777999.json",
+      "name": "Kansas",
+      "country": "United States",
+      "place_type": "admin",
+      "id": "27c45d804c777999"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626035898430394368,
+    "id_str": "626035898430394368",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/oqE8DFhJlS",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "ustream.tv/channel/hclive\u2026",
+          "expanded_url": "http://www.ustream.tv/channel/hclive09"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Ways and Means ",
+          "indices": [
+            43,
+            59
+          ],
+          "id_str": "12788332",
+          "id": 12788332,
+          "screen_name": "WaysandMeansGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19658173",
+      "screen_name": "replynnjenkins",
+      "id": 19658173
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Watch Holton-native Carrie Saia testify at @WaysandMeansGOP SC Health hearing on how we can improve rural healthcare: http://t.co/oqE8DFhJlS",
+    "lang": "en",
+    "created_at": "2015-07-28 14:26:04+00:00"
+  }
+]

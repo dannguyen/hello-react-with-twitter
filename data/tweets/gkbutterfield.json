@@ -1,0 +1,3102 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629356536326922240,
+    "id_str": "629356536326922240",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            97,
+            103
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/WzcqQTvfJa",
+          "media_url": "http://pbs.twimg.com/media/CLvsbZ0WEAEDHgO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvsbZ0WEAEDHgO.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/629356536326922240/photo/1",
+          "id_str": "629356528479375361",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 189
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 334
+            },
+            "large": {
+              "w": 745,
+              "resize": "fit",
+              "h": 415
+            }
+          },
+          "display_url": "pic.twitter.com/WzcqQTvfJa",
+          "id": 629356528479375361
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/WzcqQTvfJa",
+          "media_url": "http://pbs.twimg.com/media/CLvsbZ0WEAEDHgO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvsbZ0WEAEDHgO.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/629356536326922240/photo/1",
+          "id_str": "629356528479375361",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 189
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 334
+            },
+            "large": {
+              "w": 745,
+              "resize": "fit",
+              "h": 415
+            }
+          },
+          "display_url": "pic.twitter.com/WzcqQTvfJa",
+          "id": 629356528479375361
+        }
+      ]
+    },
+    "text": "Bloodied, tired and beaten, Americans marched &amp; fought for the basic American right to vote. #VRA50 http://t.co/WzcqQTvfJa",
+    "lang": "en",
+    "created_at": "2015-08-06 18:21:05+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Palo Alto, CA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.190523,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.465918
+            ],
+            [
+              -122.190523,
+              37.465918
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json",
+      "name": "Palo Alto",
+      "country": "United States",
+      "place_type": "city",
+      "id": "3ad0f706b3fa62a8"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628973404335570945,
+    "id_str": "628973404335570945",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            114,
+            128
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Despite the progress our county has made, many are still denied the basic American right: the right to vote. Must #RestoreTheVRA!",
+    "lang": "en",
+    "created_at": "2015-08-05 16:58:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Palo Alto, CA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.190523,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.465918
+            ],
+            [
+              -122.190523,
+              37.465918
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json",
+      "name": "Palo Alto",
+      "country": "United States",
+      "place_type": "city",
+      "id": "3ad0f706b3fa62a8"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628973361226489856,
+    "id_str": "628973361226489856",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            103,
+            117
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Our country has made much progress to improve voting rights for all Americans but more must be done to #RestoreTheVRA.",
+    "lang": "en",
+    "created_at": "2015-08-05 16:58:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628730920275722240,
+    "id_str": "628730920275722240",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 0,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "432676344",
+      "id": 628662896063578112,
+      "id_str": "628662896063578112",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Ethiopia",
+            "indices": [
+              50,
+              59
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/FUA9LJfxEu",
+            "media_url": "http://pbs.twimg.com/media/CLl1kpqUMAAxaRW.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl1kpqUMAAxaRW.jpg",
+            "expanded_url": "http://twitter.com/FeedtheFuture/status/628662896063578112/photo/1",
+            "id_str": "628662895513972736",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 427
+              }
+            },
+            "display_url": "pic.twitter.com/FUA9LJfxEu",
+            "id": 628662895513972736
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              0,
+              14
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          },
+          {
+            "name": "Feed the Future",
+            "indices": [
+              67,
+              81
+            ],
+            "id_str": "441938188",
+            "id": 441938188,
+            "screen_name": "FeedtheFuture"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "441938188",
+        "id": 441938188
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 432676344,
+      "in_reply_to_screen_name": "GKButterfield",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/FUA9LJfxEu",
+            "media_url": "http://pbs.twimg.com/media/CLl1kpqUMAAxaRW.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl1kpqUMAAxaRW.jpg",
+            "expanded_url": "http://twitter.com/FeedtheFuture/status/628662896063578112/photo/1",
+            "id_str": "628662895513972736",
+            "indices": [
+              101,
+              123
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 427
+              }
+            },
+            "display_url": "pic.twitter.com/FUA9LJfxEu",
+            "id": 628662895513972736
+          }
+        ]
+      },
+      "text": "@GKButterfield Thanks for joining us last week in #Ethiopia to see @FeedtheFuture results firsthand! http://t.co/FUA9LJfxEu",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:24:49 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/KGQblNDJPu",
+          "indices": [
+            113,
+            136
+          ],
+          "display_url": "twitter.com/feedthefuture/\u2026",
+          "expanded_url": "https://twitter.com/feedthefuture/status/628662896063578112"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Feed the Future",
+          "indices": [
+            1,
+            15
+          ],
+          "id_str": "441938188",
+          "id": 441938188,
+          "screen_name": "FeedtheFuture"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628662896063578112",
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "created_at": "2015-08-05 00:55:07+00:00",
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": ".@FeedtheFuture Thank you for having us! You're doing remarkable work. We're happy to help any way that we can.  https://t.co/KGQblNDJPu",
+    "lang": "en",
+    "quoted_status_id": 628662896063578112
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628633106795270144,
+      "id_str": "628633106795270144",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/F0AKCfXuWy",
+            "media_url": "http://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+            "expanded_url": "http://twitter.com/lewaisha/status/628633106795270144/photo/1",
+            "id_str": "628633104555470848",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/F0AKCfXuWy",
+            "id": 628633104555470848
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              84,
+              98
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          },
+          {
+            "name": "Bloomberg West",
+            "indices": [
+              102,
+              116
+            ],
+            "id_str": "252751061",
+            "id": 252751061,
+            "screen_name": "BloombergWest"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "183904824",
+        "id": 183904824
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/F0AKCfXuWy",
+            "media_url": "http://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+            "expanded_url": "http://twitter.com/lewaisha/status/628633106795270144/photo/1",
+            "id_str": "628633104555470848",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 800
+              },
+              "large": {
+                "w": 768,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/F0AKCfXuWy",
+            "id": 628633104555470848
+          }
+        ]
+      },
+      "text": "\"We must stress the importance of STEM education everywhere we go. It is a must.\" - @GKButterfield at @BloombergWest http://t.co/F0AKCfXuWy",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:26:26 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 183904824,
+          "media_url": "http://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+          "source_user_id_str": "183904824",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/F0AKCfXuWy",
+          "expanded_url": "http://twitter.com/lewaisha/status/628633106795270144/photo/1",
+          "url": "http://t.co/F0AKCfXuWy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+          "source_status_id_str": "628633106795270144",
+          "id_str": "628633104555470848",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628633104555470848,
+          "source_status_id": 628633106795270144
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628657064320090112,
+    "id_str": "628657064320090112",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 183904824,
+          "media_url": "http://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+          "source_user_id_str": "183904824",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/F0AKCfXuWy",
+          "expanded_url": "http://twitter.com/lewaisha/status/628633106795270144/photo/1",
+          "url": "http://t.co/F0AKCfXuWy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlaelsUcAAiKCv.jpg",
+          "source_status_id_str": "628633106795270144",
+          "id_str": "628633104555470848",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628633104555470848,
+          "source_status_id": 628633106795270144
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Aisha Lewis",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "183904824",
+          "id": 183904824,
+          "screen_name": "lewaisha"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            98,
+            112
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        },
+        {
+          "name": "Bloomberg West",
+          "indices": [
+            116,
+            130
+          ],
+          "id_str": "252751061",
+          "id": 252751061,
+          "screen_name": "BloombergWest"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @lewaisha: \"We must stress the importance of STEM education everywhere we go. It is a must.\" - @GKButterfield at @BloombergWest http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 20:01:38+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628638815960240128,
+      "id_str": "628638815960240128",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/Ucvo1Pcu73",
+            "media_url": "http://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+            "expanded_url": "http://twitter.com/EngineOrg/status/628638815960240128/photo/1",
+            "id_str": "628638799635976192",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/Ucvo1Pcu73",
+            "id": 628638799635976192
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          },
+          {
+            "name": "Rep. Barbara Lee",
+            "indices": [
+              16,
+              30
+            ],
+            "id_str": "248735463",
+            "id": 248735463,
+            "screen_name": "RepBarbaraLee"
+          },
+          {
+            "name": "CODE2040",
+            "indices": [
+              87,
+              96
+            ],
+            "id_str": "481647429",
+            "id": 481647429,
+            "screen_name": "CODE2040"
+          },
+          {
+            "name": "Hidden Genius",
+            "indices": [
+              97,
+              113
+            ],
+            "id_str": "608625862",
+            "id": 608625862,
+            "screen_name": "HiddenGeniusPro"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "378848483",
+        "id": 378848483
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/Ucvo1Pcu73",
+            "media_url": "http://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+            "expanded_url": "http://twitter.com/EngineOrg/status/628638815960240128/photo/1",
+            "id_str": "628638799635976192",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/Ucvo1Pcu73",
+            "id": 628638799635976192
+          }
+        ]
+      },
+      "text": ".@GKButterfield @RepBarbaraLee hear from orgs rethinking training, recruitment in tech @CODE2040 @HiddenGeniusPro http://t.co/Ucvo1Pcu73",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:49:07 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 378848483,
+          "media_url": "http://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+          "source_user_id_str": "378848483",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Ucvo1Pcu73",
+          "expanded_url": "http://twitter.com/EngineOrg/status/628638815960240128/photo/1",
+          "url": "http://t.co/Ucvo1Pcu73",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+          "source_status_id_str": "628638815960240128",
+          "id_str": "628638799635976192",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 628638799635976192,
+          "source_status_id": 628638815960240128
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628656980123590656,
+    "id_str": "628656980123590656",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 378848483,
+          "media_url": "http://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+          "source_user_id_str": "378848483",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/Ucvo1Pcu73",
+          "expanded_url": "http://twitter.com/EngineOrg/status/628638815960240128/photo/1",
+          "url": "http://t.co/Ucvo1Pcu73",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlfqFhUkAA_OIb.jpg",
+          "source_status_id_str": "628638815960240128",
+          "id_str": "628638799635976192",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 628638799635976192,
+          "source_status_id": 628638815960240128
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Engine",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "378848483",
+          "id": 378848483,
+          "screen_name": "EngineOrg"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            16,
+            30
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        },
+        {
+          "name": "Rep. Barbara Lee",
+          "indices": [
+            31,
+            45
+          ],
+          "id_str": "248735463",
+          "id": 248735463,
+          "screen_name": "RepBarbaraLee"
+        },
+        {
+          "name": "CODE2040",
+          "indices": [
+            102,
+            111
+          ],
+          "id_str": "481647429",
+          "id": 481647429,
+          "screen_name": "CODE2040"
+        },
+        {
+          "name": "Hidden Genius",
+          "indices": [
+            112,
+            128
+          ],
+          "id_str": "608625862",
+          "id": 608625862,
+          "screen_name": "HiddenGeniusPro"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EngineOrg: .@GKButterfield @RepBarbaraLee hear from orgs rethinking training, recruitment in tech @CODE2040 @HiddenGeniusPro http://t.c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 20:01:18+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628626857059991553,
+      "id_str": "628626857059991553",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/AEDUCHg6wB",
+            "media_url": "http://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+            "expanded_url": "http://twitter.com/EngineOrg/status/628626857059991553/photo/1",
+            "id_str": "628626802450149377",
+            "indices": [
+              120,
+              142
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 801
+              },
+              "large": {
+                "w": 767,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/AEDUCHg6wB",
+            "id": 628626802450149377
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Hakeem Jeffries",
+            "indices": [
+              77,
+              89
+            ],
+            "id_str": "467823431",
+            "id": 467823431,
+            "screen_name": "RepJeffries"
+          },
+          {
+            "name": "Rep. Barbara Lee",
+            "indices": [
+              90,
+              104
+            ],
+            "id_str": "248735463",
+            "id": 248735463,
+            "screen_name": "RepBarbaraLee"
+          },
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              105,
+              119
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "378848483",
+        "id": 378848483
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/AEDUCHg6wB",
+            "media_url": "http://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+            "expanded_url": "http://twitter.com/EngineOrg/status/628626857059991553/photo/1",
+            "id_str": "628626802450149377",
+            "indices": [
+              120,
+              142
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 453
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 801
+              },
+              "large": {
+                "w": 767,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/AEDUCHg6wB",
+            "id": 628626802450149377
+          }
+        ]
+      },
+      "text": "CBC out in SF &amp; SV to discuss making tech more inclusive, representative @RepJeffries @RepBarbaraLee @GKButterfield http://t.co/AEDUCHg6wB",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:01:36 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 378848483,
+          "media_url": "http://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+          "source_user_id_str": "378848483",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/AEDUCHg6wB",
+          "expanded_url": "http://twitter.com/EngineOrg/status/628626857059991553/photo/1",
+          "url": "http://t.co/AEDUCHg6wB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+          "source_status_id_str": "628626857059991553",
+          "id_str": "628626802450149377",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 801
+            },
+            "large": {
+              "w": 767,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628626802450149377,
+          "source_status_id": 628626857059991553
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628629260916404224,
+    "id_str": "628629260916404224",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 378848483,
+          "media_url": "http://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+          "source_user_id_str": "378848483",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/AEDUCHg6wB",
+          "expanded_url": "http://twitter.com/EngineOrg/status/628626857059991553/photo/1",
+          "url": "http://t.co/AEDUCHg6wB",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlUvwhUsAEPukh.jpg",
+          "source_status_id_str": "628626857059991553",
+          "id_str": "628626802450149377",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 801
+            },
+            "large": {
+              "w": 767,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 628626802450149377,
+          "source_status_id": 628626857059991553
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Engine",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "378848483",
+          "id": 378848483,
+          "screen_name": "EngineOrg"
+        },
+        {
+          "name": "Hakeem Jeffries",
+          "indices": [
+            92,
+            104
+          ],
+          "id_str": "467823431",
+          "id": 467823431,
+          "screen_name": "RepJeffries"
+        },
+        {
+          "name": "Rep. Barbara Lee",
+          "indices": [
+            105,
+            119
+          ],
+          "id_str": "248735463",
+          "id": 248735463,
+          "screen_name": "RepBarbaraLee"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            120,
+            134
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @EngineOrg: CBC out in SF &amp; SV to discuss making tech more inclusive, representative @RepJeffries @RepBarbaraLee @GKButterfield http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 18:11:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Palo Alto, CA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.190523,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.465918
+            ],
+            [
+              -122.190523,
+              37.465918
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json",
+      "name": "Palo Alto",
+      "country": "United States",
+      "place_type": "city",
+      "id": "3ad0f706b3fa62a8"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628628173597593600,
+    "id_str": "628628173597593600",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CBCTECH2020",
+          "indices": [
+            33,
+            45
+          ]
+        },
+        {
+          "text": "techdiversity",
+          "indices": [
+            46,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/PXliNFhEMN",
+          "media_url": "http://pbs.twimg.com/media/CLlV_ipXAAAKh3s.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlV_ipXAAAKh3s.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/628628173597593600/photo/1",
+          "id_str": "628628173115293696",
+          "indices": [
+            73,
+            95
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/PXliNFhEMN",
+          "id": 628628173115293696
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "@apple",
+          "indices": [
+            9,
+            15
+          ],
+          "id_str": "380749300",
+          "id": 380749300,
+          "screen_name": "Apple"
+        },
+        {
+          "name": "Tim Cook",
+          "indices": [
+            20,
+            29
+          ],
+          "id_str": "1636590253",
+          "id": 1636590253,
+          "screen_name": "tim_cook"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/PXliNFhEMN",
+          "media_url": "http://pbs.twimg.com/media/CLlV_ipXAAAKh3s.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlV_ipXAAAKh3s.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/628628173597593600/photo/1",
+          "id_str": "628628173115293696",
+          "indices": [
+            73,
+            95
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/PXliNFhEMN",
+          "id": 628628173115293696
+        }
+      ]
+    },
+    "text": "Met with @Apple CEO @tim_cook on #CBCTECH2020 #techdiversity initiative. http://t.co/PXliNFhEMN",
+    "lang": "en",
+    "created_at": "2015-08-04 18:06:50+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628626798771736577,
+      "id_str": "628626798771736577",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "796169341",
+        "id": 796169341
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@GKButterfield: We are ready and willing to work with the companies to move the needle in the right direction.",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:01:22 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628626880736985088,
+    "id_str": "628626880736985088",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Cat Zakrzewski",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "796169341",
+          "id": 796169341,
+          "screen_name": "Cat_Zakrzewski"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            21,
+            35
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Cat_Zakrzewski: .@GKButterfield: We are ready and willing to work with the companies to move the needle in the right direction.",
+    "lang": "en",
+    "created_at": "2015-08-04 18:01:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628626604923621376,
+      "id_str": "628626604923621376",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "796169341",
+        "id": 796169341
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@GKButterfield says to fix pipeline, We have to have a collaboration between federal and state government as well as companies.",
+      "lang": "en",
+      "created_at": "Tue Aug 04 18:00:36 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628626757629964289,
+    "id_str": "628626757629964289",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Cat Zakrzewski",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "796169341",
+          "id": 796169341,
+          "screen_name": "Cat_Zakrzewski"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            21,
+            35
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Cat_Zakrzewski: .@GKButterfield says to fix pipeline, We have to have a collaboration between federal and state government as well as c\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 18:01:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628626299817340932,
+      "id_str": "628626299817340932",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "796169341",
+        "id": 796169341
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@GKButterfield: \"The problem is the culture.\"",
+      "lang": "en",
+      "created_at": "Tue Aug 04 17:59:23 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628626653057560576,
+    "id_str": "628626653057560576",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Cat Zakrzewski",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "796169341",
+          "id": 796169341,
+          "screen_name": "Cat_Zakrzewski"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            21,
+            35
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Cat_Zakrzewski: .@GKButterfield: \"The problem is the culture.\"",
+    "lang": "en",
+    "created_at": "2015-08-04 18:00:48+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628626141134196736,
+      "id_str": "628626141134196736",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "796169341",
+        "id": 796169341
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@GKButterfield: We see a commitment among all five companies we met with, but we see varying degrees of commitment among the companies.",
+      "lang": "en",
+      "created_at": "Tue Aug 04 17:58:46 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628626618848776192,
+    "id_str": "628626618848776192",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Cat Zakrzewski",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "796169341",
+          "id": 796169341,
+          "screen_name": "Cat_Zakrzewski"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            21,
+            35
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Cat_Zakrzewski: .@GKButterfield: We see a commitment among all five companies we met with, but we see varying degrees of commitment amo\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 18:00:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628626521448665088,
+    "id_str": "628626521448665088",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628625665730842624,
+      "id_str": "628625665730842624",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/1aMoceWYe9",
+            "media_url": "http://pbs.twimg.com/media/CLlTsOKUwAAP5W9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlTsOKUwAAP5W9.jpg",
+            "expanded_url": "http://twitter.com/Cat_Zakrzewski/status/628625665730842624/photo/1",
+            "id_str": "628625642175643648",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/1aMoceWYe9",
+            "id": 628625642175643648
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              5,
+              19
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "796169341",
+        "id": 796169341
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/1aMoceWYe9",
+            "media_url": "http://pbs.twimg.com/media/CLlTsOKUwAAP5W9.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlTsOKUwAAP5W9.jpg",
+            "expanded_url": "http://twitter.com/Cat_Zakrzewski/status/628625665730842624/photo/1",
+            "id_str": "628625642175643648",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/1aMoceWYe9",
+            "id": 628625642175643648
+          }
+        ]
+      },
+      "text": "Rep. @GKButterfield: We have expressed disappointment with companies about the lack of African Americans on boards. http://t.co/1aMoceWYe9",
+      "lang": "en",
+      "created_at": "Tue Aug 04 17:56:52 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/fjJCKqbhEP",
+          "indices": [
+            101,
+            124
+          ],
+          "display_url": "twitter.com/Cat_Zakrzewski\u2026",
+          "expanded_url": "https://twitter.com/Cat_Zakrzewski/status/628625665730842624"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "techdiversity",
+          "indices": [
+            72,
+            86
+          ]
+        },
+        {
+          "text": "CBCTECH2020",
+          "indices": [
+            88,
+            100
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628625665730842624",
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 18:00:16+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Currently at press conference in Silicon Valley speaking on the lack of #techdiversity. #CBCTECH2020 https://t.co/fjJCKqbhEP",
+    "lang": "en",
+    "quoted_status_id": 628625665730842624
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628572362838048768,
+      "id_str": "628572362838048768",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/Hulvw64nWP",
+            "indices": [
+              118,
+              140
+            ],
+            "display_url": "usatoday.com/story/news/201\u2026",
+            "expanded_url": "http://www.usatoday.com/story/news/2015/08/04/5-things-you-need-know-tuesday/30995517/"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "233783568",
+        "id": 233783568
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "CBC Mentioned in USA Today's Top 5 Stories. #5: Silicon Valley couple to pledge $40 mil. investment in tech diversity http://t.co/Hulvw64nWP",
+      "lang": "en",
+      "created_at": "Tue Aug 04 14:25:04 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628577852712161280,
+    "id_str": "628577852712161280",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Hulvw64nWP",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "usatoday.com/story/news/201\u2026",
+          "expanded_url": "http://www.usatoday.com/story/news/2015/08/04/5-things-you-need-know-tuesday/30995517/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "THE CBC",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "233783568",
+          "id": 233783568,
+          "screen_name": "OfficialCBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @OfficialCBC: CBC Mentioned in USA Today's Top 5 Stories. #5: Silicon Valley couple to pledge $40 mil. investment in tech diversity http\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 14:46:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Palo Alto, CA",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -122.190523,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.362824
+            ],
+            [
+              -122.097537,
+              37.465918
+            ],
+            [
+              -122.190523,
+              37.465918
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/3ad0f706b3fa62a8.json",
+      "name": "Palo Alto",
+      "country": "United States",
+      "place_type": "city",
+      "id": "3ad0f706b3fa62a8"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628574594711089153,
+    "id_str": "628574594711089153",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CBCTECH2020",
+          "indices": [
+            94,
+            106
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/S4lQBECZjt",
+          "media_url": "http://pbs.twimg.com/media/CLklQ12WoAA4wks.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLklQ12WoAA4wks.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/628574594711089153/photo/1",
+          "id_str": "628574594258083840",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/S4lQBECZjt",
+          "id": 628574594258083840
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "THE CBC",
+          "indices": [
+            8,
+            20
+          ],
+          "id_str": "233783568",
+          "id": 233783568,
+          "screen_name": "OfficialCBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/S4lQBECZjt",
+          "media_url": "http://pbs.twimg.com/media/CLklQ12WoAA4wks.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLklQ12WoAA4wks.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/628574594711089153/photo/1",
+          "id_str": "628574594258083840",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "display_url": "pic.twitter.com/S4lQBECZjt",
+          "id": 628574594258083840
+        },
+        {
+          "url": "http://t.co/S4lQBECZjt",
+          "media_url": "http://pbs.twimg.com/media/CLklQsaWoAAoETG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLklQsaWoAAoETG.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/628574594711089153/photo/1",
+          "id_str": "628574591724724224",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 295
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 521
+            },
+            "large": {
+              "w": 919,
+              "resize": "fit",
+              "h": 799
+            }
+          },
+          "display_url": "pic.twitter.com/S4lQBECZjt",
+          "id": 628574591724724224
+        },
+        {
+          "url": "http://t.co/S4lQBECZjt",
+          "media_url": "http://pbs.twimg.com/media/CLklQ15WgAAtdov.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLklQ15WgAAtdov.jpg",
+          "expanded_url": "http://twitter.com/GKButterfield/status/628574594711089153/photo/1",
+          "id_str": "628574594270658560",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/S4lQBECZjt",
+          "id": 628574594270658560
+        }
+      ]
+    },
+    "text": "Pics of @OfficialCBC in CA meeting w/executives of the foremost tech companies as part of the #CBCTECH2020 Initiative http://t.co/S4lQBECZjt",
+    "lang": "en",
+    "created_at": "2015-08-04 14:33:56+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 5,
+      "favorite_count": 5,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628564393295482880,
+      "id_str": "628564393295482880",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "President Obama",
+            "indices": [
+              33,
+              39
+            ],
+            "id_str": "1536791610",
+            "id": 1536791610,
+            "screen_name": "POTUS"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "168502762",
+        "id": 168502762
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Happy Birthday Mr. President! cc:@POTUS",
+      "lang": "en",
+      "created_at": "Tue Aug 04 13:53:24 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628565994651389952,
+    "id_str": "628565994651389952",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "US Rep E.B.Johnson",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "168502762",
+          "id": 168502762,
+          "screen_name": "RepEBJ"
+        },
+        {
+          "name": "President Obama",
+          "indices": [
+            45,
+            51
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepEBJ: Happy Birthday Mr. President! cc:@POTUS",
+    "lang": "en",
+    "created_at": "2015-08-04 13:59:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": {
+        "type": "Point",
+        "coordinates": [
+          -122.176424,
+          37.428589
+        ]
+      },
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Stanford, CA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -122.191291,
+                37.406455
+              ],
+              [
+                -122.149162,
+                37.406455
+              ],
+              [
+                -122.149162,
+                37.443731
+              ],
+              [
+                -122.191291,
+                37.443731
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/ed0a823456907b4c.json",
+        "name": "Stanford",
+        "country": "United States",
+        "place_type": "city",
+        "id": "ed0a823456907b4c"
+      },
+      "geo": {
+        "type": "Point",
+        "coordinates": [
+          37.428589,
+          -122.176424
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 628425923843375104,
+      "id_str": "628425923843375104",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/2S2eJEok4S",
+            "media_url": "http://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+            "expanded_url": "http://twitter.com/ClayborneCarson/status/628425923843375104/photo/1",
+            "id_str": "628425923432349696",
+            "indices": [
+              119,
+              141
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 190
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 335
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 573
+              }
+            },
+            "display_url": "pic.twitter.com/2S2eJEok4S",
+            "id": 628425923432349696
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "THE CBC",
+            "indices": [
+              27,
+              39
+            ],
+            "id_str": "233783568",
+            "id": 233783568,
+            "screen_name": "OfficialCBC"
+          },
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              48,
+              62
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          },
+          {
+            "name": "Rep. Barbara Lee",
+            "indices": [
+              64,
+              78
+            ],
+            "id_str": "248735463",
+            "id": 248735463,
+            "screen_name": "RepBarbaraLee"
+          },
+          {
+            "name": "Hakeem Jeffries",
+            "indices": [
+              85,
+              97
+            ],
+            "id_str": "467823431",
+            "id": 467823431,
+            "screen_name": "RepJeffries"
+          },
+          {
+            "name": "King Institute",
+            "indices": [
+              104,
+              117
+            ],
+            "id_str": "1713266845",
+            "id": 1713266845,
+            "screen_name": "MLKInstitute"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "96706657",
+        "id": 96706657
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com/\" rel=\"nofollow\">OS X</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/2S2eJEok4S",
+            "media_url": "http://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+            "expanded_url": "http://twitter.com/ClayborneCarson/status/628425923843375104/photo/1",
+            "id_str": "628425923432349696",
+            "indices": [
+              119,
+              141
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 190
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 335
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 573
+              }
+            },
+            "display_url": "pic.twitter.com/2S2eJEok4S",
+            "id": 628425923432349696
+          }
+        ]
+      },
+      "text": "Congressional Black Caucus @OfficialCBC members @GKButterfield, @RepBarbaraLee &amp; @RepJeffries visit @MLKInstitute. http://t.co/2S2eJEok4S",
+      "lang": "en",
+      "created_at": "Tue Aug 04 04:43:10 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 96706657,
+          "media_url": "http://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+          "source_user_id_str": "96706657",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/2S2eJEok4S",
+          "expanded_url": "http://twitter.com/ClayborneCarson/status/628425923843375104/photo/1",
+          "url": "http://t.co/2S2eJEok4S",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+          "source_status_id_str": "628425923843375104",
+          "id_str": "628425923432349696",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 190
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 335
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 573
+            }
+          },
+          "id": 628425923432349696,
+          "source_status_id": 628425923843375104
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628563255213060097,
+    "id_str": "628563255213060097",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 96706657,
+          "media_url": "http://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+          "source_user_id_str": "96706657",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/2S2eJEok4S",
+          "expanded_url": "http://twitter.com/ClayborneCarson/status/628425923843375104/photo/1",
+          "url": "http://t.co/2S2eJEok4S",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLieDD3VAAA5ApF.jpg",
+          "source_status_id_str": "628425923843375104",
+          "id_str": "628425923432349696",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 190
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 335
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 573
+            }
+          },
+          "id": 628425923432349696,
+          "source_status_id": 628425923843375104
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Clayborne Carson",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "96706657",
+          "id": 96706657,
+          "screen_name": "ClayborneCarson"
+        },
+        {
+          "name": "THE CBC",
+          "indices": [
+            48,
+            60
+          ],
+          "id_str": "233783568",
+          "id": 233783568,
+          "screen_name": "OfficialCBC"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            69,
+            83
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        },
+        {
+          "name": "Rep. Barbara Lee",
+          "indices": [
+            85,
+            99
+          ],
+          "id_str": "248735463",
+          "id": 248735463,
+          "screen_name": "RepBarbaraLee"
+        },
+        {
+          "name": "Hakeem Jeffries",
+          "indices": [
+            106,
+            118
+          ],
+          "id_str": "467823431",
+          "id": 467823431,
+          "screen_name": "RepJeffries"
+        },
+        {
+          "name": "King Institute",
+          "indices": [
+            125,
+            138
+          ],
+          "id_str": "1713266845",
+          "id": 1713266845,
+          "screen_name": "MLKInstitute"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ClayborneCarson: Congressional Black Caucus @OfficialCBC members @GKButterfield, @RepBarbaraLee &amp; @RepJeffries visit @MLKInstitute. htt\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 13:48:52+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626811395581984768,
+    "id_str": "626811395581984768",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ExpandMedicaidNow",
+          "indices": [
+            66,
+            84
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We can\u2019t rest until all 50 states expand their Medicaid programs! #ExpandMedicaidNow!",
+    "lang": "en",
+    "created_at": "2015-07-30 17:47:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626811322139848705,
+    "id_str": "626811322139848705",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ExpandMedicaidNow",
+          "indices": [
+            94,
+            112
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Medicaid provides access to critical health services and has reduced the number of uninsured. #ExpandMedicaidNow",
+    "lang": "en",
+    "created_at": "2015-07-30 17:47:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626811060973084672,
+    "id_str": "626811060973084672",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ExpandMedicaidNow",
+          "indices": [
+            117,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "432676344",
+      "screen_name": "gkbutterfield",
+      "id": 432676344
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Although Medicaid expansion saves states money, 18 states + NC continue to neglect millions of low income residents. #ExpandMedicaidNow",
+    "lang": "en",
+    "created_at": "2015-07-30 17:46:17+00:00"
+  }
+]

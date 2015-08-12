@@ -1,0 +1,2203 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 222,
+    "favorite_count": 220,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630415781432586240,
+    "id_str": "630415781432586240",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "goodtrouble",
+          "indices": [
+            86,
+            98
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Sometimes it is necessary to disturb the order of things to find a way out of no way. #goodtrouble",
+    "lang": "en",
+    "created_at": "2015-08-09 16:30:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 20,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 27,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630028120335126528,
+      "id_str": "630028120335126528",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/LGllYa4fP0",
+            "indices": [
+              107,
+              130
+            ],
+            "display_url": "youtube.com/watch?v=yQs_DX\u2026",
+            "expanded_url": "https://www.youtube.com/watch?v=yQs_DXXKuzE"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              88,
+              94
+            ]
+          },
+          {
+            "text": "nerdland",
+            "indices": [
+              131,
+              140
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Melissa Harris-Perry",
+            "indices": [
+              41,
+              54
+            ],
+            "id_str": "18587457",
+            "id": 18587457,
+            "screen_name": "MHarrisPerry"
+          },
+          {
+            "name": "John Lewis",
+            "indices": [
+              59,
+              72
+            ],
+            "id_str": "29450962",
+            "id": 29450962,
+            "screen_name": "repjohnlewis"
+          },
+          {
+            "name": "The White House",
+            "indices": [
+              76,
+              87
+            ],
+            "id_str": "30313925",
+            "id": 30313925,
+            "screen_name": "WhiteHouse"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "432686670",
+        "id": 432686670
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "You can watch the full interview between @MHarrisPerry and @repjohnlewis at @WhiteHouse #VRA50 event here: https://t.co/LGllYa4fP0 #nerdland",
+      "lang": "en",
+      "created_at": "Sat Aug 08 14:49:43 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630029374457282560,
+    "id_str": "630029374457282560",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/LGllYa4fP0",
+          "indices": [
+            122,
+            140
+          ],
+          "display_url": "youtube.com/watch?v=yQs_DX\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=yQs_DXXKuzE"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            103,
+            109
+          ]
+        },
+        {
+          "text": "nerdland",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The AJC Center",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "432686670",
+          "id": 432686670,
+          "screen_name": "AJCCenter"
+        },
+        {
+          "name": "Melissa Harris-Perry",
+          "indices": [
+            56,
+            69
+          ],
+          "id_str": "18587457",
+          "id": 18587457,
+          "screen_name": "MHarrisPerry"
+        },
+        {
+          "name": "John Lewis",
+          "indices": [
+            74,
+            87
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        },
+        {
+          "name": "The White House",
+          "indices": [
+            91,
+            102
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AJCCenter: You can watch the full interview between @MHarrisPerry and @repjohnlewis at @WhiteHouse #VRA50 event here: https://t.co/LGll\u2026",
+    "lang": "en",
+    "created_at": "2015-08-08 14:54:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 91,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 82,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629393799324631040,
+      "id_str": "629393799324631040",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/2X7OhWEGAb",
+            "indices": [
+              122,
+              144
+            ],
+            "display_url": "latimes.com/opinion/op-ed/\u2026",
+            "expanded_url": "http://www.latimes.com/opinion/op-ed/la-oe-john-lewis-voting-rights-act-20150807-story.html"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "33235771",
+        "id": 33235771
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "On the 50th anniversary of Voting Rights Act do read Op-Ed Rep John Lewis &amp; Sen. Patrick Leahy: Restore voting rights http://t.co/2X7OhWEGAb",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:49:09 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 91,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629704042223173632,
+    "id_str": "629704042223173632",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2X7OhWEGAb",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "latimes.com/opinion/op-ed/\u2026",
+          "expanded_url": "http://www.latimes.com/opinion/op-ed/la-oe-john-lewis-voting-rights-act-20150807-story.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "mia farrow",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "33235771",
+          "id": 33235771,
+          "screen_name": "MiaFarrow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MiaFarrow: On the 50th anniversary of Voting Rights Act do read Op-Ed Rep John Lewis &amp; Sen. Patrick Leahy: Restore voting rights http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 17:21:57+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 293,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 330,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629392820483194880,
+      "id_str": "629392820483194880",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              97,
+              103
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/J6DLTbPQiy",
+            "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+            "id_str": "629392637049507840",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              },
+              "large": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              }
+            },
+            "display_url": "pic.twitter.com/J6DLTbPQiy",
+            "id": 629392637049507840
+          }
+        ],
+        "urls": [
+          {
+            "url": "https://t.co/RLfPczV7P2",
+            "indices": [
+              73,
+              96
+            ],
+            "display_url": "instagram.com/p/6Dh4UIwikP/",
+            "expanded_url": "https://instagram.com/p/6Dh4UIwikP/"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "John Lewis",
+            "indices": [
+              1,
+              14
+            ],
+            "id_str": "29450962",
+            "id": 29450962,
+            "screen_name": "repjohnlewis"
+          },
+          {
+            "name": "Instagram",
+            "indices": [
+              46,
+              56
+            ],
+            "id_str": "180505807",
+            "id": 180505807,
+            "screen_name": "instagram"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "30313925",
+        "id": 30313925
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/J6DLTbPQiy",
+            "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+            "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+            "id_str": "629392637049507840",
+            "indices": [
+              104,
+              126
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 225
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              },
+              "large": {
+                "w": 550,
+                "resize": "fit",
+                "h": 365
+              }
+            },
+            "display_url": "pic.twitter.com/J6DLTbPQiy",
+            "id": 629392637049507840
+          }
+        ]
+      },
+      "text": ".@RepJohnLewis is taking over the White House @Instagram.\nFollow along \u2192 https://t.co/RLfPczV7P2 #VRA50 http://t.co/J6DLTbPQiy",
+      "lang": "en",
+      "created_at": "Thu Aug 06 20:45:16 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 293,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/J6DLTbPQiy",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+          "url": "http://t.co/J6DLTbPQiy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_status_id_str": "629392820483194880",
+          "id_str": "629392637049507840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            },
+            "large": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            }
+          },
+          "id": 629392637049507840,
+          "source_status_id": 629392820483194880
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629417031310385155,
+    "id_str": "629417031310385155",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            113,
+            119
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 30313925,
+          "media_url": "http://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_user_id_str": "30313925",
+          "indices": [
+            120,
+            140
+          ],
+          "display_url": "pic.twitter.com/J6DLTbPQiy",
+          "expanded_url": "http://twitter.com/WhiteHouse/status/629392820483194880/photo/1",
+          "url": "http://t.co/J6DLTbPQiy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwNRMuVEAAXkqE.jpg",
+          "source_status_id_str": "629392820483194880",
+          "id_str": "629392637049507840",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 225
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            },
+            "large": {
+              "w": 550,
+              "resize": "fit",
+              "h": 365
+            }
+          },
+          "id": 629392637049507840,
+          "source_status_id": 629392820483194880
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/RLfPczV7P2",
+          "indices": [
+            89,
+            112
+          ],
+          "display_url": "instagram.com/p/6Dh4UIwikP/",
+          "expanded_url": "https://instagram.com/p/6Dh4UIwikP/"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The White House",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "30313925",
+          "id": 30313925,
+          "screen_name": "WhiteHouse"
+        },
+        {
+          "name": "John Lewis",
+          "indices": [
+            17,
+            30
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        },
+        {
+          "name": "Instagram",
+          "indices": [
+            62,
+            72
+          ],
+          "id_str": "180505807",
+          "id": 180505807,
+          "screen_name": "instagram"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @WhiteHouse: .@RepJohnLewis is taking over the White House @Instagram.\nFollow along \u2192 https://t.co/RLfPczV7P2 #VRA50 http://t.co/J6DLTbP\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 22:21:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 337,
+    "favorite_count": 228,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629378953967443968,
+    "id_str": "629378953967443968",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            113,
+            127
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            128,
+            134
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "There is a deliberate, systematic effort to make it harder &amp; more difficult for some people to vote. We must #RestoreTheVRA #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 19:50:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 89,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 74,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629357006541975552,
+    "id_str": "629357006541975552",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/jjvBl2IAkj",
+          "indices": [
+            97,
+            119
+          ],
+          "display_url": "go.wh.gov/VotingRightsAct",
+          "expanded_url": "http://go.wh.gov/VotingRightsAct"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            46,
+            52
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            28,
+            34
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "You can watch now as I join @POTUS to discuss #VRA50 and the future of Voting Rights in America. http://t.co/jjvBl2IAkj",
+    "lang": "en",
+    "created_at": "2015-08-06 18:22:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "629342681962049538",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 421,
+    "favorite_count": 820,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1536791610",
+    "id": 629343428925636609,
+    "id_str": "629343428925636609",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "goodtrouble",
+          "indices": [
+            129,
+            141
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            1,
+            7
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629342681962049538,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 1536791610,
+    "in_reply_to_screen_name": "POTUS",
+    "retweeted": false,
+    "text": ".@POTUS I was just trying to help out. We all can make a contribution. We must find a way out of no way &amp; get in what I call #goodtrouble",
+    "lang": "en",
+    "created_at": "2015-08-06 17:29:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1417,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1108,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629290880512434176,
+    "id_str": "629290880512434176",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/TBcsbgplSy",
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "id_str": "629290879623131136",
+          "indices": [
+            82,
+            104
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            }
+          },
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "id": 629290879623131136
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/TBcsbgplSy",
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "id_str": "629290879623131136",
+          "indices": [
+            82,
+            104
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            }
+          },
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "id": 629290879623131136
+        }
+      ]
+    },
+    "text": "At this time 50 yrs ago today, the Voting Rights Act of 1965 was signed into law. http://t.co/TBcsbgplSy",
+    "lang": "en",
+    "created_at": "2015-08-06 14:00:12+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1801,
+    "favorite_count": 1466,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629265088214638592,
+    "id_str": "629265088214638592",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            133,
+            147
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-06 12:17:42+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 725,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1215,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628637651659280385,
+    "id_str": "628637651659280385",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/Rapc20D9fU",
+          "media_url": "http://pbs.twimg.com/media/CLlenO0W8AEiZ1Z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlenO0W8AEiZ1Z.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/628637651659280385/photo/1",
+          "id_str": "628637651080507393",
+          "indices": [
+            54,
+            76
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 387
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 473,
+              "resize": "fit",
+              "h": 540
+            },
+            "large": {
+              "w": 473,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/Rapc20D9fU",
+          "id": 628637651080507393
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            47,
+            53
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Rapc20D9fU",
+          "media_url": "http://pbs.twimg.com/media/CLlenO0W8AEiZ1Z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlenO0W8AEiZ1Z.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/628637651659280385/photo/1",
+          "id_str": "628637651080507393",
+          "indices": [
+            54,
+            76
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 387
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 473,
+              "resize": "fit",
+              "h": 540
+            },
+            "large": {
+              "w": 473,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/Rapc20D9fU",
+          "id": 628637651080507393
+        }
+      ]
+    },
+    "text": "Happy Birthday, Mr. President. Keep the faith. @POTUS http://t.co/Rapc20D9fU",
+    "lang": "en",
+    "created_at": "2015-08-04 18:44:30+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 206,
+    "favorite_count": 210,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628217245391568896,
+    "id_str": "628217245391568896",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "goodtrouble",
+          "indices": [
+            85,
+            97
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "You must be hopeful and optimistic. Find a way to get in the way. Find a way to make #goodtrouble",
+    "lang": "en",
+    "created_at": "2015-08-03 14:53:57+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 145,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 98,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 627117881172451329,
+      "id_str": "627117881172451329",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Selma",
+            "indices": [
+              53,
+              59
+            ]
+          },
+          {
+            "text": "civilrights",
+            "indices": [
+              99,
+              111
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/yoVBSH6Fhg",
+            "media_url": "http://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+            "expanded_url": "http://twitter.com/USNatArchives/status/627117881172451329/photo/1",
+            "id_str": "627117880350408704",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 440
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 776
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1325
+              }
+            },
+            "display_url": "pic.twitter.com/yoVBSH6Fhg",
+            "id": 627117880350408704
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/GKrmfLzxbS",
+            "indices": [
+              61,
+              83
+            ],
+            "display_url": "1.usa.gov/1Uc8Plj",
+            "expanded_url": "http://1.usa.gov/1Uc8Plj"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "FBI",
+            "indices": [
+              42,
+              46
+            ],
+            "id_str": "17629860",
+            "id": 17629860,
+            "screen_name": "FBI"
+          },
+          {
+            "name": "John Lewis",
+            "indices": [
+              84,
+              97
+            ],
+            "id_str": "29450962",
+            "id": 29450962,
+            "screen_name": "repjohnlewis"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "101802390",
+        "id": 101802390
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/yoVBSH6Fhg",
+            "media_url": "http://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+            "expanded_url": "http://twitter.com/USNatArchives/status/627117881172451329/photo/1",
+            "id_str": "627117880350408704",
+            "indices": [
+              112,
+              134
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 440
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 776
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1325
+              }
+            },
+            "display_url": "pic.twitter.com/yoVBSH6Fhg",
+            "id": 627117880350408704
+          }
+        ]
+      },
+      "text": "Now on display: John Lewis's statement to @FBI about #Selma: http://t.co/GKrmfLzxbS @repjohnlewis  #civilrights http://t.co/yoVBSH6Fhg",
+      "lang": "en",
+      "created_at": "Fri Jul 31 14:05:28 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 145,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 101802390,
+          "media_url": "http://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+          "source_user_id_str": "101802390",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/yoVBSH6Fhg",
+          "expanded_url": "http://twitter.com/USNatArchives/status/627117881172451329/photo/1",
+          "url": "http://t.co/yoVBSH6Fhg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+          "source_status_id_str": "627117881172451329",
+          "id_str": "627117880350408704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 776
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1325
+            }
+          },
+          "id": 627117880350408704,
+          "source_status_id": 627117881172451329
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 627120561932640256,
+    "id_str": "627120561932640256",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Selma",
+          "indices": [
+            72,
+            78
+          ]
+        },
+        {
+          "text": "civilrights",
+          "indices": [
+            118,
+            130
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 101802390,
+          "media_url": "http://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+          "source_user_id_str": "101802390",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/yoVBSH6Fhg",
+          "expanded_url": "http://twitter.com/USNatArchives/status/627117881172451329/photo/1",
+          "url": "http://t.co/yoVBSH6Fhg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLP4Y7qVAAAApDP.jpg",
+          "source_status_id_str": "627117881172451329",
+          "id_str": "627117880350408704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 440
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 776
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1325
+            }
+          },
+          "id": 627117880350408704,
+          "source_status_id": 627117881172451329
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/GKrmfLzxbS",
+          "indices": [
+            80,
+            102
+          ],
+          "display_url": "1.usa.gov/1Uc8Plj",
+          "expanded_url": "http://1.usa.gov/1Uc8Plj"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "US National Archives",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "101802390",
+          "id": 101802390,
+          "screen_name": "USNatArchives"
+        },
+        {
+          "name": "FBI",
+          "indices": [
+            61,
+            65
+          ],
+          "id_str": "17629860",
+          "id": 17629860,
+          "screen_name": "FBI"
+        },
+        {
+          "name": "John Lewis",
+          "indices": [
+            103,
+            116
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @USNatArchives: Now on display: John Lewis's statement to @FBI about #Selma: http://t.co/GKrmfLzxbS @repjohnlewis  #civilrights http://t\u2026",
+    "lang": "en",
+    "created_at": "2015-07-31 14:16:07+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 499,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 894,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626805427490021376,
+    "id_str": "626805427490021376",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/x4Un71imik",
+          "media_url": "http://pbs.twimg.com/media/CLLcNpmVAAAXxeO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLcNpmVAAAXxeO.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/626805427490021376/photo/1",
+          "id_str": "626805425220943872",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/x4Un71imik",
+          "id": 626805425220943872
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "ASPCA",
+          "indices": [
+            71,
+            77
+          ],
+          "id_str": "14955908",
+          "id": 14955908,
+          "screen_name": "ASPCA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/x4Un71imik",
+          "media_url": "http://pbs.twimg.com/media/CLLcNpmVAAAXxeO.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLcNpmVAAAXxeO.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/626805427490021376/photo/1",
+          "id_str": "626805425220943872",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/x4Un71imik",
+          "id": 626805425220943872
+        },
+        {
+          "url": "http://t.co/x4Un71imik",
+          "media_url": "http://pbs.twimg.com/media/CLLcNvRUMAANLhV.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLcNvRUMAANLhV.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/626805427490021376/photo/1",
+          "id_str": "626805426743422976",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/x4Un71imik",
+          "id": 626805426743422976
+        },
+        {
+          "url": "http://t.co/x4Un71imik",
+          "media_url": "http://pbs.twimg.com/media/CLLcNsaUcAAJV0t.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLLcNsaUcAAJV0t.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/626805427490021376/photo/1",
+          "id_str": "626805425975881728",
+          "indices": [
+            103,
+            125
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 960
+            }
+          },
+          "display_url": "pic.twitter.com/x4Un71imik",
+          "id": 626805425975881728
+        }
+      ]
+    },
+    "text": "It was good to spend a little time with the wonderful puppies that the @ASPCA brought to Capitol Hill. http://t.co/x4Un71imik",
+    "lang": "en",
+    "created_at": "2015-07-30 17:23:54+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 220,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 188,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626763242287673344,
+    "id_str": "626763242287673344",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            64,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/O1rxRQK1Ky",
+          "media_url": "http://pbs.twimg.com/media/CLK12OHUEAAEU5z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLK12OHUEAAEU5z.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/626763242287673344/photo/1",
+          "id_str": "626763241264254976",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 212
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 375
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/O1rxRQK1Ky",
+          "id": 626763241264254976
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/O1rxRQK1Ky",
+          "media_url": "http://pbs.twimg.com/media/CLK12OHUEAAEU5z.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLK12OHUEAAEU5z.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/626763242287673344/photo/1",
+          "id_str": "626763241264254976",
+          "indices": [
+            110,
+            132
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 212
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 375
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 640
+            }
+          },
+          "display_url": "pic.twitter.com/O1rxRQK1Ky",
+          "id": 626763241264254976
+        }
+      ]
+    },
+    "text": "We are demanding that our GOP colleagues do the right thing and #RestoreTheVRA now. America is for all of us. http://t.co/O1rxRQK1Ky",
+    "lang": "en",
+    "created_at": "2015-07-30 14:36:16+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 396,
+    "favorite_count": 309,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626758435674177536,
+    "id_str": "626758435674177536",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            110,
+            124
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The vote is precious, almost sacred. It is the most powerful nonviolent tool we have in a democratic society. #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-07-30 14:17:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 147,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 97,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626413846555717632,
+    "id_str": "626413846555717632",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2bJTjeW4cN",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "nyti.ms/1I1b0Tx",
+          "expanded_url": "http://nyti.ms/1I1b0Tx"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "NYT Magazine",
+          "indices": [
+            24,
+            31
+          ],
+          "id_str": "16929600",
+          "id": 16929600,
+          "screen_name": "NYTmag"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "An important piece from @NYTmag about deliberate and systematic attacks on the Voting Rights Act: 'A Dream Undone' http://t.co/2bJTjeW4cN",
+    "lang": "en",
+    "created_at": "2015-07-29 15:27:53+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 142,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 72,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626407123753299968,
+      "id_str": "626407123753299968",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/dzgKpioRNv",
+            "indices": [
+              96,
+              118
+            ],
+            "display_url": "nyti.ms/1H1R8LY",
+            "expanded_url": "http://nyti.ms/1H1R8LY"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16929600",
+        "id": 16929600
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.socialflow.com\" rel=\"nofollow\">SocialFlow</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The passage of the Voting Rights Act of 1965 enabled millions to vote. Now, it\u2019s being undone.  http://t.co/dzgKpioRNv",
+      "lang": "en",
+      "created_at": "Wed Jul 29 15:01:11 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 142,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626413762908700672,
+    "id_str": "626413762908700672",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/dzgKpioRNv",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "nyti.ms/1H1R8LY",
+          "expanded_url": "http://nyti.ms/1H1R8LY"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "NYT Magazine",
+          "indices": [
+            3,
+            10
+          ],
+          "id_str": "16929600",
+          "id": 16929600,
+          "screen_name": "NYTmag"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NYTmag: The passage of the Voting Rights Act of 1965 enabled millions to vote. Now, it\u2019s being undone.  http://t.co/dzgKpioRNv",
+    "lang": "en",
+    "created_at": "2015-07-29 15:27:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 501,
+    "favorite_count": 689,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624257327345090560,
+    "id_str": "624257327345090560",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I fought too long &amp; too hard against discrimination based on race &amp; color, not to fight against discrimination based on sexual orientation.",
+    "lang": "en",
+    "created_at": "2015-07-23 16:38:39+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1591,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2138,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622844317162434560,
+    "id_str": "622844317162434560",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "goodtrouble",
+          "indices": [
+            105,
+            117
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/SN0K6lHbqO",
+          "media_url": "http://pbs.twimg.com/media/CKTJmvUVAAAZWys.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKTJmvUVAAAZWys.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/622844317162434560/photo/1",
+          "id_str": "622844315857911808",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 462
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 343,
+              "resize": "fit",
+              "h": 467
+            },
+            "large": {
+              "w": 343,
+              "resize": "fit",
+              "h": 467
+            }
+          },
+          "display_url": "pic.twitter.com/SN0K6lHbqO",
+          "id": 622844315857911808
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/SN0K6lHbqO",
+          "media_url": "http://pbs.twimg.com/media/CKTJmvUVAAAZWys.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKTJmvUVAAAZWys.jpg",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/622844317162434560/photo/1",
+          "id_str": "622844315857911808",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 462
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 343,
+              "resize": "fit",
+              "h": 467
+            },
+            "large": {
+              "w": 343,
+              "resize": "fit",
+              "h": 467
+            }
+          },
+          "display_url": "pic.twitter.com/SN0K6lHbqO",
+          "id": 622844315857911808
+        }
+      ]
+    },
+    "text": "Even though I was arrested, I smiled bc I was on the right side of history. Find a way to get in the way #goodtrouble http://t.co/SN0K6lHbqO",
+    "lang": "en",
+    "created_at": "2015-07-19 19:03:51+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 140,
+    "favorite_count": 288,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622806951815200768,
+    "id_str": "622806951815200768",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Donald J. Trump",
+          "indices": [
+            10,
+            26
+          ],
+          "id_str": "25073877",
+          "id": 25073877,
+          "screen_name": "realDonaldTrump"
+        },
+        {
+          "name": "John McCain",
+          "indices": [
+            74,
+            88
+          ],
+          "id_str": "19394188",
+          "id": 19394188,
+          "screen_name": "SenJohnMcCain"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "29450962",
+      "screen_name": "repjohnlewis",
+      "id": 29450962
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I believe @realdonaldtrump should be ashamed of himself. He went too far. @SenJohnMcCain is a hero who served his country.",
+    "lang": "en",
+    "created_at": "2015-07-19 16:35:23+00:00"
+  }
+]

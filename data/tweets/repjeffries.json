@@ -1,0 +1,1949 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630475423361712129,
+    "id_str": "630475423361712129",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/uyKONOt74F",
+          "indices": [
+            73,
+            96
+          ],
+          "display_url": "m.youtube.com/watch?v=3nrlOc\u2026",
+          "expanded_url": "https://m.youtube.com/watch?v=3nrlOcR2Dlc"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "criminaljusticereform",
+          "indices": [
+            19,
+            41
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The pathway toward #criminaljusticereform is paved with bipartisanship \u2192 https://t.co/uyKONOt74F",
+    "lang": "en",
+    "created_at": "2015-08-09 20:27:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 11,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629339439081345024,
+      "id_str": "629339439081345024",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "TBT",
+            "indices": [
+              109,
+              113
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/rdrENVS1Ds",
+            "media_url": "http://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+            "expanded_url": "http://twitter.com/ITI_TechTweets/status/629339439081345024/photo/1",
+            "id_str": "629339438238298112",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 232
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 410
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 700
+              }
+            },
+            "display_url": "pic.twitter.com/rdrENVS1Ds",
+            "id": 629339438238298112
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Barbara Lee",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "248735463",
+            "id": 248735463,
+            "screen_name": "RepBarbaraLee"
+          },
+          {
+            "name": "G. K. Butterfield",
+            "indices": [
+              16,
+              30
+            ],
+            "id_str": "432676344",
+            "id": 432676344,
+            "screen_name": "GKButterfield"
+          },
+          {
+            "name": "Hakeem Jeffries",
+            "indices": [
+              31,
+              43
+            ],
+            "id_str": "467823431",
+            "id": 467823431,
+            "screen_name": "RepJeffries"
+          },
+          {
+            "name": "THE CBC",
+            "indices": [
+              44,
+              56
+            ],
+            "id_str": "233783568",
+            "id": 233783568,
+            "screen_name": "OfficialCBC"
+          },
+          {
+            "name": "Tim Cook",
+            "indices": [
+              64,
+              73
+            ],
+            "id_str": "1636590253",
+            "id": 1636590253,
+            "screen_name": "tim_cook"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "50731463",
+        "id": 50731463
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/rdrENVS1Ds",
+            "media_url": "http://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+            "expanded_url": "http://twitter.com/ITI_TechTweets/status/629339439081345024/photo/1",
+            "id_str": "629339438238298112",
+            "indices": [
+              118,
+              140
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 232
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 410
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 700
+              }
+            },
+            "display_url": "pic.twitter.com/rdrENVS1Ds",
+            "id": 629339438238298112
+          }
+        ]
+      },
+      "text": ".@RepBarbaraLee @GKButterfield @RepJeffries @OfficialCBC meet w/@tim_cook on making a more inclusive economy #TBT 8/3 http://t.co/rdrENVS1Ds",
+      "lang": "en",
+      "created_at": "Thu Aug 06 17:13:09 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 50731463,
+          "media_url": "http://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+          "source_user_id_str": "50731463",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/rdrENVS1Ds",
+          "expanded_url": "http://twitter.com/ITI_TechTweets/status/629339439081345024/photo/1",
+          "url": "http://t.co/rdrENVS1Ds",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+          "source_status_id_str": "629339439081345024",
+          "id_str": "629339438238298112",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 232
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 410
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 700
+            }
+          },
+          "id": 629339438238298112,
+          "source_status_id": 629339439081345024
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629685148364242944,
+    "id_str": "629685148364242944",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            129,
+            133
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 50731463,
+          "media_url": "http://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+          "source_user_id_str": "50731463",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/rdrENVS1Ds",
+          "expanded_url": "http://twitter.com/ITI_TechTweets/status/629339439081345024/photo/1",
+          "url": "http://t.co/rdrENVS1Ds",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvc4ntWcAAcG5X.jpg",
+          "source_status_id_str": "629339439081345024",
+          "id_str": "629339438238298112",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 232
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 410
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 700
+            }
+          },
+          "id": 629339438238298112,
+          "source_status_id": 629339439081345024
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "ITI",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "50731463",
+          "id": 50731463,
+          "screen_name": "ITI_TechTweets"
+        },
+        {
+          "name": "Rep. Barbara Lee",
+          "indices": [
+            21,
+            35
+          ],
+          "id_str": "248735463",
+          "id": 248735463,
+          "screen_name": "RepBarbaraLee"
+        },
+        {
+          "name": "G. K. Butterfield",
+          "indices": [
+            36,
+            50
+          ],
+          "id_str": "432676344",
+          "id": 432676344,
+          "screen_name": "GKButterfield"
+        },
+        {
+          "name": "Hakeem Jeffries",
+          "indices": [
+            51,
+            63
+          ],
+          "id_str": "467823431",
+          "id": 467823431,
+          "screen_name": "RepJeffries"
+        },
+        {
+          "name": "THE CBC",
+          "indices": [
+            64,
+            76
+          ],
+          "id_str": "233783568",
+          "id": 233783568,
+          "screen_name": "OfficialCBC"
+        },
+        {
+          "name": "Tim Cook",
+          "indices": [
+            84,
+            93
+          ],
+          "id_str": "1636590253",
+          "id": 1636590253,
+          "screen_name": "tim_cook"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ITI_TechTweets: .@RepBarbaraLee @GKButterfield @RepJeffries @OfficialCBC meet w/@tim_cook on making a more inclusive economy #TBT 8/3 h\u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 16:06:53+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 149,
+      "favorite_count": 157,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629650509603991557,
+      "id_str": "629650509603991557",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "VRA50",
+            "indices": [
+              78,
+              84
+            ]
+          },
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15764644",
+        "id": 15764644
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Fri Aug 07 13:49:14 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 149,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629654664879976450,
+    "id_str": "629654664879976450",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            95,
+            101
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Nancy Pelosi ",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "15764644",
+          "id": 15764644,
+          "screen_name": "NancyPelosi"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NancyPelosi: The Voting Rights Act is the great guardian of Americans\u2019 right to vote. This #VRA50 we renew our commitment to the fight \u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 14:05:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629416095724793856,
+    "id_str": "629416095724793856",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/XvSbW0TxJ9",
+          "indices": [
+            84,
+            106
+          ],
+          "display_url": "nytimes.com/roomfordebate/\u2026",
+          "expanded_url": "http://www.nytimes.com/roomfordebate/2015/08/05/ensuring-voting-rights-in-the-21st-century/voting-rights-require-organization-and-legislation"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Hasan Kwame Jeffries",
+          "indices": [
+            11,
+            24
+          ],
+          "id_str": "3337726865",
+          "id": 3337726865,
+          "screen_name": "ProfJeffries"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Agree with @ProfJeffries: Protecting the right to vote should be shouldered by all  http://t.co/XvSbW0TxJ9",
+    "lang": "en",
+    "created_at": "2015-08-06 22:17:45+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629393046224814080,
+    "id_str": "629393046224814080",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/qpx9xIjBmZ",
+          "media_url": "http://pbs.twimg.com/media/CLwNpAXUkAEIm0_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwNpAXUkAEIm0_.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629393046224814080/photo/1",
+          "id_str": "629393046048641025",
+          "indices": [
+            54,
+            76
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/qpx9xIjBmZ",
+          "id": 629393046048641025
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "House Republicans",
+          "indices": [
+            8,
+            17
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/qpx9xIjBmZ",
+          "media_url": "http://pbs.twimg.com/media/CLwNpAXUkAEIm0_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLwNpAXUkAEIm0_.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629393046224814080/photo/1",
+          "id_str": "629393046048641025",
+          "indices": [
+            54,
+            76
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "display_url": "pic.twitter.com/qpx9xIjBmZ",
+          "id": 629393046048641025
+        }
+      ]
+    },
+    "text": "Memo to @HouseGOP: Restore the Voting Rights Act Now! http://t.co/qpx9xIjBmZ",
+    "lang": "en",
+    "created_at": "2015-08-06 20:46:10+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629301055617150976,
+    "id_str": "629301055617150976",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CongressOnYourCorner",
+          "indices": [
+            0,
+            21
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/6VEWiVjGVe",
+          "media_url": "http://pbs.twimg.com/media/CLu5-dDWwAENBzb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu5-dDWwAENBzb.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629301055617150976/photo/1",
+          "id_str": "629301055550046209",
+          "indices": [
+            22,
+            44
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "display_url": "pic.twitter.com/6VEWiVjGVe",
+          "id": 629301055550046209
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/6VEWiVjGVe",
+          "media_url": "http://pbs.twimg.com/media/CLu5-dDWwAENBzb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLu5-dDWwAENBzb.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629301055617150976/photo/1",
+          "id_str": "629301055550046209",
+          "indices": [
+            22,
+            44
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "display_url": "pic.twitter.com/6VEWiVjGVe",
+          "id": 629301055550046209
+        }
+      ]
+    },
+    "text": "#CongressOnYourCorner http://t.co/6VEWiVjGVe",
+    "lang": "und",
+    "created_at": "2015-08-06 14:40:38+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1803,
+      "favorite_count": 1468,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629265088214638592,
+      "id_str": "629265088214638592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1803,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629282331308752896,
+    "id_str": "629282331308752896",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 13:26:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629272013731926016,
+    "id_str": "629272013731926016",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            80,
+            94
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/In1MYk1ojG",
+          "media_url": "http://pbs.twimg.com/media/CLufj4tW8AAA0jh.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLufj4tW8AAA0jh.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629272013731926016/photo/1",
+          "id_str": "629272011815186432",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 265
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 468
+            },
+            "large": {
+              "w": 648,
+              "resize": "fit",
+              "h": 506
+            }
+          },
+          "display_url": "pic.twitter.com/In1MYk1ojG",
+          "id": 629272011815186432
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/In1MYk1ojG",
+          "media_url": "http://pbs.twimg.com/media/CLufj4tW8AAA0jh.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLufj4tW8AAA0jh.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629272013731926016/photo/1",
+          "id_str": "629272011815186432",
+          "indices": [
+            95,
+            117
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 265
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 468
+            },
+            "large": {
+              "w": 648,
+              "resize": "fit",
+              "h": 506
+            }
+          },
+          "display_url": "pic.twitter.com/In1MYk1ojG",
+          "id": 629272011815186432
+        }
+      ]
+    },
+    "text": "The right to vote is not a black issue or a white issue, it's an American issue #RestoreTheVRA http://t.co/In1MYk1ojG",
+    "lang": "en",
+    "created_at": "2015-08-06 12:45:14+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629083298699067392,
+    "id_str": "629083298699067392",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CongressOnYourCorner",
+          "indices": [
+            95,
+            116
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Sm2RYhMPMw",
+          "media_url": "http://pbs.twimg.com/media/CLrz7VSWEAAbZx0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrz7VSWEAAbZx0.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629083298699067392/photo/1",
+          "id_str": "629083298623524864",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 360,
+              "resize": "fit",
+              "h": 480
+            },
+            "large": {
+              "w": 360,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/Sm2RYhMPMw",
+          "id": 629083298623524864
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Sm2RYhMPMw",
+          "media_url": "http://pbs.twimg.com/media/CLrz7VSWEAAbZx0.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLrz7VSWEAAbZx0.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/629083298699067392/photo/1",
+          "id_str": "629083298623524864",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 360,
+              "resize": "fit",
+              "h": 480
+            },
+            "large": {
+              "w": 360,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/Sm2RYhMPMw",
+          "id": 629083298623524864
+        }
+      ]
+    },
+    "text": "Back home for the August recess, and spent the evening at the Broadway Junction subway station #CongressOnYourCorner http://t.co/Sm2RYhMPMw",
+    "lang": "en",
+    "created_at": "2015-08-06 00:15:20+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "628764047710752769",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "22012091",
+    "id": 628910635380776960,
+    "id_str": "628910635380776960",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Steny Hoyer",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "22012091",
+          "id": 22012091,
+          "screen_name": "WhipHoyer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628764047710752769,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 22012091,
+    "in_reply_to_screen_name": "WhipHoyer",
+    "retweeted": false,
+    "text": "@WhipHoyer Thank you!",
+    "lang": "en",
+    "created_at": "2015-08-05 12:49:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628684508129304576,
+    "id_str": "628684508129304576",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/RNEMCSdCB9",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "usatoday.com/story/tech/201\u2026",
+          "expanded_url": "http://www.usatoday.com/story/tech/2015/08/03/congressional-black-caucus-silicon-valley-tech-diversity/31080247/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "SiliconValley",
+          "indices": [
+            48,
+            62
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "THE CBC",
+          "indices": [
+            10,
+            22
+          ],
+          "id_str": "233783568",
+          "id": 233783568,
+          "screen_name": "OfficialCBC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Tech2020: @officialCBC presses for diversity in #SiliconValley \u2192 http://t.co/RNEMCSdCB9",
+    "lang": "en",
+    "created_at": "2015-08-04 21:50:41+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628657197707300866,
+    "id_str": "628657197707300866",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/48MDxTHyay",
+          "indices": [
+            37,
+            59
+          ],
+          "display_url": "cnn.com/2015/08/04/us/\u2026",
+          "expanded_url": "http://www.cnn.com/2015/08/04/us/aclu-disabled-students-handcuffed-lawsuit/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Outrage",
+          "indices": [
+            27,
+            35
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Handcuffing third graders? #Outrage  http://t.co/48MDxTHyay",
+    "lang": "en",
+    "created_at": "2015-08-04 20:02:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "628551001247649792",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1080844782",
+    "id": 628640883727069184,
+    "id_str": "628640883727069184",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Kyrsten Sinema",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "1080844782",
+          "id": 1080844782,
+          "screen_name": "RepSinema"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 628551001247649792,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": 1080844782,
+    "in_reply_to_screen_name": "RepSinema",
+    "retweeted": false,
+    "text": "@RepSinema Many thanks!",
+    "lang": "en",
+    "created_at": "2015-08-04 18:57:20+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 225,
+      "favorite_count": 134,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628538226458951680,
+      "id_str": "628538226458951680",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              130,
+              144
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "193732179",
+        "id": 193732179
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "We have an obligation to ensure that every American citizen has the right to vote &amp; that every vote is counted as cast. Let's #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Tue Aug 04 12:09:25 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 225,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628559261275189249,
+    "id_str": "628559261275189249",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Judy Chu",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "193732179",
+          "id": 193732179,
+          "screen_name": "RepJudyChu"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepJudyChu: We have an obligation to ensure that every American citizen has the right to vote &amp; that every vote is counted as cast. Let\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 13:33:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628297455470297088,
+    "id_str": "628297455470297088",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/SjO8TADCDK",
+          "indices": [
+            110,
+            132
+          ],
+          "display_url": "bit.ly/1M6DTll",
+          "expanded_url": "http://bit.ly/1M6DTll"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CriminalJusticeReform",
+          "indices": [
+            87,
+            109
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "We must end the pipeline that sends our children from the schoolhouse to the jailhouse #CriminalJusticeReform http://t.co/SjO8TADCDK",
+    "lang": "en",
+    "created_at": "2015-08-03 20:12:41+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 208,
+      "favorite_count": 95,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628182643507654656,
+      "id_str": "628182643507654656",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoretheVRA",
+            "indices": [
+              125,
+              139
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3018670151",
+        "id": 3018670151
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "There are too many places across America where citizens are denied the right to be heard at the ballot box. RT if you agree: #RestoretheVRA!",
+      "lang": "en",
+      "created_at": "Mon Aug 03 12:36:27 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 208,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628207942207188992,
+    "id_str": "628207942207188992",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoretheVRA",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Pete Aguilar",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "3018670151",
+          "id": 3018670151,
+          "screen_name": "RepPeteAguilar"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepPeteAguilar: There are too many places across America where citizens are denied the right to be heard at the ballot box. RT if you a\u2026",
+    "lang": "en",
+    "created_at": "2015-08-03 14:16:59+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627903726968283136,
+    "id_str": "627903726968283136",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/q3enI0dZkO",
+          "media_url": "http://pbs.twimg.com/media/CLbDHN5WwAA8nmr.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLbDHN5WwAA8nmr.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/627903726968283136/photo/1",
+          "id_str": "627903726821490688",
+          "indices": [
+            74,
+            96
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/q3enI0dZkO",
+          "id": 627903726821490688
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/q3enI0dZkO",
+          "media_url": "http://pbs.twimg.com/media/CLbDHN5WwAA8nmr.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLbDHN5WwAA8nmr.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/627903726968283136/photo/1",
+          "id_str": "627903726821490688",
+          "indices": [
+            74,
+            96
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/q3enI0dZkO",
+          "id": 627903726821490688
+        }
+      ]
+    },
+    "text": "Proud to represent vibrant Pakistani-American community in Brighton Beach http://t.co/q3enI0dZkO",
+    "lang": "en",
+    "created_at": "2015-08-02 18:08:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627875381341765633,
+    "id_str": "627875381341765633",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/TSEuOVrpT0",
+          "indices": [
+            57,
+            79
+          ],
+          "display_url": "mobile.nytimes.com/2015/07/29/mag\u2026",
+          "expanded_url": "http://mobile.nytimes.com/2015/07/29/magazine/voting-rights-act-dream-undone.html?referrer="
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            38,
+            54
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The unrelenting 50 yr. assault on the #VotingRightsAct \u2192 http://t.co/TSEuOVrpT0",
+    "lang": "en",
+    "created_at": "2015-08-02 16:15:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627694027631128580,
+    "id_str": "627694027631128580",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "CongressOnYourCorner",
+          "indices": [
+            57,
+            78
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/XtoQ14goHD",
+          "media_url": "http://pbs.twimg.com/media/CLYEZHRWcAAh7W_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLYEZHRWcAAh7W_.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/627694027631128580/photo/1",
+          "id_str": "627694027559825408",
+          "indices": [
+            79,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 360
+            }
+          },
+          "display_url": "pic.twitter.com/XtoQ14goHD",
+          "id": 627694027559825408
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/XtoQ14goHD",
+          "media_url": "http://pbs.twimg.com/media/CLYEZHRWcAAh7W_.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLYEZHRWcAAh7W_.jpg",
+          "expanded_url": "http://twitter.com/RepJeffries/status/627694027631128580/photo/1",
+          "id_str": "627694027559825408",
+          "indices": [
+            79,
+            101
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 360
+            }
+          },
+          "display_url": "pic.twitter.com/XtoQ14goHD",
+          "id": 627694027559825408
+        }
+      ]
+    },
+    "text": "The voices of Bedford Stuyvesant were heard this morning #CongressOnYourCorner http://t.co/XtoQ14goHD",
+    "lang": "en",
+    "created_at": "2015-08-02 04:14:52+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627162669229953025,
+    "id_str": "627162669229953025",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tRVVpodw3T",
+          "indices": [
+            53,
+            75
+          ],
+          "display_url": "thehill.com/policy/technol\u2026",
+          "expanded_url": "http://thehill.com/policy/technology/249781-black-lawmakers-to-push-diversity-during-silicon-valley-visit"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "InnovationEconomy",
+          "indices": [
+            31,
+            49
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "467823431",
+      "screen_name": "repjeffries",
+      "id": 467823431
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Let's diversify Silicon Valley #InnovationEconomy \u2192  http://t.co/tRVVpodw3T",
+    "lang": "es",
+    "created_at": "2015-07-31 17:03:27+00:00"
+  }
+]

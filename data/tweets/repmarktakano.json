@@ -1,0 +1,2885 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628343356649639936,
+    "id_str": "628343356649639936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/rgc8EfvzmY",
+          "indices": [
+            100,
+            123
+          ],
+          "display_url": "medium.com/@GinaEPA/6-thi\u2026",
+          "expanded_url": "https://medium.com/@GinaEPA/6-things-every-american-should-know-about-the-clean-power-plan-e06b34fc2a57"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            10,
+            16
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thank you @Potus for taking bold action on climate change and carbon emissions from power plants. \n\nhttps://t.co/rgc8EfvzmY",
+    "lang": "en",
+    "created_at": "2015-08-03 23:15:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626030414445027328,
+    "id_str": "626030414445027328",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 164,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 282,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625809711309262848,
+      "id_str": "625809711309262848",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/BvG4tEoUqE",
+            "media_url": "http://pbs.twimg.com/media/CK9Ske2UcAAjvl7.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK9Ske2UcAAjvl7.png",
+            "expanded_url": "http://twitter.com/BuzzFeedNews/status/625809711309262848/photo/1",
+            "id_str": "625809659937452032",
+            "indices": [
+              58,
+              80
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 193
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 341
+              },
+              "large": {
+                "w": 1016,
+                "resize": "fit",
+                "h": 579
+              }
+            },
+            "display_url": "pic.twitter.com/BvG4tEoUqE",
+            "id": 625809659937452032
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/hNuWAqxsxS",
+            "indices": [
+              35,
+              57
+            ],
+            "display_url": "buzzfeed.com/chrisgeidner/b\u2026",
+            "expanded_url": "http://www.buzzfeed.com/chrisgeidner/boy-scouts-ends-ban-on-gay-leaders?bftwnews&utm_term=4ldqpgc#4ldqpgc"
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1020058453",
+        "id": 1020058453
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/BvG4tEoUqE",
+            "media_url": "http://pbs.twimg.com/media/CK9Ske2UcAAjvl7.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CK9Ske2UcAAjvl7.png",
+            "expanded_url": "http://twitter.com/BuzzFeedNews/status/625809711309262848/photo/1",
+            "id_str": "625809659937452032",
+            "indices": [
+              58,
+              80
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 193
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 341
+              },
+              "large": {
+                "w": 1016,
+                "resize": "fit",
+                "h": 579
+              }
+            },
+            "display_url": "pic.twitter.com/BvG4tEoUqE",
+            "id": 625809659937452032
+          }
+        ]
+      },
+      "text": "Boy Scouts Ends Ban On Gay Leaders http://t.co/hNuWAqxsxS http://t.co/BvG4tEoUqE",
+      "lang": "en",
+      "created_at": "Mon Jul 27 23:27:16 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/mc7HGwI7Z7",
+          "indices": [
+            14,
+            37
+          ],
+          "display_url": "twitter.com/BuzzFeedNews/s\u2026",
+          "expanded_url": "https://twitter.com/BuzzFeedNews/status/625809711309262848"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "625809711309262848",
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "created_at": "2015-07-28 14:04:16+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Long overdue! https://t.co/mc7HGwI7Z7",
+    "lang": "en",
+    "quoted_status_id": 625809711309262848
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624627864520908801,
+    "id_str": "624627864520908801",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RaiseTheWage",
+          "indices": [
+            49,
+            62
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/1DCYb4KdKi",
+          "media_url": "http://pbs.twimg.com/media/CKnlXxyWIAAd7g7.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnlXxyWIAAd7g7.png",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/624627864520908801/photo/1",
+          "id_str": "624282220031778816",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 313
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/1DCYb4KdKi",
+          "id": 624282220031778816
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/1DCYb4KdKi",
+          "media_url": "http://pbs.twimg.com/media/CKnlXxyWIAAd7g7.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnlXxyWIAAd7g7.png",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/624627864520908801/photo/1",
+          "id_str": "624282220031778816",
+          "indices": [
+            109,
+            131
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 177
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 313
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 535
+            }
+          },
+          "display_url": "pic.twitter.com/1DCYb4KdKi",
+          "id": 624282220031778816
+        }
+      ]
+    },
+    "text": "35 million Americans would get a raise under the #RaiseTheWage Act, including many who are college educated! http://t.co/1DCYb4KdKi",
+    "lang": "en",
+    "created_at": "2015-07-24 17:11:02+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 59,
+      "favorite_count": 76,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624295837129154561,
+      "id_str": "624295837129154561",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "EqualityForward",
+            "indices": [
+              126,
+              142
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Democrats",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "43963249",
+            "id": 43963249,
+            "screen_name": "HouseDemocrats"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15764644",
+        "id": 15764644
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@HouseDemocrats are committed to the fight to ensure all LGBT Americans have protection, dignity &amp; respect they deserve. #EqualityForward",
+      "lang": "en",
+      "created_at": "Thu Jul 23 19:11:41 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 59,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624295954368303104,
+    "id_str": "624295954368303104",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "EqualityForward",
+          "indices": [
+            143,
+            144
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Nancy Pelosi ",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "15764644",
+          "id": 15764644,
+          "screen_name": "NancyPelosi"
+        },
+        {
+          "name": "House Democrats",
+          "indices": [
+            18,
+            33
+          ],
+          "id_str": "43963249",
+          "id": 43963249,
+          "screen_name": "HouseDemocrats"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NancyPelosi: .@HouseDemocrats are committed to the fight to ensure all LGBT Americans have protection, dignity &amp; respect they deserve. \u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 19:12:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 48,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 98,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624253921406636032,
+      "id_str": "624253921406636032",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "EqualityForward",
+            "indices": [
+              100,
+              116
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/l09rrNNzBP",
+            "media_url": "http://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+            "expanded_url": "http://twitter.com/HRC/status/624253921406636032/photo/1",
+            "id_str": "624253921209516032",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 720
+              }
+            },
+            "display_url": "pic.twitter.com/l09rrNNzBP",
+            "id": 624253921209516032
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/yyiIiAY8FD",
+            "indices": [
+              77,
+              99
+            ],
+            "display_url": "HRC.org/EqualityForward",
+            "expanded_url": "http://HRC.org/EqualityForward"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Mark Takano",
+            "indices": [
+              30,
+              44
+            ],
+            "id_str": "1037321378",
+            "id": 1037321378,
+            "screen_name": "RepMarkTakano"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "19608297",
+        "id": 19608297
+      },
+      "favorited": false,
+      "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/l09rrNNzBP",
+            "media_url": "http://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+            "expanded_url": "http://twitter.com/HRC/status/624253921406636032/photo/1",
+            "id_str": "624253921209516032",
+            "indices": [
+              117,
+              139
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 720
+              }
+            },
+            "display_url": "pic.twitter.com/l09rrNNzBP",
+            "id": 624253921209516032
+          }
+        ]
+      },
+      "text": "Thanks longtime HRC supporter @RepMarkTakano, co-sponsoring The Equality Act http://t.co/yyiIiAY8FD #EqualityForward http://t.co/l09rrNNzBP",
+      "lang": "en",
+      "created_at": "Thu Jul 23 16:25:07 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 19608297,
+          "media_url": "http://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+          "source_user_id_str": "19608297",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/l09rrNNzBP",
+          "expanded_url": "http://twitter.com/HRC/status/624253921406636032/photo/1",
+          "url": "http://t.co/l09rrNNzBP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+          "source_status_id_str": "624253921406636032",
+          "id_str": "624253921209516032",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "id": 624253921209516032,
+          "source_status_id": 624253921406636032
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 624265130663124992,
+    "id_str": "624265130663124992",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "EqualityForward",
+          "indices": [
+            109,
+            125
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 19608297,
+          "media_url": "http://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+          "source_user_id_str": "19608297",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/l09rrNNzBP",
+          "expanded_url": "http://twitter.com/HRC/status/624253921406636032/photo/1",
+          "url": "http://t.co/l09rrNNzBP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnLokdWgAAl6Ts.png",
+          "source_status_id_str": "624253921406636032",
+          "id_str": "624253921209516032",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 720
+            }
+          },
+          "id": 624253921209516032,
+          "source_status_id": 624253921406636032
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/yyiIiAY8FD",
+          "indices": [
+            86,
+            108
+          ],
+          "display_url": "HRC.org/EqualityForward",
+          "expanded_url": "http://HRC.org/EqualityForward"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "HumanRightsCampaign",
+          "indices": [
+            3,
+            7
+          ],
+          "id_str": "19608297",
+          "id": 19608297,
+          "screen_name": "HRC"
+        },
+        {
+          "name": "Mark Takano",
+          "indices": [
+            39,
+            53
+          ],
+          "id_str": "1037321378",
+          "id": 1037321378,
+          "screen_name": "RepMarkTakano"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HRC: Thanks longtime HRC supporter @RepMarkTakano, co-sponsoring The Equality Act http://t.co/yyiIiAY8FD #EqualityForward http://t.co/l\u2026",
+    "lang": "en",
+    "created_at": "2015-07-23 17:09:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624251837382807552,
+    "id_str": "624251837382807552",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "LGBTAmericans",
+          "indices": [
+            0,
+            14
+          ]
+        },
+        {
+          "text": "equalityforward",
+          "indices": [
+            67,
+            83
+          ]
+        },
+        {
+          "text": "EqualityAct",
+          "indices": [
+            84,
+            96
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/NQiWu9dDxI",
+          "media_url": "http://pbs.twimg.com/media/CKnJu_9VEAAXsgd.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnJu_9VEAAXsgd.jpg",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/624251837382807552/photo/1",
+          "id_str": "624251832647356416",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 213
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 377
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 390
+            }
+          },
+          "display_url": "pic.twitter.com/NQiWu9dDxI",
+          "id": 624251832647356416
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/NQiWu9dDxI",
+          "media_url": "http://pbs.twimg.com/media/CKnJu_9VEAAXsgd.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKnJu_9VEAAXsgd.jpg",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/624251837382807552/photo/1",
+          "id_str": "624251832647356416",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 213
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 377
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 390
+            }
+          },
+          "display_url": "pic.twitter.com/NQiWu9dDxI",
+          "id": 624251832647356416
+        }
+      ]
+    },
+    "text": "#LGBTAmericans deserve full protection under the law. Bottom line. #equalityforward #EqualityAct http://t.co/NQiWu9dDxI",
+    "lang": "en",
+    "created_at": "2015-07-23 16:16:50+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624249357949382656,
+      "id_str": "624249357949382656",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/FgC0uDbLBt",
+            "indices": [
+              66,
+              89
+            ],
+            "display_url": "youtu.be/FeGNNlVdAEQ",
+            "expanded_url": "https://youtu.be/FeGNNlVdAEQ"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "EqualityForward",
+            "indices": [
+              90,
+              106
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1077017899",
+        "id": 1077017899
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Press conference for LGBT Equality Act of 2015 live streaming now https://t.co/FgC0uDbLBt #EqualityForward",
+      "lang": "en",
+      "created_at": "Thu Jul 23 16:06:59 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624251345466445824,
+    "id_str": "624251345466445824",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/FgC0uDbLBt",
+          "indices": [
+            86,
+            109
+          ],
+          "display_url": "youtu.be/FeGNNlVdAEQ",
+          "expanded_url": "https://youtu.be/FeGNNlVdAEQ"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EqualityForward",
+          "indices": [
+            110,
+            126
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Mary Emily O'Hara",
+          "indices": [
+            3,
+            18
+          ],
+          "id_str": "1077017899",
+          "id": 1077017899,
+          "screen_name": "MaryEmilyOHara"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MaryEmilyOHara: Press conference for LGBT Equality Act of 2015 live streaming now https://t.co/FgC0uDbLBt #EqualityForward",
+    "lang": "en",
+    "created_at": "2015-07-23 16:14:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 14,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624222330496098304,
+    "id_str": "624222330496098304",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "STEM",
+          "indices": [
+            29,
+            34
+          ]
+        },
+        {
+          "text": "MakerMovement",
+          "indices": [
+            93,
+            107
+          ]
+        },
+        {
+          "text": "FabLab",
+          "indices": [
+            108,
+            115
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/jQgh9m1Prs",
+          "media_url": "http://pbs.twimg.com/media/CKmuvSqWcAAgwQX.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKmuvSqWcAAgwQX.jpg",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/624222330496098304/photo/1",
+          "id_str": "624222150854078464",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 1280
+            }
+          },
+          "display_url": "pic.twitter.com/jQgh9m1Prs",
+          "id": 624222150854078464
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/jQgh9m1Prs",
+          "media_url": "http://pbs.twimg.com/media/CKmuvSqWcAAgwQX.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKmuvSqWcAAgwQX.jpg",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/624222330496098304/photo/1",
+          "id_str": "624222150854078464",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 1280
+            }
+          },
+          "display_url": "pic.twitter.com/jQgh9m1Prs",
+          "id": 624222150854078464
+        }
+      ]
+    },
+    "text": "Discussing the importance of #STEM education at the launch of DC\u2019s expanded fabrication lab. #MakerMovement #FabLab http://t.co/jQgh9m1Prs",
+    "lang": "en",
+    "created_at": "2015-07-23 14:19:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623975092180135936,
+    "id_str": "623975092180135936",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623973798983938049,
+      "id_str": "623973798983938049",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Judy Chu",
+            "indices": [
+              1,
+              12
+            ],
+            "id_str": "193732179",
+            "id": 193732179,
+            "screen_name": "RepJudyChu"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "17289717",
+        "id": 17289717
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepJudyChu should really have an informative townhall series in CA called \"What Chu Doin'\"",
+      "lang": "en",
+      "created_at": "Wed Jul 22 21:52:01 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/oGYDWHQzPT",
+          "indices": [
+            6,
+            29
+          ],
+          "display_url": "twitter.com/byersalex/stat\u2026",
+          "expanded_url": "https://twitter.com/byersalex/status/623973798983938049"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "623973798983938049",
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "created_at": "2015-07-22 21:57:09+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Yes.  https://t.co/oGYDWHQzPT",
+    "lang": "und",
+    "quoted_status_id": 623973798983938049
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 14,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623591567811563520,
+    "id_str": "623591567811563520",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/6scpCVTE6j",
+          "media_url": "http://pbs.twimg.com/media/CKdxEXnUEAAOt1s.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdxEXnUEAAOt1s.png",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/623591567811563520/photo/1",
+          "id_str": "623591393286426624",
+          "indices": [
+            71,
+            93
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 120
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 515,
+              "resize": "fit",
+              "h": 183
+            },
+            "large": {
+              "w": 515,
+              "resize": "fit",
+              "h": 183
+            }
+          },
+          "display_url": "pic.twitter.com/6scpCVTE6j",
+          "id": 623591393286426624
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/PvvgV0Vuxd",
+          "indices": [
+            28,
+            50
+          ],
+          "display_url": "time.com/3966291/donald\u2026",
+          "expanded_url": "http://time.com/3966291/donald-trump-insult-generator/"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Donald Trump Insults",
+          "indices": [
+            56,
+            70
+          ],
+          "id_str": "3286549062",
+          "id": 3286549062,
+          "screen_name": "TrumpInsulter"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/6scpCVTE6j",
+          "media_url": "http://pbs.twimg.com/media/CKdxEXnUEAAOt1s.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKdxEXnUEAAOt1s.png",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/623591567811563520/photo/1",
+          "id_str": "623591393286426624",
+          "indices": [
+            71,
+            93
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 120
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 515,
+              "resize": "fit",
+              "h": 183
+            },
+            "large": {
+              "w": 515,
+              "resize": "fit",
+              "h": 183
+            }
+          },
+          "display_url": "pic.twitter.com/6scpCVTE6j",
+          "id": 623591393286426624
+        }
+      ]
+    },
+    "text": "Well, that's not very nice. http://t.co/PvvgV0Vuxd\n\ncc: @TrumpInsulter http://t.co/6scpCVTE6j",
+    "lang": "en",
+    "created_at": "2015-07-21 20:33:10+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622105057824260096,
+    "id_str": "622105057824260096",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "EidMubarak",
+          "indices": [
+            0,
+            11
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#EidMubarak to my friends celebrating the end of Ramadan!",
+    "lang": "en",
+    "created_at": "2015-07-17 18:06:18+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 9,
+      "favorite_count": 9,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622090424438525952,
+      "id_str": "622090424438525952",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "NN15",
+            "indices": [
+              122,
+              127
+            ]
+          },
+          {
+            "text": "PhlEd",
+            "indices": [
+              128,
+              134
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Mark Takano",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "1037321378",
+            "id": 1037321378,
+            "screen_name": "RepMarkTakano"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "304595799",
+        "id": 304595799
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": ".@RepMarkTakano on SCOTUS equality ruling. More LGBT kids will come out and educators have to be prepared and supportive. #NN15 #PhlEd",
+      "lang": "en",
+      "created_at": "Fri Jul 17 17:08:09 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 622091400432234496,
+    "id_str": "622091400432234496",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "NN15",
+          "indices": [
+            139,
+            140
+          ]
+        },
+        {
+          "text": "PhlEd",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Helen Gym",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "304595799",
+          "id": 304595799,
+          "screen_name": "HelenGym2015"
+        },
+        {
+          "name": "Mark Takano",
+          "indices": [
+            19,
+            33
+          ],
+          "id_str": "1037321378",
+          "id": 1037321378,
+          "screen_name": "RepMarkTakano"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HelenGym2015: .@RepMarkTakano on SCOTUS equality ruling. More LGBT kids will come out and educators have to be prepared and supportive.\u2026",
+    "lang": "en",
+    "created_at": "2015-07-17 17:12:02+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 9,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 8,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 622073528116875264,
+      "id_str": "622073528116875264",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "nn15",
+            "indices": [
+              48,
+              53
+            ]
+          },
+          {
+            "text": "Congress",
+            "indices": [
+              78,
+              87
+            ]
+          },
+          {
+            "text": "ESEA",
+            "indices": [
+              108,
+              113
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/0d5MZBdlJH",
+            "media_url": "http://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+            "expanded_url": "http://twitter.com/NEAMedia/status/622073528116875264/photo/1",
+            "id_str": "622073527349346305",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/0d5MZBdlJH",
+            "id": 622073527349346305
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Mark Takano",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "1037321378",
+            "id": 1037321378,
+            "screen_name": "RepMarkTakano"
+          },
+          {
+            "name": "NEA",
+            "indices": [
+              25,
+              34
+            ],
+            "id_str": "22789766",
+            "id": 22789766,
+            "screen_name": "NEAToday"
+          },
+          {
+            "name": "Lily Eskelsen Garc\u00eda",
+            "indices": [
+              64,
+              73
+            ],
+            "id_str": "2613691501",
+            "id": 2613691501,
+            "screen_name": "Lily_NEA"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "59238436",
+        "id": 59238436
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/0d5MZBdlJH",
+            "media_url": "http://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+            "expanded_url": "http://twitter.com/NEAMedia/status/622073528116875264/photo/1",
+            "id_str": "622073527349346305",
+            "indices": [
+              114,
+              136
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/0d5MZBdlJH",
+            "id": 622073527349346305
+          }
+        ]
+      },
+      "text": ".@RepMarkTakano stops by @NEAToday breakfast at #nn15 to chat w @Lily_NEA abt #Congress historic passage of #ESEA http://t.co/0d5MZBdlJH",
+      "lang": "en",
+      "created_at": "Fri Jul 17 16:01:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 59238436,
+          "media_url": "http://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+          "source_user_id_str": "59238436",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/0d5MZBdlJH",
+          "expanded_url": "http://twitter.com/NEAMedia/status/622073528116875264/photo/1",
+          "url": "http://t.co/0d5MZBdlJH",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+          "source_status_id_str": "622073528116875264",
+          "id_str": "622073527349346305",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 622073527349346305,
+          "source_status_id": 622073528116875264
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 622073739300225024,
+    "id_str": "622073739300225024",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "nn15",
+          "indices": [
+            62,
+            67
+          ]
+        },
+        {
+          "text": "Congress",
+          "indices": [
+            92,
+            101
+          ]
+        },
+        {
+          "text": "ESEA",
+          "indices": [
+            122,
+            127
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 59238436,
+          "media_url": "http://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+          "source_user_id_str": "59238436",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/0d5MZBdlJH",
+          "expanded_url": "http://twitter.com/NEAMedia/status/622073528116875264/photo/1",
+          "url": "http://t.co/0d5MZBdlJH",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKIMk8XVAAETn40.jpg",
+          "source_status_id_str": "622073528116875264",
+          "id_str": "622073527349346305",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 622073527349346305,
+          "source_status_id": 622073528116875264
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "NEA Public Relations",
+          "indices": [
+            3,
+            12
+          ],
+          "id_str": "59238436",
+          "id": 59238436,
+          "screen_name": "NEAMedia"
+        },
+        {
+          "name": "Mark Takano",
+          "indices": [
+            15,
+            29
+          ],
+          "id_str": "1037321378",
+          "id": 1037321378,
+          "screen_name": "RepMarkTakano"
+        },
+        {
+          "name": "NEA",
+          "indices": [
+            39,
+            48
+          ],
+          "id_str": "22789766",
+          "id": 22789766,
+          "screen_name": "NEAToday"
+        },
+        {
+          "name": "Lily Eskelsen Garc\u00eda",
+          "indices": [
+            78,
+            87
+          ],
+          "id_str": "2613691501",
+          "id": 2613691501,
+          "screen_name": "Lily_NEA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @NEAMedia: .@RepMarkTakano stops by @NEAToday breakfast at #nn15 to chat w @Lily_NEA abt #Congress historic passage of #ESEA http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-07-17 16:01:51+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621657691648323585,
+      "id_str": "621657691648323585",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "education",
+            "indices": [
+              33,
+              43
+            ]
+          },
+          {
+            "text": "studentsuccessact",
+            "indices": [
+              59,
+              77
+            ]
+          },
+          {
+            "text": "edpolicy",
+            "indices": [
+              78,
+              87
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/lmfa1i3KnU",
+            "media_url": "http://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+            "expanded_url": "http://twitter.com/cspanwj/status/621657691648323585/photo/1",
+            "id_str": "621657691207933952",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/lmfa1i3KnU",
+            "id": 621657691207933952
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Mark Takano",
+            "indices": [
+              1,
+              15
+            ],
+            "id_str": "1037321378",
+            "id": 1037321378,
+            "screen_name": "RepMarkTakano"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15923226",
+        "id": 15923226
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/lmfa1i3KnU",
+            "media_url": "http://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+            "expanded_url": "http://twitter.com/cspanwj/status/621657691648323585/photo/1",
+            "id_str": "621657691207933952",
+            "indices": [
+              88,
+              110
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/lmfa1i3KnU",
+            "id": 621657691207933952
+          }
+        ]
+      },
+      "text": ".@RepMarkTakano (D-CA) discusses #education policy and the #studentsuccessact #edpolicy http://t.co/lmfa1i3KnU",
+      "lang": "en",
+      "created_at": "Thu Jul 16 12:28:38 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 15923226,
+          "media_url": "http://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+          "source_user_id_str": "15923226",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "pic.twitter.com/lmfa1i3KnU",
+          "expanded_url": "http://twitter.com/cspanwj/status/621657691648323585/photo/1",
+          "url": "http://t.co/lmfa1i3KnU",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+          "source_status_id_str": "621657691648323585",
+          "id_str": "621657691207933952",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 621657691207933952,
+          "source_status_id": 621657691648323585
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621658526381903872,
+    "id_str": "621658526381903872",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "education",
+          "indices": [
+            46,
+            56
+          ]
+        },
+        {
+          "text": "studentsuccessact",
+          "indices": [
+            72,
+            90
+          ]
+        },
+        {
+          "text": "edpolicy",
+          "indices": [
+            91,
+            100
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 15923226,
+          "media_url": "http://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+          "source_user_id_str": "15923226",
+          "indices": [
+            101,
+            123
+          ],
+          "display_url": "pic.twitter.com/lmfa1i3KnU",
+          "expanded_url": "http://twitter.com/cspanwj/status/621657691648323585/photo/1",
+          "url": "http://t.co/lmfa1i3KnU",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKCSYGBWoAAdGJT.jpg",
+          "source_status_id_str": "621657691648323585",
+          "id_str": "621657691207933952",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 621657691207933952,
+          "source_status_id": 621657691648323585
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Washington Journal",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "15923226",
+          "id": 15923226,
+          "screen_name": "cspanwj"
+        },
+        {
+          "name": "Mark Takano",
+          "indices": [
+            14,
+            28
+          ],
+          "id_str": "1037321378",
+          "id": 1037321378,
+          "screen_name": "RepMarkTakano"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @cspanwj: .@RepMarkTakano (D-CA) discusses #education policy and the #studentsuccessact #edpolicy http://t.co/lmfa1i3KnU",
+    "lang": "en",
+    "created_at": "2015-07-16 12:31:57+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621658032271982592,
+    "id_str": "621658032271982592",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "ESEA",
+          "indices": [
+            55,
+            60
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/dlLsFbNG9q",
+          "media_url": "http://pbs.twimg.com/media/CKCSp8MXAAAbr8G.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKCSp8MXAAAbr8G.jpg",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/621658032271982592/photo/1",
+          "id_str": "621657997807386624",
+          "indices": [
+            70,
+            92
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/dlLsFbNG9q",
+          "id": 621657997807386624
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "CSPAN",
+          "indices": [
+            1,
+            7
+          ],
+          "id_str": "15675138",
+          "id": 15675138,
+          "screen_name": "cspan"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/dlLsFbNG9q",
+          "media_url": "http://pbs.twimg.com/media/CKCSp8MXAAAbr8G.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKCSp8MXAAAbr8G.jpg",
+          "expanded_url": "http://twitter.com/RepMarkTakano/status/621658032271982592/photo/1",
+          "id_str": "621657997807386624",
+          "indices": [
+            70,
+            92
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/dlLsFbNG9q",
+          "id": 621657997807386624
+        }
+      ]
+    },
+    "text": ".@CSPAN viewers! I can't wait to take your calls about #ESEA. Really. http://t.co/dlLsFbNG9q",
+    "lang": "en",
+    "created_at": "2015-07-16 12:29:59+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621512901833138181,
+    "id_str": "621512901833138181",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": true,
+      "retweet_count": 60,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 63,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Los Angeles, CA",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -118.668404,
+                33.704538
+              ],
+              [
+                -118.155409,
+                33.704538
+              ],
+              [
+                -118.155409,
+                34.337041
+              ],
+              [
+                -118.668404,
+                34.337041
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/3b77caf94bfc81fe.json",
+        "name": "Los Angeles",
+        "country": "United States",
+        "place_type": "city",
+        "id": "3b77caf94bfc81fe"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621505928186060800,
+      "id_str": "621505928186060800",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/Qmn1Ov3iHy",
+            "indices": [
+              61,
+              84
+            ],
+            "display_url": "twitter.com/espys/status/6\u2026",
+            "expanded_url": "https://twitter.com/espys/status/621503884993896449"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "ESPYS",
+            "indices": [
+              54,
+              60
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Caitlyn Jenner",
+            "indices": [
+              29,
+              44
+            ],
+            "id_str": "3303293865",
+            "id": 3303293865,
+            "screen_name": "Caitlyn_Jenner"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "quoted_status_id_str": "621503884993896449",
+      "user": {
+        "id_str": "21692297",
+        "id": 21692297
+      },
+      "favorited": false,
+      "created_at": "Thu Jul 16 02:25:34 +0000 2015",
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Here's the video that set-up @Caitlyn_Jenner's award: #ESPYS https://t.co/Qmn1Ov3iHy",
+      "lang": "en",
+      "quoted_status_id": 621503884993896449
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/L48e8EBy3D",
+          "indices": [
+            54,
+            77
+          ],
+          "display_url": "twitter.com/TheAdvocateMag\u2026",
+          "expanded_url": "https://twitter.com/TheAdvocateMag/status/621505928186060800"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "621505928186060800",
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "created_at": "2015-07-16 02:53:17+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "60 seconds in and I'm already tearing up. Wonderful.  https://t.co/L48e8EBy3D",
+    "lang": "en",
+    "quoted_status_id": 621505928186060800
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 20,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 36,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621510403776991232,
+    "id_str": "621510403776991232",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1166,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2067,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621507782433333248,
+      "id_str": "621507782433333248",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "ESPYs",
+            "indices": [
+              38,
+              44
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/YTXLWVbPGX",
+            "media_url": "http://pbs.twimg.com/media/CKAJ9C5UYAAaX6v.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKAJ9C5UYAAaX6v.png",
+            "expanded_url": "http://twitter.com/BuzzFeedNews/status/621507782433333248/photo/1",
+            "id_str": "621507692931080192",
+            "indices": [
+              85,
+              107
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 192
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 339
+              },
+              "large": {
+                "w": 795,
+                "resize": "fit",
+                "h": 450
+              }
+            },
+            "display_url": "pic.twitter.com/YTXLWVbPGX",
+            "id": 621507692931080192
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1020058453",
+        "id": 1020058453
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/YTXLWVbPGX",
+            "media_url": "http://pbs.twimg.com/media/CKAJ9C5UYAAaX6v.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKAJ9C5UYAAaX6v.png",
+            "expanded_url": "http://twitter.com/BuzzFeedNews/status/621507782433333248/photo/1",
+            "id_str": "621507692931080192",
+            "indices": [
+              85,
+              107
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 192
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 339
+              },
+              "large": {
+                "w": 795,
+                "resize": "fit",
+                "h": 450
+              }
+            },
+            "display_url": "pic.twitter.com/YTXLWVbPGX",
+            "id": 621507692931080192
+          }
+        ]
+      },
+      "text": "Caitlyn Jenner takes the stage at the #ESPYs to accept the Arthur Ashe Courage Award http://t.co/YTXLWVbPGX",
+      "lang": "en",
+      "created_at": "Thu Jul 16 02:32:57 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ruFcSY3TvL",
+          "indices": [
+            44,
+            67
+          ],
+          "display_url": "twitter.com/BuzzFeedNews/s\u2026",
+          "expanded_url": "https://twitter.com/BuzzFeedNews/status/621507782433333248"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ESPYS",
+          "indices": [
+            21,
+            27
+          ]
+        },
+        {
+          "text": "CaitlynJenner",
+          "indices": [
+            28,
+            42
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "621507782433333248",
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "created_at": "2015-07-16 02:43:22+00:00",
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Courage personified. #ESPYS #CaitlynJenner  https://t.co/ruFcSY3TvL",
+    "lang": "en",
+    "quoted_status_id": 621507782433333248
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 621426002540003329,
+      "id_str": "621426002540003329",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/t2PrFMCKcc",
+            "indices": [
+              52,
+              75
+            ],
+            "display_url": "instagram.com/p/5K9sTTrQ_e/",
+            "expanded_url": "https://instagram.com/p/5K9sTTrQ_e/"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Mark Takano",
+            "indices": [
+              37,
+              51
+            ],
+            "id_str": "1037321378",
+            "id": 1037321378,
+            "screen_name": "RepMarkTakano"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "96215342",
+        "id": 96215342
+      },
+      "favorited": false,
+      "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Best board in the Capitol. Nice work @RepMarkTakano https://t.co/t2PrFMCKcc",
+      "lang": "en",
+      "created_at": "Wed Jul 15 21:07:59 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621426385144426497,
+    "id_str": "621426385144426497",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/t2PrFMCKcc",
+          "indices": [
+            68,
+            91
+          ],
+          "display_url": "instagram.com/p/5K9sTTrQ_e/",
+          "expanded_url": "https://instagram.com/p/5K9sTTrQ_e/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Josh Sulier",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "96215342",
+          "id": 96215342,
+          "screen_name": "joshsulier"
+        },
+        {
+          "name": "Mark Takano",
+          "indices": [
+            53,
+            67
+          ],
+          "id_str": "1037321378",
+          "id": 1037321378,
+          "screen_name": "RepMarkTakano"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @joshsulier: Best board in the Capitol. Nice work @RepMarkTakano https://t.co/t2PrFMCKcc",
+    "lang": "en",
+    "created_at": "2015-07-15 21:09:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621407669153341441,
+    "id_str": "621407669153341441",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/53e1MBXOKp",
+          "indices": [
+            65,
+            87
+          ],
+          "display_url": "washingtonpost.com/local/social-i\u2026",
+          "expanded_url": "http://www.washingtonpost.com/local/social-issues/hud-moves-to-protect-older-lgbt-people-obama-pushes-auto-ira-plans/2015/07/13/fc12f608-299b-11e5-bd33-395c05608059_story.html"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "HUDgov",
+          "indices": [
+            10,
+            17
+          ],
+          "id_str": "19948202",
+          "id": 19948202,
+          "screen_name": "HUDgov"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I commend @HUDgov taking steps to protect older LGBT Americans!\n\nhttp://t.co/53e1MBXOKp",
+    "lang": "en",
+    "created_at": "2015-07-15 19:55:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 16,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621393472440958977,
+    "id_str": "621393472440958977",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/S18XJMWP7y",
+          "indices": [
+            115,
+            138
+          ],
+          "display_url": "youtube.com/watch?v=Fbvkrz\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=Fbvkrzf_Z48"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "1037321378",
+      "screen_name": "repmarktakano",
+      "id": 1037321378
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My office decided to put together a quick guide to help you understand the proposed overtime rules. Check it out!\n\nhttps://t.co/S18XJMWP7y",
+    "lang": "en",
+    "created_at": "2015-07-15 18:58:43+00:00"
+  }
+]

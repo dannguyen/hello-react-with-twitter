@@ -1,0 +1,2188 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 1,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/dYvAMqsCHc",
+            "media_url": "http://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+            "expanded_url": "http://twitter.com/Indiana_Soy/status/621400284133257220/photo/1",
+            "id_str": "621400279083294721",
+            "indices": [
+              75,
+              97
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/dYvAMqsCHc",
+            "id": 621400279083294721
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 621400284133257220,
+      "id_str": "621400284133257220",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/dYvAMqsCHc",
+            "media_url": "http://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+            "expanded_url": "http://twitter.com/Indiana_Soy/status/621400284133257220/photo/1",
+            "id_str": "621400279083294721",
+            "indices": [
+              75,
+              97
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/dYvAMqsCHc",
+            "id": 621400279083294721
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "id_str": "211901075",
+            "indices": [
+              10,
+              22
+            ],
+            "name": "Rep. Marlin Stutzman",
+            "id": 211901075,
+            "screen_name": "RepStutzman"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "870165824",
+        "id": 870165824
+      },
+      "text": "Thanks to @RepStutzman for taking time for soybean farmers this afternoon! http://t.co/dYvAMqsCHc",
+      "lang": "en",
+      "created_at": "Wed Jul 15 19:25:47 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 870165824,
+          "media_url": "http://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+          "source_user_id_str": "870165824",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "pic.twitter.com/dYvAMqsCHc",
+          "expanded_url": "http://twitter.com/Indiana_Soy/status/621400284133257220/photo/1",
+          "url": "http://t.co/dYvAMqsCHc",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+          "source_status_id_str": "621400284133257220",
+          "id_str": "621400279083294721",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 621400279083294721,
+          "source_status_id": 621400284133257220
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 621453797173424130,
+    "id_str": "621453797173424130",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 870165824,
+          "media_url": "http://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+          "source_user_id_str": "870165824",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "pic.twitter.com/dYvAMqsCHc",
+          "expanded_url": "http://twitter.com/Indiana_Soy/status/621400284133257220/photo/1",
+          "url": "http://t.co/dYvAMqsCHc",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CJ-oQvIWoAE0KEg.jpg",
+          "source_status_id_str": "621400284133257220",
+          "id_str": "621400279083294721",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 621400279083294721,
+          "source_status_id": 621400284133257220
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "870165824",
+          "indices": [
+            3,
+            15
+          ],
+          "name": "Indiana Soy Farmers",
+          "id": 870165824,
+          "screen_name": "Indiana_Soy"
+        },
+        {
+          "id_str": "211901075",
+          "indices": [
+            27,
+            39
+          ],
+          "name": "Rep. Marlin Stutzman",
+          "id": 211901075,
+          "screen_name": "RepStutzman"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://www.twitter.com\" rel=\"nofollow\">Twitter for BlackBerry</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "text": "RT @Indiana_Soy: Thanks to @RepStutzman for taking time for soybean farmers this afternoon! http://t.co/dYvAMqsCHc",
+    "lang": "en",
+    "created_at": "2015-07-15 22:58:25+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "581459981872037888",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "2361224263",
+          "indices": [
+            9,
+            21
+          ],
+          "name": "The Daily Signal",
+          "id": 2361224263,
+          "screen_name": "DailySignal"
+        },
+        {
+          "id_str": "22528309",
+          "indices": [
+            29,
+            45
+          ],
+          "name": "RSC",
+          "id": 22528309,
+          "screen_name": "RepublicanStudy"
+        },
+        {
+          "id_str": "237312687",
+          "indices": [
+            77,
+            91
+          ],
+          "name": "Rep. Bill Flores",
+          "id": 237312687,
+          "screen_name": "RepBillFlores"
+        }
+      ],
+      "hashtags": [],
+      "urls": [
+        {
+          "url": "http://t.co/xzLmf99cPX",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "dailysign.al/1F0TVHj",
+          "expanded_url": "http://dailysign.al/1F0TVHj"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 581459981872037888,
+    "text": "Story in @DailySignal on the @RepublicanStudy budget. I'm proud to work with @RepBillFlores and the rest of the RSC!\n\nhttp://t.co/xzLmf99cPX",
+    "lang": "en",
+    "created_at": "2015-03-27 14:17:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "580843876015030272",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "22528309",
+          "indices": [
+            18,
+            34
+          ],
+          "name": "RSC",
+          "id": 22528309,
+          "screen_name": "RepublicanStudy"
+        },
+        {
+          "id_str": "237312687",
+          "indices": [
+            43,
+            57
+          ],
+          "name": "Rep. Bill Flores",
+          "id": 237312687,
+          "screen_name": "RepBillFlores"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Reform",
+          "indices": [
+            85,
+            92
+          ]
+        },
+        {
+          "text": "BalancedBudget",
+          "indices": [
+            93,
+            108
+          ]
+        },
+        {
+          "text": "fiscalresponsibilty",
+          "indices": [
+            109,
+            129
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "https://t.co/NtgHyK45Ke",
+          "indices": [
+            60,
+            83
+          ],
+          "display_url": "youtube.com/watch?v=VAQD7S\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=VAQD7SSFqnM"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580843876015030272,
+    "text": "My remarks on the @RepublicanStudy budget. @RepBillFlores \n\nhttps://t.co/NtgHyK45Ke\n\n#Reform #BalancedBudget #fiscalresponsibilty",
+    "lang": "en",
+    "created_at": "2015-03-25 21:29:06+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 580471943146696705,
+    "id_str": "580471943146696705",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "212262370",
+          "indices": [
+            18,
+            30
+          ],
+          "name": "Senator Dan Coats",
+          "id": 212262370,
+          "screen_name": "SenDanCoats"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "ProudHoosier",
+          "indices": [
+            131,
+            144
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'd like to thank @SenDanCoats for his career in public service &amp; I look forward to working with him as he finishes his term. \n#ProudHoosier",
+    "lang": "en",
+    "created_at": "2015-03-24 20:51:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/gwqAGgwEwN",
+          "media_url": "http://pbs.twimg.com/media/CAzjmJRWYAAOuLR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAzjmJRWYAAOuLR.jpg",
+          "expanded_url": "http://twitter.com/RepStutzman/status/580088696868859904/photo/1",
+          "id_str": "580088696487174144",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/gwqAGgwEwN",
+          "id": 580088696487174144
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 580088696868859904,
+    "id_str": "580088696868859904",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/gwqAGgwEwN",
+          "media_url": "http://pbs.twimg.com/media/CAzjmJRWYAAOuLR.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAzjmJRWYAAOuLR.jpg",
+          "expanded_url": "http://twitter.com/RepStutzman/status/580088696868859904/photo/1",
+          "id_str": "580088696487174144",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "large": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "medium": {
+              "w": 480,
+              "resize": "fit",
+              "h": 640
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/gwqAGgwEwN",
+          "id": 580088696487174144
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "22528309",
+          "indices": [
+            29,
+            45
+          ],
+          "name": "RSC",
+          "id": 22528309,
+          "screen_name": "RepublicanStudy"
+        },
+        {
+          "id_str": "237312687",
+          "indices": [
+            58,
+            72
+          ],
+          "name": "Rep. Bill Flores",
+          "id": 237312687,
+          "screen_name": "RepBillFlores"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "text": "Briefing reporters about the @RepublicanStudy budget with @RepBillFlores. Let's put America on a path to success! http://t.co/gwqAGgwEwN",
+    "lang": "en",
+    "created_at": "2015-03-23 19:28:17+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 580005010064412672,
+    "id_str": "580005010064412672",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "237312687",
+          "indices": [
+            102,
+            116
+          ],
+          "name": "Rep. Bill Flores",
+          "id": 237312687,
+          "screen_name": "RepBillFlores"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RSCBudget",
+          "indices": [
+            4,
+            14
+          ]
+        },
+        {
+          "text": "Reform",
+          "indices": [
+            119,
+            126
+          ]
+        },
+        {
+          "text": "Budget",
+          "indices": [
+            127,
+            134
+          ]
+        },
+        {
+          "text": "RSC",
+          "indices": [
+            135,
+            139
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The #RSCBudget reforms the way Washington does business. It's time to restore fiscal responsibility!  @RepBillFlores \n\n#Reform #Budget #RSC",
+    "lang": "en",
+    "created_at": "2015-03-23 13:55:45+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 7,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id_str": "580001943730446336",
+      "entities": {
+        "symbols": [],
+        "user_mentions": [],
+        "hashtags": [
+          {
+            "text": "RSCBudget",
+            "indices": [
+              4,
+              14
+            ]
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/EL49FL4fBq",
+            "indices": [
+              87,
+              109
+            ],
+            "display_url": "1.usa.gov/1FtPeZz",
+            "expanded_url": "http://1.usa.gov/1FtPeZz"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22528309",
+        "id": 22528309
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "id": 580001943730446336,
+      "text": "The #RSCBudget balances in 2021 &amp; cuts $7.1 trillion from current spending levels: http://t.co/EL49FL4fBq",
+      "lang": "en",
+      "created_at": "Mon Mar 23 13:43:33 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "580004505053478912",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "22528309",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "RSC",
+          "id": 22528309,
+          "screen_name": "RepublicanStudy"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RSCBudget",
+          "indices": [
+            25,
+            35
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/EL49FL4fBq",
+          "indices": [
+            108,
+            130
+          ],
+          "display_url": "1.usa.gov/1FtPeZz",
+          "expanded_url": "http://1.usa.gov/1FtPeZz"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 580004505053478912,
+    "text": "RT @RepublicanStudy: The #RSCBudget balances in 2021 &amp; cuts $7.1 trillion from current spending levels: http://t.co/EL49FL4fBq",
+    "lang": "en",
+    "created_at": "2015-03-23 13:53:44+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 11,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/588MtJuFHR",
+            "media_url": "http://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+            "expanded_url": "http://twitter.com/RepublicanStudy/status/580001257429037056/photo/1",
+            "id_str": "580001045750812673",
+            "indices": [
+              107,
+              129
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/588MtJuFHR",
+            "id": 580001045750812673
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 580001257429037056,
+      "id_str": "580001257429037056",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/588MtJuFHR",
+            "media_url": "http://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+            "expanded_url": "http://twitter.com/RepublicanStudy/status/580001257429037056/photo/1",
+            "id_str": "580001045750812673",
+            "indices": [
+              107,
+              129
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 170
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 512
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 300
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/588MtJuFHR",
+            "id": 580001045750812673
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RSCBudget",
+            "indices": [
+              28,
+              38
+            ]
+          }
+        ],
+        "user_mentions": [],
+        "urls": [
+          {
+            "url": "http://t.co/EL49FL4fBq",
+            "indices": [
+              84,
+              106
+            ],
+            "display_url": "1.usa.gov/1FtPeZz",
+            "expanded_url": "http://1.usa.gov/1FtPeZz"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "22528309",
+        "id": 22528309
+      },
+      "text": "We just released our annual #RSCBudget for FY 2016. Read the highlights here --&gt; http://t.co/EL49FL4fBq http://t.co/588MtJuFHR",
+      "lang": "en",
+      "created_at": "Mon Mar 23 13:40:50 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 11,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 22528309,
+          "media_url": "http://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+          "source_user_id_str": "22528309",
+          "indices": [
+            128,
+            143
+          ],
+          "display_url": "pic.twitter.com/588MtJuFHR",
+          "expanded_url": "http://twitter.com/RepublicanStudy/status/580001257429037056/photo/1",
+          "url": "http://t.co/588MtJuFHR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+          "source_status_id_str": "580001257429037056",
+          "id_str": "580001045750812673",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 580001045750812673,
+          "source_status_id": 580001257429037056
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 580004482693664768,
+    "id_str": "580004482693664768",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 22528309,
+          "media_url": "http://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+          "source_user_id_str": "22528309",
+          "indices": [
+            128,
+            143
+          ],
+          "display_url": "pic.twitter.com/588MtJuFHR",
+          "expanded_url": "http://twitter.com/RepublicanStudy/status/580001257429037056/photo/1",
+          "url": "http://t.co/588MtJuFHR",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAyT4M1VEAEF8S9.png",
+          "source_status_id_str": "580001257429037056",
+          "id_str": "580001045750812673",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 170
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 512
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 580001045750812673,
+          "source_status_id": 580001257429037056
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RSCBudget",
+          "indices": [
+            49,
+            59
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "22528309",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "RSC",
+          "id": 22528309,
+          "screen_name": "RepublicanStudy"
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/EL49FL4fBq",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "1.usa.gov/1FtPeZz",
+          "expanded_url": "http://1.usa.gov/1FtPeZz"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "text": "RT @RepublicanStudy: We just released our annual #RSCBudget for FY 2016. Read the highlights here --&gt; http://t.co/EL49FL4fBq http://t.co/58\u2026",
+    "lang": "en",
+    "created_at": "2015-03-23 13:53:39+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 578315416671535104,
+    "id_str": "578315416671535104",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Agriculture",
+          "indices": [
+            93,
+            105
+          ]
+        },
+        {
+          "text": "Farm",
+          "indices": [
+            106,
+            111
+          ]
+        },
+        {
+          "text": "AgricultureDay",
+          "indices": [
+            112,
+            127
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy Agriculture Day, all! Our farmers and ranchers are a vital part of America's future! \n\n#Agriculture #Farm #AgricultureDay",
+    "lang": "en",
+    "created_at": "2015-03-18 22:01:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 578238220711956480,
+    "id_str": "578238220711956480",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Tunisia",
+          "indices": [
+            110,
+            118
+          ]
+        },
+        {
+          "text": "Peace",
+          "indices": [
+            119,
+            125
+          ]
+        },
+        {
+          "text": "Freedom",
+          "indices": [
+            126,
+            134
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I strongly condemn the terror attacks in Tunisia. The world must stay united in our fight against terrorism.\n\n#Tunisia #Peace #Freedom",
+    "lang": "en",
+    "created_at": "2015-03-18 16:55:09+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "possibly_sensitive": false,
+      "coordinates": null,
+      "retweet_count": 10,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/2ubpKZLLXi",
+            "media_url": "http://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+            "expanded_url": "http://twitter.com/RepublicanStudy/status/577804701036650496/photo/1",
+            "id_str": "577804700717867008",
+            "indices": [
+              100,
+              122
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 640
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/2ubpKZLLXi",
+            "id": 577804700717867008
+          }
+        ]
+      },
+      "in_reply_to_user_id_str": null,
+      "id": 577804701036650496,
+      "id_str": "577804701036650496",
+      "entities": {
+        "symbols": [],
+        "media": [
+          {
+            "url": "http://t.co/2ubpKZLLXi",
+            "media_url": "http://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+            "expanded_url": "http://twitter.com/RepublicanStudy/status/577804701036650496/photo/1",
+            "id_str": "577804700717867008",
+            "indices": [
+              100,
+              122
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 640
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              }
+            },
+            "display_url": "pic.twitter.com/2ubpKZLLXi",
+            "id": 577804700717867008
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "BeaconBreakfast",
+            "indices": [
+              82,
+              98
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "id_str": "237312687",
+            "indices": [
+              1,
+              15
+            ],
+            "name": "Rep. Bill Flores",
+            "id": 237312687,
+            "screen_name": "RepBillFlores"
+          },
+          {
+            "id_str": "211901075",
+            "indices": [
+              22,
+              34
+            ],
+            "name": "Rep. Marlin Stutzman",
+            "id": 211901075,
+            "screen_name": "RepStutzman"
+          },
+          {
+            "id_str": "455764741",
+            "indices": [
+              61,
+              72
+            ],
+            "name": "Free Beacon",
+            "id": 455764741,
+            "screen_name": "FreeBeacon"
+          }
+        ],
+        "urls": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "user": {
+        "id_str": "22528309",
+        "id": 22528309
+      },
+      "text": ".@RepBillFlores &amp; @RepStutzman are sitting down with the @FreeBeacon this AM! #BeaconBreakfast. http://t.co/2ubpKZLLXi",
+      "lang": "en",
+      "created_at": "Tue Mar 17 12:12:30 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 10,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 22528309,
+          "media_url": "http://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+          "source_user_id_str": "22528309",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "pic.twitter.com/2ubpKZLLXi",
+          "expanded_url": "http://twitter.com/RepublicanStudy/status/577804701036650496/photo/1",
+          "url": "http://t.co/2ubpKZLLXi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+          "source_status_id_str": "577804701036650496",
+          "id_str": "577804700717867008",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 577804700717867008,
+          "source_status_id": 577804701036650496
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 577876731878621184,
+    "id_str": "577876731878621184",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "source_user_id": 22528309,
+          "media_url": "http://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+          "source_user_id_str": "22528309",
+          "indices": [
+            121,
+            143
+          ],
+          "display_url": "pic.twitter.com/2ubpKZLLXi",
+          "expanded_url": "http://twitter.com/RepublicanStudy/status/577804701036650496/photo/1",
+          "url": "http://t.co/2ubpKZLLXi",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CATGUF_W4AAgPTd.jpg",
+          "source_status_id_str": "577804701036650496",
+          "id_str": "577804700717867008",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 640
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "id": 577804700717867008,
+          "source_status_id": 577804701036650496
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "BeaconBreakfast",
+          "indices": [
+            103,
+            119
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "id_str": "22528309",
+          "indices": [
+            3,
+            19
+          ],
+          "name": "RSC",
+          "id": 22528309,
+          "screen_name": "RepublicanStudy"
+        },
+        {
+          "id_str": "237312687",
+          "indices": [
+            22,
+            36
+          ],
+          "name": "Rep. Bill Flores",
+          "id": 237312687,
+          "screen_name": "RepBillFlores"
+        },
+        {
+          "id_str": "211901075",
+          "indices": [
+            43,
+            55
+          ],
+          "name": "Rep. Marlin Stutzman",
+          "id": 211901075,
+          "screen_name": "RepStutzman"
+        },
+        {
+          "id_str": "455764741",
+          "indices": [
+            82,
+            93
+          ],
+          "name": "Free Beacon",
+          "id": 455764741,
+          "screen_name": "FreeBeacon"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "text": "RT @RepublicanStudy: .@RepBillFlores &amp; @RepStutzman are sitting down with the @FreeBeacon this AM! #BeaconBreakfast. http://t.co/2ubpKZLLXi",
+    "lang": "en",
+    "created_at": "2015-03-17 16:58:43+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 577872067850153984,
+    "id_str": "577872067850153984",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "StPatricksDay",
+          "indices": [
+            36,
+            50
+          ]
+        },
+        {
+          "text": "Irish",
+          "indices": [
+            51,
+            57
+          ]
+        },
+        {
+          "text": "Spring",
+          "indices": [
+            58,
+            65
+          ]
+        },
+        {
+          "text": "Heritage",
+          "indices": [
+            66,
+            75
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Happy St. Patrick's Day, everyone!\n\n#StPatricksDay #Irish #Spring #Heritage",
+    "lang": "en",
+    "created_at": "2015-03-17 16:40:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/xNsh8jmLsz",
+          "media_url": "http://pbs.twimg.com/media/CAUDYX5UsAA774F.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAUDYX5UsAA774F.jpg",
+          "expanded_url": "http://twitter.com/RepStutzman/status/577871845040467968/photo/1",
+          "id_str": "577871844453167104",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xNsh8jmLsz",
+          "id": 577871844453167104
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 577871845040467968,
+    "id_str": "577871845040467968",
+    "entities": {
+      "symbols": [],
+      "media": [
+        {
+          "url": "http://t.co/xNsh8jmLsz",
+          "media_url": "http://pbs.twimg.com/media/CAUDYX5UsAA774F.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CAUDYX5UsAA774F.jpg",
+          "expanded_url": "http://twitter.com/RepStutzman/status/577871845040467968/photo/1",
+          "id_str": "577871844453167104",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 480
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            }
+          },
+          "display_url": "pic.twitter.com/xNsh8jmLsz",
+          "id": 577871844453167104
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "id_str": "237312687",
+          "indices": [
+            13,
+            27
+          ],
+          "name": "Rep. Bill Flores",
+          "id": 237312687,
+          "screen_name": "RepBillFlores"
+        },
+        {
+          "id_str": "22528309",
+          "indices": [
+            52,
+            68
+          ],
+          "name": "RSC",
+          "id": 22528309,
+          "screen_name": "RepublicanStudy"
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "text": "Chatted with @RepBillFlores and reporters about the @RepublicanStudy budget. Let's restore fiscal responsibility! http://t.co/xNsh8jmLsz",
+    "lang": "en",
+    "created_at": "2015-03-17 16:39:18+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "576754457855332352",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Veterans",
+          "indices": [
+            71,
+            80
+          ]
+        },
+        {
+          "text": "Heroes",
+          "indices": [
+            81,
+            88
+          ]
+        },
+        {
+          "text": "Indiana",
+          "indices": [
+            89,
+            97
+          ]
+        },
+        {
+          "text": "grateful",
+          "indices": [
+            98,
+            107
+          ]
+        },
+        {
+          "text": "Patriots",
+          "indices": [
+            108,
+            117
+          ]
+        },
+        {
+          "text": "service",
+          "indices": [
+            118,
+            126
+          ]
+        },
+        {
+          "text": "FortWayne",
+          "indices": [
+            127,
+            137
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/aoTo5pem1Y",
+          "indices": [
+            47,
+            69
+          ],
+          "display_url": "journalgazette.net/news/local/Cit\u2026",
+          "expanded_url": "http://www.journalgazette.net/news/local/City-leaderstout-new-VAhealth-annex-5537100"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 576754457855332352,
+    "text": "A new VA health care facility in Fort Wayne! \n\nhttp://t.co/aoTo5pem1Y\n\n#Veterans #Heroes #Indiana #grateful #Patriots #service #FortWayne",
+    "lang": "en",
+    "created_at": "2015-03-14 14:39:12+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 4,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "576041008644907008",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            90,
+            100
+          ]
+        },
+        {
+          "text": "MedicalDeviceTax",
+          "indices": [
+            101,
+            118
+          ]
+        },
+        {
+          "text": "Healthcare",
+          "indices": [
+            119,
+            130
+          ]
+        },
+        {
+          "text": "Reform",
+          "indices": [
+            131,
+            138
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/KOgtlRMvIb",
+          "indices": [
+            66,
+            88
+          ],
+          "display_url": "foxnews.com/opinion/2015/0\u2026",
+          "expanded_url": "http://www.foxnews.com/opinion/2015/03/11/want-to-grow-america-economy-repeal-medical-device-tax/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 576041008644907008,
+    "text": "Check out my op-ed on the need to repeal the medical device tax!\n\nhttp://t.co/KOgtlRMvIb\n\n#Obamacare #MedicalDeviceTax #Healthcare #Reform",
+    "lang": "en",
+    "created_at": "2015-03-12 15:24:13+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 575650528115449856,
+    "id_str": "575650528115449856",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts and prayers are with the 11 service members from last night's helicopter crash in FL. May God bless all who serve.",
+    "lang": "en",
+    "created_at": "2015-03-11 13:32:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 575355621245108224,
+    "id_str": "575355621245108224",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14410652",
+          "indices": [
+            58,
+            70
+          ],
+          "name": "The Club for Growth",
+          "id": 14410652,
+          "screen_name": "club4growth"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "reform",
+          "indices": [
+            129,
+            136
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Honored to have won the \"Economic Freedom Award\" from the @club4growth!!!! Let's continue our fight for fiscal responsibility. \n\n#reform",
+    "lang": "en",
+    "created_at": "2015-03-10 18:00:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 573213145499615232,
+    "id_str": "573213145499615232",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "14926939",
+          "indices": [
+            14,
+            23
+          ],
+          "name": "Jason Rezaian",
+          "id": 14926939,
+          "screen_name": "jrezaian"
+        },
+        {
+          "id_str": "2467791",
+          "indices": [
+            31,
+            46
+          ],
+          "name": "Washington Post",
+          "id": 2467791,
+          "screen_name": "washingtonpost"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Iran",
+          "indices": [
+            123,
+            128
+          ]
+        },
+        {
+          "text": "Freedom",
+          "indices": [
+            129,
+            137
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Iran has held @JRezaian of the @WashingtonPost in prison and without cause since July. He should be released immediately!\n\n#Iran #Freedom",
+    "lang": "en",
+    "created_at": "2015-03-04 20:07:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 15,
+    "favorite_count": 23,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 572801675670491136,
+    "id_str": "572801675670491136",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [],
+      "hashtags": [
+        {
+          "text": "StandWithIsrael",
+          "indices": [
+            85,
+            101
+          ]
+        },
+        {
+          "text": "Freedom",
+          "indices": [
+            102,
+            110
+          ]
+        },
+        {
+          "text": "Peace",
+          "indices": [
+            111,
+            117
+          ]
+        },
+        {
+          "text": "Security",
+          "indices": [
+            118,
+            127
+          ]
+        }
+      ],
+      "urls": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud to attend PM Netanyahu's speech today. America must always stand with Israel!\n\n#StandWithIsrael #Freedom #Peace #Security",
+    "lang": "en",
+    "created_at": "2015-03-03 16:52:16+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "possibly_sensitive": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id_str": "572411600335974400",
+    "entities": {
+      "symbols": [],
+      "user_mentions": [
+        {
+          "id_str": "19910847",
+          "indices": [
+            22,
+            36
+          ],
+          "name": "Matthew Tully",
+          "id": 19910847,
+          "screen_name": "matthewltully"
+        },
+        {
+          "id_str": "16550142",
+          "indices": [
+            44,
+            53
+          ],
+          "name": "IndyStar",
+          "id": 16550142,
+          "screen_name": "indystar"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Conservative",
+          "indices": [
+            114,
+            127
+          ]
+        },
+        {
+          "text": "Reform",
+          "indices": [
+            128,
+            135
+          ]
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/TC4n6MWjmz",
+          "indices": [
+            90,
+            112
+          ],
+          "display_url": "indystar.com/story/opinion/\u2026",
+          "expanded_url": "http://www.indystar.com/story/opinion/columnists/matthew-tully/2015/03/02/tully-rep-marlin-stutzman-conservative-discontent/24249039/"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "211901075",
+      "screen_name": "repstutzman",
+      "id": 211901075
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "id": 572411600335974400,
+    "text": "Had a nice convo with @matthewltully of the @indystar. Check out his opinion piece here.\n\nhttp://t.co/TC4n6MWjmz\n\n#Conservative #Reform",
+    "lang": "en",
+    "created_at": "2015-03-02 15:02:15+00:00",
+    "retweeted": false
+  }
+]

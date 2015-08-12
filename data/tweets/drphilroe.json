@@ -1,0 +1,1541 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Greeneville, TN",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -82.938339,
+                36.074756
+              ],
+              [
+                -82.758263,
+                36.074756
+              ],
+              [
+                -82.758263,
+                36.207564
+              ],
+              [
+                -82.938339,
+                36.207564
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/a46b4fbafe0dd5af.json",
+        "name": "Greeneville",
+        "country": "United States",
+        "place_type": "city",
+        "id": "a46b4fbafe0dd5af"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626776206159933440,
+      "id_str": "626776206159933440",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/tJByTSJw6L",
+            "indices": [
+              74,
+              96
+            ],
+            "display_url": "goo.gl/iSVw9g",
+            "expanded_url": "http://goo.gl/iSVw9g"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "IranDeal",
+            "indices": [
+              4,
+              13
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Dr. Phil Roe",
+            "indices": [
+              18,
+              28
+            ],
+            "id_str": "52503751",
+            "id": 52503751,
+            "screen_name": "DrPhilRoe"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "67003469",
+        "id": 67003469
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The #IranDeal has @DrPhilRoe issuing strong words of caution against it.  http://t.co/tJByTSJw6L",
+      "lang": "en",
+      "created_at": "Thu Jul 30 15:27:47 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626776392391372800,
+    "id_str": "626776392391372800",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tJByTSJw6L",
+          "indices": [
+            89,
+            111
+          ],
+          "display_url": "goo.gl/iSVw9g",
+          "expanded_url": "http://goo.gl/iSVw9g"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            19,
+            28
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Greeneville Sun",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "67003469",
+          "id": 67003469,
+          "screen_name": "GreeneSun"
+        },
+        {
+          "name": "Dr. Phil Roe",
+          "indices": [
+            33,
+            43
+          ],
+          "id_str": "52503751",
+          "id": 52503751,
+          "screen_name": "DrPhilRoe"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GreeneSun: The #IranDeal has @DrPhilRoe issuing strong words of caution against it.  http://t.co/tJByTSJw6L",
+    "lang": "en",
+    "created_at": "2015-07-30 15:28:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626763777803984896,
+    "id_str": "626763777803984896",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tcb1SEfEGt",
+          "indices": [
+            91,
+            113
+          ],
+          "display_url": "roe.house.gov/news/documents\u2026",
+          "expanded_url": "http://roe.house.gov/news/documentsingle.aspx?DocumentID=397904"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In case you missed it: Yesterday I voted for two bills that will help veterans. Read more: http://t.co/tcb1SEfEGt",
+    "lang": "en",
+    "created_at": "2015-07-30 14:38:23+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626145477730402304,
+    "id_str": "626145477730402304",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/N0Nd7rNOsQ",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "edworkforce.house.gov/news/documents\u2026",
+          "expanded_url": "http://edworkforce.house.gov/news/documentsingle.aspx?DocumentID=399215"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today I questioned HHS Sec. Burwell about Planned Parenthood videos. She hasn't bothered to watch, won't investigate: http://t.co/N0Nd7rNOsQ",
+    "lang": "en",
+    "created_at": "2015-07-28 21:41:29+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625784786574004224,
+    "id_str": "625784786574004224",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/wFKSuk5BQc",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "roe.house.gov/constituentser\u2026",
+          "expanded_url": "http://roe.house.gov/constituentservices/officehours/"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My traveling office hours for August are now up on my website. See when a member of my staff will be nearest you: http://t.co/wFKSuk5BQc",
+    "lang": "en",
+    "created_at": "2015-07-27 21:48:14+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624300958663712768,
+    "id_str": "624300958663712768",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/vGYPCsdpq7",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "roe.house.gov/forms/form/def\u2026",
+          "expanded_url": "https://roe.house.gov/forms/form/default.aspx?ID=255"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Talking about the Iran deal in this week's enewsletter. Make sure you sign up to read my thoughts on this agreement: https://t.co/vGYPCsdpq7",
+    "lang": "en",
+    "created_at": "2015-07-23 19:32:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623975615331454976",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "110545675",
+    "id": 623975884664520704,
+    "id_str": "623975884664520704",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Diane Black",
+          "indices": [
+            0,
+            14
+          ],
+          "id_str": "110545675",
+          "id": 110545675,
+          "screen_name": "RepDianeBlack"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623975615331454976,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 110545675,
+    "in_reply_to_screen_name": "RepDianeBlack",
+    "retweeted": false,
+    "text": "@RepDianeBlack Thank you, Diane!",
+    "lang": "en",
+    "created_at": "2015-07-22 22:00:18+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 9,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623962065632428033,
+      "id_str": "623962065632428033",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/aHFNlxyFYP",
+            "media_url": "http://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+            "expanded_url": "http://twitter.com/MarshaBlackburn/status/623962065632428033/photo/1",
+            "id_str": "623962065498173440",
+            "indices": [
+              84,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 254
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 449
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 767
+              }
+            },
+            "display_url": "pic.twitter.com/aHFNlxyFYP",
+            "id": 623962065498173440
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dr. Phil Roe",
+            "indices": [
+              15,
+              25
+            ],
+            "id_str": "52503751",
+            "id": 52503751,
+            "screen_name": "DrPhilRoe"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "278145569",
+        "id": 278145569
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/aHFNlxyFYP",
+            "media_url": "http://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+            "expanded_url": "http://twitter.com/MarshaBlackburn/status/623962065632428033/photo/1",
+            "id_str": "623962065498173440",
+            "indices": [
+              84,
+              106
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 254
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 449
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 767
+              }
+            },
+            "display_url": "pic.twitter.com/aHFNlxyFYP",
+            "id": 623962065498173440
+          }
+        ]
+      },
+      "text": "Happy Birthday @DrPhilRoe   Loving this TN Guitar pull as your big day celebration. http://t.co/aHFNlxyFYP",
+      "lang": "en",
+      "created_at": "Wed Jul 22 21:05:23 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 278145569,
+          "media_url": "http://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+          "source_user_id_str": "278145569",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "pic.twitter.com/aHFNlxyFYP",
+          "expanded_url": "http://twitter.com/MarshaBlackburn/status/623962065632428033/photo/1",
+          "url": "http://t.co/aHFNlxyFYP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+          "source_status_id_str": "623962065632428033",
+          "id_str": "623962065498173440",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "id": 623962065498173440,
+          "source_status_id": 623962065632428033
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623973016972730368,
+    "id_str": "623973016972730368",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 278145569,
+          "media_url": "http://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+          "source_user_id_str": "278145569",
+          "indices": [
+            105,
+            127
+          ],
+          "display_url": "pic.twitter.com/aHFNlxyFYP",
+          "expanded_url": "http://twitter.com/MarshaBlackburn/status/623962065632428033/photo/1",
+          "url": "http://t.co/aHFNlxyFYP",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjCMVNWcAAdYoq.jpg",
+          "source_status_id_str": "623962065632428033",
+          "id_str": "623962065498173440",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 254
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 449
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 767
+            }
+          },
+          "id": 623962065498173440,
+          "source_status_id": 623962065632428033
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Marsha Blackburn",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "278145569",
+          "id": 278145569,
+          "screen_name": "MarshaBlackburn"
+        },
+        {
+          "name": "Dr. Phil Roe",
+          "indices": [
+            36,
+            46
+          ],
+          "id_str": "52503751",
+          "id": 52503751,
+          "screen_name": "DrPhilRoe"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MarshaBlackburn: Happy Birthday @DrPhilRoe   Loving this TN Guitar pull as your big day celebration. http://t.co/aHFNlxyFYP",
+    "lang": "en",
+    "created_at": "2015-07-22 21:48:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623962065632428033",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "278145569",
+    "id": 623973003626446848,
+    "id_str": "623973003626446848",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Marsha Blackburn",
+          "indices": [
+            0,
+            16
+          ],
+          "id_str": "278145569",
+          "id": 278145569,
+          "screen_name": "MarshaBlackburn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623962065632428033,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 278145569,
+    "in_reply_to_screen_name": "MarshaBlackburn",
+    "retweeted": false,
+    "text": "@MarshaBlackburn Thank you for coming by!",
+    "lang": "en",
+    "created_at": "2015-07-22 21:48:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623972290296971264",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "20053279",
+    "id": 623972971686830080,
+    "id_str": "623972971686830080",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Pete Olson",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "20053279",
+          "id": 20053279,
+          "screen_name": "RepPeteOlson"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623972290296971264,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 20053279,
+    "in_reply_to_screen_name": "RepPeteOlson",
+    "retweeted": false,
+    "text": "@RepPeteOlson Thank you for coming by!",
+    "lang": "en",
+    "created_at": "2015-07-22 21:48:43+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623972290296971264,
+      "id_str": "623972290296971264",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/xRKfzhCJuH",
+            "media_url": "http://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+            "expanded_url": "http://twitter.com/RepPeteOlson/status/623972290296971264/photo/1",
+            "id_str": "623972289462317060",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/xRKfzhCJuH",
+            "id": 623972289462317060
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Dr. Phil Roe",
+            "indices": [
+              96,
+              106
+            ],
+            "id_str": "52503751",
+            "id": 52503751,
+            "screen_name": "DrPhilRoe"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "20053279",
+        "id": 20053279
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/xRKfzhCJuH",
+            "media_url": "http://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+            "expanded_url": "http://twitter.com/RepPeteOlson/status/623972290296971264/photo/1",
+            "id_str": "623972289462317060",
+            "indices": [
+              108,
+              130
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/xRKfzhCJuH",
+            "id": 623972289462317060
+          }
+        ]
+      },
+      "text": "You can take the man out of TN, but you can't TN out of the man. Happy birthday to my classmate @DrPhilRoe! http://t.co/xRKfzhCJuH",
+      "lang": "en",
+      "created_at": "Wed Jul 22 21:46:01 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 20053279,
+          "media_url": "http://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+          "source_user_id_str": "20053279",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/xRKfzhCJuH",
+          "expanded_url": "http://twitter.com/RepPeteOlson/status/623972290296971264/photo/1",
+          "url": "http://t.co/xRKfzhCJuH",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+          "source_status_id_str": "623972290296971264",
+          "id_str": "623972289462317060",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623972289462317060,
+          "source_status_id": 623972290296971264
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 623972943257862144,
+    "id_str": "623972943257862144",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 20053279,
+          "media_url": "http://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+          "source_user_id_str": "20053279",
+          "indices": [
+            126,
+            140
+          ],
+          "display_url": "pic.twitter.com/xRKfzhCJuH",
+          "expanded_url": "http://twitter.com/RepPeteOlson/status/623972290296971264/photo/1",
+          "url": "http://t.co/xRKfzhCJuH",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKjLfccWsAQnQK-.jpg",
+          "source_status_id_str": "623972290296971264",
+          "id_str": "623972289462317060",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 623972289462317060,
+          "source_status_id": 623972290296971264
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Pete Olson",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "20053279",
+          "id": 20053279,
+          "screen_name": "RepPeteOlson"
+        },
+        {
+          "name": "Dr. Phil Roe",
+          "indices": [
+            114,
+            124
+          ],
+          "id_str": "52503751",
+          "id": 52503751,
+          "screen_name": "DrPhilRoe"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RepPeteOlson: You can take the man out of TN, but you can't TN out of the man. Happy birthday to my classmate @DrPhilRoe! http://t.co/x\u2026",
+    "lang": "en",
+    "created_at": "2015-07-22 21:48:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623633193883803648,
+    "id_str": "623633193883803648",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/KW4rPMRq0i",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "roe.house.gov/news/documents\u2026",
+          "expanded_url": "http://roe.house.gov/news/documentsingle.aspx?DocumentID=397898"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud my bill, the the Biological Implant Tracking and Veterans Safety Act, was included in H.R. 2256. STATEMENT: http://t.co/KW4rPMRq0i",
+    "lang": "en",
+    "created_at": "2015-07-21 23:18:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623600800556826624,
+    "id_str": "623600800556826624",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/rh5MX4TxBm",
+          "indices": [
+            98,
+            121
+          ],
+          "display_url": "youtube.com/watch?v=zLzAcR\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=zLzAcRIgJts&feature=youtu.be"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today I spoke on the House floor in support of the Veterans Information Modernization Act. VIDEO: https://t.co/rh5MX4TxBm",
+    "lang": "en",
+    "created_at": "2015-07-21 21:09:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623513219844468736",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1209417007",
+    "id": 623513494013480960,
+    "id_str": "623513494013480960",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Rep. Steve Scalise",
+          "indices": [
+            0,
+            13
+          ],
+          "id_str": "1209417007",
+          "id": 1209417007,
+          "screen_name": "SteveScalise"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623513219844468736,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 1209417007,
+    "in_reply_to_screen_name": "SteveScalise",
+    "retweeted": false,
+    "text": "@SteveScalise Thank you, Steve!",
+    "lang": "en",
+    "created_at": "2015-07-21 15:22:55+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623497323390308352",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "33977070",
+    "id": 623513461000171521,
+    "id_str": "623513461000171521",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Mike Rogers",
+          "indices": [
+            0,
+            16
+          ],
+          "id_str": "33977070",
+          "id": 33977070,
+          "screen_name": "RepMikeRogersAL"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623497323390308352,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 33977070,
+    "in_reply_to_screen_name": "RepMikeRogersAL",
+    "retweeted": false,
+    "text": "@RepMikeRogersAL Thank you!",
+    "lang": "en",
+    "created_at": "2015-07-21 15:22:48+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623489055221747712",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "20079183",
+    "id": 623495791798321152,
+    "id_str": "623495791798321152",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sara Diamond",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "20079183",
+          "id": 20079183,
+          "screen_name": "WJHL_Sara"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623489055221747712,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 20079183,
+    "in_reply_to_screen_name": "WJHL_Sara",
+    "retweeted": false,
+    "text": "@WJHL_Sara Thank you Sara!",
+    "lang": "en",
+    "created_at": "2015-07-21 14:12:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623477550082191360",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "1080844782",
+    "id": 623488487153631232,
+    "id_str": "623488487153631232",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Kyrsten Sinema",
+          "indices": [
+            0,
+            10
+          ],
+          "id_str": "1080844782",
+          "id": 1080844782,
+          "screen_name": "RepSinema"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623477550082191360,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 1080844782,
+    "in_reply_to_screen_name": "RepSinema",
+    "retweeted": false,
+    "text": "@RepSinema Thank you!",
+    "lang": "en",
+    "created_at": "2015-07-21 13:43:33+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": "623482787006410752",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "20015188",
+    "id": 623488463137042432,
+    "id_str": "623488463137042432",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "AAUW Public Policy",
+          "indices": [
+            0,
+            11
+          ],
+          "id_str": "20015188",
+          "id": 20015188,
+          "screen_name": "AAUWPolicy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 623482787006410752,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": 20015188,
+    "in_reply_to_screen_name": "AAUWPolicy",
+    "retweeted": false,
+    "text": "@AAUWPolicy Thank you!",
+    "lang": "en",
+    "created_at": "2015-07-21 13:43:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623488018846982144,
+    "id_str": "623488018846982144",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Join us in wishing Congressman Roe a happy birthday! -Team Roe",
+    "lang": "en",
+    "created_at": "2015-07-21 13:41:42+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 623116200235663360,
+      "id_str": "623116200235663360",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/W5nQFE4t71",
+            "indices": [
+              110,
+              132
+            ],
+            "display_url": "ow.ly/POIKB",
+            "expanded_url": "http://ow.ly/POIKB"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Dr. Phil Roe",
+            "indices": [
+              28,
+              38
+            ],
+            "id_str": "52503751",
+            "id": 52503751,
+            "screen_name": "DrPhilRoe"
+          },
+          {
+            "name": "Craig",
+            "indices": [
+              45,
+              58
+            ],
+            "id_str": "1575147104",
+            "id": 1575147104,
+            "screen_name": "CraigJames32"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "18163042",
+        "id": 18163042
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "AUDIO: US Rep and former OB @DrPhilRoe joins @CraigJames32 to talk about the recent Planned Parenthood video. http://t.co/W5nQFE4t71",
+      "lang": "en",
+      "created_at": "Mon Jul 20 13:04:13 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 623133588737892352,
+    "id_str": "623133588737892352",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/W5nQFE4t71",
+          "indices": [
+            121,
+            140
+          ],
+          "display_url": "ow.ly/POIKB",
+          "expanded_url": "http://ow.ly/POIKB"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "FRC",
+          "indices": [
+            3,
+            9
+          ],
+          "id_str": "18163042",
+          "id": 18163042,
+          "screen_name": "FRCdc"
+        },
+        {
+          "name": "Dr. Phil Roe",
+          "indices": [
+            39,
+            49
+          ],
+          "id_str": "52503751",
+          "id": 52503751,
+          "screen_name": "DrPhilRoe"
+        },
+        {
+          "name": "Craig",
+          "indices": [
+            56,
+            69
+          ],
+          "id_str": "1575147104",
+          "id": 1575147104,
+          "screen_name": "CraigJames32"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FRCdc: AUDIO: US Rep and former OB @DrPhilRoe joins @CraigJames32 to talk about the recent Planned Parenthood video. http://t.co/W5nQFE\u2026",
+    "lang": "en",
+    "created_at": "2015-07-20 14:13:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 8,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 621783958175395840,
+    "id_str": "621783958175395840",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "52503751",
+      "screen_name": "drphilroe",
+      "id": 52503751
+    },
+    "favorited": false,
+    "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "My thoughts &amp; prayers are with all affected by the senseless tragedy in Chattanooga today &amp; I am continuing to monitor the investigation.",
+    "lang": "en",
+    "created_at": "2015-07-16 20:50:22+00:00"
+  }
+]

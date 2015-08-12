@@ -1,0 +1,2157 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 71,
+      "favorite_count": 94,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629480735414583297,
+      "id_str": "629480735414583297",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "27882000",
+        "id": 27882000
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "During the GOP debate, Sen Charles Schumer D-NY announces he will oppose Iran deal: \"I will vote to disapprove\"",
+      "lang": "en",
+      "created_at": "Fri Aug 07 02:34:37 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 71,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629481409833529344,
+    "id_str": "629481409833529344",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Jamie Dupree",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "27882000",
+          "id": 27882000,
+          "screen_name": "jamiedupree"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @jamiedupree: During the GOP debate, Sen Charles Schumer D-NY announces he will oppose Iran deal: \"I will vote to disapprove\"",
+    "lang": "en",
+    "created_at": "2015-08-07 02:37:17+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628934316458930177,
+    "id_str": "628934316458930177",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "GA11",
+          "indices": [
+            95,
+            100
+          ]
+        },
+        {
+          "text": "gapol",
+          "indices": [
+            101,
+            107
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Q0P1KPPG8G",
+          "media_url": "http://pbs.twimg.com/media/CLpsbYqWEAA_Oat.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpsbYqWEAA_Oat.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/628934316458930177/photo/1",
+          "id_str": "628934315703930880",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/Q0P1KPPG8G",
+          "id": 628934315703930880
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Q0P1KPPG8G",
+          "media_url": "http://pbs.twimg.com/media/CLpsbYqWEAA_Oat.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLpsbYqWEAA_Oat.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/628934316458930177/photo/1",
+          "id_str": "628934315703930880",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/Q0P1KPPG8G",
+          "id": 628934315703930880
+        }
+      ]
+    },
+    "text": "Join me tonight for a town hall meeting from 6:00 - 7:15 pm at the Cherokee Conference Center! #GA11 #gapol http://t.co/Q0P1KPPG8G",
+    "lang": "en",
+    "created_at": "2015-08-05 14:23:20+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628300365419671553,
+      "id_str": "628300365419671553",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Kennesaw",
+            "indices": [
+              96,
+              105
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/YSSeNODT9R",
+            "media_url": "http://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+            "expanded_url": "http://twitter.com/Novelis/status/628300365419671553/photo/1",
+            "id_str": "628300365000081408",
+            "indices": [
+              106,
+              128
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 859,
+                "resize": "fit",
+                "h": 574
+              }
+            },
+            "display_url": "pic.twitter.com/YSSeNODT9R",
+            "id": 628300365000081408
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Barry Loudermilk",
+            "indices": [
+              23,
+              37
+            ],
+            "id_str": "2914163523",
+            "id": 2914163523,
+            "screen_name": "RepLoudermilk"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "41202148",
+        "id": 41202148
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/YSSeNODT9R",
+            "media_url": "http://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+            "expanded_url": "http://twitter.com/Novelis/status/628300365419671553/photo/1",
+            "id_str": "628300365000081408",
+            "indices": [
+              106,
+              128
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 859,
+                "resize": "fit",
+                "h": 574
+              }
+            },
+            "display_url": "pic.twitter.com/YSSeNODT9R",
+            "id": 628300365000081408
+          }
+        ]
+      },
+      "text": "A great visit today by @RepLoudermilk at the Novelis Global Research &amp; Technology Center in #Kennesaw http://t.co/YSSeNODT9R",
+      "lang": "en",
+      "created_at": "Mon Aug 03 20:24:15 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 41202148,
+          "media_url": "http://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+          "source_user_id_str": "41202148",
+          "indices": [
+            119,
+            141
+          ],
+          "display_url": "pic.twitter.com/YSSeNODT9R",
+          "expanded_url": "http://twitter.com/Novelis/status/628300365419671553/photo/1",
+          "url": "http://t.co/YSSeNODT9R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+          "source_status_id_str": "628300365419671553",
+          "id_str": "628300365000081408",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 859,
+              "resize": "fit",
+              "h": 574
+            }
+          },
+          "id": 628300365000081408,
+          "source_status_id": 628300365419671553
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628307202802122754,
+    "id_str": "628307202802122754",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Kennesaw",
+          "indices": [
+            109,
+            118
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 41202148,
+          "media_url": "http://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+          "source_user_id_str": "41202148",
+          "indices": [
+            119,
+            141
+          ],
+          "display_url": "pic.twitter.com/YSSeNODT9R",
+          "expanded_url": "http://twitter.com/Novelis/status/628300365419671553/photo/1",
+          "url": "http://t.co/YSSeNODT9R",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgr2mQUAAAWOic.jpg",
+          "source_status_id_str": "628300365419671553",
+          "id_str": "628300365000081408",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 859,
+              "resize": "fit",
+              "h": 574
+            }
+          },
+          "id": 628300365000081408,
+          "source_status_id": 628300365419671553
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Novelis Inc.",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "41202148",
+          "id": 41202148,
+          "screen_name": "Novelis"
+        },
+        {
+          "name": "Barry Loudermilk",
+          "indices": [
+            36,
+            50
+          ],
+          "id_str": "2914163523",
+          "id": 2914163523,
+          "screen_name": "RepLoudermilk"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Novelis: A great visit today by @RepLoudermilk at the Novelis Global Research &amp; Technology Center in #Kennesaw http://t.co/YSSeNODT9R",
+    "lang": "en",
+    "created_at": "2015-08-03 20:51:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628259334326218752,
+    "id_str": "628259334326218752",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            20,
+            38
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/tvtn0KL4WW",
+          "media_url": "http://pbs.twimg.com/media/CLgGiQlVAAA4wud.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgGiQlVAAA4wud.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/628259334326218752/photo/1",
+          "id_str": "628259333655035904",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "large": {
+              "w": 850,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/tvtn0KL4WW",
+          "id": 628259333655035904
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/tvtn0KL4WW",
+          "media_url": "http://pbs.twimg.com/media/CLgGiQlVAAA4wud.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgGiQlVAAA4wud.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/628259334326218752/photo/1",
+          "id_str": "628259333655035904",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "large": {
+              "w": 850,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/tvtn0KL4WW",
+          "id": 628259333655035904
+        }
+      ]
+    },
+    "text": "It's time to defund #PlannedParenthood and bring a stop to their atrocious actions that violate basic human dignity. http://t.co/tvtn0KL4WW",
+    "lang": "en",
+    "created_at": "2015-08-03 17:41:12+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626805287677263872,
+    "id_str": "626805287677263872",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/imEy7IbQp3",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "loudermilk.house.gov/news/documents\u2026",
+          "expanded_url": "http://loudermilk.house.gov/news/documentsingle.aspx?DocumentID=320"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "gapol",
+          "indices": [
+            123,
+            129
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "KennesawMountain NBP",
+          "indices": [
+            75,
+            87
+          ],
+          "id_str": "86968106",
+          "id": 86968106,
+          "screen_name": "KennesawNPS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today I introduced legislation to add historically significant property to @KennesawNPS. Read more: http://t.co/imEy7IbQp3 #gapol",
+    "lang": "en",
+    "created_at": "2015-07-30 17:23:20+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626751275347124224,
+    "id_str": "626751275347124224",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/qLhhsc2jo5",
+          "indices": [
+            104,
+            127
+          ],
+          "display_url": "youtube.com/watch?v=hYqrWr\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=hYqrWrJtwH4&feature=youtu.be"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "gapol",
+          "indices": [
+            128,
+            134
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Heroes aren\u2019t born; they are made. We salute Lance Cpl. Skip Wells for his great sacrifice and service: https://t.co/qLhhsc2jo5 #gapol",
+    "lang": "en",
+    "created_at": "2015-07-30 13:48:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626211854273126400,
+    "id_str": "626211854273126400",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/k6IfXV0QQv",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "loudermilk.house.gov/news/documents\u2026",
+          "expanded_url": "http://loudermilk.house.gov/news/documentsingle.aspx?DocumentID=315"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today\u2019s passage of the REINS Act begins to put the brakes on the federal government\u2019s out-of-control regulatory power http://t.co/k6IfXV0QQv",
+    "lang": "en",
+    "created_at": "2015-07-29 02:05:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626156361055911937,
+    "id_str": "626156361055911937",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            97,
+            106
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It\u2019s time to remove government-imposed barriers to success and allow the free market to prosper. #REINSAct",
+    "lang": "en",
+    "created_at": "2015-07-28 22:24:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626142169565372416,
+    "id_str": "626142169565372416",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            98,
+            107
+          ]
+        },
+        {
+          "text": "GA11",
+          "indices": [
+            108,
+            113
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It's time to rein in the agencies and regulations that are strangling small America's businesses. #REINSAct #GA11",
+    "lang": "en",
+    "created_at": "2015-07-28 21:28:21+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626118188804116480,
+    "id_str": "626118188804116480",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            104,
+            113
+          ]
+        },
+        {
+          "text": "GA11",
+          "indices": [
+            114,
+            119
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "By 2014, the new regulations issued under President Obama filled 486,500 pages of the federal register. #REINSAct #GA11",
+    "lang": "en",
+    "created_at": "2015-07-28 19:53:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626093167406788609,
+    "id_str": "626093167406788609",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "REINSAct",
+          "indices": [
+            123,
+            132
+          ]
+        },
+        {
+          "text": "GA11",
+          "indices": [
+            133,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Though estimates vary, 3,554 new regulations imposed on American businesses cost as much as $1.9 trillion last year alone. #REINSAct #GA11",
+    "lang": "en",
+    "created_at": "2015-07-28 18:13:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 0,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626089613413580800,
+    "id_str": "626089613413580800",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The price businesses pay to comply with complicated regulations is around $1.86 trillion each year, according to a 2014 report from CEI.",
+    "lang": "en",
+    "created_at": "2015-07-28 17:59:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626089286887038976,
+    "id_str": "626089286887038976",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The CBO estimates over the last five years - the Obama Admin has issued 82 rules with more than $100 million in economic impact - EACH YEAR!",
+    "lang": "en",
+    "created_at": "2015-07-28 17:58:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625798350026240000,
+    "id_str": "625798350026240000",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "GA11",
+          "indices": [
+            65,
+            70
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Qz6ayYnZLk",
+          "media_url": "http://pbs.twimg.com/media/CK9ISHoUMAQJXts.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK9ISHoUMAQJXts.png",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/625798350026240000/photo/1",
+          "id_str": "625798349350776836",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "display_url": "pic.twitter.com/Qz6ayYnZLk",
+          "id": 625798349350776836
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Barry Loudermilk",
+          "indices": [
+            100,
+            114
+          ],
+          "id_str": "2914163523",
+          "id": 2914163523,
+          "screen_name": "RepLoudermilk"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Qz6ayYnZLk",
+          "media_url": "http://pbs.twimg.com/media/CK9ISHoUMAQJXts.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK9ISHoUMAQJXts.png",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/625798350026240000/photo/1",
+          "id_str": "625798349350776836",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 800
+            }
+          },
+          "display_url": "pic.twitter.com/Qz6ayYnZLk",
+          "id": 625798349350776836
+        }
+      ]
+    },
+    "text": "Get updates on what's going on in Washington D.C. and throughout #GA11 by following me on Instagram @RepLoudermilk. http://t.co/Qz6ayYnZLk",
+    "lang": "en",
+    "created_at": "2015-07-27 22:42:08+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625708525885501440,
+    "id_str": "625708525885501440",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/sFqE897V8s",
+          "media_url": "http://pbs.twimg.com/media/CK72lqZUsAEbzy-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK72lqZUsAEbzy-.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/625708525885501440/photo/1",
+          "id_str": "625708525147172865",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/sFqE897V8s",
+          "id": 625708525147172865
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/sFqE897V8s",
+          "media_url": "http://pbs.twimg.com/media/CK72lqZUsAEbzy-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK72lqZUsAEbzy-.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/625708525885501440/photo/1",
+          "id_str": "625708525147172865",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            }
+          },
+          "display_url": "pic.twitter.com/sFqE897V8s",
+          "id": 625708525147172865
+        }
+      ]
+    },
+    "text": "Join us for a town hall meeting at the Northside Hospital Cherokee Conference Center on August 5th at 6:00 p.m! http://t.co/sFqE897V8s",
+    "lang": "en",
+    "created_at": "2015-07-27 16:45:12+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 9,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625443504144130048,
+    "id_str": "625443504144130048",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "AmericanHero",
+          "indices": [
+            77,
+            90
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/4e8Ys9xB9h",
+          "media_url": "http://pbs.twimg.com/media/CK4FjD9WsAAqrgH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK4FjD9WsAAqrgH.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/625443504144130048/photo/1",
+          "id_str": "625443498167283712",
+          "indices": [
+            91,
+            113
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/4e8Ys9xB9h",
+          "id": 625443498167283712
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/4e8Ys9xB9h",
+          "media_url": "http://pbs.twimg.com/media/CK4FjD9WsAAqrgH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CK4FjD9WsAAqrgH.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/625443504144130048/photo/1",
+          "id_str": "625443498167283712",
+          "indices": [
+            91,
+            113
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/4e8Ys9xB9h",
+          "id": 625443498167283712
+        }
+      ]
+    },
+    "text": "Thank you for the powerful showing of support for Lance Corporal Skip Wells. #AmericanHero http://t.co/4e8Ys9xB9h",
+    "lang": "en",
+    "created_at": "2015-07-26 23:12:06+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 19,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 12,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 625392744870096896,
+      "id_str": "625392744870096896",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/dMsi60Ff3d",
+            "indices": [
+              81,
+              103
+            ],
+            "display_url": "ow.ly/Q5QgG",
+            "expanded_url": "http://ow.ly/Q5QgG"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "RepealNow",
+            "indices": [
+              104,
+              114
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Mike Lee",
+            "indices": [
+              31,
+              42
+            ],
+            "id_str": "88784440",
+            "id": 88784440,
+            "screen_name": "SenMikeLee"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "14730894",
+        "id": 14730894
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "FreedomWorks activists support @SenMikeLee, call on senators to repeal ObamaCare http://t.co/dMsi60Ff3d #RepealNow",
+      "lang": "en",
+      "created_at": "Sun Jul 26 19:50:24 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 19,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625393010726072320,
+    "id_str": "625393010726072320",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/dMsi60Ff3d",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "ow.ly/Q5QgG",
+          "expanded_url": "http://ow.ly/Q5QgG"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RepealNow",
+          "indices": [
+            122,
+            132
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "FreedomWorks",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "14730894",
+          "id": 14730894,
+          "screen_name": "FreedomWorks"
+        },
+        {
+          "name": "Mike Lee",
+          "indices": [
+            49,
+            60
+          ],
+          "id_str": "88784440",
+          "id": 88784440,
+          "screen_name": "SenMikeLee"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FreedomWorks: FreedomWorks activists support @SenMikeLee, call on senators to repeal ObamaCare http://t.co/dMsi60Ff3d #RepealNow",
+    "lang": "en",
+    "created_at": "2015-07-26 19:51:27+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624590081286868992,
+    "id_str": "624590081286868992",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/923QmHt0p9",
+          "indices": [
+            117,
+            139
+          ],
+          "display_url": "bit.ly/1frTnlS",
+          "expanded_url": "http://bit.ly/1frTnlS"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "RFS",
+          "indices": [
+            111,
+            115
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Watch my opening statement from yesterday's Subcommittee on Oversight hearing on the challenges created by the #RFS: http://t.co/923QmHt0p9",
+    "lang": "en",
+    "created_at": "2015-07-24 14:40:54+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 3,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 624281702328893440,
+      "id_str": "624281702328893440",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/d3olrQyvvi",
+            "indices": [
+              66,
+              89
+            ],
+            "display_url": "youtu.be/fcgjGYBVcUM",
+            "expanded_url": "https://youtu.be/fcgjGYBVcUM"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Barry Loudermilk",
+            "indices": [
+              16,
+              30
+            ],
+            "id_str": "2914163523",
+            "id": 2914163523,
+            "screen_name": "RepLoudermilk"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "23103488",
+        "id": 23103488
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Oversight Chair @RepLoudermilk explains challenges of RFS mandate https://t.co/d3olrQyvvi",
+      "lang": "en",
+      "created_at": "Thu Jul 23 18:15:31 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624562395277565952,
+    "id_str": "624562395277565952",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/d3olrQyvvi",
+          "indices": [
+            84,
+            107
+          ],
+          "display_url": "youtu.be/fcgjGYBVcUM",
+          "expanded_url": "https://youtu.be/fcgjGYBVcUM"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sci,Space,&Tech Cmte",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "23103488",
+          "id": 23103488,
+          "screen_name": "HouseScience"
+        },
+        {
+          "name": "Barry Loudermilk",
+          "indices": [
+            34,
+            48
+          ],
+          "id_str": "2914163523",
+          "id": 2914163523,
+          "screen_name": "RepLoudermilk"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @HouseScience: Oversight Chair @RepLoudermilk explains challenges of RFS mandate https://t.co/d3olrQyvvi",
+    "lang": "en",
+    "created_at": "2015-07-24 12:50:53+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624229917711073280,
+    "id_str": "624229917711073280",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            4,
+            13
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/0zlIkTVKqW",
+          "media_url": "http://pbs.twimg.com/media/CKm1zWdUEAA0ZZ5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKm1zWdUEAA0ZZ5.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/624229917711073280/photo/1",
+          "id_str": "624229917174009856",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 231
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 408
+            },
+            "large": {
+              "w": 799,
+              "resize": "fit",
+              "h": 544
+            }
+          },
+          "display_url": "pic.twitter.com/0zlIkTVKqW",
+          "id": 624229917174009856
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "2914163523",
+      "screen_name": "reploudermilk",
+      "id": 2914163523
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/0zlIkTVKqW",
+          "media_url": "http://pbs.twimg.com/media/CKm1zWdUEAA0ZZ5.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CKm1zWdUEAA0ZZ5.jpg",
+          "expanded_url": "http://twitter.com/RepLoudermilk/status/624229917711073280/photo/1",
+          "id_str": "624229917174009856",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 231
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 408
+            },
+            "large": {
+              "w": 799,
+              "resize": "fit",
+              "h": 544
+            }
+          },
+          "display_url": "pic.twitter.com/0zlIkTVKqW",
+          "id": 624229917174009856
+        }
+      ]
+    },
+    "text": "The #IranDeal is a recipe for disaster. Iran is a terrorist state and has repeatedly shown that it cannot be trusted. http://t.co/0zlIkTVKqW",
+    "lang": "en",
+    "created_at": "2015-07-23 14:49:44+00:00",
+    "retweeted": false
+  }
+]

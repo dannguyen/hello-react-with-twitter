@@ -1,0 +1,1685 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 56,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629673116797661184,
+    "id_str": "629673116797661184",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Fu3aADvHaK",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "bit.ly/1IZhKET",
+          "expanded_url": "http://bit.ly/1IZhKET"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Obamacare",
+          "indices": [
+            74,
+            84
+          ]
+        },
+        {
+          "text": "RepealAndReplace",
+          "indices": [
+            123,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Insurer Blue Cross now seeking 34.6% rate hike in North Carolina --- says #Obamacare drove up costs http://t.co/Fu3aADvHaK #RepealAndReplace",
+    "lang": "en",
+    "created_at": "2015-08-07 15:19:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 16,
+    "favorite_count": 17,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629669334835707904,
+    "id_str": "629669334835707904",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            84,
+            93
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Chuck Schumer",
+          "indices": [
+            10,
+            21
+          ],
+          "id_str": "17494010",
+          "id": 17494010,
+          "screen_name": "SenSchumer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I applaud @SenSchumer for leading with courage &amp; voicing his concerns about the #IranDeal, which will undermine America's national security.",
+    "lang": "en",
+    "created_at": "2015-08-07 15:04:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 25,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629353224160546816,
+    "id_str": "629353224160546816",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 53,
+      "favorite_count": 14,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629351187519811586,
+      "id_str": "629351187519811586",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Josh Earnest",
+            "indices": [
+              52,
+              61
+            ],
+            "id_str": "113420831",
+            "id": 113420831,
+            "screen_name": "PressSec"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "31127446",
+        "id": 31127446
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "\"We don\u2019t need Congress to approve this deal,\" says @PressSec of the Iran nuclear  agreement, \"We just need Congress not to screw it up.\"",
+      "lang": "en",
+      "created_at": "Thu Aug 06 17:59:50 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ylZoeNcIUs",
+          "indices": [
+            44,
+            67
+          ],
+          "display_url": "twitter.com/markknoller/st\u2026",
+          "expanded_url": "https://twitter.com/markknoller/status/629351187519811586"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "629351187519811586",
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 18:07:56+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Unbelievable, even for this Administration. https://t.co/ylZoeNcIUs",
+    "lang": "en",
+    "quoted_status_id": 629351187519811586
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 20,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629333747565989888,
+    "id_str": "629333747565989888",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tLxEkBGbiX",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "1.usa.gov/1JOm4FT",
+          "expanded_url": "http://1.usa.gov/1JOm4FT"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "OPM",
+          "indices": [
+            0,
+            4
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#OPM CIO Donna Seymour chose to ignore an IG's cyber-security recommendations. It's time she be removed from her post http://t.co/tLxEkBGbiX",
+    "lang": "en",
+    "created_at": "2015-08-06 16:50:32+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 10,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629304744759197696,
+      "id_str": "629304744759197696",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "https://t.co/KW6OcDoBNz",
+            "indices": [
+              77,
+              100
+            ],
+            "display_url": "oversight.house.gov/release/chaffe\u2026",
+            "expanded_url": "https://oversight.house.gov/release/chaffetz-renews-call-removal-opm-cio-donna-seymour/"
+          }
+        ],
+        "hashtags": [
+          {
+            "text": "OPM",
+            "indices": [
+              53,
+              57
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Jason Chaffetz",
+            "indices": [
+              9,
+              25
+            ],
+            "id_str": "17800215",
+            "id": 17800215,
+            "screen_name": "jasoninthehouse"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "22508473",
+        "id": 22508473
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "RELEASE: @jasoninthehouse Renews Call for Removal of #OPM CIO Donna Seymour\n\nhttps://t.co/KW6OcDoBNz",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:55:17 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629314751353520129,
+    "id_str": "629314751353520129",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/KW6OcDoBNz",
+          "indices": [
+            95,
+            118
+          ],
+          "display_url": "oversight.house.gov/release/chaffe\u2026",
+          "expanded_url": "https://oversight.house.gov/release/chaffetz-renews-call-removal-opm-cio-donna-seymour/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "OPM",
+          "indices": [
+            71,
+            75
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        },
+        {
+          "name": "Jason Chaffetz",
+          "indices": [
+            27,
+            43
+          ],
+          "id_str": "17800215",
+          "id": 17800215,
+          "screen_name": "jasoninthehouse"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @GOPoversight: RELEASE: @jasoninthehouse Renews Call for Removal of #OPM CIO Donna Seymour\n\nhttps://t.co/KW6OcDoBNz",
+    "lang": "en",
+    "created_at": "2015-08-06 15:35:03+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 42,
+    "favorite_count": 33,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629002492739760128,
+    "id_str": "629002492739760128",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            50,
+            59
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Democrats' claim that the only alternative to the #IranDeal is war is willfully dishonest. America &amp; our allies deserve a better deal.",
+    "lang": "en",
+    "created_at": "2015-08-05 18:54:15+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 33,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 22,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628650393598164992,
+      "id_str": "628650393598164992",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "MiddleEast",
+            "indices": [
+              69,
+              80
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/o56BSy95mK",
+            "media_url": "http://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+            "expanded_url": "http://twitter.com/loudobbsnews/status/628650393598164992/photo/1",
+            "id_str": "628647157508239360",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/o56BSy95mK",
+            "id": 628647157508239360
+          }
+        ],
+        "urls": [
+          {
+            "url": "http://t.co/gPeFNYe03H",
+            "indices": [
+              82,
+              104
+            ],
+            "display_url": "bit.ly/1Houei7",
+            "expanded_url": "http://bit.ly/1Houei7"
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Mark Meadows",
+            "indices": [
+              1,
+              16
+            ],
+            "id_str": "963480595",
+            "id": 963480595,
+            "screen_name": "RepMarkMeadows"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "26487169",
+        "id": 26487169
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/o56BSy95mK",
+            "media_url": "http://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+            "expanded_url": "http://twitter.com/loudobbsnews/status/628650393598164992/photo/1",
+            "id_str": "628647157508239360",
+            "indices": [
+              105,
+              127
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 576
+              }
+            },
+            "display_url": "pic.twitter.com/o56BSy95mK",
+            "id": 628647157508239360
+          }
+        ]
+      },
+      "text": ".@RepMarkMeadows: This deal threatens not only Israel but the entire #MiddleEast. http://t.co/gPeFNYe03H http://t.co/o56BSy95mK",
+      "lang": "en",
+      "created_at": "Tue Aug 04 19:35:08 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 33,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 26487169,
+          "media_url": "http://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+          "source_user_id_str": "26487169",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/o56BSy95mK",
+          "expanded_url": "http://twitter.com/loudobbsnews/status/628650393598164992/photo/1",
+          "url": "http://t.co/o56BSy95mK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+          "source_status_id_str": "628650393598164992",
+          "id_str": "628647157508239360",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 628647157508239360,
+          "source_status_id": 628650393598164992
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628652337029058560,
+    "id_str": "628652337029058560",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "MiddleEast",
+          "indices": [
+            87,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 26487169,
+          "media_url": "http://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+          "source_user_id_str": "26487169",
+          "indices": [
+            123,
+            140
+          ],
+          "display_url": "pic.twitter.com/o56BSy95mK",
+          "expanded_url": "http://twitter.com/loudobbsnews/status/628650393598164992/photo/1",
+          "url": "http://t.co/o56BSy95mK",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlnQlBWcAA7wBi.jpg",
+          "source_status_id_str": "628650393598164992",
+          "id_str": "628647157508239360",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 576
+            }
+          },
+          "id": 628647157508239360,
+          "source_status_id": 628650393598164992
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/gPeFNYe03H",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "bit.ly/1Houei7",
+          "expanded_url": "http://bit.ly/1Houei7"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Lou Dobbs",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "26487169",
+          "id": 26487169,
+          "screen_name": "loudobbsnews"
+        },
+        {
+          "name": "Mark Meadows",
+          "indices": [
+            19,
+            34
+          ],
+          "id_str": "963480595",
+          "id": 963480595,
+          "screen_name": "RepMarkMeadows"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @loudobbsnews: .@RepMarkMeadows: This deal threatens not only Israel but the entire #MiddleEast. http://t.co/gPeFNYe03H http://t.co/o56B\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 19:42:51+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 26,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 12,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628600507217649665,
+    "id_str": "628600507217649665",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 13,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628574631868272640,
+      "id_str": "628574631868272640",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/G9yVbb75XM",
+            "indices": [
+              83,
+              105
+            ],
+            "display_url": "hotair.com/archives/2015/\u2026",
+            "expanded_url": "http://hotair.com/archives/2015/08/04/new-cmp-video-intact-fetuses-just-a-matter-of-line-items-for-planned-parenthood/"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1517872886",
+        "id": 1517872886
+      },
+      "favorited": false,
+      "source": "<a href=\"http://publicize.wp.com/\" rel=\"nofollow\">WordPress.com</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "New CMP video: Intact fetuses \u201cjust a matter of line items\u201d for Planned\u00a0Parenthood http://t.co/G9yVbb75XM",
+      "lang": "en",
+      "created_at": "Tue Aug 04 14:34:05 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/eqeZaqx57m",
+          "indices": [
+            26,
+            49
+          ],
+          "display_url": "twitter.com/hotairblog/sta\u2026",
+          "expanded_url": "https://twitter.com/hotairblog/status/628574631868272640"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DefundPlannedParenthood",
+          "indices": [
+            0,
+            24
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628574631868272640",
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 16:16:54+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#DefundPlannedParenthood  https://t.co/eqeZaqx57m",
+    "lang": "und",
+    "quoted_status_id": 628574631868272640
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 19,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628326019473219584,
+    "id_str": "628326019473219584",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            92,
+            96
+          ]
+        },
+        {
+          "text": "IranDeal",
+          "indices": [
+            98,
+            107
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Lou Dobbs",
+          "indices": [
+            27,
+            40
+          ],
+          "id_str": "26487169",
+          "id": 26487169,
+          "screen_name": "loudobbsnews"
+        },
+        {
+          "name": "FOX Business",
+          "indices": [
+            62,
+            74
+          ],
+          "id_str": "56413858",
+          "id": 56413858,
+          "screen_name": "FoxBusiness"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Looking forward to joining @loudobbsnews tonight at 7:10pm on @FoxBusiness. I'll be talking #EPA, #IranDeal, &amp; leadership.",
+    "lang": "en",
+    "created_at": "2015-08-03 22:06:11+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 120,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 52,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628304421135482880,
+      "id_str": "628304421135482880",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/52k8by5Hkl",
+            "media_url": "http://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+            "expanded_url": "http://twitter.com/JohnCornyn/status/628304421135482880/photo/1",
+            "id_str": "628304418648268800",
+            "indices": [
+              63,
+              85
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/52k8by5Hkl",
+            "id": 628304418648268800
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "13218102",
+        "id": 13218102
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/52k8by5Hkl",
+            "media_url": "http://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+            "expanded_url": "http://twitter.com/JohnCornyn/status/628304421135482880/photo/1",
+            "id_str": "628304418648268800",
+            "indices": [
+              63,
+              85
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/52k8by5Hkl",
+            "id": 628304418648268800
+          }
+        ]
+      },
+      "text": "Page 18, Planned Parenthood annual report for fiscal year 2014 http://t.co/52k8by5Hkl",
+      "lang": "en",
+      "created_at": "Mon Aug 03 20:40:21 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 120,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 13218102,
+          "media_url": "http://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+          "source_user_id_str": "13218102",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "pic.twitter.com/52k8by5Hkl",
+          "expanded_url": "http://twitter.com/JohnCornyn/status/628304421135482880/photo/1",
+          "url": "http://t.co/52k8by5Hkl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+          "source_status_id_str": "628304421135482880",
+          "id_str": "628304418648268800",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 628304418648268800,
+          "source_status_id": 628304421135482880
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628315662398660608,
+    "id_str": "628315662398660608",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 13218102,
+          "media_url": "http://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+          "source_user_id_str": "13218102",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "pic.twitter.com/52k8by5Hkl",
+          "expanded_url": "http://twitter.com/JohnCornyn/status/628304421135482880/photo/1",
+          "url": "http://t.co/52k8by5Hkl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLgvijRWoAAOJFc.jpg",
+          "source_status_id_str": "628304421135482880",
+          "id_str": "628304418648268800",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 628304418648268800,
+          "source_status_id": 628304421135482880
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "JohnCornyn",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "13218102",
+          "id": 13218102,
+          "screen_name": "JohnCornyn"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @JohnCornyn: Page 18, Planned Parenthood annual report for fiscal year 2014 http://t.co/52k8by5Hkl",
+    "lang": "en",
+    "created_at": "2015-08-03 21:25:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 26,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628275657580146688,
+    "id_str": "628275657580146688",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/pHoWUaiqir",
+          "indices": [
+            116,
+            139
+          ],
+          "display_url": "meadows.house.gov/media-center/p\u2026",
+          "expanded_url": "https://meadows.house.gov/media-center/press-releases/congressman-meadows-statement-on-obama-s-epa-rule"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            18,
+            22
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Pres. Obama's new #EPA rule represents yet another outrageous power grab by this Administration. My full statement: https://t.co/pHoWUaiqir",
+    "lang": "en",
+    "created_at": "2015-08-03 18:46:04+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 29,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 15,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628253384903163908,
+    "id_str": "628253384903163908",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/y1R68tNCjp",
+          "indices": [
+            67,
+            89
+          ],
+          "display_url": "bit.ly/1gDKmrb",
+          "expanded_url": "http://bit.ly/1gDKmrb"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            57,
+            66
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "The majority of the House of Representatives opposes the #IranDeal http://t.co/y1R68tNCjp",
+    "lang": "en",
+    "created_at": "2015-08-03 17:17:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 21,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628239356768219136,
+    "id_str": "628239356768219136",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/G33SFsrcVc",
+          "indices": [
+            70,
+            92
+          ],
+          "display_url": "bigstory.ap.org/article/9dbd10\u2026",
+          "expanded_url": "http://bigstory.ap.org/article/9dbd1053ec4f4aa786767d8ad08db270/who-wins-and-loses-under-obamas-stricter-power-plant-limits"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "EPA",
+          "indices": [
+            18,
+            22
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Losers of Obama's #EPA rule: energy efficiency, jobs, and your wallet http://t.co/G33SFsrcVc",
+    "lang": "en",
+    "created_at": "2015-08-03 16:21:49+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 18,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 10,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628193891578155008,
+    "id_str": "628193891578155008",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/8mC0PvcBNB",
+          "indices": [
+            53,
+            75
+          ],
+          "display_url": "quinnipiac.edu/news-and-event\u2026",
+          "expanded_url": "http://www.quinnipiac.edu/news-and-events/quinnipiac-university-poll/national/release-detail?ReleaseID=2265"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            31,
+            40
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "NEW POLL: Americans now oppose #IranDeal, 28% to 57% http://t.co/8mC0PvcBNB",
+    "lang": "en",
+    "created_at": "2015-08-03 13:21:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628184959270817792,
+    "id_str": "628184959270817792",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'll be joining the Laura Ingraham Show at 9:30 this morning. Hope you'll tune in!",
+    "lang": "en",
+    "created_at": "2015-08-03 12:45:40+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 50,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 35,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626787244892925953,
+    "id_str": "626787244892925953",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/I77jDAu7fF",
+          "indices": [
+            55,
+            77
+          ],
+          "display_url": "fxn.ws/1I4HyvN",
+          "expanded_url": "http://fxn.ws/1I4HyvN"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IRS",
+          "indices": [
+            32,
+            36
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "GOP Oversight",
+          "indices": [
+            89,
+            102
+          ],
+          "id_str": "22508473",
+          "id": 22508473,
+          "screen_name": "GOPoversight"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Federal judge threatens to hold #IRS chief in contempt http://t.co/I77jDAu7fF On Monday, @GOPoversight called on Obama to remove Koskinen",
+    "lang": "en",
+    "created_at": "2015-07-30 16:11:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 162,
+    "favorite_count": 120,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626492509892542464,
+    "id_str": "626492509892542464",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "StandForLife",
+          "indices": [
+            139,
+            152
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\"The care of human life &amp; happiness, &amp; not their destruction, is the first &amp; only object of good government.\"-Thomas Jefferson #StandForLife",
+    "lang": "en",
+    "created_at": "2015-07-29 20:40:28+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 59,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 46,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626417249742647296,
+    "id_str": "626417249742647296",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 48,
+      "favorite_count": 57,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626410648726056960,
+      "id_str": "626410648726056960",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [],
+        "user_mentions": [
+          {
+            "name": "Sean Hannity",
+            "indices": [
+              34,
+              46
+            ],
+            "id_str": "41634520",
+            "id": 41634520,
+            "screen_name": "seanhannity"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "963480595",
+        "id": 963480595
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Look forward to joining my friend @seanhannity at 2pm this afternoon. Hope you'll tune in.",
+      "lang": "en",
+      "created_at": "Wed Jul 29 15:15:11 +0000 2015"
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/4yEWtotQkY",
+          "indices": [
+            39,
+            62
+          ],
+          "display_url": "twitter.com/RepMarkMeadows\u2026",
+          "expanded_url": "https://twitter.com/RepMarkMeadows/status/626410648726056960"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626410648726056960",
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "created_at": "2015-07-29 15:41:25+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Correction: Airing at 4:30pm. Tune in!\nhttps://t.co/4yEWtotQkY",
+    "lang": "en",
+    "quoted_status_id": 626410648726056960
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 48,
+    "favorite_count": 57,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626410648726056960,
+    "id_str": "626410648726056960",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Sean Hannity",
+          "indices": [
+            34,
+            46
+          ],
+          "id_str": "41634520",
+          "id": 41634520,
+          "screen_name": "seanhannity"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Look forward to joining my friend @seanhannity at 2pm this afternoon. Hope you'll tune in.",
+    "lang": "en",
+    "created_at": "2015-07-29 15:15:11+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 116,
+    "favorite_count": 155,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626183936008392704,
+    "id_str": "626183936008392704",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Mark R. Levin",
+          "indices": [
+            8,
+            22
+          ],
+          "id_str": "38495835",
+          "id": 38495835,
+          "screen_name": "marklevinshow"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "963480595",
+      "screen_name": "repmarkmeadows",
+      "id": 963480595
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Joining @marklevinshow live at 8:30 this evening. Hope you'll tune in!",
+    "lang": "en",
+    "created_at": "2015-07-29 00:14:18+00:00"
+  }
+]

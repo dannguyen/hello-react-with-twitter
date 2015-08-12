@@ -1,0 +1,2054 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629293906228809728,
+    "id_str": "629293906228809728",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628981876443754496,
+      "id_str": "628981876443754496",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "travel",
+            "indices": [
+              92,
+              99
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/eX64tUX384",
+            "media_url": "http://pbs.twimg.com/media/CLqXqUfW8AADtLa.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqXqUfW8AADtLa.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/628981876443754496/photo/1",
+            "id_str": "628981851282141184",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 540
+              }
+            },
+            "display_url": "pic.twitter.com/eX64tUX384",
+            "id": 628981851282141184
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Joe Barton",
+            "indices": [
+              12,
+              25
+            ],
+            "id_str": "19929362",
+            "id": 19929362,
+            "screen_name": "RepJoeBarton"
+          },
+          {
+            "name": "AT&T Stadium",
+            "indices": [
+              29,
+              40
+            ],
+            "id_str": "211267402",
+            "id": 211267402,
+            "screen_name": "ATTStadium"
+          },
+          {
+            "name": "Visit Arlington TX",
+            "indices": [
+              44,
+              60
+            ],
+            "id_str": "21222345",
+            "id": 21222345,
+            "screen_name": "visit_arlington"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "158397501",
+        "id": 158397501
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/eX64tUX384",
+            "media_url": "http://pbs.twimg.com/media/CLqXqUfW8AADtLa.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqXqUfW8AADtLa.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/628981876443754496/photo/1",
+            "id_str": "628981851282141184",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 720,
+                "resize": "fit",
+                "h": 540
+              }
+            },
+            "display_url": "pic.twitter.com/eX64tUX384",
+            "id": 628981851282141184
+          },
+          {
+            "url": "http://t.co/eX64tUX384",
+            "media_url": "http://pbs.twimg.com/media/CLqXqUQWoAE052G.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqXqUQWoAE052G.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/628981876443754496/photo/1",
+            "id_str": "628981851219206145",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/eX64tUX384",
+            "id": 628981851219206145
+          },
+          {
+            "url": "http://t.co/eX64tUX384",
+            "media_url": "http://pbs.twimg.com/media/CLqXqYJWgAYqULW.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqXqYJWgAYqULW.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/628981876443754496/photo/1",
+            "id_str": "628981852263579654",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/eX64tUX384",
+            "id": 628981852263579654
+          },
+          {
+            "url": "http://t.co/eX64tUX384",
+            "media_url": "http://pbs.twimg.com/media/CLqXqdGWwAAsfn6.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLqXqdGWwAAsfn6.jpg",
+            "expanded_url": "http://twitter.com/TravelCoalition/status/628981876443754496/photo/1",
+            "id_str": "628981853593190400",
+            "indices": [
+              111,
+              133
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/eX64tUX384",
+            "id": 628981853593190400
+          }
+        ]
+      },
+      "text": "We are with @RepJoeBarton at @ATTStadium in @visit_arlington for a back of house tour &amp; #travel Roundtable http://t.co/eX64tUX384",
+      "lang": "en",
+      "created_at": "Wed Aug 05 17:32:19 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/ddIVwlo2CS",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "twitter.com/TravelCoalitio\u2026",
+          "expanded_url": "https://twitter.com/TravelCoalition/status/628981876443754496"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "travel",
+          "indices": [
+            53,
+            60
+          ]
+        },
+        {
+          "text": "Tourism",
+          "indices": [
+            62,
+            70
+          ]
+        },
+        {
+          "text": "DFW",
+          "indices": [
+            86,
+            90
+          ]
+        },
+        {
+          "text": "DFWnews",
+          "indices": [
+            100,
+            108
+          ]
+        },
+        {
+          "text": "Texas",
+          "indices": [
+            109,
+            115
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628981876443754496",
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "created_at": "2015-08-06 14:12:13+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great tour! Also learned some eyeopening facts about #travel! #Tourism pumps $1B into #DFW economy! #DFWnews #Texas  https://t.co/ddIVwlo2CS",
+    "lang": "en",
+    "quoted_status_id": 628981876443754496
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628739735716933632,
+    "id_str": "628739735716933632",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Corsicana",
+          "indices": [
+            54,
+            64
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/b1zyb225Ud",
+          "media_url": "http://pbs.twimg.com/media/CLl25j8WIAQVvBb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl25j8WIAQVvBb.jpg",
+          "expanded_url": "http://twitter.com/RepJoeBarton/status/628739735716933632/photo/1",
+          "id_str": "628664354267865092",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/b1zyb225Ud",
+          "id": 628664354267865092
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/b1zyb225Ud",
+          "media_url": "http://pbs.twimg.com/media/CLl25j8WIAQVvBb.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl25j8WIAQVvBb.jpg",
+          "expanded_url": "http://twitter.com/RepJoeBarton/status/628739735716933632/photo/1",
+          "id_str": "628664354267865092",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/b1zyb225Ud",
+          "id": 628664354267865092
+        }
+      ]
+    },
+    "text": "Groundbreaking of new Centex Citizens Credit Union in #Corsicana. Glad to welcome this small business to 6th Dist! http://t.co/b1zyb225Ud",
+    "lang": "en",
+    "created_at": "2015-08-05 01:30:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628693925667024897,
+    "id_str": "628693925667024897",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/hGSoXcSjOr",
+          "media_url": "http://pbs.twimg.com/media/CLl2abbWgAAVr3D.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2abbWgAAVr3D.jpg",
+          "expanded_url": "http://twitter.com/RepJoeBarton/status/628693925667024897/photo/1",
+          "id_str": "628663819406049280",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/hGSoXcSjOr",
+          "id": 628663819406049280
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/hGSoXcSjOr",
+          "media_url": "http://pbs.twimg.com/media/CLl2abbWgAAVr3D.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2abbWgAAVr3D.jpg",
+          "expanded_url": "http://twitter.com/RepJoeBarton/status/628693925667024897/photo/1",
+          "id_str": "628663819406049280",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/hGSoXcSjOr",
+          "id": 628663819406049280
+        }
+      ]
+    },
+    "text": "Traveling arnd 6th Dist: On Mon, dropped by Rice to meet w/ new school super (pictured to my left) and other staff. http://t.co/hGSoXcSjOr",
+    "lang": "en",
+    "created_at": "2015-08-04 22:28:07+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 11,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628670099868811264,
+    "id_str": "628670099868811264",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 5,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628669753498796032,
+      "id_str": "628669753498796032",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "TexasChildrens",
+            "indices": [
+              30,
+              45
+            ]
+          },
+          {
+            "text": "ACEKidsAct",
+            "indices": [
+              63,
+              74
+            ]
+          },
+          {
+            "text": "SpeakNowforKids",
+            "indices": [
+              98,
+              114
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/UNpMn80i2F",
+            "media_url": "http://pbs.twimg.com/media/CLl7zzdUwAAHX35.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl7zzdUwAAHX35.jpg",
+            "expanded_url": "http://twitter.com/TexasChildrens/status/628669753498796032/photo/1",
+            "id_str": "628669752911642624",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 600
+              }
+            },
+            "display_url": "pic.twitter.com/UNpMn80i2F",
+            "id": 628669752911642624
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Joe Barton",
+            "indices": [
+              3,
+              16
+            ],
+            "id_str": "19929362",
+            "id": 19929362,
+            "screen_name": "RepJoeBarton"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15393700",
+        "id": 15393700
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/UNpMn80i2F",
+            "media_url": "http://pbs.twimg.com/media/CLl7zzdUwAAHX35.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl7zzdUwAAHX35.jpg",
+            "expanded_url": "http://twitter.com/TexasChildrens/status/628669753498796032/photo/1",
+            "id_str": "628669752911642624",
+            "indices": [
+              115,
+              137
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 600
+              }
+            },
+            "display_url": "pic.twitter.com/UNpMn80i2F",
+            "id": 628669752911642624
+          }
+        ]
+      },
+      "text": "TY @RepJoeBarton for visiting #TexasChildrens today to discuss #ACEKidsAct and children's health. #SpeakNowforKids http://t.co/UNpMn80i2F",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:52:04 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/8o1xzfdxVF",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "twitter.com/TexasChildrens\u2026",
+          "expanded_url": "https://twitter.com/TexasChildrens/status/628669753498796032"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "628669753498796032",
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "created_at": "2015-08-04 20:53:26+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Thanks for taking the time to show me the difference you are making in kids' lives everyday! Great to see firsthand! https://t.co/8o1xzfdxVF",
+    "lang": "en",
+    "quoted_status_id": 628669753498796032
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628358968012750848,
+    "id_str": "628358968012750848",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/tCvSxpHW0C",
+          "indices": [
+            80,
+            102
+          ],
+          "display_url": "weeklystandard.com/blogs/wow-amer\u2026",
+          "expanded_url": "http://www.weeklystandard.com/blogs/wow-americans-oppose-iran-deal-two-one_1003336.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranNuclearDeal",
+          "indices": [
+            46,
+            62
+          ]
+        },
+        {
+          "text": "IranDeal",
+          "indices": [
+            103,
+            112
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            113,
+            119
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            120,
+            126
+          ]
+        },
+        {
+          "text": "TeaParty",
+          "indices": [
+            127,
+            136
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "I'm part of the 57% of Americans opposing the #IranNuclearDeal! What about you? http://t.co/tCvSxpHW0C #IranDeal #txcot #txgop #TeaParty",
+    "lang": "en",
+    "created_at": "2015-08-04 00:17:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": "2467791",
+    "id": 628313193710891008,
+    "id_str": "628313193710891008",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/guImZZqkK2",
+          "indices": [
+            117,
+            140
+          ],
+          "display_url": "washingtonpost.com/opinions/lifti\u2026",
+          "expanded_url": "https://www.washingtonpost.com/opinions/lifting-the-export-ban-on-crude-oil-would-be-a-boon-to-the-us-economy/2015/08/02/32cfcde4-37c8-11e5-b673-1df005a0fb28_story.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "lifttheban",
+          "indices": [
+            46,
+            57
+          ]
+        },
+        {
+          "text": "crudeoil",
+          "indices": [
+            61,
+            70
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Washington Post",
+          "indices": [
+            0,
+            15
+          ],
+          "id_str": "2467791",
+          "id": 2467791,
+          "screen_name": "washingtonpost"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": 2467791,
+    "in_reply_to_screen_name": "washingtonpost",
+    "retweeted": false,
+    "text": "@washingtonpost editorial bd says its time to #lifttheban on #crudeoil!Glad to have the support.Time to pass HR 702! https://t.co/guImZZqkK2",
+    "lang": "en",
+    "created_at": "2015-08-03 21:15:13+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627981729035214848,
+    "id_str": "627981729035214848",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HaYGgwyDij",
+          "indices": [
+            79,
+            101
+          ],
+          "display_url": "joebarton.house.gov/press-releases\u2026",
+          "expanded_url": "http://joebarton.house.gov/press-releasescolumns/town-hall-schedule-released-listening-to-you-at-home-working-for-you-in-washington/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DFWnews",
+          "indices": [
+            102,
+            110
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            111,
+            117
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            118,
+            124
+          ]
+        },
+        {
+          "text": "teaparty",
+          "indices": [
+            125,
+            134
+          ]
+        },
+        {
+          "text": "TX",
+          "indices": [
+            135,
+            138
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "To be ur rep, I need to know what u think abt issues. TOWN HALL SCHEDULE HERE: http://t.co/HaYGgwyDij #DFWnews #txcot #txgop #teaparty #TX",
+    "lang": "en",
+    "created_at": "2015-08-02 23:18:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627589139559419904,
+    "id_str": "627589139559419904",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HaYGgwyDij",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "joebarton.house.gov/press-releases\u2026",
+          "expanded_url": "http://joebarton.house.gov/press-releasescolumns/town-hall-schedule-released-listening-to-you-at-home-working-for-you-in-washington/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DFWnews",
+          "indices": [
+            110,
+            118
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            119,
+            125
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            126,
+            132
+          ]
+        },
+        {
+          "text": "Texas",
+          "indices": [
+            133,
+            139
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "To be ur rep, I need to know what u think abt current issues. TOWN HALL SCHEDULE HERE: http://t.co/HaYGgwyDij #DFWnews #txcot #txgop #Texas",
+    "lang": "en",
+    "created_at": "2015-08-01 21:18:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627151159858495488,
+    "id_str": "627151159858495488",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/HaYGgwh2qL",
+          "indices": [
+            87,
+            109
+          ],
+          "display_url": "joebarton.house.gov/press-releases\u2026",
+          "expanded_url": "http://joebarton.house.gov/press-releasescolumns/town-hall-schedule-released-listening-to-you-at-home-working-for-you-in-washington/"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "DFWnews",
+          "indices": [
+            110,
+            118
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            119,
+            125
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            126,
+            132
+          ]
+        },
+        {
+          "text": "Texas",
+          "indices": [
+            133,
+            139
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "To be ur rep, I need to know what u think abt current issues. TOWN HALL SCHEDULE HERE: http://t.co/HaYGgwh2qL #DFWnews #txcot #txgop #Texas",
+    "lang": "en",
+    "created_at": "2015-07-31 16:17:43+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626856648716455936,
+    "id_str": "626856648716455936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Fn8ulP6Epm",
+          "indices": [
+            114,
+            136
+          ],
+          "display_url": "tinyurl.com/qgelg4w",
+          "expanded_url": "http://tinyurl.com/qgelg4w"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PROLIFE",
+          "indices": [
+            20,
+            28
+          ]
+        },
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            64,
+            82
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Proud co-sponsor of #PROLIFE Act! Eliminates gray area allowing #PlannedParenthood to receive $ for fetal organs. http://t.co/Fn8ulP6Epm",
+    "lang": "en",
+    "created_at": "2015-07-30 20:47:26+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": true,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626849632589598720,
+    "id_str": "626849632589598720",
+    "quoted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 6901,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 12016,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 626831274477404160,
+      "id_str": "626831274477404160",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/T9FmhCqyme",
+            "media_url": "http://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "expanded_url": "http://twitter.com/GeorgeHWBush/status/626831274477404160/photo/1",
+            "id_str": "626831273672114176",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/T9FmhCqyme",
+            "id": 626831273672114176
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "475988505",
+        "id": 475988505
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/T9FmhCqyme",
+            "media_url": "http://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLLzuOlVAAA3l-n.jpg",
+            "expanded_url": "http://twitter.com/GeorgeHWBush/status/626831274477404160/photo/1",
+            "id_str": "626831273672114176",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 682
+              }
+            },
+            "display_url": "pic.twitter.com/T9FmhCqyme",
+            "id": 626831273672114176
+          }
+        ]
+      },
+      "text": "Who knew jumping out of planes was safer than getting out of bed? Thanks to all for your kind get-well messages. http://t.co/T9FmhCqyme",
+      "lang": "en",
+      "created_at": "Thu Jul 30 19:06:36 +0000 2015",
+      "retweeted": false
+    },
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/9w1JWUxxzL",
+          "indices": [
+            76,
+            99
+          ],
+          "display_url": "twitter.com/GeorgeHWBush/s\u2026",
+          "expanded_url": "https://twitter.com/GeorgeHWBush/status/626831274477404160"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "quoted_status_id_str": "626831274477404160",
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "created_at": "2015-07-30 20:19:33+00:00",
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Great to see he hasn't lost his sense of humor! Get well son Mr. President! https://t.co/9w1JWUxxzL",
+    "lang": "en",
+    "quoted_status_id": 626831274477404160
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626761639384190977,
+    "id_str": "626761639384190977",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/vWWLwHbwNu",
+          "indices": [
+            70,
+            92
+          ],
+          "display_url": "politico.com/story/2015/07/\u2026",
+          "expanded_url": "http://www.politico.com/story/2015/07/judge-explodes-over-hillary-email-delays-120804.html?hp=t1_r"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Hillary",
+          "indices": [
+            20,
+            28
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            93,
+            99
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            100,
+            106
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Judge explodes over #Hillary email delays...We share his frustration! http://t.co/vWWLwHbwNu #txcot #txgop",
+    "lang": "en",
+    "created_at": "2015-07-30 14:29:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626482458125574144,
+    "id_str": "626482458125574144",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/KZvAJwBpV1",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "m.fortworthbusiness.com/news/texas-ran\u2026",
+          "expanded_url": "http://m.fortworthbusiness.com/news/texas-rangers-to-host-hiring-fair-for-veterans/article_43c98400-3539-11e5-908d-5fd4255045b3.html?mode=jqm"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Texas Rangers",
+          "indices": [
+            100,
+            108
+          ],
+          "id_str": "40931019",
+          "id": 40931019,
+          "screen_name": "Rangers"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "JOB FAIR-Great op for active duty military members, registered veterans &amp; military spouses. Thx @Rangers for hosting! http://t.co/KZvAJwBpV1",
+    "lang": "en",
+    "created_at": "2015-07-29 20:00:32+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 0,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626153681201704961,
+    "id_str": "626153681201704961",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "DC",
+          "indices": [
+            44,
+            47
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/pGP47EbLBO",
+          "media_url": "http://pbs.twimg.com/media/CLBUtJFWcAAqPhu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBUtJFWcAAqPhu.jpg",
+          "expanded_url": "http://twitter.com/RepJoeBarton/status/626153681201704961/photo/1",
+          "id_str": "626093482713706496",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/pGP47EbLBO",
+          "id": 626093482713706496
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "U.S. Capitol",
+          "indices": [
+            77,
+            87
+          ],
+          "id_str": "17539497",
+          "id": 17539497,
+          "screen_name": "uscapitol"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/pGP47EbLBO",
+          "media_url": "http://pbs.twimg.com/media/CLBUtJFWcAAqPhu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLBUtJFWcAAqPhu.jpg",
+          "expanded_url": "http://twitter.com/RepJoeBarton/status/626153681201704961/photo/1",
+          "id_str": "626093482713706496",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/pGP47EbLBO",
+          "id": 626093482713706496
+        }
+      ]
+    },
+    "text": "Easterling Family from Ft. Worth dropped by #DC office before taking tour of @uscapitol. Great to chat with them! http://t.co/pGP47EbLBO",
+    "lang": "en",
+    "created_at": "2015-07-28 22:14:05+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 626107387435298816,
+    "id_str": "626107387435298816",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/so61YfKFS2",
+          "indices": [
+            111,
+            133
+          ],
+          "display_url": "politico.com/story/2015/07/\u2026",
+          "expanded_url": "http://www.politico.com/story/2015/07/third-planned-parenthood-video-out-120712.html?hp=l4_4"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            32,
+            50
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Another day, another disturbing #PlannedParenthood video! Continuing push to cut off taxpayer $$ for this org. http://t.co/so61YfKFS2",
+    "lang": "en",
+    "created_at": "2015-07-28 19:10:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 17,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625743336633188352,
+    "id_str": "625743336633188352",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/hlQUeYWcmU",
+          "indices": [
+            60,
+            83
+          ],
+          "display_url": "washingtonpost.com/opinions/obama\u2026",
+          "expanded_url": "https://www.washingtonpost.com/opinions/obamas-secret-iran-deals-exposed/2015/07/27/26d14dbc-3460-11e5-8e66-07b4603ec92a_story.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "IranDeal",
+          "indices": [
+            29,
+            38
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            84,
+            90
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            91,
+            97
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            98,
+            103
+          ]
+        },
+        {
+          "text": "DFWnews",
+          "indices": [
+            104,
+            112
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "It didn't seem possible, but #IranDeal keeps getting worse! https://t.co/hlQUeYWcmU #txcot #txgop #tcot #DFWnews",
+    "lang": "en",
+    "created_at": "2015-07-27 19:03:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625692169257512960,
+    "id_str": "625692169257512960",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/kDvpil8qj5",
+          "indices": [
+            47,
+            69
+          ],
+          "display_url": "1.usa.gov/1LNF9bv",
+          "expanded_url": "http://1.usa.gov/1LNF9bv"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "CuresIn4Words",
+          "indices": [
+            0,
+            14
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#CuresIn4Words: empower doctors, help families http://t.co/kDvpil8qj5",
+    "lang": "en",
+    "created_at": "2015-07-27 15:40:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625404230447149056,
+    "id_str": "625404230447149056",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/o15nDKFtrZ",
+          "indices": [
+            46,
+            68
+          ],
+          "display_url": "wsj.com/articles/inves\u2026",
+          "expanded_url": "http://www.wsj.com/articles/investigation-sought-into-hillary-clintons-emails-1437714369"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "HillaryClinton",
+          "indices": [
+            7,
+            22
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            69,
+            75
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            76,
+            82
+          ]
+        },
+        {
+          "text": "tcot",
+          "indices": [
+            83,
+            88
+          ]
+        },
+        {
+          "text": "TeaParty",
+          "indices": [
+            89,
+            98
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Should #HillaryClinton face criminal charges? http://t.co/o15nDKFtrZ #txcot #txgop #tcot #TeaParty",
+    "lang": "en",
+    "created_at": "2015-07-26 20:36:02+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 625042361316315136,
+    "id_str": "625042361316315136",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/bKf9wZKeXm",
+          "indices": [
+            17,
+            39
+          ],
+          "display_url": "HealthCare.gov",
+          "expanded_url": "http://HealthCare.gov"
+        },
+        {
+          "url": "http://t.co/h0cSQvlLB0",
+          "indices": [
+            82,
+            104
+          ],
+          "display_url": "whsv.com/home/headlines\u2026",
+          "expanded_url": "http://www.whsv.com/home/headlines/Investigation-of-HealthCaregov-Shows-How-Easy-it-Could-be-to-Scam-System-318370011.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "txcot",
+          "indices": [
+            105,
+            111
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            112,
+            118
+          ]
+        },
+        {
+          "text": "TeaParty",
+          "indices": [
+            119,
+            128
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Investigation of http://t.co/bKf9wZKeXm Shows How Easy it Could be to Scam System http://t.co/h0cSQvlLB0 #txcot #txgop #TeaParty",
+    "lang": "en",
+    "created_at": "2015-07-25 20:38:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 7,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 624576024567611392,
+    "id_str": "624576024567611392",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/njcTcDj4W7",
+          "indices": [
+            93,
+            116
+          ],
+          "display_url": "facebook.com/RepJoeBarton/p\u2026",
+          "expanded_url": "https://www.facebook.com/RepJoeBarton/posts/10155859387045597?notif_t=like"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "PlannedParenthood",
+          "indices": [
+            15,
+            33
+          ]
+        },
+        {
+          "text": "txgop",
+          "indices": [
+            117,
+            123
+          ]
+        },
+        {
+          "text": "txcot",
+          "indices": [
+            124,
+            130
+          ]
+        },
+        {
+          "text": "DFWnews",
+          "indices": [
+            131,
+            139
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Planned Parenthood",
+          "indices": [
+            67,
+            73
+          ],
+          "id_str": "22162854",
+          "id": 22162854,
+          "screen_name": "PPact"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "19929362",
+      "screen_name": "repjoebarton",
+      "id": 19929362
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Time to defund #PlannedParenthood! Just co-sponsored bill to strip @PPact of ur tax $! More: https://t.co/njcTcDj4W7 #txgop #txcot #DFWnews",
+    "lang": "en",
+    "created_at": "2015-07-24 13:45:02+00:00"
+  }
+]

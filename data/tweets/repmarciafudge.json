@@ -1,0 +1,2764 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 630378076506075138,
+    "id_str": "630378076506075138",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Ohio",
+          "indices": [
+            5,
+            10
+          ]
+        },
+        {
+          "text": "LocalFoods",
+          "indices": [
+            11,
+            22
+          ]
+        },
+        {
+          "text": "Cleveland",
+          "indices": [
+            73,
+            83
+          ]
+        },
+        {
+          "text": "Akron",
+          "indices": [
+            88,
+            94
+          ]
+        },
+        {
+          "text": "ItMattersWhereYouGrowIt",
+          "indices": [
+            96,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/30jRdIcz3Y",
+          "media_url": "http://pbs.twimg.com/media/CL-NhUVW8AEF3wZ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL-NhUVW8AEF3wZ.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/630378076506075138/photo/1",
+          "id_str": "630378076388651009",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/30jRdIcz3Y",
+          "id": 630378076388651009
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/30jRdIcz3Y",
+          "media_url": "http://pbs.twimg.com/media/CL-NhUVW8AEF3wZ.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL-NhUVW8AEF3wZ.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/630378076506075138/photo/1",
+          "id_str": "630378076388651009",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 720,
+              "resize": "fit",
+              "h": 540
+            }
+          },
+          "display_url": "pic.twitter.com/30jRdIcz3Y",
+          "id": 630378076388651009
+        }
+      ]
+    },
+    "text": "It's #Ohio #LocalFoods Week! Try produce, baked goods &amp; more made in #Cleveland and #Akron! #ItMattersWhereYouGrowIt http://t.co/30jRdIcz3Y",
+    "lang": "en",
+    "created_at": "2015-08-09 14:00:19+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629729961969086464,
+    "id_str": "629729961969086464",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Ohio",
+          "indices": [
+            25,
+            30
+          ]
+        },
+        {
+          "text": "LocalFoods",
+          "indices": [
+            31,
+            42
+          ]
+        },
+        {
+          "text": "FoodieFriday",
+          "indices": [
+            90,
+            103
+          ]
+        },
+        {
+          "text": "ThisIsCLE",
+          "indices": [
+            104,
+            114
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/T9IbfPN8ve",
+          "media_url": "http://pbs.twimg.com/media/CL1AECuWwAEvyZp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1AECuWwAEvyZp.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/629729961969086464/photo/1",
+          "id_str": "629729961096691713",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/T9IbfPN8ve",
+          "id": 629729961096691713
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/T9IbfPN8ve",
+          "media_url": "http://pbs.twimg.com/media/CL1AECuWwAEvyZp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1AECuWwAEvyZp.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/629729961969086464/photo/1",
+          "id_str": "629729961096691713",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/T9IbfPN8ve",
+          "id": 629729961096691713
+        }
+      ]
+    },
+    "text": "Celebrate the FIRST EVER #Ohio #LocalFoods Week by attending the Kinsman Farm Open House! #FoodieFriday #ThisIsCLE http://t.co/T9IbfPN8ve",
+    "lang": "en",
+    "created_at": "2015-08-07 19:04:57+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629683603937591296,
+    "id_str": "629683603937591296",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/xNVfjTbHND",
+          "indices": [
+            112,
+            134
+          ],
+          "display_url": "buff.ly/1hnAz8H",
+          "expanded_url": "http://buff.ly/1hnAz8H"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "Cleveland",
+          "indices": [
+            23,
+            33
+          ]
+        },
+        {
+          "text": "farmersmarket",
+          "indices": [
+            39,
+            53
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Why should you visit a #Cleveland-area #farmersmarket? Because our markets are ranked nationally in the Top 10: http://t.co/xNVfjTbHND",
+    "lang": "en",
+    "created_at": "2015-08-07 16:00:44+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629664905688428544,
+    "id_str": "629664905688428544",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Ohio",
+          "indices": [
+            0,
+            5
+          ]
+        },
+        {
+          "text": "backtoschool",
+          "indices": [
+            29,
+            42
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/08wR37pSVi",
+          "media_url": "http://pbs.twimg.com/media/CL0E5SuUkAAGlWD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0E5SuUkAAGlWD.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/629664905688428544/photo/1",
+          "id_str": "629664905226915840",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 407
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 421
+            }
+          },
+          "display_url": "pic.twitter.com/08wR37pSVi",
+          "id": 629664905226915840
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/08wR37pSVi",
+          "media_url": "http://pbs.twimg.com/media/CL0E5SuUkAAGlWD.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0E5SuUkAAGlWD.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/629664905688428544/photo/1",
+          "id_str": "629664905226915840",
+          "indices": [
+            112,
+            134
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 230
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 407
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 421
+            }
+          },
+          "display_url": "pic.twitter.com/08wR37pSVi",
+          "id": 629664905226915840
+        }
+      ]
+    },
+    "text": "#Ohio's sales tax holiday on #backtoschool clothes, shoes, school supplies starts TODAY. Hurry! It ends Sunday! http://t.co/08wR37pSVi",
+    "lang": "en",
+    "created_at": "2015-08-07 14:46:26+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": "629311984975089664",
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": "25001895",
+    "id": 629312476992143361,
+    "id_str": "629312476992143361",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Tina Kovach",
+          "indices": [
+            0,
+            6
+          ],
+          "id_str": "25001895",
+          "id": 25001895,
+          "screen_name": "ubeme"
+        },
+        {
+          "name": "Charles_A_Mooney",
+          "indices": [
+            7,
+            22
+          ],
+          "id_str": "1957263966",
+          "id": 1957263966,
+          "screen_name": "MooneyMustangs"
+        }
+      ]
+    },
+    "in_reply_to_status_id": 629311984975089664,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": 25001895,
+    "in_reply_to_screen_name": "ubeme",
+    "retweeted": false,
+    "text": "@ubeme @MooneyMustangs Yes you do! Keep up the great work and make me proud this school year!",
+    "lang": "en",
+    "created_at": "2015-08-06 15:26:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 48,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 30,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629311087905738752,
+    "id_str": "629311087905738752",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "VotingRightsAct",
+          "indices": [
+            18,
+            34
+          ]
+        },
+        {
+          "text": "VRA50",
+          "indices": [
+            51,
+            57
+          ]
+        },
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            65,
+            79
+          ]
+        },
+        {
+          "text": "votingrights",
+          "indices": [
+            91,
+            104
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/Bk5mQGh1MQ",
+          "media_url": "http://pbs.twimg.com/media/CLvDGYUWgAAUQqm.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvDGYUWgAAUQqm.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/629311087905738752/photo/1",
+          "id_str": "629311087322759168",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 228
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 499,
+              "resize": "fit",
+              "h": 336
+            },
+            "large": {
+              "w": 499,
+              "resize": "fit",
+              "h": 336
+            }
+          },
+          "display_url": "pic.twitter.com/Bk5mQGh1MQ",
+          "id": 629311087322759168
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/Bk5mQGh1MQ",
+          "media_url": "http://pbs.twimg.com/media/CLvDGYUWgAAUQqm.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvDGYUWgAAUQqm.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/629311087905738752/photo/1",
+          "id_str": "629311087322759168",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 228
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 499,
+              "resize": "fit",
+              "h": 336
+            },
+            "large": {
+              "w": 499,
+              "resize": "fit",
+              "h": 336
+            }
+          },
+          "display_url": "pic.twitter.com/Bk5mQGh1MQ",
+          "id": 629311087322759168
+        }
+      ]
+    },
+    "text": "50 years ago, the #VotingRightsAct became law. For #VRA50, let's #RestoreTheVRA to protect #votingrights far longer. http://t.co/Bk5mQGh1MQ",
+    "lang": "en",
+    "created_at": "2015-08-06 15:20:30+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 1803,
+      "favorite_count": 1466,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629265088214638592,
+      "id_str": "629265088214638592",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              133,
+              147
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot box. #RestoreTheVRA",
+      "lang": "en",
+      "created_at": "Thu Aug 06 12:17:42 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 1803,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629292897003786240,
+    "id_str": "629292897003786240",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            147,
+            148
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: Our vote is the foundation of democracy. A just &amp; fair society requires the removal of any &amp; all barriers to the ballot b\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 14:08:12+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 15,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 17,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628956433451753473,
+    "id_str": "628956433451753473",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "farmersmarkets",
+          "indices": [
+            62,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/CpMMrhiDp9",
+          "media_url": "http://pbs.twimg.com/media/CLqAix-WgAAqDMA.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqAix-WgAAqDMA.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/628956433451753473/photo/1",
+          "id_str": "628956432990371840",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 197
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 348
+            },
+            "large": {
+              "w": 667,
+              "resize": "fit",
+              "h": 387
+            }
+          },
+          "display_url": "pic.twitter.com/CpMMrhiDp9",
+          "id": 628956432990371840
+        }
+      ],
+      "urls": [
+        {
+          "url": "http://t.co/w738Hv8LP9",
+          "indices": [
+            92,
+            114
+          ],
+          "display_url": "ow.ly/QwMcL",
+          "expanded_url": "http://ow.ly/QwMcL"
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Dept. of Agriculture",
+          "indices": [
+            42,
+            47
+          ],
+          "id_str": "61853389",
+          "id": 61853389,
+          "screen_name": "USDA"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/CpMMrhiDp9",
+          "media_url": "http://pbs.twimg.com/media/CLqAix-WgAAqDMA.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLqAix-WgAAqDMA.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/628956433451753473/photo/1",
+          "id_str": "628956432990371840",
+          "indices": [
+            115,
+            137
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 197
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 348
+            },
+            "large": {
+              "w": 667,
+              "resize": "fit",
+              "h": 387
+            }
+          },
+          "display_url": "pic.twitter.com/CpMMrhiDp9",
+          "id": 628956432990371840
+        }
+      ]
+    },
+    "text": "Want fresh, locally-grown produce? Search @USDA's database of #farmersmarkets in your area: http://t.co/w738Hv8LP9 http://t.co/CpMMrhiDp9",
+    "lang": "en",
+    "created_at": "2015-08-05 15:51:13+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 337,
+      "favorite_count": 159,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 628903659523457025,
+      "id_str": "628903659523457025",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "RestoreTheVRA",
+            "indices": [
+              124,
+              138
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "House Republicans",
+            "indices": [
+              94,
+              103
+            ],
+            "id_str": "15207668",
+            "id": 15207668,
+            "screen_name": "HouseGOP"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "188019606",
+        "id": 188019606
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "The strength of our democracy rests upon the participation of every citizen. RT if you agree: @HouseGOP should join Dems to #RestoreTheVRA!",
+      "lang": "en",
+      "created_at": "Wed Aug 05 12:21:31 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 337,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628917946707013632,
+    "id_str": "628917946707013632",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            137,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "James E. Clyburn",
+          "indices": [
+            3,
+            11
+          ],
+          "id_str": "188019606",
+          "id": 188019606,
+          "screen_name": "Clyburn"
+        },
+        {
+          "name": "House Republicans",
+          "indices": [
+            107,
+            116
+          ],
+          "id_str": "15207668",
+          "id": 15207668,
+          "screen_name": "HouseGOP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @Clyburn: The strength of our democracy rests upon the participation of every citizen. RT if you agree: @HouseGOP should join Dems to #R\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 13:18:17+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 2,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "153486399",
+      "id": 628663540753264640,
+      "id_str": "628663540753264640",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "Ethiopia",
+            "indices": [
+              51,
+              60
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/PbbO7JgWqN",
+            "media_url": "http://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+            "expanded_url": "http://twitter.com/FeedtheFuture/status/628663540753264640/photo/1",
+            "id_str": "628663540191068160",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 427
+              }
+            },
+            "display_url": "pic.twitter.com/PbbO7JgWqN",
+            "id": 628663540191068160
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Rep. Marcia L. Fudge",
+            "indices": [
+              0,
+              15
+            ],
+            "id_str": "153486399",
+            "id": 153486399,
+            "screen_name": "RepMarciaFudge"
+          },
+          {
+            "name": "Feed the Future",
+            "indices": [
+              68,
+              82
+            ],
+            "id_str": "441938188",
+            "id": 441938188,
+            "screen_name": "FeedtheFuture"
+          },
+          {
+            "name": "USAID",
+            "indices": [
+              102,
+              108
+            ],
+            "id_str": "36683668",
+            "id": 36683668,
+            "screen_name": "USAID"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "441938188",
+        "id": 441938188
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 153486399,
+      "in_reply_to_screen_name": "RepMarciaFudge",
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/PbbO7JgWqN",
+            "media_url": "http://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+            "expanded_url": "http://twitter.com/FeedtheFuture/status/628663540753264640/photo/1",
+            "id_str": "628663540191068160",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 226
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 400
+              },
+              "large": {
+                "w": 640,
+                "resize": "fit",
+                "h": 427
+              }
+            },
+            "display_url": "pic.twitter.com/PbbO7JgWqN",
+            "id": 628663540191068160
+          }
+        ]
+      },
+      "text": "@RepMarciaFudge Thanks for joining us last week in #Ethiopia to see @FeedtheFuture results firsthand! @USAID http://t.co/PbbO7JgWqN",
+      "lang": "en",
+      "created_at": "Tue Aug 04 20:27:22 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 441938188,
+          "media_url": "http://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+          "source_user_id_str": "441938188",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/PbbO7JgWqN",
+          "expanded_url": "http://twitter.com/FeedtheFuture/status/628663540753264640/photo/1",
+          "url": "http://t.co/PbbO7JgWqN",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+          "source_status_id_str": "628663540753264640",
+          "id_str": "628663540191068160",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 427
+            }
+          },
+          "id": 628663540191068160,
+          "source_status_id": 628663540753264640
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 628664239755018241,
+    "id_str": "628664239755018241",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Ethiopia",
+          "indices": [
+            70,
+            79
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 441938188,
+          "media_url": "http://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+          "source_user_id_str": "441938188",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/PbbO7JgWqN",
+          "expanded_url": "http://twitter.com/FeedtheFuture/status/628663540753264640/photo/1",
+          "url": "http://t.co/PbbO7JgWqN",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLl2KLRUAAAMAe1.jpg",
+          "source_status_id_str": "628663540753264640",
+          "id_str": "628663540191068160",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 640,
+              "resize": "fit",
+              "h": 427
+            }
+          },
+          "id": 628663540191068160,
+          "source_status_id": 628663540753264640
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Feed the Future",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "441938188",
+          "id": 441938188,
+          "screen_name": "FeedtheFuture"
+        },
+        {
+          "name": "Rep. Marcia L. Fudge",
+          "indices": [
+            19,
+            34
+          ],
+          "id_str": "153486399",
+          "id": 153486399,
+          "screen_name": "RepMarciaFudge"
+        },
+        {
+          "name": "Feed the Future",
+          "indices": [
+            87,
+            101
+          ],
+          "id_str": "441938188",
+          "id": 441938188,
+          "screen_name": "FeedtheFuture"
+        },
+        {
+          "name": "USAID",
+          "indices": [
+            121,
+            127
+          ],
+          "id_str": "36683668",
+          "id": 36683668,
+          "screen_name": "USAID"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @FeedtheFuture: @RepMarciaFudge Thanks for joining us last week in #Ethiopia to see @FeedtheFuture results firsthand! @USAID http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-08-04 20:30:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 12,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 13,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628615592069734401,
+    "id_str": "628615592069734401",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/AGCpQTWQaR",
+          "media_url": "http://pbs.twimg.com/media/CLlKjKfW8AA-hKF.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlKjKfW8AA-hKF.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/628615592069734401/photo/1",
+          "id_str": "628615590966652928",
+          "indices": [
+            29,
+            51
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 677
+            }
+          },
+          "display_url": "pic.twitter.com/AGCpQTWQaR",
+          "id": 628615590966652928
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            21,
+            27
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/AGCpQTWQaR",
+          "media_url": "http://pbs.twimg.com/media/CLlKjKfW8AA-hKF.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLlKjKfW8AA-hKF.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/628615592069734401/photo/1",
+          "id_str": "628615590966652928",
+          "indices": [
+            29,
+            51
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 423
+            },
+            "large": {
+              "w": 960,
+              "resize": "fit",
+              "h": 677
+            }
+          },
+          "display_url": "pic.twitter.com/AGCpQTWQaR",
+          "id": 628615590966652928
+        }
+      ]
+    },
+    "text": "Happy 54th Birthday, @POTUS! http://t.co/AGCpQTWQaR",
+    "lang": "en",
+    "created_at": "2015-08-04 17:16:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628595401420079104,
+    "id_str": "628595401420079104",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "TechHire",
+          "indices": [
+            0,
+            9
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "#TechHire will also connect more diverse workers - women, minorities, veterans &amp; young adults - w/ entrepreneurial opportunities and jobs.",
+    "lang": "en",
+    "created_at": "2015-08-04 15:56:37+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628594819783393280,
+    "id_str": "628594819783393280",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "tech",
+          "indices": [
+            31,
+            36
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Akron will place 400 people in #tech jobs/internships by the end of 2016, helping applicants find work based on skills and not just degrees.",
+    "lang": "en",
+    "created_at": "2015-08-04 15:54:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 14,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628594492816363520,
+    "id_str": "628594492816363520",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "Akron",
+          "indices": [
+            17,
+            23
+          ]
+        },
+        {
+          "text": "Ohio",
+          "indices": [
+            38,
+            43
+          ]
+        },
+        {
+          "text": "TechHire",
+          "indices": [
+            88,
+            97
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "President Obama",
+          "indices": [
+            78,
+            84
+          ],
+          "id_str": "1536791610",
+          "id": 1536791610,
+          "screen_name": "POTUS"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Congrats, Akron! #Akron is one of two #Ohio cities selected to participate in @POTUS\u200b's #TechHire initiative.",
+    "lang": "en",
+    "created_at": "2015-08-04 15:53:00+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 5,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628236088323252228,
+    "id_str": "628236088323252228",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FarmersMarket",
+          "indices": [
+            9,
+            23
+          ]
+        },
+        {
+          "text": "Ohio",
+          "indices": [
+            107,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/BVdfdgPWs9",
+          "media_url": "http://pbs.twimg.com/media/CLfxZKgVAAIStOX.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfxZKgVAAIStOX.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/628236088323252228/photo/1",
+          "id_str": "628236087660445698",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 639,
+              "resize": "fit",
+              "h": 425
+            }
+          },
+          "display_url": "pic.twitter.com/BVdfdgPWs9",
+          "id": 628236087660445698
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/BVdfdgPWs9",
+          "media_url": "http://pbs.twimg.com/media/CLfxZKgVAAIStOX.png",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLfxZKgVAAIStOX.png",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/628236088323252228/photo/1",
+          "id_str": "628236087660445698",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 639,
+              "resize": "fit",
+              "h": 425
+            }
+          },
+          "display_url": "pic.twitter.com/BVdfdgPWs9",
+          "id": 628236087660445698
+        }
+      ]
+    },
+    "text": "National #FarmersMarket Week is August 2-8! Celebrate by visiting some of the 75 markets here in Northeast #Ohio! http://t.co/BVdfdgPWs9",
+    "lang": "en",
+    "created_at": "2015-08-03 16:08:50+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 56,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 29,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627576298840436736,
+    "id_str": "627576298840436736",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Selma",
+          "indices": [
+            45,
+            51
+          ]
+        },
+        {
+          "text": "DC",
+          "indices": [
+            55,
+            58
+          ]
+        },
+        {
+          "text": "VRA",
+          "indices": [
+            94,
+            98
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/y1G1NerNzz",
+          "media_url": "http://pbs.twimg.com/media/CLWZUDBVAAEtUgG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWZUDBVAAEtUgG.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627576298840436736/photo/1",
+          "id_str": "627576292775362561",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 422
+            },
+            "large": {
+              "w": 848,
+              "resize": "fit",
+              "h": 597
+            }
+          },
+          "display_url": "pic.twitter.com/y1G1NerNzz",
+          "id": 627576292775362561
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "  NAACP",
+          "indices": [
+            7,
+            13
+          ],
+          "id_str": "44988185",
+          "id": 44988185,
+          "screen_name": "NAACP"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/y1G1NerNzz",
+          "media_url": "http://pbs.twimg.com/media/CLWZUDBVAAEtUgG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWZUDBVAAEtUgG.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627576298840436736/photo/1",
+          "id_str": "627576292775362561",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 422
+            },
+            "large": {
+              "w": 848,
+              "resize": "fit",
+              "h": 597
+            }
+          },
+          "display_url": "pic.twitter.com/y1G1NerNzz",
+          "id": 627576292775362561
+        },
+        {
+          "url": "http://t.co/y1G1NerNzz",
+          "media_url": "http://pbs.twimg.com/media/CLWZUDEUEAAYTZ8.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLWZUDEUEAAYTZ8.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627576298840436736/photo/1",
+          "id_str": "627576292787884032",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 226
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 399
+            },
+            "large": {
+              "w": 830,
+              "resize": "fit",
+              "h": 553
+            }
+          },
+          "display_url": "pic.twitter.com/y1G1NerNzz",
+          "id": 627576292787884032
+        }
+      ]
+    },
+    "text": "Today, @NAACP embarks on 860-mile march from #Selma to #DC to commemorate 50th anniversary of #VRA. RT your support. http://t.co/y1G1NerNzz",
+    "lang": "en",
+    "created_at": "2015-08-01 20:27:04+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627486524490301440,
+    "id_str": "627486524490301440",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "BackToSchool",
+          "indices": [
+            14,
+            27
+          ]
+        },
+        {
+          "text": "college",
+          "indices": [
+            73,
+            81
+          ]
+        },
+        {
+          "text": "Ohio",
+          "indices": [
+            114,
+            119
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/uYlGs4xXzi",
+          "media_url": "http://pbs.twimg.com/media/CLVHq02WUAAAnwG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLVHq02WUAAAnwG.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627486524490301440/photo/1",
+          "id_str": "627486524154728448",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 195
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 345
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 589
+            }
+          },
+          "display_url": "pic.twitter.com/uYlGs4xXzi",
+          "id": 627486524154728448
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://bufferapp.com\" rel=\"nofollow\">Buffer</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/uYlGs4xXzi",
+          "media_url": "http://pbs.twimg.com/media/CLVHq02WUAAAnwG.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLVHq02WUAAAnwG.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627486524490301440/photo/1",
+          "id_str": "627486524154728448",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 195
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 345
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 589
+            }
+          },
+          "display_url": "pic.twitter.com/uYlGs4xXzi",
+          "id": 627486524154728448
+        }
+      ]
+    },
+    "text": "It's National #BackToSchool Month! Good luck to the 1.1M kids &amp; 500K #college students returning to school in #Ohio! http://t.co/uYlGs4xXzi",
+    "lang": "en",
+    "created_at": "2015-08-01 14:30:20+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": "627197182664425472",
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 9,
+      "favorite_count": 24,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": "153486399",
+      "id": 627219794043928576,
+      "id_str": "627219794043928576",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "FranklinDay",
+            "indices": [
+              23,
+              35
+            ]
+          }
+        ],
+        "user_mentions": [
+          {
+            "name": "Rep. Marcia L. Fudge",
+            "indices": [
+              66,
+              81
+            ],
+            "id_str": "153486399",
+            "id": 153486399,
+            "screen_name": "RepMarciaFudge"
+          }
+        ]
+      },
+      "in_reply_to_status_id": 627197182664425472,
+      "contributors": null,
+      "user": {
+        "id_str": "875974482",
+        "id": 875974482
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": 153486399,
+      "in_reply_to_screen_name": "RepMarciaFudge",
+      "retweeted": false,
+      "text": "Truly an honor to have #FranklinDay rep\u2019d on Capitol Hill. Thanks @RepMarciaFudge!",
+      "lang": "en",
+      "created_at": "Fri Jul 31 20:50:26 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 9,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627223485530664960,
+    "id_str": "627223485530664960",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "FranklinDay",
+          "indices": [
+            41,
+            53
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "The Peanuts Movie",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "875974482",
+          "id": 875974482,
+          "screen_name": "PeanutsMovie"
+        },
+        {
+          "name": "Rep. Marcia L. Fudge",
+          "indices": [
+            84,
+            99
+          ],
+          "id_str": "153486399",
+          "id": 153486399,
+          "screen_name": "RepMarciaFudge"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @PeanutsMovie: Truly an honor to have #FranklinDay rep\u2019d on Capitol Hill. Thanks @RepMarciaFudge!",
+    "lang": "en",
+    "created_at": "2015-07-31 21:05:06+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 90,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 121,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627197182664425472,
+    "id_str": "627197182664425472",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "FranklinDay",
+          "indices": [
+            11,
+            23
+          ]
+        },
+        {
+          "text": "Peanuts",
+          "indices": [
+            50,
+            58
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/wCIMdJbEMX",
+          "media_url": "http://pbs.twimg.com/media/CLRAg6OXAAA8fzg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRAg6OXAAA8fzg.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627197182664425472/photo/1",
+          "id_str": "627197182240817152",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 421
+            },
+            "large": {
+              "w": 825,
+              "resize": "fit",
+              "h": 580
+            }
+          },
+          "display_url": "pic.twitter.com/wCIMdJbEMX",
+          "id": 627197182240817152
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/wCIMdJbEMX",
+          "media_url": "http://pbs.twimg.com/media/CLRAg6OXAAA8fzg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLRAg6OXAAA8fzg.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627197182664425472/photo/1",
+          "id_str": "627197182240817152",
+          "indices": [
+            118,
+            140
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 239
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 421
+            },
+            "large": {
+              "w": 825,
+              "resize": "fit",
+              "h": 580
+            }
+          },
+          "display_url": "pic.twitter.com/wCIMdJbEMX",
+          "id": 627197182240817152
+        }
+      ]
+    },
+    "text": "July 31 is #FranklinDay! In 1968, Franklin joined #Peanuts, becoming the first African-American comic strip character http://t.co/wCIMdJbEMX",
+    "lang": "en",
+    "created_at": "2015-07-31 19:20:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 10,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Washington, DC",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -77.119401,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.801826
+            ],
+            [
+              -76.909396,
+              38.9953797
+            ],
+            [
+              -77.119401,
+              38.9953797
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/01fbe706f872cb32.json",
+      "name": "Washington",
+      "country": "United States",
+      "place_type": "city",
+      "id": "01fbe706f872cb32"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 627129514871668736,
+    "id_str": "627129514871668736",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "Ohio",
+          "indices": [
+            12,
+            17
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/MaGIUaLHgr",
+          "media_url": "http://pbs.twimg.com/media/CLQC-IcWIAADJCf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQC-IcWIAADJCf.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627129514871668736/photo/1",
+          "id_str": "627129514552860672",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 227
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 414
+            }
+          },
+          "display_url": "pic.twitter.com/MaGIUaLHgr",
+          "id": 627129514552860672
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "153486399",
+      "screen_name": "repmarciafudge",
+      "id": 153486399
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/MaGIUaLHgr",
+          "media_url": "http://pbs.twimg.com/media/CLQC-IcWIAADJCf.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLQC-IcWIAADJCf.jpg",
+          "expanded_url": "http://twitter.com/RepMarciaFudge/status/627129514871668736/photo/1",
+          "id_str": "627129514552860672",
+          "indices": [
+            114,
+            136
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 227
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 400
+            },
+            "large": {
+              "w": 620,
+              "resize": "fit",
+              "h": 414
+            }
+          },
+          "display_url": "pic.twitter.com/MaGIUaLHgr",
+          "id": 627129514552860672
+        }
+      ]
+    },
+    "text": "Luckily for #Ohio families, there will be a sales tax holiday on clothing, shoes, and school supplies August 7-9! http://t.co/MaGIUaLHgr",
+    "lang": "en",
+    "created_at": "2015-07-31 14:51:42+00:00",
+    "retweeted": false
+  }
+]

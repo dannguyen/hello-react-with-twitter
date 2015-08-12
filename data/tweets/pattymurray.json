@@ -1,0 +1,1486 @@
+[
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629763601302200321,
+    "id_str": "629763601302200321",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/uipSBdeChK",
+          "media_url": "http://pbs.twimg.com/media/CL1elIyXAAAI1yH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1elIyXAAAI1yH.jpg",
+          "expanded_url": "http://twitter.com/PattyMurray/status/629763601302200321/photo/1",
+          "id_str": "629763515008614400",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/uipSBdeChK",
+          "id": 629763515008614400
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Marine",
+          "indices": [
+            96,
+            106
+          ],
+          "id_str": "20695768",
+          "id": 20695768,
+          "screen_name": "Hilliards"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/uipSBdeChK",
+          "media_url": "http://pbs.twimg.com/media/CL1elIyXAAAI1yH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1elIyXAAAI1yH.jpg",
+          "expanded_url": "http://twitter.com/PattyMurray/status/629763601302200321/photo/1",
+          "id_str": "629763515008614400",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/uipSBdeChK",
+          "id": 629763515008614400
+        }
+      ]
+    },
+    "text": "Murray: I stand in support of reauthorizing the Ex-Im Bank for Washington state businesses like @Hilliards. http://t.co/uipSBdeChK",
+    "lang": "en",
+    "created_at": "2015-08-07 21:18:37+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 5,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629761958741323777,
+    "id_str": "629761958741323777",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Murray on Ex-Im Bank: It creates jobs, strengthens small biz &amp; it\u2019s an example of how we can grow our economy from middle out, not top down.",
+    "lang": "en",
+    "created_at": "2015-08-07 21:12:06+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 6,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629760797967798272,
+      "id_str": "629760797967798272",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "smallbiz",
+            "indices": [
+              43,
+              52
+            ]
+          },
+          {
+            "text": "ExIm",
+            "indices": [
+              100,
+              105
+            ]
+          },
+          {
+            "text": "ExIm4Jobs",
+            "indices": [
+              111,
+              121
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/8Rj1pF6Vhs",
+            "media_url": "http://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+            "expanded_url": "http://twitter.com/SenatorCantwell/status/629760797967798272/photo/1",
+            "id_str": "629760797149896704",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/8Rj1pF6Vhs",
+            "id": 629760797149896704
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Sen. Maria Cantwell",
+            "indices": [
+              1,
+              17
+            ],
+            "id_str": "117501995",
+            "id": 117501995,
+            "screen_name": "SenatorCantwell"
+          },
+          {
+            "name": "Senator Patty Murray",
+            "indices": [
+              24,
+              36
+            ],
+            "id_str": "293131808",
+            "id": 293131808,
+            "screen_name": "PattyMurray"
+          },
+          {
+            "name": "Hilliard's Beer",
+            "indices": [
+              62,
+              76
+            ],
+            "id_str": "80213342",
+            "id": 80213342,
+            "screen_name": "HilliardsBeer"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "117501995",
+        "id": 117501995
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/8Rj1pF6Vhs",
+            "media_url": "http://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+            "expanded_url": "http://twitter.com/SenatorCantwell/status/629760797967798272/photo/1",
+            "id_str": "629760797149896704",
+            "indices": [
+              122,
+              144
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 340
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 600
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 1024
+              }
+            },
+            "display_url": "pic.twitter.com/8Rj1pF6Vhs",
+            "id": 629760797149896704
+          }
+        ]
+      },
+      "text": ".@SenatorCantwell &amp; @PattyMurray visit #smallbiz exporter @HilliardsBeer to call for renewal of #ExIm Bank #ExIm4Jobs http://t.co/8Rj1pF6Vhs",
+      "lang": "en",
+      "created_at": "Fri Aug 07 21:07:29 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 117501995,
+          "media_url": "http://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+          "source_user_id_str": "117501995",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/8Rj1pF6Vhs",
+          "expanded_url": "http://twitter.com/SenatorCantwell/status/629760797967798272/photo/1",
+          "url": "http://t.co/8Rj1pF6Vhs",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+          "source_status_id_str": "629760797967798272",
+          "id_str": "629760797149896704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629760797149896704,
+          "source_status_id": 629760797967798272
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629761183449522177,
+    "id_str": "629761183449522177",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "smallbiz",
+          "indices": [
+            64,
+            73
+          ]
+        },
+        {
+          "text": "ExIm",
+          "indices": [
+            121,
+            126
+          ]
+        },
+        {
+          "text": "ExIm4Jobs",
+          "indices": [
+            132,
+            142
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 117501995,
+          "media_url": "http://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+          "source_user_id_str": "117501995",
+          "indices": [
+            143,
+            144
+          ],
+          "display_url": "pic.twitter.com/8Rj1pF6Vhs",
+          "expanded_url": "http://twitter.com/SenatorCantwell/status/629760797967798272/photo/1",
+          "url": "http://t.co/8Rj1pF6Vhs",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1cG7-WIAAz3s5.jpg",
+          "source_status_id_str": "629760797967798272",
+          "id_str": "629760797149896704",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 340
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 600
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "id": 629760797149896704,
+          "source_status_id": 629760797967798272
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Sen. Maria Cantwell",
+          "indices": [
+            3,
+            19
+          ],
+          "id_str": "117501995",
+          "id": 117501995,
+          "screen_name": "SenatorCantwell"
+        },
+        {
+          "name": "Sen. Maria Cantwell",
+          "indices": [
+            22,
+            38
+          ],
+          "id_str": "117501995",
+          "id": 117501995,
+          "screen_name": "SenatorCantwell"
+        },
+        {
+          "name": "Senator Patty Murray",
+          "indices": [
+            45,
+            57
+          ],
+          "id_str": "293131808",
+          "id": 293131808,
+          "screen_name": "PattyMurray"
+        },
+        {
+          "name": "Hilliard's Beer",
+          "indices": [
+            83,
+            97
+          ],
+          "id_str": "80213342",
+          "id": 80213342,
+          "screen_name": "HilliardsBeer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @SenatorCantwell: .@SenatorCantwell &amp; @PattyMurray visit #smallbiz exporter @HilliardsBeer to call for renewal of #ExIm Bank #ExIm4Jobs \u2026",
+    "lang": "en",
+    "created_at": "2015-08-07 21:09:01+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629761021255749632,
+    "id_str": "629761021255749632",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "ExIm",
+          "indices": [
+            22,
+            27
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "Hilliard's Beer",
+          "indices": [
+            48,
+            62
+          ],
+          "id_str": "80213342",
+          "id": 80213342,
+          "screen_name": "HilliardsBeer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Murray: Thanks to the #ExIm Bank, Seattle\u2019s own @HilliardsBeer was able to expand operations, hire workers, and brew more great beer.",
+    "lang": "en",
+    "created_at": "2015-08-07 21:08:22+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629760691210162176,
+    "id_str": "629760691210162176",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/e5RDSFYICm",
+          "media_url": "http://pbs.twimg.com/media/CL1a8pMWwAAMfW-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1a8pMWwAAMfW-.jpg",
+          "expanded_url": "http://twitter.com/PattyMurray/status/629760691210162176/photo/1",
+          "id_str": "629759520798064640",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/e5RDSFYICm",
+          "id": 629759520798064640
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Hilliard's Beer",
+          "indices": [
+            16,
+            30
+          ],
+          "id_str": "80213342",
+          "id": 80213342,
+          "screen_name": "HilliardsBeer"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/e5RDSFYICm",
+          "media_url": "http://pbs.twimg.com/media/CL1a8pMWwAAMfW-.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1a8pMWwAAMfW-.jpg",
+          "expanded_url": "http://twitter.com/PattyMurray/status/629760691210162176/photo/1",
+          "id_str": "629759520798064640",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/e5RDSFYICm",
+          "id": 629759520798064640
+        },
+        {
+          "url": "http://t.co/e5RDSFYICm",
+          "media_url": "http://pbs.twimg.com/media/CL1bwz5WgAAH3I3.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1bwz5WgAAH3I3.jpg",
+          "expanded_url": "http://twitter.com/PattyMurray/status/629760691210162176/photo/1",
+          "id_str": "629760417024344064",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            },
+            "large": {
+              "w": 320,
+              "resize": "fit",
+              "h": 240
+            }
+          },
+          "display_url": "pic.twitter.com/e5RDSFYICm",
+          "id": 629760417024344064
+        },
+        {
+          "url": "http://t.co/e5RDSFYICm",
+          "media_url": "http://pbs.twimg.com/media/CL1b6yzWEAELcqt.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL1b6yzWEAELcqt.jpg",
+          "expanded_url": "http://twitter.com/PattyMurray/status/629760691210162176/photo/1",
+          "id_str": "629760588529405953",
+          "indices": [
+            117,
+            139
+          ],
+          "sizes": {
+            "small": {
+              "w": 239,
+              "resize": "fit",
+              "h": 261
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 239,
+              "resize": "fit",
+              "h": 261
+            },
+            "large": {
+              "w": 239,
+              "resize": "fit",
+              "h": 261
+            }
+          },
+          "display_url": "pic.twitter.com/e5RDSFYICm",
+          "id": 629760588529405953
+        }
+      ]
+    },
+    "text": "Murray stops by @HilliardsBeer to talk about importance of Export-Import Bank for Washington state small businesses. http://t.co/e5RDSFYICm",
+    "lang": "en",
+    "created_at": "2015-08-07 21:07:03+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629407872393175040,
+    "id_str": "629407872393175040",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/euEKyQcWtQ",
+          "indices": [
+            120,
+            142
+          ],
+          "display_url": "bit.ly/1Itbu2C",
+          "expanded_url": "http://bit.ly/1Itbu2C"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Murray intros bill to return one of the oldest &amp; most complete skeletons in N. America to the Columbia Basin Tribes http://t.co/euEKyQcWtQ",
+    "lang": "en",
+    "created_at": "2015-08-06 21:45:05+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 7,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629388802398617605,
+    "id_str": "629388802398617605",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/euEKyQcWtQ",
+          "indices": [
+            99,
+            121
+          ],
+          "display_url": "bit.ly/1Itbu2C",
+          "expanded_url": "http://bit.ly/1Itbu2C"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "KennewickMan",
+          "indices": [
+            122,
+            135
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "After two decades, it\u2019s well past time to return these prehistoric remains to their rightful place http://t.co/euEKyQcWtQ #KennewickMan",
+    "lang": "en",
+    "created_at": "2015-08-06 20:29:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 3,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629377685039419392,
+    "id_str": "629377685039419392",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            130,
+            136
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Today, Voting Rights Act turns 50, but there's still more work to do in the fight to ensure all can exercise their right to vote. #VRA50",
+    "lang": "en",
+    "created_at": "2015-08-06 19:45:08+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 14,
+    "favorite_count": 9,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629359362532868097,
+    "id_str": "629359362532868097",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "RestoreTheVRA",
+          "indices": [
+            130,
+            144
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Celebrating 50 yrs since the VRA was signed to protect people of color from discrimination &amp; violence in voting. It's time to #RestoreTheVRA",
+    "lang": "en",
+    "created_at": "2015-08-06 18:32:19+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 6,
+    "favorite_count": 8,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629354401757577216,
+    "id_str": "629354401757577216",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Yesterday, GOP blocked efforts to give much-needed support for workers\u2014but I'll keep fighting to ensure workers &amp; families have a voice. -PM",
+    "lang": "en",
+    "created_at": "2015-08-06 18:12:36+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 8,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629326038577860608,
+    "id_str": "629326038577860608",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "https://t.co/Kp2p9MPQ9S",
+          "indices": [
+            102,
+            125
+          ],
+          "display_url": "youtube.com/watch?v=SRrYTD\u2026",
+          "expanded_url": "https://www.youtube.com/watch?v=SRrYTD7Cfoc&feature=youtu.be"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "WorkerSecurity",
+          "indices": [
+            126,
+            141
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "ICYMI: Republicans blocked efforts to move forward on paid sick leave &amp; raising the minimum wage: https://t.co/Kp2p9MPQ9S #WorkerSecurity",
+    "lang": "en",
+    "created_at": "2015-08-06 16:19:54+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 13,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629294898919960576,
+    "id_str": "629294898919960576",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/q4lPCdskwZ",
+          "indices": [
+            125,
+            147
+          ],
+          "display_url": "bit.ly/1IZ0NKY",
+          "expanded_url": "http://bit.ly/1IZ0NKY"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Elizabeth Warren",
+          "indices": [
+            46,
+            56
+          ],
+          "id_str": "970207298",
+          "id": 970207298,
+          "screen_name": "SenWarren"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Yesterday, GOP blocked a push by Murray &amp; @SenWarren to advance proposals on raising the min wage &amp; paid sick days \u2192 http://t.co/q4lPCdskwZ",
+    "lang": "en",
+    "created_at": "2015-08-06 14:16:10+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 7,
+    "favorite_count": 3,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629040283150348288,
+    "id_str": "629040283150348288",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "FMLA22",
+          "indices": [
+            129,
+            136
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Murray: The reasons for the Family &amp; Medical Leave Act are clear\u2014it's sound economic policy &amp; it is sound social policy. #FMLA22",
+    "lang": "en",
+    "created_at": "2015-08-05 21:24:25+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629031088762028032,
+    "id_str": "629031088762028032",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "FMLA22",
+          "indices": [
+            133,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "In 1993, Murray led on FMLA, to protect workers attending to family &amp; medical needs. 22 years later, it's been used 200 M times. #FMLA22",
+    "lang": "en",
+    "created_at": "2015-08-05 20:47:53+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "coordinates": null,
+      "retweet_count": 2,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629025287745830912,
+      "id_str": "629025287745830912",
+      "entities": {
+        "symbols": [],
+        "urls": [],
+        "hashtags": [
+          {
+            "text": "paidsickdays",
+            "indices": [
+              8,
+              21
+            ]
+          },
+          {
+            "text": "WorkerSecurity",
+            "indices": [
+              125,
+              140
+            ]
+          }
+        ],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "15174710",
+        "id": 15174710
+      },
+      "favorited": false,
+      "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Without #paidsickdays, workers have to choose between their paycheck or caring for their son or daughter when they get sick. #WorkerSecurity",
+      "lang": "en",
+      "created_at": "Wed Aug 05 20:24:49 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629026244814835712,
+    "id_str": "629026244814835712",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "paidsickdays",
+          "indices": [
+            24,
+            37
+          ]
+        },
+        {
+          "text": "WorkerSecurity",
+          "indices": [
+            139,
+            140
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "MomsRising",
+          "indices": [
+            3,
+            14
+          ],
+          "id_str": "15174710",
+          "id": 15174710,
+          "screen_name": "MomsRising"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @MomsRising: Without #paidsickdays, workers have to choose between their paycheck or caring for their son or daughter when they get sick\u2026",
+    "lang": "en",
+    "created_at": "2015-08-05 20:28:38+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 2,
+    "favorite_count": 4,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629023210416275456,
+    "id_str": "629023210416275456",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\u201cIn Congress, we must act to give workers some much needed relief. We need to grow our economy from the middle out, not top down.\u201d -Murray",
+    "lang": "en",
+    "created_at": "2015-08-05 20:16:34+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "coordinates": null,
+    "retweet_count": 18,
+    "favorite_count": 18,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629020930992377856,
+    "id_str": "629020930992377856",
+    "entities": {
+      "symbols": [],
+      "urls": [],
+      "hashtags": [
+        {
+          "text": "WorkerSecurity",
+          "indices": [
+            125,
+            140
+          ]
+        }
+      ],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "\u201cIn today\u2019s economy, too many workers across the country are underpaid, overworked, and treated unfairly on the job\u201d -Murray #WorkerSecurity",
+    "lang": "en",
+    "created_at": "2015-08-05 20:07:31+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 6,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629020108854296578,
+    "id_str": "629020108854296578",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/El9Ez3gLCu",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "senate.gov/floor/index.htm",
+          "expanded_url": "http://senate.gov/floor/index.htm"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Murray on the Senate floor to request moving fwd on the Healthy Families Act to expand paid sick leave for millions http://t.co/El9Ez3gLCu",
+    "lang": "en",
+    "created_at": "2015-08-05 20:04:15+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628962454488248320,
+    "id_str": "628962454488248320",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/cUPV72wZrg",
+          "indices": [
+            120,
+            142
+          ],
+          "display_url": "wapo.st/1P6pKmD",
+          "expanded_url": "http://wapo.st/1P6pKmD"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Workers today are facing the same challenges: low wages, unpredictable scheduling, &amp; not enough economic security \u2192 http://t.co/cUPV72wZrg",
+    "lang": "en",
+    "created_at": "2015-08-05 16:15:09+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 628945303731879936,
+    "id_str": "628945303731879936",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/cUPV72OAPQ",
+          "indices": [
+            122,
+            144
+          ],
+          "display_url": "wapo.st/1P6pKmD",
+          "expanded_url": "http://wapo.st/1P6pKmD"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "293131808",
+      "screen_name": "pattymurray",
+      "id": 293131808
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Murray\u2019s worker security plan reflects the idea that when workers succeed, businesses succeed, &amp; the economy succeeds http://t.co/cUPV72OAPQ",
+    "lang": "en",
+    "created_at": "2015-08-05 15:07:00+00:00"
+  }
+]

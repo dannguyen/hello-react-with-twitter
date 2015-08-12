@@ -1,0 +1,3178 @@
+[
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 3,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 2,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 630102396773908480,
+      "id_str": "630102396773908480",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "RoboticSurgery",
+            "indices": [
+              80,
+              95
+            ]
+          },
+          {
+            "text": "JRSC2015",
+            "indices": [
+              106,
+              115
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/T8Ocm0KQgl",
+            "media_url": "http://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+            "expanded_url": "http://twitter.com/RoswellPark/status/630102396773908480/photo/1",
+            "id_str": "630102396648099844",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 790,
+                "resize": "fit",
+                "h": 444
+              }
+            },
+            "display_url": "pic.twitter.com/T8Ocm0KQgl",
+            "id": 630102396648099844
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Brian Higgins",
+            "indices": [
+              13,
+              29
+            ],
+            "id_str": "33576489",
+            "id": 33576489,
+            "screen_name": "RepBrianHiggins"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "16044589",
+        "id": 16044589
+      },
+      "favorited": false,
+      "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/T8Ocm0KQgl",
+            "media_url": "http://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+            "expanded_url": "http://twitter.com/RoswellPark/status/630102396773908480/photo/1",
+            "id_str": "630102396648099844",
+            "indices": [
+              116,
+              138
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 191
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 337
+              },
+              "large": {
+                "w": 790,
+                "resize": "fit",
+                "h": 444
+              }
+            },
+            "display_url": "pic.twitter.com/T8Ocm0KQgl",
+            "id": 630102396648099844
+          }
+        ]
+      },
+      "text": "Thank you to @RepBrianHiggins for helping us acknowledge students in our Junior #RoboticSurgery Challenge #JRSC2015 http://t.co/T8Ocm0KQgl",
+      "lang": "en",
+      "created_at": "Sat Aug 08 19:44:52 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 16044589,
+          "media_url": "http://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+          "source_user_id_str": "16044589",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/T8Ocm0KQgl",
+          "expanded_url": "http://twitter.com/RoswellPark/status/630102396773908480/photo/1",
+          "url": "http://t.co/T8Ocm0KQgl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+          "source_status_id_str": "630102396773908480",
+          "id_str": "630102396648099844",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 790,
+              "resize": "fit",
+              "h": 444
+            }
+          },
+          "id": 630102396648099844,
+          "source_status_id": 630102396773908480
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 630128979253575680,
+    "id_str": "630128979253575680",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "RoboticSurgery",
+          "indices": [
+            97,
+            112
+          ]
+        },
+        {
+          "text": "JRSC2015",
+          "indices": [
+            123,
+            132
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 16044589,
+          "media_url": "http://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+          "source_user_id_str": "16044589",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/T8Ocm0KQgl",
+          "expanded_url": "http://twitter.com/RoswellPark/status/630102396773908480/photo/1",
+          "url": "http://t.co/T8Ocm0KQgl",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL6SypRVEAQ5YLi.jpg",
+          "source_status_id_str": "630102396773908480",
+          "id_str": "630102396648099844",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 191
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 337
+            },
+            "large": {
+              "w": 790,
+              "resize": "fit",
+              "h": 444
+            }
+          },
+          "id": 630102396648099844,
+          "source_status_id": 630102396773908480
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Roswell Park ",
+          "indices": [
+            3,
+            15
+          ],
+          "id_str": "16044589",
+          "id": 16044589,
+          "screen_name": "RoswellPark"
+        },
+        {
+          "name": "Brian Higgins",
+          "indices": [
+            30,
+            46
+          ],
+          "id_str": "33576489",
+          "id": 33576489,
+          "screen_name": "RepBrianHiggins"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RoswellPark: Thank you to @RepBrianHiggins for helping us acknowledge students in our Junior #RoboticSurgery Challenge #JRSC2015 http:/\u2026",
+    "lang": "en",
+    "created_at": "2015-08-08 21:30:30+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629726921417465856,
+    "id_str": "629726921417465856",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            82,
+            97
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/8GpX4uoE65",
+          "media_url": "http://pbs.twimg.com/media/CL09S1-W8AIFekV.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL09S1-W8AIFekV.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629726921417465856/photo/1",
+          "id_str": "629726916837306370",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 544,
+              "resize": "fit",
+              "h": 480
+            },
+            "large": {
+              "w": 544,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/8GpX4uoE65",
+          "id": 629726916837306370
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "VVA",
+          "indices": [
+            13,
+            23
+          ],
+          "id_str": "331193355",
+          "id": 331193355,
+          "screen_name": "VVAmerica"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/8GpX4uoE65",
+          "media_url": "http://pbs.twimg.com/media/CL09S1-W8AIFekV.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL09S1-W8AIFekV.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629726921417465856/photo/1",
+          "id_str": "629726916837306370",
+          "indices": [
+            104,
+            126
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 300
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 544,
+              "resize": "fit",
+              "h": 480
+            },
+            "large": {
+              "w": 544,
+              "resize": "fit",
+              "h": 480
+            }
+          },
+          "display_url": "pic.twitter.com/8GpX4uoE65",
+          "id": 629726916837306370
+        }
+      ]
+    },
+    "text": "Steve Banko, @VVAmerica &amp; recipient of 4 Purple Hearts, joined us for today's #PurpleHeartDay event http://t.co/8GpX4uoE65",
+    "lang": "en",
+    "created_at": "2015-08-07 18:52:52+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629718436952842240,
+    "id_str": "629718436952842240",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "PurpleHeartDay",
+          "indices": [
+            105,
+            120
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/qzzrH0DzBH",
+          "media_url": "http://pbs.twimg.com/media/CL01k4DWsAAcWUu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL01k4DWsAAcWUu.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629718436952842240/photo/1",
+          "id_str": "629718430539755520",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/qzzrH0DzBH",
+          "id": 629718430539755520
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/qzzrH0DzBH",
+          "media_url": "http://pbs.twimg.com/media/CL01k4DWsAAcWUu.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL01k4DWsAAcWUu.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629718436952842240/photo/1",
+          "id_str": "629718430539755520",
+          "indices": [
+            121,
+            143
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/qzzrH0DzBH",
+          "id": 629718430539755520
+        }
+      ]
+    },
+    "text": "W/ Military Order of the Purple Heart leaders from Bflo &amp; Niagara Falls, Ken Speaker and Ron Krul on #PurpleHeartDay http://t.co/qzzrH0DzBH",
+    "lang": "en",
+    "created_at": "2015-08-07 18:19:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629717660671037440,
+    "id_str": "629717660671037440",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/t7cRSqCuhu",
+          "media_url": "http://pbs.twimg.com/media/CL003prXAAAi0yi.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL003prXAAAi0yi.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629717660671037440/photo/1",
+          "id_str": "629717653586903040",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/t7cRSqCuhu",
+          "id": 629717653586903040
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "U.S. Marines",
+          "indices": [
+            4,
+            9
+          ],
+          "id_str": "10126672",
+          "id": 10126672,
+          "screen_name": "USMC"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/t7cRSqCuhu",
+          "media_url": "http://pbs.twimg.com/media/CL003prXAAAi0yi.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL003prXAAAi0yi.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629717660671037440/photo/1",
+          "id_str": "629717653586903040",
+          "indices": [
+            116,
+            138
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/t7cRSqCuhu",
+          "id": 629717653586903040
+        }
+      ]
+    },
+    "text": "T: .@USMC Dr. Pat Welch on Purple Heart project: goal was to show some respect for those who no longer have a voice http://t.co/t7cRSqCuhu",
+    "lang": "en",
+    "created_at": "2015-08-07 18:16:04+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629716783650484225,
+    "id_str": "629716783650484225",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/X6E5GQcr31",
+          "media_url": "http://pbs.twimg.com/media/CL00Eh8UMAIh4iK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL00Eh8UMAIh4iK.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629716783650484225/photo/1",
+          "id_str": "629716775337209858",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/X6E5GQcr31",
+          "id": 629716775337209858
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "VVA",
+          "indices": [
+            1,
+            11
+          ],
+          "id_str": "331193355",
+          "id": 331193355,
+          "screen_name": "VVAmerica"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/X6E5GQcr31",
+          "media_url": "http://pbs.twimg.com/media/CL00Eh8UMAIh4iK.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL00Eh8UMAIh4iK.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629716783650484225/photo/1",
+          "id_str": "629716775337209858",
+          "indices": [
+            105,
+            127
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/X6E5GQcr31",
+          "id": 629716775337209858
+        }
+      ]
+    },
+    "text": ".@VVAmerica Jack Michel: \"When you serve with people you bond, sweat, bleed &amp; forever remember them\" http://t.co/X6E5GQcr31",
+    "lang": "en",
+    "created_at": "2015-08-07 18:12:35+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629716171626037248,
+    "id_str": "629716171626037248",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/SOfKqUuZX7",
+          "media_url": "http://pbs.twimg.com/media/CL0zg47WoAAqGJA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0zg47WoAAqGJA.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629716171626037248/photo/1",
+          "id_str": "629716163031900160",
+          "indices": [
+            100,
+            122
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/SOfKqUuZX7",
+          "id": 629716163031900160
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/SOfKqUuZX7",
+          "media_url": "http://pbs.twimg.com/media/CL0zg47WoAAqGJA.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0zg47WoAAqGJA.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629716171626037248/photo/1",
+          "id_str": "629716163031900160",
+          "indices": [
+            100,
+            122
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/SOfKqUuZX7",
+          "id": 629716163031900160
+        }
+      ]
+    },
+    "text": "On Purple Heart Day announcing 280 WNYers KIA during Vietnam War added to National Purple Heart HOH http://t.co/SOfKqUuZX7",
+    "lang": "en",
+    "created_at": "2015-08-07 18:10:09+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": {
+      "contained_within": [],
+      "attributes": {},
+      "country_code": "US",
+      "full_name": "Buffalo, NY",
+      "bounding_box": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -78.912276,
+              42.826008
+            ],
+            [
+              -78.79485,
+              42.826008
+            ],
+            [
+              -78.79485,
+              42.966451
+            ],
+            [
+              -78.912276,
+              42.966451
+            ]
+          ]
+        ]
+      },
+      "url": "https://api.twitter.com/1.1/geo/id/a307591cd0413588.json",
+      "name": "Buffalo",
+      "country": "United States",
+      "place_type": "city",
+      "id": "a307591cd0413588"
+    },
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629662106250518528,
+    "id_str": "629662106250518528",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/ysXz4ppqx0",
+          "media_url": "http://pbs.twimg.com/media/CL0CWEpW8AA820X.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0CWEpW8AA820X.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629662106250518528/photo/1",
+          "id_str": "629662101129326592",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ysXz4ppqx0",
+          "id": 629662101129326592
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "U.S. Air Force",
+          "indices": [
+            99,
+            110
+          ],
+          "id_str": "19611483",
+          "id": 19611483,
+          "screen_name": "usairforce"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/ysXz4ppqx0",
+          "media_url": "http://pbs.twimg.com/media/CL0CWEpW8AA820X.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0CWEpW8AA820X.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629662106250518528/photo/1",
+          "id_str": "629662101129326592",
+          "indices": [
+            111,
+            133
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 768,
+              "resize": "fit",
+              "h": 1024
+            }
+          },
+          "display_url": "pic.twitter.com/ysXz4ppqx0",
+          "id": 629662101129326592
+        }
+      ]
+    },
+    "text": "NIagara Falls Air Reserve Station Cmdr Col Steven Parker shares the history &amp; tradition of the @usairforce http://t.co/ysXz4ppqx0",
+    "lang": "en",
+    "created_at": "2015-08-07 14:35:19+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 6,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 5,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629660244310888448,
+    "id_str": "629660244310888448",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/458CXOZrv5",
+          "media_url": "http://pbs.twimg.com/media/CL0AppNUEAALb3U.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0AppNUEAALb3U.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629660244310888448/photo/1",
+          "id_str": "629660238338068480",
+          "indices": [
+            62,
+            84
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/458CXOZrv5",
+          "id": 629660238338068480
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Buffalo Naval Park",
+          "indices": [
+            7,
+            21
+          ],
+          "id_str": "3044729212",
+          "id": 3044729212,
+          "screen_name": "BfloNavalPark"
+        },
+        {
+          "name": "U.S. Air Force",
+          "indices": [
+            45,
+            56
+          ],
+          "id_str": "19611483",
+          "id": 19611483,
+          "screen_name": "usairforce"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/458CXOZrv5",
+          "media_url": "http://pbs.twimg.com/media/CL0AppNUEAALb3U.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CL0AppNUEAALb3U.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629660244310888448/photo/1",
+          "id_str": "629660238338068480",
+          "indices": [
+            62,
+            84
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/458CXOZrv5",
+          "id": 629660238338068480
+        }
+      ]
+    },
+    "text": "At the @BfloNavalPark this AM as we kick-off @USairforce Week http://t.co/458CXOZrv5",
+    "lang": "en",
+    "created_at": "2015-08-07 14:27:55+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629382736776597505,
+    "id_str": "629382736776597505",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/2RrYyKdSwf",
+          "indices": [
+            116,
+            138
+          ],
+          "display_url": "wben.com/Black-Rock-Cha\u2026",
+          "expanded_url": "http://www.wben.com/Black-Rock-Channel-Dredging-Underway-to-Clean-Wate/21831254"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "WBEN NewsRadio 930AM",
+          "indices": [
+            101,
+            114
+          ],
+          "id_str": "23808281",
+          "id": 23808281,
+          "screen_name": "NewsRadio930"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "$2.179M Black Rock Channel dredging project will help region economically &amp; environmentally (via @NewsRadio930) http://t.co/2RrYyKdSwf",
+    "lang": "en",
+    "created_at": "2015-08-06 20:05:12+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 32,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 33,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629334299934916609,
+      "id_str": "629334299934916609",
+      "entities": {
+        "symbols": [],
+        "hashtags": [
+          {
+            "text": "TBT",
+            "indices": [
+              0,
+              4
+            ]
+          },
+          {
+            "text": "ErieCanal",
+            "indices": [
+              9,
+              19
+            ]
+          },
+          {
+            "text": "BuffaloNY",
+            "indices": [
+              48,
+              58
+            ]
+          }
+        ],
+        "media": [
+          {
+            "url": "http://t.co/TX4ptmEhlr",
+            "media_url": "http://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+            "expanded_url": "http://twitter.com/BfloNavalPark/status/629334299934916609/photo/1",
+            "id_str": "629334299427360768",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 384
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 513
+              }
+            },
+            "display_url": "pic.twitter.com/TX4ptmEhlr",
+            "id": 629334299427360768
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Canalside Buffalo",
+            "indices": [
+              98,
+              112
+            ],
+            "id_str": "54994502",
+            "id": 54994502,
+            "screen_name": "CanalsideBflo"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "3044729212",
+        "id": 3044729212
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/TX4ptmEhlr",
+            "media_url": "http://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+            "expanded_url": "http://twitter.com/BfloNavalPark/status/629334299934916609/photo/1",
+            "id_str": "629334299427360768",
+            "indices": [
+              113,
+              135
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 384
+              },
+              "large": {
+                "w": 800,
+                "resize": "fit",
+                "h": 513
+              }
+            },
+            "display_url": "pic.twitter.com/TX4ptmEhlr",
+            "id": 629334299427360768
+          }
+        ]
+      },
+      "text": "#TBT How #ErieCanal Commercial Slip + relocated #BuffaloNY Naval Park + our ships looked in 2006. @CanalsideBflo http://t.co/TX4ptmEhlr",
+      "lang": "en",
+      "created_at": "Thu Aug 06 16:52:44 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 32,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 3044729212,
+          "media_url": "http://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+          "source_user_id_str": "3044729212",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/TX4ptmEhlr",
+          "expanded_url": "http://twitter.com/BfloNavalPark/status/629334299934916609/photo/1",
+          "url": "http://t.co/TX4ptmEhlr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+          "source_status_id_str": "629334299934916609",
+          "id_str": "629334299427360768",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 384
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 513
+            }
+          },
+          "id": 629334299427360768,
+          "source_status_id": 629334299934916609
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629376219834908673,
+    "id_str": "629376219834908673",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "TBT",
+          "indices": [
+            19,
+            23
+          ]
+        },
+        {
+          "text": "ErieCanal",
+          "indices": [
+            28,
+            38
+          ]
+        },
+        {
+          "text": "BuffaloNY",
+          "indices": [
+            67,
+            77
+          ]
+        }
+      ],
+      "media": [
+        {
+          "source_user_id": 3044729212,
+          "media_url": "http://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+          "source_user_id_str": "3044729212",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/TX4ptmEhlr",
+          "expanded_url": "http://twitter.com/BfloNavalPark/status/629334299934916609/photo/1",
+          "url": "http://t.co/TX4ptmEhlr",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvYNgJWUAAPDdD.jpg",
+          "source_status_id_str": "629334299934916609",
+          "id_str": "629334299427360768",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 384
+            },
+            "large": {
+              "w": 800,
+              "resize": "fit",
+              "h": 513
+            }
+          },
+          "id": 629334299427360768,
+          "source_status_id": 629334299934916609
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Buffalo Naval Park",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "3044729212",
+          "id": 3044729212,
+          "screen_name": "BfloNavalPark"
+        },
+        {
+          "name": "Canalside Buffalo",
+          "indices": [
+            117,
+            131
+          ],
+          "id_str": "54994502",
+          "id": 54994502,
+          "screen_name": "CanalsideBflo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @BfloNavalPark: #TBT How #ErieCanal Commercial Slip + relocated #BuffaloNY Naval Park + our ships looked in 2006. @CanalsideBflo http://\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 19:39:18+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629356897917902849,
+    "id_str": "629356897917902849",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/Qw1ROGYIUs",
+          "indices": [
+            120,
+            142
+          ],
+          "display_url": "latimes.com/opinion/op-ed/\u2026",
+          "expanded_url": "http://www.latimes.com/opinion/op-ed/la-oe-john-lewis-voting-rights-act-20150807-story.html"
+        }
+      ],
+      "hashtags": [
+        {
+          "text": "VRA50",
+          "indices": [
+            32,
+            38
+          ]
+        }
+      ],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            39,
+            52
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        },
+        {
+          "name": "Sen. Patrick Leahy",
+          "indices": [
+            59,
+            72
+          ],
+          "id_str": "242836537",
+          "id": 242836537,
+          "screen_name": "SenatorLeahy"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "As we recognize the progress of #VRA50 @repjohnlewis &amp; @SenatorLeahy remind us there is still much work to be done. http://t.co/Qw1ROGYIUs",
+    "lang": "en",
+    "created_at": "2015-08-06 18:22:32+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1418,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1108,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629290880512434176,
+      "id_str": "629290880512434176",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/TBcsbgplSy",
+            "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+            "id_str": "629290879623131136",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 385
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 658
+              }
+            },
+            "display_url": "pic.twitter.com/TBcsbgplSy",
+            "id": 629290879623131136
+          }
+        ],
+        "urls": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29450962",
+        "id": 29450962
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/TBcsbgplSy",
+            "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+            "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+            "id_str": "629290879623131136",
+            "indices": [
+              82,
+              104
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 218
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 385
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 658
+              }
+            },
+            "display_url": "pic.twitter.com/TBcsbgplSy",
+            "id": 629290879623131136
+          }
+        ]
+      },
+      "text": "At this time 50 yrs ago today, the Voting Rights Act of 1965 was signed into law. http://t.co/TBcsbgplSy",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:00:12 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1418,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 29450962,
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_user_id_str": "29450962",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "url": "http://t.co/TBcsbgplSy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_status_id_str": "629290880512434176",
+          "id_str": "629290879623131136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            }
+          },
+          "id": 629290879623131136,
+          "source_status_id": 629290880512434176
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629354870278127616,
+    "id_str": "629354870278127616",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 29450962,
+          "media_url": "http://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_user_id_str": "29450962",
+          "indices": [
+            100,
+            122
+          ],
+          "display_url": "pic.twitter.com/TBcsbgplSy",
+          "expanded_url": "http://twitter.com/repjohnlewis/status/629290880512434176/photo/1",
+          "url": "http://t.co/TBcsbgplSy",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuwuIxUcAAdRNx.jpg",
+          "source_status_id_str": "629290880512434176",
+          "id_str": "629290879623131136",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 218
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 385
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 658
+            }
+          },
+          "id": 629290879623131136,
+          "source_status_id": 629290880512434176
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "John Lewis",
+          "indices": [
+            3,
+            16
+          ],
+          "id_str": "29450962",
+          "id": 29450962,
+          "screen_name": "repjohnlewis"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @repjohnlewis: At this time 50 yrs ago today, the Voting Rights Act of 1965 was signed into law. http://t.co/TBcsbgplSy",
+    "lang": "en",
+    "created_at": "2015-08-06 18:14:28+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": null,
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629326138104541184,
+      "id_str": "629326138104541184",
+      "entities": {
+        "symbols": [],
+        "urls": [
+          {
+            "url": "http://t.co/7Uj8ncGNPK",
+            "indices": [
+              44,
+              66
+            ],
+            "display_url": "tinyurl.com/q5gewtn",
+            "expanded_url": "http://www.tinyurl.com/q5gewtn"
+          }
+        ],
+        "hashtags": [],
+        "user_mentions": []
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "1262366473",
+        "id": 1262366473
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "retweeted": false,
+      "text": "Clean up of the Black Rock Channel underway http://t.co/7Uj8ncGNPK",
+      "lang": "en",
+      "created_at": "Thu Aug 06 16:20:18 +0000 2015"
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629348104219795457,
+    "id_str": "629348104219795457",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/7Uj8ncGNPK",
+          "indices": [
+            59,
+            81
+          ],
+          "display_url": "tinyurl.com/q5gewtn",
+          "expanded_url": "http://www.tinyurl.com/q5gewtn"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "Chris Caya",
+          "indices": [
+            3,
+            13
+          ],
+          "id_str": "1262366473",
+          "id": 1262366473,
+          "screen_name": "ChrisCaya"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @ChrisCaya: Clean up of the Black Rock Channel underway http://t.co/7Uj8ncGNPK",
+    "lang": "en",
+    "created_at": "2015-08-06 17:47:35+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629343320444129280,
+    "id_str": "629343320444129280",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/VP6VWtIQrz",
+          "media_url": "http://pbs.twimg.com/media/CLvgaXoWUAAIIak.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgaXoWUAAIIak.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629343320444129280/photo/1",
+          "id_str": "629343316572786688",
+          "indices": [
+            84,
+            106
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/VP6VWtIQrz",
+          "id": 629343316572786688
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "USACE Buffalo",
+          "indices": [
+            1,
+            15
+          ],
+          "id_str": "285567416",
+          "id": 285567416,
+          "screen_name": "USACE_Buffalo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/VP6VWtIQrz",
+          "media_url": "http://pbs.twimg.com/media/CLvgaXoWUAAIIak.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgaXoWUAAIIak.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629343320444129280/photo/1",
+          "id_str": "629343316572786688",
+          "indices": [
+            84,
+            106
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/VP6VWtIQrz",
+          "id": 629343316572786688
+        }
+      ]
+    },
+    "text": ".@USACE_Buffalo's work in our waterways essential to WNY's great waterfront revival http://t.co/VP6VWtIQrz",
+    "lang": "en",
+    "created_at": "2015-08-06 17:28:34+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 3,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 1,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629343211018960896,
+    "id_str": "629343211018960896",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "GLRI",
+          "indices": [
+            107,
+            112
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/D3OujWSu2e",
+          "media_url": "http://pbs.twimg.com/media/CLvgUK8WIAIYzMg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgUK8WIAIYzMg.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629343211018960896/photo/1",
+          "id_str": "629343210087784450",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/D3OujWSu2e",
+          "id": 629343210087784450
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Luedtke Engineering ",
+          "indices": [
+            1,
+            12
+          ],
+          "id_str": "2231754806",
+          "id": 2231754806,
+          "screen_name": "LuedtkeEng"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/D3OujWSu2e",
+          "media_url": "http://pbs.twimg.com/media/CLvgUK8WIAIYzMg.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgUK8WIAIYzMg.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629343211018960896/photo/1",
+          "id_str": "629343210087784450",
+          "indices": [
+            113,
+            135
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/D3OujWSu2e",
+          "id": 629343210087784450
+        }
+      ]
+    },
+    "text": ".@LuedtkeEng will remove the equivalent of 20K dump truck loads of legacy sediment from Black Rock Channel #GLRI http://t.co/D3OujWSu2e",
+    "lang": "en",
+    "created_at": "2015-08-06 17:28:08+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629342988221685762,
+    "id_str": "629342988221685762",
+    "entities": {
+      "symbols": [],
+      "hashtags": [
+        {
+          "text": "GLRI",
+          "indices": [
+            33,
+            38
+          ]
+        }
+      ],
+      "media": [
+        {
+          "url": "http://t.co/o7LbEgUrGu",
+          "media_url": "http://pbs.twimg.com/media/CLvgHNOWsAArhcp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgHNOWsAArhcp.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629342988221685762/photo/1",
+          "id_str": "629342987361890304",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/o7LbEgUrGu",
+          "id": 629342987361890304
+        }
+      ],
+      "urls": [],
+      "user_mentions": []
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/o7LbEgUrGu",
+          "media_url": "http://pbs.twimg.com/media/CLvgHNOWsAArhcp.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvgHNOWsAArhcp.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629342988221685762/photo/1",
+          "id_str": "629342987361890304",
+          "indices": [
+            108,
+            130
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "display_url": "pic.twitter.com/o7LbEgUrGu",
+          "id": 629342987361890304
+        }
+      ]
+    },
+    "text": "Black Rock dredging supported by #GLRI cleans up decades old contaminants &amp; opens up navigation channel http://t.co/o7LbEgUrGu",
+    "lang": "en",
+    "created_at": "2015-08-06 17:27:15+00:00",
+    "retweeted": false
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629338804000817152,
+    "id_str": "629338804000817152",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "url": "http://t.co/YpnBZsMO8i",
+          "media_url": "http://pbs.twimg.com/media/CLvcTqIWoAAEMFH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvcTqIWoAAEMFH.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629338804000817152/photo/1",
+          "id_str": "629338803233267712",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/YpnBZsMO8i",
+          "id": 629338803233267712
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "USACE Buffalo",
+          "indices": [
+            7,
+            21
+          ],
+          "id_str": "285567416",
+          "id": 285567416,
+          "screen_name": "USACE_Buffalo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "extended_entities": {
+      "media": [
+        {
+          "url": "http://t.co/YpnBZsMO8i",
+          "media_url": "http://pbs.twimg.com/media/CLvcTqIWoAAEMFH.jpg",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLvcTqIWoAAEMFH.jpg",
+          "expanded_url": "http://twitter.com/RepBrianHiggins/status/629338804000817152/photo/1",
+          "id_str": "629338803233267712",
+          "indices": [
+            97,
+            119
+          ],
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 453
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 800
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 1365
+            }
+          },
+          "display_url": "pic.twitter.com/YpnBZsMO8i",
+          "id": 629338803233267712
+        }
+      ]
+    },
+    "text": "Joined @USACE_Buffalo Lt. Col. Jansen to announce $2M dredging project in the Black Rock Channel http://t.co/YpnBZsMO8i",
+    "lang": "en",
+    "created_at": "2015-08-06 17:10:38+00:00",
+    "retweeted": false
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 4,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 1,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Buffalo, NY",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.912276,
+                42.826008
+              ],
+              [
+                -78.79485,
+                42.826008
+              ],
+              [
+                -78.79485,
+                42.966451
+              ],
+              [
+                -78.912276,
+                42.966451
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/a307591cd0413588.json",
+        "name": "Buffalo",
+        "country": "United States",
+        "place_type": "city",
+        "id": "a307591cd0413588"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629294340238610437,
+      "id_str": "629294340238610437",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/RgCjuhePdu",
+            "media_url": "http://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+            "expanded_url": "http://twitter.com/AngelaTWCNews/status/629294340238610437/photo/1",
+            "id_str": "629294315001417729",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/RgCjuhePdu",
+            "id": 629294315001417729
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "TWC News Buffalo",
+            "indices": [
+              93,
+              108
+            ],
+            "id_str": "26332143",
+            "id": 26332143,
+            "screen_name": "TWCNewsBuffalo"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "29857611",
+        "id": 29857611
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/RgCjuhePdu",
+            "media_url": "http://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+            "expanded_url": "http://twitter.com/AngelaTWCNews/status/629294340238610437/photo/1",
+            "id_str": "629294315001417729",
+            "indices": [
+              109,
+              131
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/RgCjuhePdu",
+            "id": 629294315001417729
+          }
+        ]
+      },
+      "text": "Congressman Higgins announces $2.179 million dredging project underway in Black Rock Channel @TWCNewsBuffalo http://t.co/RgCjuhePdu",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:13:57 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 4,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 29857611,
+          "media_url": "http://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+          "source_user_id_str": "29857611",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/RgCjuhePdu",
+          "expanded_url": "http://twitter.com/AngelaTWCNews/status/629294340238610437/photo/1",
+          "url": "http://t.co/RgCjuhePdu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+          "source_status_id_str": "629294340238610437",
+          "id_str": "629294315001417729",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629294315001417729,
+          "source_status_id": 629294340238610437
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629308201746464768,
+    "id_str": "629308201746464768",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 29857611,
+          "media_url": "http://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+          "source_user_id_str": "29857611",
+          "indices": [
+            139,
+            140
+          ],
+          "display_url": "pic.twitter.com/RgCjuhePdu",
+          "expanded_url": "http://twitter.com/AngelaTWCNews/status/629294340238610437/photo/1",
+          "url": "http://t.co/RgCjuhePdu",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuz2GjVEAEd8Q0.jpg",
+          "source_status_id_str": "629294340238610437",
+          "id_str": "629294315001417729",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629294315001417729,
+          "source_status_id": 629294340238610437
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Angela Christoforos",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "29857611",
+          "id": 29857611,
+          "screen_name": "AngelaTWCNews"
+        },
+        {
+          "name": "TWC News Buffalo",
+          "indices": [
+            112,
+            127
+          ],
+          "id_str": "26332143",
+          "id": 26332143,
+          "screen_name": "TWCNewsBuffalo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @AngelaTWCNews: Congressman Higgins announces $2.179 million dredging project underway in Black Rock Channel @TWCNewsBuffalo http://t.co\u2026",
+    "lang": "en",
+    "created_at": "2015-08-06 15:09:01+00:00"
+  },
+  {
+    "retweeted_status": {
+      "in_reply_to_status_id_str": null,
+      "is_quote_status": false,
+      "retweet_count": 1,
+      "coordinates": null,
+      "possibly_sensitive": false,
+      "favorite_count": 0,
+      "truncated": false,
+      "place": {
+        "contained_within": [],
+        "attributes": {},
+        "country_code": "US",
+        "full_name": "Buffalo, NY",
+        "bounding_box": {
+          "type": "Polygon",
+          "coordinates": [
+            [
+              [
+                -78.912276,
+                42.826008
+              ],
+              [
+                -78.79485,
+                42.826008
+              ],
+              [
+                -78.79485,
+                42.966451
+              ],
+              [
+                -78.912276,
+                42.966451
+              ]
+            ]
+          ]
+        },
+        "url": "https://api.twitter.com/1.1/geo/id/a307591cd0413588.json",
+        "name": "Buffalo",
+        "country": "United States",
+        "place_type": "city",
+        "id": "a307591cd0413588"
+      },
+      "geo": null,
+      "in_reply_to_user_id_str": null,
+      "id": 629293737190014976,
+      "id_str": "629293737190014976",
+      "entities": {
+        "symbols": [],
+        "hashtags": [],
+        "media": [
+          {
+            "url": "http://t.co/QjXK5A3AAt",
+            "media_url": "http://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+            "expanded_url": "http://twitter.com/RachelElzufon/status/629293737190014976/photo/1",
+            "id_str": "629293721423511553",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/QjXK5A3AAt",
+            "id": 629293721423511553
+          }
+        ],
+        "urls": [],
+        "user_mentions": [
+          {
+            "name": "Brian Higgins",
+            "indices": [
+              26,
+              42
+            ],
+            "id_str": "33576489",
+            "id": 33576489,
+            "screen_name": "RepBrianHiggins"
+          },
+          {
+            "name": "7 Eyewitness News",
+            "indices": [
+              90,
+              95
+            ],
+            "id_str": "23686162",
+            "id": 23686162,
+            "screen_name": "WKBW"
+          }
+        ]
+      },
+      "in_reply_to_status_id": null,
+      "contributors": null,
+      "user": {
+        "id_str": "37810958",
+        "id": 37810958
+      },
+      "favorited": false,
+      "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+      "in_reply_to_user_id": null,
+      "in_reply_to_screen_name": null,
+      "extended_entities": {
+        "media": [
+          {
+            "url": "http://t.co/QjXK5A3AAt",
+            "media_url": "http://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+            "type": "photo",
+            "media_url_https": "https://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+            "expanded_url": "http://twitter.com/RachelElzufon/status/629293737190014976/photo/1",
+            "id_str": "629293721423511553",
+            "indices": [
+              96,
+              118
+            ],
+            "sizes": {
+              "small": {
+                "w": 340,
+                "resize": "fit",
+                "h": 255
+              },
+              "thumb": {
+                "w": 150,
+                "resize": "crop",
+                "h": 150
+              },
+              "medium": {
+                "w": 600,
+                "resize": "fit",
+                "h": 450
+              },
+              "large": {
+                "w": 1024,
+                "resize": "fit",
+                "h": 768
+              }
+            },
+            "display_url": "pic.twitter.com/QjXK5A3AAt",
+            "id": 629293721423511553
+          }
+        ]
+      },
+      "text": "Army Corps of Engineers, .@RepBrianHiggins talk about dredging of the Black Rock Channel. @WKBW http://t.co/QjXK5A3AAt",
+      "lang": "en",
+      "created_at": "Thu Aug 06 14:11:33 +0000 2015",
+      "retweeted": false
+    },
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 1,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 0,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "extended_entities": {
+      "media": [
+        {
+          "source_user_id": 37810958,
+          "media_url": "http://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+          "source_user_id_str": "37810958",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/QjXK5A3AAt",
+          "expanded_url": "http://twitter.com/RachelElzufon/status/629293737190014976/photo/1",
+          "url": "http://t.co/QjXK5A3AAt",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+          "source_status_id_str": "629293737190014976",
+          "id_str": "629293721423511553",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629293721423511553,
+          "source_status_id": 629293737190014976
+        }
+      ]
+    },
+    "in_reply_to_user_id_str": null,
+    "id": 629308140790673409,
+    "id_str": "629308140790673409",
+    "entities": {
+      "symbols": [],
+      "hashtags": [],
+      "media": [
+        {
+          "source_user_id": 37810958,
+          "media_url": "http://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+          "source_user_id_str": "37810958",
+          "indices": [
+            115,
+            137
+          ],
+          "display_url": "pic.twitter.com/QjXK5A3AAt",
+          "expanded_url": "http://twitter.com/RachelElzufon/status/629293737190014976/photo/1",
+          "url": "http://t.co/QjXK5A3AAt",
+          "type": "photo",
+          "media_url_https": "https://pbs.twimg.com/media/CLuzTjTVAAEaVlG.jpg",
+          "source_status_id_str": "629293737190014976",
+          "id_str": "629293721423511553",
+          "sizes": {
+            "small": {
+              "w": 340,
+              "resize": "fit",
+              "h": 255
+            },
+            "thumb": {
+              "w": 150,
+              "resize": "crop",
+              "h": 150
+            },
+            "medium": {
+              "w": 600,
+              "resize": "fit",
+              "h": 450
+            },
+            "large": {
+              "w": 1024,
+              "resize": "fit",
+              "h": 768
+            }
+          },
+          "id": 629293721423511553,
+          "source_status_id": 629293737190014976
+        }
+      ],
+      "urls": [],
+      "user_mentions": [
+        {
+          "name": "Rachel Elzufon",
+          "indices": [
+            3,
+            17
+          ],
+          "id_str": "37810958",
+          "id": 37810958,
+          "screen_name": "RachelElzufon"
+        },
+        {
+          "name": "Brian Higgins",
+          "indices": [
+            45,
+            61
+          ],
+          "id_str": "33576489",
+          "id": 33576489,
+          "screen_name": "RepBrianHiggins"
+        },
+        {
+          "name": "7 Eyewitness News",
+          "indices": [
+            109,
+            114
+          ],
+          "id_str": "23686162",
+          "id": 23686162,
+          "screen_name": "WKBW"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "RT @RachelElzufon: Army Corps of Engineers, .@RepBrianHiggins talk about dredging of the Black Rock Channel. @WKBW http://t.co/QjXK5A3AAt",
+    "lang": "en",
+    "created_at": "2015-08-06 15:08:47+00:00"
+  },
+  {
+    "in_reply_to_status_id_str": null,
+    "is_quote_status": false,
+    "retweet_count": 2,
+    "coordinates": null,
+    "possibly_sensitive": false,
+    "favorite_count": 2,
+    "truncated": false,
+    "place": null,
+    "geo": null,
+    "in_reply_to_user_id_str": null,
+    "id": 629037939633160192,
+    "id_str": "629037939633160192",
+    "entities": {
+      "symbols": [],
+      "urls": [
+        {
+          "url": "http://t.co/GKUaVPqFn5",
+          "indices": [
+            118,
+            140
+          ],
+          "display_url": "bit.ly/1ORpQhf",
+          "expanded_url": "http://bit.ly/1ORpQhf"
+        }
+      ],
+      "hashtags": [],
+      "user_mentions": [
+        {
+          "name": "The Buffalo News",
+          "indices": [
+            4,
+            19
+          ],
+          "id_str": "43805270",
+          "id": 43805270,
+          "screen_name": "TheBuffaloNews"
+        },
+        {
+          "name": "U.S. Navy",
+          "indices": [
+            21,
+            28
+          ],
+          "id_str": "54885400",
+          "id": 54885400,
+          "screen_name": "USNavy"
+        },
+        {
+          "name": "Canalside Buffalo",
+          "indices": [
+            102,
+            116
+          ],
+          "id_str": "54994502",
+          "id": 54994502,
+          "screen_name": "CanalsideBflo"
+        }
+      ]
+    },
+    "in_reply_to_status_id": null,
+    "contributors": null,
+    "user": {
+      "id_str": "33576489",
+      "screen_name": "repbrianhiggins",
+      "id": 33576489
+    },
+    "favorited": false,
+    "source": "<a href=\"https://about.twitter.com/products/tweetdeck\" rel=\"nofollow\">TweetDeck</a>",
+    "in_reply_to_user_id": null,
+    "in_reply_to_screen_name": null,
+    "retweeted": false,
+    "text": "Via @TheBuffaloNews, @USNavy to make history when it commissions new USS Little Rock next to namesake @CanalsideBflo: http://t.co/GKUaVPqFn5",
+    "lang": "en",
+    "created_at": "2015-08-05 21:15:06+00:00"
+  }
+]
